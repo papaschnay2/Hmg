@@ -251,10 +251,10 @@
     spinBtn.disabled = false;
   });
 
-  // ---------- share links: #herId.placeId.himId.seed ----------
-  const encodeState = (s) => [HER[s.her].id, PLACE[s.place].id, HIM[s.him].id, s.seed.toString(36)].join(".");
+  // ---------- share links: #herId-placeId-himId-seed ----------
+  const encodeState = (s) => [HER[s.her].id, PLACE[s.place].id, HIM[s.him].id, s.seed.toString(36)].join("-");
   function decodeState(hash) {
-    const p = hash.replace(/^#/, "").split(".");
+    const p = hash.replace(/^#/, "").split("-");
     if (p.length !== 4) return null;
     const s = { her: indexOf.her[p[0]], place: indexOf.place[p[1]], him: indexOf.him[p[2]], seed: parseInt(p[3], 36) };
     return KEYS.every((k) => s[k] !== undefined) && Number.isFinite(s.seed) ? s : null;
@@ -265,7 +265,7 @@
       await navigator.clipboard.writeText(location.href);
       btn.textContent = "Copied! Send it to your mom 💌";
     } catch {
-      window.prompt("Copy this link:", location.href);
+      btn.textContent = "Couldn't copy. Use your browser's share button instead.";
     }
     setTimeout(() => (btn.textContent = "Copy link to this spin"), 2500);
   });

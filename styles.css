@@ -40,7 +40,11 @@ body {
 header, main, footer { position: relative; z-index: 1; }
 
 /* ---------- header ---------- */
-.masthead { text-align: center; padding: 0 16px 8px; }
+.masthead { text-align: center; padding-block: 0 8px; }
+.masthead, main, footer {
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
 .lights {
   display: flex; justify-content: center; gap: 22px;
   list-style: none; margin: 0 auto 24px; padding: 14px 0 0;
@@ -64,7 +68,7 @@ h1 {
 }
 .sub { color: var(--muted); margin: 0; font-size: 1.05rem; }
 
-main { max-width: 960px; margin: 0 auto; padding: 28px 16px 48px; }
+main { max-width: 960px; margin: 0 auto; padding-block: 28px 48px; }
 
 /* ---------- slot machine ---------- */
 .machine {
@@ -220,7 +224,7 @@ button:focus-visible { outline: 3px solid var(--gold); outline-offset: 3px; }
 }
 .browse .panel-sub { margin: 0 0 12px; }
 
-footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding: 0 16px 32px; max-width: 760px; margin: 0 auto; }
+footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding-block: 0 32px; max-width: 760px; margin: 0 auto; }
 
 /* ---------- small screens ---------- */
 @media (max-width: 680px) {
