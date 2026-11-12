@@ -169,10 +169,10 @@
  {
   "title": "Journey Back to Christmas",
   "year": 2016,
-  "network": "Hallmark Channel",
+  "network": "Hallmark Movies & Mysteries",
   "her_actor": "Candace Cameron Bure",
   "his_actor": "Oliver Hudson",
-  "her_job": "World War II nurse (from 1945)",
+  "her_job": "World War II nurse",
   "his_job": null,
   "location": null,
   "location_type": null,
@@ -180,9 +180,10 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A WWII nurse is transported from 1945 to 2016 and rediscovers family and the meaning of Christmas.",
-  "source_url": "https://christmas-specials.fandom.com/wiki/Journey_Back_to_Christmas",
-  "confidence": "medium"
+  "summary": "A World War II nurse is magically carried from 1945 to the present and meets a man who helps her see family bonds.",
+  "source_url": "https://www.hallmarkmystery.com/journey-back-to-christmas",
+  "confidence": "medium",
+  "problem": "Search shows Hallmark released this in 2016 (some catalogs list 2017); network may be Hallmark Channel, not verified."
  },
  {
   "title": "A Dream of Christmas",

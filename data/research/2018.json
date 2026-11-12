@@ -3,17 +3,20 @@
   "title": "Christmas at Pemberley Manor",
   "year": 2018,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": "party planner",
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_actor": "Jessica Lowndes",
+  "his_actor": "Michael Rady",
+  "her_job": "event planner",
+  "his_job": "wealthy businessman",
+  "location": "Lambton, Connecticut",
+  "location_type": "small_town",
+  "tropes": [
+   "big_city_to_small_town",
+   "inheritance"
+  ],
   "romance": true,
-  "summary": "A party planner named Elizabeth Bennet is sent to work for a man named Mr. Darcy in a Pride and Prejudice-flavored holiday tale.",
+  "summary": "A New York event planner running a town festival keeps crossing paths with a Darcy-like tycoon trying to sell his late uncle's estate.",
   "source_url": "https://thetvdb.com/series/hallmark-countdown-to-christmas/seasons/official/2018",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Joy",
@@ -21,15 +24,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Danielle Panabaker",
   "his_actor": "Matt Long",
-  "her_job": null,
+  "her_job": "market researcher",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Crystal Falls, North Carolina",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "promotion_at_stake"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A career-minded market researcher returns to her small hometown to help her aunt and works with her old crush on a holiday cookie event.",
   "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Road to Christmas",
@@ -37,15 +43,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Jessy Schram",
   "his_actor": "Chad Michael Murray",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "television producer",
+  "his_job": "former producer of his mother's Christmas special",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A Los Angeles producer is told to co-produce a Christmas special with the host's son, and romance follows.",
   "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "It's Christmas, Eve",
@@ -53,15 +59,19 @@
   "network": "Hallmark Channel",
   "her_actor": "LeAnn Rimes",
   "his_actor": "Tyler Hynes",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "interim school superintendent",
+  "his_job": "music teacher",
   "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "widowed",
+   "single_parent"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A superintendent forced to make school cutbacks falls for a widowed music teacher and his young daughter.",
   "source_url": "https://lollychristmas.com/2018/09/the-full-line-up-of-hallmarks-2018-christmas-movies-are-here/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas in Love",
@@ -69,13 +79,13 @@
   "network": "Hallmark Channel",
   "her_actor": "Brooke D'Orsay",
   "his_actor": "Daniel Lissing",
-  "her_job": null,
+  "her_job": "aspiring crafter working at a small-town bakery",
   "his_job": null,
   "location": null,
-  "location_type": null,
+  "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A small-town bakery worker who makes famous Christmas kringles faces a threat to her town's beloved holiday traditions.",
   "source_url": "https://lollychristmas.com/2018/09/the-full-line-up-of-hallmarks-2018-christmas-movies-are-here/",
   "confidence": "low"
  },
@@ -83,17 +93,19 @@
   "title": "Christmas at Graceland",
   "year": 2018,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Kellie Pickler",
+  "his_actor": "Wes Brown",
+  "her_job": "business executive",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Memphis, Tennessee",
+  "location_type": "big_city",
+  "tropes": [
+   "exes_reunited"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A Chicago-based executive on a banking deal in Memphis runs into her ex and is drawn back toward music.",
   "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas in Evergreen: Letters to Santa",
@@ -103,15 +115,17 @@
   "his_actor": "Mark Deklin",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Evergreen",
+  "location_type": "her_hometown",
   "tropes": [
-   "sequel"
+   "sequel",
+   "returns_home",
+   "save_the_business"
   ],
   "romance": true,
-  "summary": null,
+  "summary": "Lisa visits her hometown for Christmas, takes on saving the historic general store, and falls for Kevin along the way.",
   "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Everlasting",
@@ -119,31 +133,36 @@
   "network": "Hallmark Hall of Fame (Hallmark Channel)",
   "her_actor": "Tatyana Ali",
   "his_actor": "Dondre T. Whitfield",
-  "her_job": null,
+  "her_job": "corporate lawyer",
   "his_job": null,
   "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "promotion_at_stake"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A hotshot New York lawyer nearing partnership returns to her hometown after her sister's death.",
   "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Shoe Addict's Christmas",
   "year": 2018,
   "network": "Hallmark Channel",
   "her_actor": "Candace Cameron Bure",
-  "his_actor": null,
-  "her_job": null,
+  "his_actor": "Luke MacFarlane",
+  "her_job": "department store worker",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "magic_or_santa"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A holiday-hating department store worker is locked in on Christmas Eve and visited by an unlikely angel.",
   "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Mingle All the Way",
@@ -151,13 +170,13 @@
   "network": "Hallmark Channel",
   "her_actor": "Jen Lilley",
   "his_actor": "Brant Daugherty",
-  "her_job": null,
+  "her_job": "founder of a networking app",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Centers on a new networking app meant to pair busy professionals for upcoming events without long-term romance.",
+  "summary": "The founder of a holiday networking app for busy professionals ends up finding more than expected with one of its users.",
   "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
   "confidence": "low"
  },
@@ -167,15 +186,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Lori Loughlin",
   "his_actor": "Victor Webster",
-  "her_job": null,
+  "her_job": "former CEO",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home",
+   "exes_reunited"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "After stepping down from a top executive job, Maddie goes home and reconnects with her high school sweetheart while organizing a school dance.",
   "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Majestic Christmas",
@@ -183,15 +205,18 @@
   "network": null,
   "her_actor": "Jerrika Hinton",
   "his_actor": "Christian Vincent",
-  "her_job": null,
+  "her_job": "architect",
   "his_job": null,
   "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "save_the_business"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "An architect returns to her hometown to turn a historic playhouse into a multiplex, facing local opposition.",
   "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Made to Order",
@@ -199,15 +224,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Alexa PenaVega",
   "his_actor": "Jonathan Bennett",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "holiday decorator with a side business (day job at a catalogue company)",
+  "his_job": "architect",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "boss_or_client_romance"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A holiday decorator is hired by an architect with no Christmas spirit who is hosting his family for the holidays.",
   "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Christmas for the Books",
@@ -215,63 +242,67 @@
   "network": null,
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "lifestyle guru and romance expert",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A lifestyle guru and romance expert who must prove her credentials hosts a holiday gala and gets caught in a love triangle.",
   "source_url": "https://thehappyhallmarker.com/hallmark-channel-christmas-movies-checklists-for-each-year/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas at the Palace",
   "year": 2018,
-  "network": null,
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "network": "Hallmark Channel",
+  "her_actor": "Merritt Patterson",
+  "his_actor": "Andrew Cooper",
+  "her_job": "former professional ice skater",
+  "his_job": "king of San Senova",
+  "location": "San Senova",
+  "location_type": "europe_or_kingdom",
+  "tropes": [
+   "royalty"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A former skater is hired by a king to help his daughter with a Christmas ice skating performance.",
   "source_url": "https://thehappyhallmarker.com/hallmark-channel-christmas-movies-checklists-for-each-year/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Entertaining Christmas",
   "year": 2018,
-  "network": null,
-  "her_actor": null,
-  "his_actor": null,
+  "network": "Hallmark Channel",
+  "her_actor": "Jodie Sweetin",
+  "his_actor": "Brendan Fehr",
   "her_job": null,
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "Candace is poised to take over her mother's lifestyle and crafting brand as her mother considers retiring, and a romance develops.",
   "source_url": "https://thehappyhallmarker.com/hallmark-channel-christmas-movies-checklists-for-each-year/",
   "confidence": "low"
  },
  {
   "title": "Reunited at Christmas",
   "year": 2018,
-  "network": null,
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "network": "Hallmark Channel",
+  "her_actor": "Nikki DeLoach",
+  "his_actor": "Mike Faiola",
+  "her_job": "writer",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Cedar Ridge",
+  "location_type": "small_town",
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A writer tasked with a Christmas novel returns with her family and boyfriend to her late grandmother's house to revive old traditions.",
   "source_url": "https://thehappyhallmarker.com/hallmark-channel-christmas-movies-checklists-for-each-year/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Bells Are Ringing",
@@ -279,13 +310,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "freelance photographer",
   "his_job": null,
-  "location": null,
+  "location": "Cape Cod",
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A freelance photographer returns to Cape Cod for the first time since her mother died.",
   "source_url": "https://lollychristmas.com/2018/09/the-full-line-up-of-hallmarks-2018-christmas-movies-are-here/",
   "confidence": "low"
  },
@@ -299,9 +332,12 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "sequel",
+   "wedding"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "Miranda prepares to marry Ian at Christmas with both families gathering, in the third Father Christmas film.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
   "confidence": "low"
  },
@@ -311,33 +347,38 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Eloise Mumford",
   "his_actor": "Sean Faris",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "decorated Marine veteran (search and rescue captain)",
+  "his_job": "judge",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home",
+   "snowed_in_or_stranded"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A veteran returning from Afghanistan has car trouble and is offered a guesthouse by a local judge.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Return to Christmas Creek",
   "year": 2018,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Tori Anderson",
+  "his_actor": "Stephen Huszar",
+  "her_job": "app developer and startup CEO",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Christmas Creek",
+  "location_type": "her_hometown",
   "tropes": [
-   "sequel"
+   "sequel",
+   "returns_home",
+   "big_city_to_small_town"
   ],
   "romance": true,
-  "summary": null,
+  "summary": "A Chicago startup CEO whose holiday app is rejected by investors returns to her small hometown and falls for Mike.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Godwink Christmas",
@@ -345,29 +386,33 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Kimberley Sustad",
   "his_actor": "Paul Campbell",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "her_job": "antique appraiser from St. Louis",
+  "his_job": "inn owner",
+  "location": "Nantucket",
+  "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "An engaged antique appraiser visits her aunt in Nantucket and bonds with a charming local inn owner.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Last Vermont Christmas",
   "year": 2018,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Erin Cahill",
+  "his_actor": "Justin Bruening",
+  "her_job": "interior designer",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Woodstock, Vermont",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "widowed",
+   "exes_reunited"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A widowed mom comes home to learn her parents are selling the family house, and the buyer is her high school sweetheart.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
   "confidence": "low"
  },
@@ -378,14 +423,17 @@
   "her_actor": "Scottie Thompson",
   "his_actor": "Ryan Paevey",
   "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "his_job": "elementary schoolteacher (and fill-in Santa)",
+  "location": "Hopewell, North Carolina",
+  "location_type": "small_town",
+  "tropes": [
+   "single_parent",
+   "inheritance"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A recently divorced mom and her daughter start fresh in a small town, where a local teacher helps her believe in Christmas again.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas on Honeysuckle Lane",
@@ -395,13 +443,15 @@
   "his_actor": "Colin Ferguson",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Oliver's Well",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "Emma returns to her hometown for the holidays and finds a surprise hidden in her late mother's antique desk.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Wonderland",
@@ -409,29 +459,33 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Emily Osment",
   "his_actor": "Ryan Rottman",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_job": "art gallery curator",
+  "his_job": "teacher",
+  "location": "Pleasant Valley",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "big_city_to_small_town",
+   "exes_reunited"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A city gallery curator goes back to her small hometown, helps her high school love find a venue for the Christmas dance, and rediscovers painting.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "confidence": "high"
  },
  {
   "title": "Once Upon a Christmas Miracle",
   "year": 2018,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Aimee Teegarden",
+  "his_actor": "Brett Dalton",
   "her_job": null,
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "Based on a true story, a man donates part of his liver to the woman he loves across three Christmases.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
   "confidence": "low"
  },
@@ -439,31 +493,35 @@
   "title": "Memories of Christmas",
   "year": 2018,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Christina Milian",
+  "his_actor": "Mark Taylor",
+  "her_job": "financial dealmaker",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A busy San Francisco dealmaker goes to her childhood home planning to sell it and rediscovers her love of the holidays.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Time for Me to Come Home for Christmas",
   "year": 2018,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Megan Park",
+  "his_actor": "Josh Henderson",
   "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "his_job": "country singer",
+  "location": "Tulsa, Oklahoma",
+  "location_type": "other",
+  "tropes": [
+   "save_the_business"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "Cara flies from New York to Oklahoma, seeking a loan for her family's business, and meets a grieving country singer.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
   "confidence": "low"
  },
@@ -471,17 +529,19 @@
   "title": "Northern Lights of Christmas",
   "year": 2018,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_actor": "Ashley Williams",
+  "his_actor": "Corey Sevier",
+  "her_job": "pilot",
+  "his_job": "ranch hand",
+  "location": "Aurora, Alaska",
+  "location_type": "farm_ranch_vineyard",
+  "tropes": [
+   "inheritance"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A pilot inherits her uncle's Alaska ranch, plans to sell, then revives his Christmas festival with help from the ranch hand.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Small Town Christmas",
@@ -489,31 +549,36 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Ashley Newbrough",
   "his_actor": "Kristoffer Polaha",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_job": "novelist",
+  "his_job": "bookstore owner",
+  "location": "Springdale",
+  "location_type": "small_town",
+  "tropes": [
+   "big_city_to_small_town"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A New York novelist ends a book tour in the town that inspired her bestseller and falls for the local bookstore owner.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "confidence": "high"
  },
  {
   "title": "Christmas at Grand Valley",
   "year": 2018,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_actor": "Danica McKellar",
+  "his_actor": "Brennan Elliott",
+  "her_job": "artist",
+  "his_job": "businessman (hotel reviewer)",
+  "location": "Grand Valley",
+  "location_type": "small_town",
+  "tropes": [
+   "returns_home",
+   "big_city_to_small_town"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A burned-out gallery-world artist returns home for Christmas and meets a dad assigned to review a hotel in town.",
   "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Welcome to Christmas",
@@ -521,14 +586,16 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Jennifer Finnigan",
   "his_actor": "Eric Mabius",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_job": "resort developer",
+  "his_job": "sheriff",
+  "location": "Christmas, Colorado",
+  "location_type": "small_town",
+  "tropes": [
+   "snowed_in_or_stranded"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A ski resort developer stranded in a tiny town finds residents and its sheriff trying to win her over.",
   "source_url": "https://thehappyhallmarker.com/hallmark-channel-christmas-movies-checklists-for-each-year/",
-  "confidence": "low"
+  "confidence": "high"
  }
 ]

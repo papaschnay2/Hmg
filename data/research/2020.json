@@ -5,15 +5,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Julie Gonzalo",
   "his_actor": "Ronnie Rowe Jr.",
-  "her_job": null,
+  "her_job": "wedding planner",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "a remote town in Alaska",
+  "location_type": "small_town",
+  "tropes": [
+   "big_city_to_small_town",
+   "wedding"
+  ],
   "romance": true,
-  "summary": "A holiday romance opening the 2020 Countdown to Christmas, starring Julie Gonzalo and Ronnie Rowe Jr.",
+  "summary": "A New York wedding planner travels to a remote Alaskan town for a rare flower and falls for its holiday charm.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Chateau Christmas",
@@ -21,15 +24,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Merritt Patterson",
   "his_actor": "Luke Macfarlane",
-  "her_job": null,
+  "her_job": "world-renowned pianist",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home",
+   "exes_reunited"
+  ],
   "romance": true,
-  "summary": "A Christmas romance starring Merritt Patterson and Luke Macfarlane.",
+  "summary": "A famous pianist comes home for the holidays, reconnects with an ex, and rediscovers her love of music.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Love, Lights, Hanukkah!",
@@ -37,15 +43,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Mia Kirshner",
   "his_actor": "Ben Savage",
-  "her_job": null,
+  "her_job": "restaurant owner",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A Hanukkah-themed romance starring Mia Kirshner and Ben Savage.",
+  "summary": "A restaurateur learns through a DNA test she is half Jewish, gaining a new family and an unlikely romance.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Christmas House",
@@ -67,17 +73,17 @@
   "title": "USS Christmas",
   "year": 2020,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "her_actor": "Jen Lilley",
+  "his_actor": "Trevor Donovan",
+  "her_job": "newspaper reporter",
+  "his_job": "naval officer",
+  "location": "Norfolk, Virginia (Naval Station Norfolk)",
+  "location_type": "other",
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A reporter meets a naval officer during a Christmastime Tiger Cruise out of Norfolk.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Waltz",
@@ -86,14 +92,14 @@
   "her_actor": "Lacey Chabert",
   "his_actor": "Will Kemp",
   "her_job": null,
-  "his_job": null,
+  "his_job": "dance instructor",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A holiday romance starring Lacey Chabert and Will Kemp.",
+  "summary": "A woman learns to dance with an instructor who also runs dance studios, helping her face her fears.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "If I Only Had Christmas",
@@ -103,13 +109,13 @@
   "his_actor": "Warren Christie",
   "her_job": "publicist",
   "his_job": "cynical business owner",
-  "location": null,
-  "location_type": null,
+  "location": "Kansas City and Connecticut",
+  "location_type": "other",
   "tropes": [],
   "romance": true,
-  "summary": "A publicist teams up with a cynical business owner over the holidays.",
+  "summary": "A cheerful publicist and a cynical business owner team up to help a charity at Christmastime.",
   "source_url": "https://www.tvguide.com/news/hallmark-christmas-movie-schedule-2020-holiday-marathon-underway/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas She Wrote",
@@ -117,47 +123,54 @@
   "network": "Hallmark Channel",
   "her_actor": "Danica McKellar",
   "his_actor": "Dylan Neal",
-  "her_job": null,
+  "her_job": "writer (advice columnist)",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": "A holiday romance starring Danica McKellar and Dylan Neal.",
+  "summary": "Her column gets cancelled, so a writer heads home to family and meets the man behind the decision.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
-  "title": "Christmas Carousel",
+  "title": "A Christmas Carousel",
   "year": 2020,
   "network": "Hallmark Channel",
   "her_actor": "Rachel Boston",
   "his_actor": "Neal Bledsoe",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_job": "carousel restorer (antique restorationist)",
+  "his_job": "prince",
+  "location": "Ancadia",
+  "location_type": "europe_or_kingdom",
+  "tropes": [
+   "royalty"
+  ],
   "romance": true,
-  "summary": "A holiday romance starring Rachel Boston and Neal Bledsoe.",
+  "summary": "A restorer hired by a royal family races with their prince to finish a carousel as a gift by Christmas.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "low"
+  "confidence": "medium",
+  "problem": "Actual title appears to be 'A Christmas Carousel'."
  },
  {
   "title": "Five Star Christmas",
   "year": 2020,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Bethany Joy Lenz",
+  "his_actor": "Victor Webster",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "her hometown (father's bed and breakfast)",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "Back in her hometown, a woman and her family scheme to win a five-star review for her father's B&B.",
   "source_url": "https://en.wikipedia.org/wiki/Five_Star_Christmas",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Timeless Christmas",
@@ -165,7 +178,7 @@
   "network": "Hallmark Channel",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "tour guide at a historic mansion",
   "his_job": null,
   "location": null,
   "location_type": null,
@@ -173,25 +186,27 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A man travels from 1903 to 2020 in a time-travel Christmas romance.",
+  "summary": "A man from 1903 lands in 2020 and meets a mansion tour guide who shows him a modern Christmas.",
   "source_url": "https://www.tvguide.com/news/hallmark-christmas-movie-schedule-2020-holiday-marathon-underway/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Nashville Christmas Carol",
   "year": 2020,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Jessy Schram",
+  "his_actor": "Wes Brown",
+  "her_job": "TV producer",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Nashville",
+  "location_type": "big_city",
+  "tropes": [
+   "childhood_friends"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A workaholic TV producer staging a country music special is reunited with her childhood sweetheart.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Bright and Merry Christmas",
@@ -213,17 +228,20 @@
   "title": "On the 12th Date of Christmas",
   "year": 2020,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_actor": "Mallory Jansen",
+  "his_actor": "Tyler Hynes",
+  "her_job": "game designer",
+  "his_job": "game designer",
+  "location": "Chicago",
+  "location_type": "big_city",
+  "tropes": [
+   "work_rivals",
+   "promotion_at_stake"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "Two rival game designers vying for a promotion must create a city-wide Twelve Days of Christmas scavenger hunt.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas by Starlight",
@@ -231,15 +249,17 @@
   "network": "Hallmark Channel",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "lawyer",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "save_the_business"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A lawyer tries to stop the planned demolition of her family's beloved cafe before Christmas.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Tree Lane",
@@ -247,15 +267,17 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Alicia Witt",
   "his_actor": "Andrew Walker",
-  "her_job": null,
+  "her_job": "music teacher",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "save_the_business"
+  ],
   "romance": true,
-  "summary": "A Christmas movie starring Alicia Witt and Andrew Walker.",
+  "summary": "A music teacher fights to save her town's beloved Christmas Tree Lane shopping district from demolition.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Holly & Ivy",
@@ -264,14 +286,14 @@
   "her_actor": null,
   "his_actor": null,
   "her_job": null,
-  "his_job": null,
+  "his_job": "contractor",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A woman promises to keep a sick neighbor's two kids together while renovating a fixer-upper with a contractor.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Christmas Bow",
@@ -279,15 +301,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "violinist",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "An accident puts a violinist's dream of joining a philharmonic on hold, and an old family friend helps her heal.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Christmas Ring",
@@ -295,15 +317,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Nazneen Contractor",
   "his_actor": "David Alpay",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "reporter",
+  "his_job": "grandson of the ring's owner (job not stated)",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A Christmas movie starring Nazneen Contractor and David Alpay.",
+  "summary": "A reporter traces the love story behind an antique engagement ring with help from its owner's grandson.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Angel Tree",
@@ -311,15 +333,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Jill Wagner",
   "his_actor": "Lucas Bryant",
-  "her_job": null,
+  "her_job": "magazine writer",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Pine River",
+  "location_type": "her_hometown",
   "tropes": [],
   "romance": true,
-  "summary": "A Christmas movie starring Jill Wagner and Lucas Bryant.",
+  "summary": "A magazine writer investigates the mysterious tree that appears overnight in her small mountain hometown's square.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Time for Us to Come Home for Christmas",
@@ -328,12 +350,12 @@
   "her_actor": null,
   "his_actor": null,
   "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "his_job": "inn owner",
+  "location": "an inn",
+  "location_type": "inn_lodge_resort",
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "Five guests are mysteriously invited to an inn, where a past event may connect them.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
   "confidence": "low"
  },
@@ -349,7 +371,7 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A Christmas romance starring Taylor Cole and Steve Lund.",
+  "summary": "A mysterious key and a holiday riddle send two leads on a Christmas adventure and romance.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
   "confidence": "low"
  },
@@ -362,44 +384,50 @@
   "her_job": null,
   "his_job": null,
   "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location_type": "small_town",
+  "tropes": [
+   "magic_or_santa"
+  ],
   "romance": true,
-  "summary": "A Christmas movie starring Amanda Schull and Travis Van Winkle.",
+  "summary": "A woman who plays secret Santa to her small town finds a reluctant man chosen as its Wish of the Season.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Cranberry Christmas",
   "year": 2020,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_actor": "Nikki DeLoach",
+  "his_actor": "Benjamin Ayres",
+  "her_job": "co-owner of a cranberry farm",
+  "his_job": "co-owner of a cranberry farm (her business partner)",
+  "location": "a Maine cranberry farm (town not named)",
+  "location_type": "farm_ranch_vineyard",
+  "tropes": [
+   "fake_relationship",
+   "exes_reunited",
+   "save_the_business"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A separated couple pretends to be happily married to help their town's Christmas festival and their farm business.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Christmas Doctor",
   "year": 2020,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Holly Robinson Peete",
+  "his_actor": "Adrian Holmes",
+  "her_job": "traveling locum doctor",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Willowbrook",
+  "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A traveling doctor finds love and a home at her latest assignment, where a man from her past appears.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Meet Me at Christmas",
@@ -411,11 +439,13 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "wedding"
+  ],
   "romance": true,
-  "summary": "A Christmas movie starring Catherine Bell and Mark Deklin (title was a working title).",
+  "summary": "A mother must organize her son's Christmas Eve wedding herself after the wedding planner quits.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Little Christmas Charm",
@@ -423,15 +453,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Ashley Greene",
   "his_actor": "Brendan Penny",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "her_job": "jewelry designer",
+  "his_job": "investigative reporter",
+  "location": "New York City",
+  "location_type": "big_city",
   "tropes": [],
   "romance": true,
-  "summary": "A Christmas romance starring Ashley Greene and Brendan Penny.",
+  "summary": "A jewelry designer and a reporter hunt for the owner of a lost charm bracelet before Christmas Eve.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Swept Up by Christmas",
@@ -439,15 +469,17 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Lindy Booth",
   "his_actor": "Justin Bruening",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "antique dealer",
+  "his_job": "estate cleaner (sources disagree; one says vet)",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "work_rivals"
+  ],
   "romance": true,
-  "summary": "A Christmas romance starring Lindy Booth and Justin Bruening.",
+  "summary": "An antique dealer clashes with the man helping her clear out a large reclusive owner's estate before Christmas.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Deliver by Christmas",
@@ -455,14 +487,14 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "bakery owner",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A bakery owner's life gets complicated by two men, including a mysterious client she has never met in person.",
   "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  }
 ]

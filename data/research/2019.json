@@ -5,31 +5,37 @@
   "network": "Hallmark Channel",
   "her_actor": "Jill Wagner",
   "his_actor": "Matthew Davis",
-  "her_job": "Decorator hired to dress the estate of a businessman",
-  "his_job": null,
+  "her_job": "single mom and interior designer hired to decorate a wealthy businessman's mansion",
+  "his_job": "CEO of Sinclair Enterprises",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "single_parent",
+   "boss_or_client_romance"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "An interior designer hired to decorate a lavish mansion for the holidays falls for her wealthy client.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Merry & Bright",
   "year": 2019,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
+  "her_actor": "Jodie Sweetin",
+  "his_actor": "Andrew W. Walker",
+  "her_job": "CEO of the Merry and Bright Candy Cane Company",
+  "his_job": "consultant at Empire Corporate Recovery",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "save_the_business",
+   "boss_or_client_romance"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A candy cane company CEO mistakes the consultant sent to review her firm for a blind date her mother arranged.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Scavenger Hunt",
@@ -39,29 +45,33 @@
   "his_actor": "Kevin McGarry",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "her hometown (unnamed small town)",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "exes_reunited",
+   "competition_or_contest"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "Back in her hometown, Belinda is forced to team up with her ex for the town's annual Christmas scavenger hunt.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Mistletoe Secret",
   "year": 2019,
   "network": "Hallmark Channel",
-  "her_actor": null,
+  "her_actor": "Kellie Pickler",
   "his_actor": null,
   "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "his_job": "travel writer / ghostwriter for a travel website",
+  "location": "Midway, Utah",
+  "location_type": "her_hometown",
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A woman convinces a travel writer to feature her hometown of Midway, and he falls for the place and her.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Picture a Perfect Christmas",
@@ -69,15 +79,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Merritt Patterson",
   "his_actor": "Jon Cor",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "travel photographer",
+  "his_job": "single parent (uncle caring for a child; job not stated)",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "single_parent"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A globe-trotting photographer pauses to care for her grandmother and meets a single-parent uncle; based on a Terri Reed book.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Under the Stars",
@@ -85,15 +97,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Autumn Reeser",
   "his_actor": "Jesse Metcalfe",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "astronomy teacher",
+  "his_job": "fired investment-firm employee working at a Christmas tree lot",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A laid-off investment pro takes a Christmas tree lot job and meets a star-gazing astronomy teacher.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Write Before Christmas",
@@ -107,9 +119,9 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "After being dumped, a woman mails Christmas cards to five people who influenced her life.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Christmas Club",
@@ -123,7 +135,7 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "Two busy strangers help an elderly woman find her lost Christmas savings and discover love.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
   "confidence": "low"
  },
@@ -131,17 +143,21 @@
   "title": "Christmas at Graceland: Home for the Holidays",
   "year": 2019,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
+  "her_actor": "Kaitlin Doubleday",
+  "his_actor": "Adrian Grenier",
+  "her_job": "world-traveling former tour guide, now a nanny (sources vary)",
+  "his_job": "wealthy widower and single father (job not stated)",
   "location": "Graceland, Memphis, Tennessee",
-  "location_type": null,
-  "tropes": [],
+  "location_type": "other",
+  "tropes": [
+   "returns_home",
+   "widowed",
+   "single_parent"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A well-traveled woman back in Memphis becomes involved with a widowed dad around Graceland at Christmas.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Christmas Duet",
@@ -149,15 +165,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Chaley Rose",
   "his_actor": "Rome Flynn",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "musician (half of a famous duo)",
+  "his_job": "musician (half of a famous duo)",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "exes_reunited"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A once-famous music duo reunites at her inn over the holidays and rekindles their spark.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Check Inn to Christmas",
@@ -167,13 +185,15 @@
   "his_actor": "Wes Brown",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Crestride (fictional town, Utah)",
+  "location_type": "inn_lodge_resort",
+  "tropes": [
+   "work_rivals"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A romance blooms between members of two families whose rival inns compete during the town's Centennial Christmas celebration.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas at the Plaza",
@@ -181,15 +201,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Elizabeth Henstridge",
   "his_actor": "Ryan Paevey",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "her_job": "historian specializing in 19th-century traditions",
+  "his_job": "decorator",
+  "location": "The Plaza Hotel, New York City",
+  "location_type": "big_city",
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A historian hired for a Plaza Hotel Christmas-history exhibit falls for the decorator dressing the landmark.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas in Rome",
@@ -197,33 +217,34 @@
   "network": "Hallmark Channel",
   "her_actor": "Lacey Chabert",
   "his_actor": "Sam Page",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "American tour guide, fired just before Christmas",
+  "his_job": "American executive seeking to buy an Italian ceramics company",
   "location": "Rome, Italy",
-  "location_type": null,
+  "location_type": "europe_or_kingdom",
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A fired tour guide in Rome crosses paths with a visiting executive eyeing an Italian ceramics firm.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas in Evergreen: Tidings of Joy",
   "year": 2019,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Maggie Lawson",
+  "his_actor": "Paul Greene",
+  "her_job": "novelist and big-city journalist",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Evergreen (fictional town)",
+  "location_type": "small_town",
   "tropes": [
-   "sequel"
+   "sequel",
+   "big_city_to_small_town"
   ],
   "romance": true,
-  "summary": null,
+  "summary": "A writer visits Christmas-obsessed Evergreen and gets caught up in the hunt for a long-lost time capsule.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Town",
@@ -231,15 +252,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Candace Cameron Bure",
   "his_actor": "Tim Rozon",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_job": "teacher (new job after leaving Boston)",
+  "his_job": "handyman",
+  "location": "Grandon Falls",
+  "location_type": "small_town",
+  "tropes": [
+   "big_city_to_small_town"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "Lauren leaves Boston for a new job in a charming small town, where a local handyman helps her settle in.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Christmas Love Story",
@@ -247,15 +270,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Kristin Chenoweth",
   "his_actor": "Scott Wolf",
-  "her_job": null,
+  "her_job": "youth choir director (retired Broadway performer)",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "widowed",
+   "single_parent"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A choir director writing an original Christmas Eve song is distracted by a gifted boy's widowed father.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas at Dollywood",
@@ -264,28 +290,28 @@
   "her_actor": "Danica McKellar",
   "his_actor": "Niall Matter",
   "her_job": "New York event planner",
-  "his_job": null,
+  "his_job": "in charge of events at Dollywood",
   "location": "Dollywood, Pigeon Forge, Tennessee",
-  "location_type": null,
+  "location_type": "other",
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A New York event planner takes a Dollywood anniversary Christmas gig and ends up with a romantic rival and a new love.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Cheerful Christmas",
   "year": 2019,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Erica Deutschman",
+  "his_actor": "Chad Connell",
+  "her_job": "party planner and 'Christmas Coach'",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "Lauren and her best friend run a party-planning business as Christmas coaches, and romance enters the picture.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
   "confidence": "low"
  },
@@ -293,15 +319,15 @@
   "title": "It's Beginning to Look a Lot Like Christmas",
   "year": 2019,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Tricia Helfer",
+  "his_actor": "Eric Mabius",
   "her_job": null,
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "Two leads collaborate on a celebration showing what Christmas means to their communities.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
   "confidence": "low"
  },
@@ -309,19 +335,20 @@
   "title": "A Gift to Remember 2: Cherished Memories",
   "year": 2019,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Ali Liebert",
+  "his_actor": "Peter Porte",
   "her_job": null,
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [
-   "sequel"
+   "sequel",
+   "save_the_business"
   ],
   "romance": true,
-  "summary": null,
+  "summary": "A year after the accident that began their romance, Darcy and Aiden rally to save a beloved community center.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Merry Christmas Match",
@@ -329,15 +356,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Ashley Newbrough",
   "his_actor": "Kyle Dean Massey",
-  "her_job": null,
+  "her_job": "works at her mom's antique shop and stages the annual children's Christmas pageant",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "ski village where she grew up (unnamed)",
+  "location_type": "her_hometown",
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A woman in her ski-village hometown, mourning her father, runs the yearly Christmas pageant and meets a new man.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Nostalgic Christmas",
@@ -345,31 +372,38 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Brooke D'Orsay",
   "his_actor": "Trevor Donovan",
-  "her_job": null,
+  "her_job": "toy buyer in New York City",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "her small hometown (unnamed)",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "big_city_to_small_town",
+   "save_the_business"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A New York toy buyer returns home when her father retires and the town's beloved toy store faces closing.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Two Turtle Doves",
   "year": 2019,
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Nikki DeLoach",
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "his_actor": "Michael Rady",
+  "her_job": "neuroscientist who studies loss and grief",
+  "his_job": "single dad (job not stated)",
+  "location": "her small Christmas-obsessed hometown (unnamed)",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "single_parent"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A neuroscientist returns to her Christmas-loving hometown after her grandmother's death to search for a family heirloom.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Blue Ridge Mountain Christmas",
@@ -377,15 +411,19 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Rachael Leigh Cook",
   "his_actor": "Benjamin Ayres",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "hotel manager",
+  "his_job": "lawyer",
   "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "wedding",
+   "single_parent"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A hotel manager returns home to plan her sister's Christmas wedding at her family's former inn, where a single-dad lawyer wants to sell.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Holiday for Heroes",
@@ -394,14 +432,14 @@
   "her_actor": "Melissa Claire Egan",
   "his_actor": "Marc Blucas",
   "her_job": null,
-  "his_job": null,
+  "his_job": "soldier",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A woman and a soldier trade letters for a year before meeting in person at Christmas.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Christmas Miracle",
@@ -409,15 +447,17 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Tamera Mowry-Housley",
   "his_actor": "Brooks Darnell",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "temporary writer at a lifestyle magazine (single mom)",
+  "his_job": "magazine staff photographer",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "single_parent"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A single mom and a photographer on assignment hunt for a Christmas miracle story for their magazine.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Godwink Christmas: Meant for Love",
@@ -425,65 +465,71 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Cindy Busby",
   "his_actor": null,
-  "her_job": null,
-  "his_job": null,
+  "her_job": "manager of her family's clothing store",
+  "his_job": "medical sales",
   "location": null,
   "location_type": null,
   "tropes": [
    "sequel"
   ],
   "romance": true,
-  "summary": null,
+  "summary": "Two people meet at a wedding weekend and, with a meddling mom and a little fate, find love; based on a true story.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Holiday Hearts",
   "year": 2019,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Ashley Williams",
+  "his_actor": "Paul Campbell",
   "her_job": null,
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "exes_reunited"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "Two former dates are thrown together to care for a hospitalized friend's daughter while planning a Christmas party.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Our Christmas Love Song",
   "year": 2019,
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Alicia Witt",
-  "his_actor": null,
-  "her_job": null,
+  "his_actor": "Brendan Hines",
+  "her_job": "country music singer",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Madison, Indiana",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A country star accused of copying a holiday single goes back to her Indiana hometown and rediscovers its traditions.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Sense, Sensibility & Snowmen",
   "year": 2019,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
+  "her_actor": "Erin Krakow",
+  "his_actor": "Luke Macfarlane",
+  "her_job": "co-owner of a party-planning business with her sister",
+  "his_job": "CEO of a toy company",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "boss_or_client_romance"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "Christmas-loving party planners clash with their toy company CEO client in a Sense and Sensibility retelling.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Homecoming for the Holidays",
@@ -491,24 +537,26 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
-  "his_job": null,
+  "her_job": "country singer",
+  "his_job": "army veteran (job not stated)",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A country singer home for Christmas works on a new album and teams up with her brother's veteran friend to build a house.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Time for You to Come Home for Christmas",
   "year": 2019,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Alison Sweeney",
+  "his_actor": "Lucas Bryant",
   "her_job": "Recent widow with a young son",
-  "his_job": null,
+  "his_job": "veteran (job not stated)",
   "location": "Her Virginia hometown",
   "location_type": "her_hometown",
   "tropes": [
@@ -516,25 +564,27 @@
    "returns_home"
   ],
   "romance": true,
-  "summary": null,
+  "summary": "A recent widow brings her son back to her Virginia hometown for Christmas and meets a veteran.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas in Montana",
   "year": 2019,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": "Montana",
-  "location_type": null,
-  "tropes": [],
+  "her_actor": "Kellie Martin",
+  "his_actor": "Colin Ferguson",
+  "her_job": "efficiency expert",
+  "his_job": "ranch owner",
+  "location": "a ranch in Montana",
+  "location_type": "farm_ranch_vineyard",
+  "tropes": [
+   "save_the_business"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "An efficiency expert comes to Montana to help a reluctant rancher save his ranch by Christmas.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Angel Falls: A Novel Holiday",
@@ -542,31 +592,35 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Jen Lilley",
   "his_actor": "Carlo Marks",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_job": "editor at her parents' publishing company",
+  "his_job": "editor at Pages Publishing in New York",
+  "location": "Angel Falls (fictional town)",
+  "location_type": "small_town",
+  "tropes": [
+   "work_rivals",
+   "magic_or_santa"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "Rival book editors who once clashed over a dream job must work together to help a new writer, with an angel nearby.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas on My Mind",
   "year": 2019,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Ashley Greene",
+  "his_actor": "Andrew Walker",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Bedford Harbor",
+  "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "Lucy is in Bedford Harbor for the annual Christmas festival she always attended with Zach.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "low",
+  "problem": "Same film as 'An Unforgettable Christmas' (original title; based on Denise Hunter's The Goodbye Bride); duplicate entry."
  },
  {
   "title": "A Family Christmas Gift",
@@ -574,30 +628,34 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "magazine editor",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "A bossy magazine editor spends Christmas with her famous singer aunt, who drafts her and a local into organizing a fundraiser.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "An Unforgettable Christmas",
   "year": 2019,
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Ashley Greene",
-  "his_actor": null,
+  "his_actor": "Andrew Walker",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Bedford Harbor",
+  "location_type": "small_town",
+  "tropes": [
+   "wedding"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "Lucy returns to Bedford Harbor's Christmas festival, where she attended with Zach.",
   "source_url": "https://www.tvinsider.com/810327/hallmark-christmas-movies-2019-schedule-list/",
-  "confidence": "low"
+  "confidence": "low",
+  "problem": "Same film as 'Christmas on My Mind' (retitled from An Unforgettable Christmas, based on Denise Hunter's The Goodbye Bride); duplicate entry.",
+  "skip": true
  }
 ]

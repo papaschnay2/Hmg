@@ -45,7 +45,7 @@
   "his_actor": "Luke James",
   "her_job": "music executive at Suprasonic Records",
   "his_job": null,
-  "location": "North Carolina hometown",
+  "location": "North Carolina (her hometown, unnamed)",
   "location_type": "her_hometown",
   "tropes": [
    "returns_home",
@@ -62,15 +62,17 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Heather Hemmens",
   "his_actor": "Luke Macfarlane",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "concert violinist (Beth)",
+  "his_job": "reclusive country music star (Sean Grant)",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": "Hallmark Movies & Mysteries Christmas romance premiering Oct 23, 2021; plot details not found.",
+  "summary": "A violinist back in her hometown tutors a country star's daughter for a holiday concert.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Christmas Promise",
@@ -78,15 +80,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Torrey DeVitto",
   "his_actor": "Dylan Bruce / Greyston Holt",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "toy store owner (Nicole)",
+  "his_job": "carpenter (Joe)",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Torrey DeVitto stars in this Movies & Mysteries Christmas film with Patrick Duffy; plot details not found.",
+  "summary": "A grieving toy store owner hires a carpenter to renovate the house meant for her and her fiance.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Debbie Macomber's A Mrs. Miracle Christmas",
@@ -102,7 +104,7 @@
    "magic_or_santa"
   ],
   "romance": true,
-  "summary": "Mrs. Miracle holiday story starring Caroline Rhea; plot details not found.",
+  "summary": "Mrs. Miracle helps a struggling family through a painful holiday season; leads' jobs and setting not stated in results.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
   "confidence": "low"
  },
@@ -112,15 +114,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Eloise Mumford",
   "his_actor": "Brett Dalton",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "music manager (Quinn)",
+  "his_job": "music manager (Jason)",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Movies & Mysteries Christmas film also starring Peter Gallagher and Bruce Campbell; plot details not found.",
+  "summary": "Two music managers set aside their history to stage a televised reunion of their rock star fathers.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Five More Minutes",
@@ -130,13 +132,15 @@
   "his_actor": "David Haydn-Jones",
   "her_job": null,
   "his_job": null,
-  "location": null,
+  "location": "North Carolina (mostly)",
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "time_travel_or_wish"
+  ],
   "romance": true,
-  "summary": "Movies & Mysteries Christmas film premiering Nov 20, 2021; plot details not found.",
+  "summary": "Clara wishes for more time with her late grandfather at Christmas and finds his journal.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Time for Them to Come Home for Christmas",
@@ -148,11 +152,13 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "amnesia"
+  ],
   "romance": true,
-  "summary": "Movies & Mysteries Christmas film premiering late 2021; cast and plot not found.",
+  "summary": "A woman with amnesia wakes alone in a rural hospital ten days before Christmas.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Our Christmas Journey",
@@ -165,10 +171,10 @@
   "location": null,
   "location_type": null,
   "tropes": [],
-  "romance": true,
-  "summary": "Movies & Mysteries Christmas film premiering Dec 4, 2021; plot details not found.",
+  "romance": false,
+  "summary": "A single mother faces a hard decision about her autistic 18-year-old son at Christmas.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Godwink Christmas: Miracle of Love",
@@ -176,15 +182,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Katherine Barrell",
   "his_actor": "Alberto Frezza",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "volunteer (Joy)",
+  "his_job": "volunteer (Eric)",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Godwink series Christmas entry premiering Dec 11, 2021; plot details not found.",
+  "summary": "Two volunteers with a non-profit build a home for a family at Christmas.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas for Keeps",
@@ -196,11 +202,14 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home",
+   "childhood_friends"
+  ],
   "romance": true,
-  "summary": "Movies & Mysteries 2021 season finale premiering Dec 18; plot details not found.",
+  "summary": "Childhood friends return home after ten years for a celebration of life honoring their beloved high school teacher.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Sugar Plum Twist",
@@ -208,15 +217,17 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "retired professional ballerina (Natalia)",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Richmond, Virginia",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": "Holiday film listed on the 2021 Hallmark schedule around Dec 2; cast and plot not found.",
+  "summary": "An injured ballerina returns home and reimagines The Nutcracker with a Latin twist.",
   "source_url": "https://www.newsweek.com/hallmark-countdown-christmas-2021-all-movies-coming-out-1642706",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Christmas Bond",
@@ -229,10 +240,12 @@
   "location": null,
   "location_type": null,
   "tropes": [],
-  "romance": true,
-  "summary": "Announced 2021 Movies & Mysteries Christmas film; details not found.",
+  "romance": false,
+  "summary": "Apparent working title of Our Christmas Journey, a mother and autistic son story.",
   "source_url": "https://itsawonderfulmovie.blogspot.com/2021/09/hallmark-movies-mysteries-2021-miracles-of-christmas-movies-tv-schedule-list.html",
-  "confidence": "low"
+  "confidence": "low",
+  "problem": "Result indicates 'The Christmas Bond' was the original title of Our Christmas Journey (Holly Robinson Peete, Lyriq Bent; autism family story); likely a duplicate.",
+  "skip": true
  },
  {
   "title": "Every Time a Bell Rings",
@@ -242,13 +255,15 @@
   "his_actor": null,
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Natchez, Mississippi",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": "Announced 2021 Hallmark Movies Now Christmas film; details not found.",
+  "summary": "Three sisters reunite in their hometown to follow their late father's scavenger hunt for the family wishing bell.",
   "source_url": "https://itsawonderfulmovie.blogspot.com/2021/09/hallmark-movies-mysteries-2021-miracles-of-christmas-movies-tv-schedule-list.html",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas CEO",
@@ -256,15 +271,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Marisol Nichols",
   "his_actor": "Paul Greene",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "her_job": "CEO of toy company CJ Toys (Christmas 'Chris' Whitaker)",
+  "his_job": "co-founder of CJ Toys and her estranged ex-business partner (Joe Sullivan)",
+  "location": "St. Louis, Missouri",
+  "location_type": "big_city",
   "tropes": [],
   "romance": true,
-  "summary": "Christmas romance premiering Nov 26, 2021; plot details not found.",
+  "summary": "A toy company CEO needs her estranged co-founder's signature to close a merger at Christmas.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Nine Kittens of Christmas",
@@ -280,9 +295,9 @@
    "sequel"
   ],
   "romance": true,
-  "summary": "Follow-up to The Nine Lives of Christmas, premiering Nov 2021; plot details not found.",
+  "summary": "Cat lovers Zachary and Marilee reunite to find homes for a litter of kittens.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Open by Christmas",
@@ -296,7 +311,7 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Christmas romance premiering Nov 12, 2021; plot details not found.",
+  "summary": "Nicky finds a never-seen high school card while readying her parents' house for sale and hunts for its author.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
   "confidence": "low"
  },
@@ -306,15 +321,16 @@
   "network": "Hallmark Channel",
   "her_actor": "Megan Park",
   "his_actor": "Julian Morris",
-  "her_job": null,
+  "her_job": "baker (Dee Dee)",
   "his_job": "prince",
   "location": "Queens, New York",
   "location_type": "big_city",
   "tropes": [
-   "royalty"
+   "royalty",
+   "secret_identity"
   ],
   "romance": true,
-  "summary": "A prince finds his way to Queens during Christmas and meets a local woman.",
+  "summary": "A prince hides in Queens and helps a local baker stage a children's Christmas show.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
   "confidence": "medium"
  },
@@ -325,14 +341,17 @@
   "her_actor": "Bethany Joy Lenz",
   "his_actor": "Tyler Hynes",
   "her_job": null,
-  "his_job": null,
-  "location": null,
+  "his_job": "speechwriter (Jamie)",
+  "location": "Illinois",
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "fake_relationship",
+   "exes_reunited"
+  ],
   "romance": true,
-  "summary": "Christmas romance premiering Nov 26, 2021; plot details not found.",
+  "summary": "A speechwriter persuades his ex to pose as his girlfriend to rescue his family's Christmas.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Eight Gifts of Hanukkah",
@@ -346,7 +365,7 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "An optometrist receives a gift for each night of Hanukkah from an anonymous suitor.",
+  "summary": "A newly single optometrist receives a gift each night of Hanukkah from a mystery suitor.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
   "confidence": "medium"
  },
@@ -356,15 +375,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Emily Osment",
   "his_actor": "Casey Deidrick",
-  "her_job": null,
+  "her_job": "owner of the shop Worldly Charm",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Chicago suburbs",
+  "location_type": "other",
+  "tropes": [
+   "wedding",
+   "childhood_friends",
+   "returns_home"
+  ],
   "romance": true,
-  "summary": "Holiday romance premiering Dec 4, 2021; plot details not found.",
+  "summary": "A shop owner's childhood crush returns for her brother's wedding and makes sure her birthday is not forgotten.",
   "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Sister Swap: A Hometown Holiday",
@@ -372,15 +395,19 @@
   "network": "Hallmark Channel",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "restaurant owner in Salt Lake City (Jennifer Swift)",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Hazelwood (her hometown)",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "widowed",
+   "single_parent"
+  ],
   "romance": true,
-  "summary": "First Sister Swap film, premiering Dec 5, 2021; plot details not found.",
+  "summary": "A widowed restaurateur takes her teen son to her small hometown, where her sister helps run the family bakery.",
   "source_url": "https://en.wikipedia.org/wiki/Sister_Swap",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Sister Swap: Christmas in the City",
@@ -408,11 +435,11 @@
   "his_actor": null,
   "her_job": null,
   "his_job": "action movie star (Jake, plays Scrooge)",
-  "location": null,
-  "location_type": null,
+  "location": "Cassie's hometown (unnamed), host of a Victorian Dickens festival",
+  "location_type": "her_hometown",
   "tropes": [],
   "romance": true,
-  "summary": "Cassie invites her former high school classmate, an action star, to play Scrooge in A Christmas Carol.",
+  "summary": "Cassie recruits a former classmate turned movie star to headline her hometown's 100th anniversary Dickens festival.",
   "source_url": "https://www.newsweek.com/hallmark-countdown-christmas-2021-all-movies-coming-out-1642706",
   "confidence": "medium"
  },
@@ -440,13 +467,13 @@
   "network": "Hallmark Channel",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "author",
   "his_job": "aid worker (Chris)",
-  "location": null,
-  "location_type": null,
+  "location": "Vermont",
+  "location_type": "other",
   "tropes": [],
   "romance": true,
-  "summary": "A woman finds new perspective and Christmas cheer with a charismatic aid worker.",
+  "summary": "An author seeking a fresh angle for her relationship book heads to snowy Vermont and meets an aid worker.",
   "source_url": "https://www.newsweek.com/hallmark-countdown-christmas-2021-all-movies-coming-out-1642706",
   "confidence": "medium"
  },
@@ -458,15 +485,16 @@
   "his_actor": "John Brotherton",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Denver",
+  "location_type": "big_city",
   "tropes": [
-   "competition_or_contest"
+   "competition_or_contest",
+   "exes_reunited"
   ],
   "romance": true,
-  "summary": "Christmas romance premiering Nov 28, 2021; plot details not found.",
+  "summary": "Exes Lara and Ben compete in a Christmas contest to win money for charity.",
   "source_url": "https://www.tasteofhome.com/article/hallmark-christmas-movies-2021/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas in Tahoe",
@@ -474,15 +502,17 @@
   "network": "Hallmark Channel",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_job": "talent booker (Claire Rhodes)",
+  "his_job": "lead guitarist in a popular band (Ryan)",
+  "location": "Lake Tahoe (her family's hotel and casino)",
+  "location_type": "inn_lodge_resort",
+  "tropes": [
+   "exes_reunited"
+  ],
   "romance": true,
-  "summary": "Christmas film premiering Nov 28, 2021; cast and plot not found.",
+  "summary": "When a Christmas Eve show loses its act, a talent booker asks her ex, a band guitarist, for help.",
   "source_url": "https://www.newsweek.com/hallmark-countdown-christmas-2021-all-movies-coming-out-1642706",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas at Castle Hart",
@@ -491,14 +521,16 @@
   "her_actor": null,
   "his_actor": null,
   "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "his_job": "Earl of Glaslough (Aiden Hart)",
+  "location": "Ireland (Castle Hart)",
+  "location_type": "europe_or_kingdom",
+  "tropes": [
+   "boss_or_client_romance"
+  ],
   "romance": true,
-  "summary": "Christmas film premiering around Nov 27, 2021; cast and plot not found.",
+  "summary": "Searching for Irish roots, an American is mistaken for an event planner and hired to host an earl's castle Christmas party.",
   "source_url": "https://www.newsweek.com/hallmark-countdown-christmas-2021-all-movies-coming-out-1642706",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Christmas Together with You",
@@ -512,7 +544,7 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Christmas film premiering Nov 20, 2021; cast and plot not found.",
+  "summary": "A woman and her father figure take a road trip to find his first true love.",
   "source_url": "https://www.newsweek.com/hallmark-countdown-christmas-2021-all-movies-coming-out-1642706",
   "confidence": "low"
  },
@@ -520,17 +552,20 @@
   "title": "Next Stop, Christmas",
   "year": 2021,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Lyndsy Fonseca",
+  "his_actor": "Chandler Massey",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Angie's hometown (unnamed)",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "time_travel_or_wish"
+  ],
   "romance": true,
-  "summary": "Christmas film premiering Nov 6, 2021; cast and plot not found.",
+  "summary": "A commuter's usual ride becomes a Christmas train carrying her back to her hometown in 2011.",
   "source_url": "https://en.wikipedia.org/wiki/List_of_Hallmark_Channel_Original_Movies_(2020s)",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Christmas Treasure",
@@ -538,15 +573,15 @@
   "network": "Hallmark Channel",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
-  "his_job": null,
+  "her_job": "writer (Lou)",
+  "his_job": "chef (Kyle)",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Christmas film premiering Nov 7, 2021; cast and plot not found.",
+  "summary": "A writer weighing a move to New York meets a chef dreaming of opening his own restaurant.",
   "source_url": "https://en.wikipedia.org/wiki/List_of_Hallmark_Channel_Original_Movies_(2020s)",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "My Christmas Family Tree",
@@ -554,14 +589,14 @@
   "network": "Hallmark Channel",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "social worker at a foster child placement non-profit (Vanessa Hall)",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Christmas film premiering Nov 13, 2021; cast and plot not found.",
+  "summary": "A New York social worker spends Christmas with her biological family; James Tupper plays her biological father.",
   "source_url": "https://en.wikipedia.org/wiki/List_of_Hallmark_Channel_Original_Movies_(2020s)",
-  "confidence": "low"
+  "confidence": "medium"
  }
 ]

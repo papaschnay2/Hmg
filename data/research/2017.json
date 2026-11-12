@@ -24,7 +24,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Brooke D'Orsay",
   "his_actor": "Marc Blucas",
-  "her_job": "Chicago creative director known as Miss Christmas",
+  "her_job": "official tree finder for Chicago's Radcliffe tree lighting, nicknamed Miss Christmas",
   "his_job": null,
   "location": "small town in Wisconsin",
   "location_type": "small_town",
@@ -101,8 +101,8 @@
   "his_actor": "Peter Porte",
   "her_job": "bookshop worker",
   "his_job": "dog owner who loses his memory",
-  "location": null,
-  "location_type": null,
+  "location": "Philadelphia",
+  "location_type": "big_city",
   "tropes": [
    "amnesia"
   ],
@@ -151,11 +151,14 @@
   "his_actor": "Dermot Mulroney",
   "her_job": null,
   "his_job": "journalist",
-  "location": "cross-country train ride",
+  "location": "cross-country train from Washington, D.C. to Los Angeles",
   "location_type": "other",
-  "tropes": [],
+  "tropes": [
+   "exes_reunited",
+   "snowed_in_or_stranded"
+  ],
   "romance": true,
-  "summary": "A journalist riding a cross-country train rediscovers holiday magic and a love he thought he had lost.",
+  "summary": "A cynical journalist travels by train to write a story and runs into an old flame as a snowstorm hits.",
   "source_url": "https://en.wikipedia.org/wiki/The_Christmas_Train_(film)",
   "confidence": "medium"
  },
@@ -164,7 +167,7 @@
   "year": 2017,
   "network": "Hallmark Channel",
   "her_actor": "Candace Cameron Bure",
-  "his_actor": null,
+  "his_actor": "Eion Bailey",
   "her_job": null,
   "his_job": null,
   "location": null,
@@ -173,7 +176,7 @@
    "secret_identity"
   ],
   "romance": true,
-  "summary": "Candace Cameron Bure plays identical twins in a Christmas story premiering November 26, 2017.",
+  "summary": "Identical twins swap lives at one's office and the other's school while planning holiday events, under a no-romance rule.",
   "source_url": "https://www.hallmarkchannel.com/christmas/2017-holiday-movies-preview/",
   "confidence": "low"
  },
@@ -181,20 +184,21 @@
   "title": "Christmas in Evergreen",
   "year": 2017,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": "veterinarian (one result)",
-  "his_job": null,
+  "her_actor": "Ashley Williams",
+  "his_actor": "Teddy Sears",
+  "her_job": "veterinarian",
+  "his_job": "doctor (one listing)",
   "location": "Evergreen, Virginia",
   "location_type": "small_town",
   "tropes": [
    "big_city_to_small_town",
-   "magic_or_santa"
+   "snowed_in_or_stranded",
+   "single_parent"
   ],
   "romance": true,
-  "summary": "A woman about to move to the big city misses Christmas in her hometown of Evergreen when a storm delays her plans.",
+  "summary": "A veterinarian about to move to the city meets a doctor and his daughter when a storm shuts down the airport.",
   "source_url": "https://www.hallmarkchannel.com/christmas/2017-holiday-movies-preview/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas at Holly Lodge",
@@ -202,31 +206,39 @@
   "network": "Hallmark Channel",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
+  "her_job": "owner and innkeeper of the lodge (inherited)",
+  "his_job": "businessman sent by a developer to assess the lodge's value",
+  "location": "lodge in the snowy mountains (town not named)",
   "location_type": "inn_lodge_resort",
-  "tropes": [],
+  "tropes": [
+   "inheritance",
+   "save_the_business",
+   "boss_or_client_romance"
+  ],
   "romance": true,
-  "summary": "A Hallmark Channel Countdown to Christmas premiere on December 3, 2017; plot details not found.",
+  "summary": "An innkeeper who inherited a mountain lodge falls for the developer's envoy sent to appraise it.",
   "source_url": "https://www.fox32chicago.com/news/hallmark-releases-christmas-movie-lineup-for-2017",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Getaway",
   "year": 2017,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Bridget Regan",
+  "his_actor": "Travis Van Winkle",
   "her_job": "travel writer",
-  "his_job": null,
+  "his_job": "widower (job not stated)",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "widowed",
+   "single_parent",
+   "snowed_in_or_stranded"
+  ],
   "romance": true,
-  "summary": "A travel writer hoping to relax tries a traditional Christmas vacation for the first time.",
+  "summary": "A travel writer on her first traditional Christmas vacation is double-booked with a widower, his mother and his daughter.",
   "source_url": "https://www.fox32chicago.com/news/hallmark-releases-christmas-movie-lineup-for-2017",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Next Door",
@@ -235,12 +247,12 @@
   "her_actor": null,
   "his_actor": null,
   "her_job": null,
-  "his_job": null,
+  "his_job": "author of bachelor lifestyle books",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Hallmark Channel Countdown to Christmas premiere on December 16, 2017; plot details not found.",
+  "summary": "A bachelor-lifestyle author turns to his Christmas-loving neighbor for help; the results were inconsistent on the cast and setting.",
   "source_url": "https://en.wikipedia.org/wiki/Christmas_Next_Door",
   "confidence": "low"
  },
@@ -249,16 +261,19 @@
   "year": 2017,
   "network": "Hallmark Channel",
   "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "his_actor": "Damon Runyan",
+  "her_job": "lawyer awaiting bar exam results",
+  "his_job": "sculptor (one source says tree farmer)",
+  "location": "small New England town (not named)",
+  "location_type": "small_town",
+  "tropes": [
+   "competition_or_contest",
+   "save_the_business"
+  ],
   "romance": true,
-  "summary": "A Countdown to Christmas premiere on November 4, 2017; plot details not found.",
+  "summary": "A young lawyer waiting on bar results tries to rescue her town's canceled ice sculpting contest with help from a reluctant sculptor.",
   "source_url": "https://www.fox32chicago.com/news/hallmark-releases-christmas-movie-lineup-for-2017",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Engaging Father Christmas",
@@ -284,7 +299,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Rachel Boston",
   "his_actor": "Paul Greene",
-  "her_job": null,
+  "her_job": "guardian angel on assignment",
   "his_job": null,
   "location": "Angel Falls",
   "location_type": "small_town",
@@ -292,7 +307,7 @@
    "magic_or_santa"
   ],
   "romance": true,
-  "summary": "A guardian angel is sent to the town of Angel Falls to restore its Christmas spirit.",
+  "summary": "A guardian angel sent to the town of Angel Falls works to restore its Christmas spirit and finds love.",
   "source_url": "https://www.hallmarkmystery.com/christmas-encore",
   "confidence": "medium"
  },
@@ -302,7 +317,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Maggie Lawson",
   "his_actor": "Brennan Elliott",
-  "her_job": "Broadway actress (one source, uncertain)",
+  "her_job": "actress in her last off-Broadway show",
   "his_job": null,
   "location": null,
   "location_type": null,
@@ -311,9 +326,9 @@
    "save_the_business"
   ],
   "romance": true,
-  "summary": "An actress heading home after her last Broadway show needs a miracle when the theater loses its lease; one source uncertain.",
+  "summary": "An actress in her final off-Broadway run needs a Christmas miracle when the historic theater loses its lease.",
   "source_url": "https://www.hallmarkmystery.com/christmas-encore",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Rocky Mountain Christmas",
@@ -339,15 +354,18 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Catherine Bell",
   "his_actor": "Eric Close",
-  "her_job": null,
+  "her_job": "professional organizer",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "widowed",
+   "single_parent"
+  ],
   "romance": true,
-  "summary": "A Movies & Mysteries 2017 Christmas premiere starring Catherine Bell and Eric Close; plot details not found.",
+  "summary": "A professional organizer meets a widower with two young children who is struggling with work-life balance.",
   "source_url": "https://www.wric.com/news/hallmark-releases-its-2017-christmas-movie-lineup/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Homecoming",
@@ -356,16 +374,17 @@
   "her_actor": "Julie Benz",
   "his_actor": "Michael Shanks",
   "her_job": null,
-  "his_job": null,
+  "his_job": "Army Captain recovering from a combat injury",
   "location": null,
-  "location_type": null,
+  "location_type": "small_town",
   "tropes": [
-   "returns_home"
+   "returns_home",
+   "widowed"
   ],
   "romance": true,
-  "summary": "A Movies & Mysteries 2017 premiere starring Julie Benz and Michael Shanks; plot details not found.",
+  "summary": "A military widow who has lost her holiday faith teams with an injured Army captain to save the town's military museum.",
   "source_url": "https://www.wnct.com/news/hallmark-releases-its-2017-christmas-movie-lineup/amp/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Bramble House Christmas",
@@ -373,15 +392,18 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Autumn Reeser",
   "his_actor": "David Haydn-Jones",
-  "her_job": null,
+  "her_job": "nurse who receives a bequest from her late patient",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "coastal Oregon (Bramble House bed-and-breakfast)",
+  "location_type": "inn_lodge_resort",
+  "tropes": [
+   "inheritance",
+   "secret_identity"
+  ],
   "romance": true,
-  "summary": "A Movies & Mysteries 2017 premiere starring Autumn Reeser and David Haydn-Jones; plot details not found.",
+  "summary": "A nurse left money by a dying patient buys a bed-and-breakfast, while his suspicious son checks on her undercover as a guest.",
   "source_url": "https://www.wnct.com/news/hallmark-releases-its-2017-christmas-movie-lineup/amp/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Perfect Christmas Present",
@@ -390,62 +412,73 @@
   "her_actor": "Tara Holt",
   "his_actor": "Sam Page",
   "her_job": null,
-  "his_job": null,
+  "his_job": "gift consultant known as Mr. Christmas",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A Movies & Mysteries premiere on November 4, 2017 starring Tara Holt and Sam Page; plot details not found.",
+  "summary": "A man who runs a gift-picking business helps a friend learn his girlfriend's wish and ends up falling for her.",
   "source_url": "https://www.broadwayworld.com/bwwtv/article/Hallmark-Movies-Mysteries-to-Present-Record-12-New-Original-Holdiay-Films-20170913",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Song for Christmas",
   "year": 2017,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Becca Tobin",
+  "his_actor": "Kevin McGarry",
+  "her_job": "pop star",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "small town family dairy farm (town not named)",
+  "location_type": "farm_ranch_vineyard",
+  "tropes": [
+   "snowed_in_or_stranded",
+   "secret_identity",
+   "save_the_business"
+  ],
   "romance": true,
-  "summary": "A Movies & Mysteries premiere on November 11, 2017; plot details not found.",
+  "summary": "A pop star slips away from her manager and ends up stranded at a struggling family farm, bonding with the eldest son over music.",
   "source_url": "https://www.hallmarkmystery.com/a-song-for-christmas",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Christmas Cottage",
   "year": 2017,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Merritt Patterson",
+  "his_actor": "Steve Lund",
+  "her_job": "interior designer",
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "family cottage, Oregon (one user review)",
+  "location_type": "other",
+  "tropes": [
+   "exes_reunited",
+   "snowed_in_or_stranded",
+   "wedding"
+  ],
   "romance": true,
-  "summary": "A Christmas premiere on December 9, 2017; plot details not found.",
+  "summary": "A maid of honor and her best friend's brother, her ex, get snowed in together at a family cottage before the wedding.",
   "source_url": "https://www.cbsnews.com/amp/philadelphia/hallmark-countdown-to-christmas",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Journey Back to Christmas",
-  "year": 2017,
+  "year": 2016,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Candace Cameron Bure",
+  "his_actor": "Oliver Hudson",
+  "her_job": "World War II nurse",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "time_travel_or_wish"
+  ],
   "romance": true,
-  "summary": "A Movies & Mysteries 2017 Christmas premiere; plot details not found.",
+  "summary": "A World War II nurse is magically carried from 1945 to the present and meets a man who helps her see family bonds.",
   "source_url": "https://www.hallmarkmystery.com/journey-back-to-christmas",
-  "confidence": "low"
+  "confidence": "medium",
+  "problem": "Search shows Hallmark released this in 2016 (some catalogs list 2017); network may be Hallmark Channel, not verified."
  },
  {
   "title": "With Love, Christmas",
