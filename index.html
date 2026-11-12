@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Holiday Movie Generator</title>
+  <meta name="description" content="Spin the wheel to generate the cozy small-town holiday romance you've definitely already seen.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,800;1,600&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="snow" aria-hidden="true"></div>
+
+  <header class="masthead">
+    <ul class="lights" aria-hidden="true"></ul>
+    <p class="eyebrow">Now streaming, every night until January</p>
+    <h1>The Holiday Movie Generator</h1>
+    <p class="sub">Spin the reels. Meet your leads. Cry at the tree lighting.</p>
+  </header>
+
+  <main>
+    <section class="machine" aria-label="Movie slot machine">
+      <div class="reels">
+        <div class="reel" data-key="heroine">
+          <h2>She's a…</h2>
+          <div class="window"><span class="value">?</span></div>
+          <button class="lock" type="button" aria-pressed="false">🔓 Lock</button>
+        </div>
+        <div class="reel" data-key="location">
+          <h2>Who ends up in…</h2>
+          <div class="window"><span class="value">?</span></div>
+          <button class="lock" type="button" aria-pressed="false">🔓 Lock</button>
+        </div>
+        <div class="reel" data-key="hero">
+          <h2>And falls for a…</h2>
+          <div class="window"><span class="value">?</span></div>
+          <button class="lock" type="button" aria-pressed="false">🔓 Lock</button>
+        </div>
+      </div>
+      <button id="spin" class="spin" type="button">Spin the Wheel ✨</button>
+    </section>
+
+    <section id="result" class="poster" hidden aria-live="polite">
+      <p class="presents">A Cozy Original Movie Event</p>
+      <h2 id="title" class="title"></h2>
+      <p id="tagline" class="tagline"></p>
+      <p id="synopsis" class="synopsis"></p>
+
+      <div class="details">
+        <div>
+          <h3>Starring</h3>
+          <p id="cast"></p>
+        </div>
+        <div>
+          <h3>Coziness</h3>
+          <p id="cozy" class="cozy"></p>
+        </div>
+        <div>
+          <h3>Runtime</h3>
+          <p>84 min (+ 36 min of ads)</p>
+        </div>
+      </div>
+
+      <div class="bingo">
+        <h3>Trope Bingo <span class="hint">tap as you watch</span></h3>
+        <ul id="tropes"></ul>
+      </div>
+
+      <button id="share" class="share" type="button">Copy link to this movie</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>A fan-made parody. Every movie here is invented, and yet you've seen all of them.</p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
