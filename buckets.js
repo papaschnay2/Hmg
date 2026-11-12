@@ -4,7 +4,7 @@
 
 const HER = [
   { id: "exec", label: "A Big-City Executive", a: "a big-city executive", puns: ["Merger", "Bottom Line", "Promotion"], goal: "is one signature away from making partner", thing: "a color-coded planner" },
-  { id: "lawyer", label: "A Lawyer", a: "a lawyer", puns: ["Verdict", "Objection", "Closing Argument"], goal: "has never lost a case or taken a day off", thing: "a briefcase she never puts down" },
+  { id: "lawyer", label: "A Lawyer or Mayor", a: "a lawyer", puns: ["Verdict", "Objection", "Closing Argument"], goal: "has never lost a case or taken a day off", thing: "a briefcase she never puts down" },
   { id: "writer", label: "A Writer, Reporter or TV Host", a: "a journalist", puns: ["Deadline", "Headline", "Cover Story"], goal: "needs one perfect holiday story to save her career", thing: "a tiny notebook" },
   { id: "baker", label: "A Baker or Chef", a: "a pastry chef", puns: ["Sugar", "Frosting", "Gingerbread"], goal: "is about to open her own bakery", thing: "a sourdough starter named Gary" },
   { id: "planner", label: "An Event or Wedding Planner", a: "an event planner", puns: ["Gala", "RSVP", "Save the Date"], goal: "has planned 200 weddings and none of them hers", thing: "seven clipboards" },

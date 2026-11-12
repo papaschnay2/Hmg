@@ -5,7 +5,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Lacey Chabert",
   "his_actor": "Paul Greene",
-  "her_job": "Junior web designer at a marketing firm",
+  "her_job": "employee at a marketing firm",
   "his_job": null,
   "location": null,
   "location_type": null,
@@ -14,9 +14,9 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A timid junior web designer gets Santa's help finding her voice, with only 48 hours to learn to speak up for herself.",
-  "source_url": "https://imdb.com/title/tt5676118",
-  "confidence": "medium"
+  "summary": "A wallflower whose idea gets stolen wishes for courage to Santa and gets a 48-hour window to speak up.",
+  "source_url": "https://www.hallmarkchannel.com/a-wish-for-christmas/about-a-wish-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "The Mistletoe Promise",
@@ -32,9 +32,9 @@
    "fake_relationship"
   ],
   "romance": true,
-  "summary": "Two people who dislike Christmas sign a contract to help each other through the holidays, and real feelings sneak in.",
-  "source_url": "https://www.countdownuntilchristmas.com/christmas-movies-a-to-z/the-mistletoe-promise-2016/",
-  "confidence": "medium"
+  "summary": "Two Christmas grumps strike a holiday pact to fake being a couple, then catch real feelings.",
+  "source_url": "https://www.hallmarkchannel.com/the-mistletoe-promise/about-the-mistletoe-promise",
+  "confidence": "high"
  },
  {
   "title": "Every Christmas Has a Story",
@@ -42,18 +42,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Lori Loughlin",
   "his_actor": "Colin Ferguson",
-  "her_job": "National morning show host",
-  "his_job": "producer of her morning show",
+  "her_job": "TV personality (morning show host)",
+  "his_job": "producer of her show",
   "location": null,
   "location_type": "small_town",
   "tropes": [
    "big_city_to_small_town",
-   "exes_reunited"
+   "exes_reunited",
+   "work_rivals"
   ],
   "romance": true,
-  "summary": "A morning show host who bashed Christmas on air goes to the most Christmas-y town in America to repair her image.",
-  "source_url": "https://www.countdownuntilchristmas.com/christmas-movies-a-to-z/every-christmas-has-a-story-2016/",
-  "confidence": "medium"
+  "summary": "After admitting on air she hates Christmas, a TV host is exiled to the most Christmassy town with her ex-producer.",
+  "source_url": "https://www.hallmarkchannel.com/every-christmas-has-a-story/about-every-christmas-has-a-story",
+  "confidence": "high"
  },
  {
   "title": "My Christmas Dream",
@@ -61,19 +62,20 @@
   "network": "Hallmark Channel",
   "her_actor": "Danica McKellar",
   "his_actor": "David Haydn-Jones",
-  "her_job": "Department store manager",
-  "his_job": "handyman (struggling single father)",
+  "her_job": "manager of McDougal's flagship department store",
+  "his_job": "recently fired store employee and artist, single dad",
   "location": null,
   "location_type": null,
   "tropes": [
+   "boss_or_client_romance",
    "promotion_at_stake",
-   "work_rivals",
-   "single_parent"
+   "single_parent",
+   "work_rivals"
   ],
   "romance": true,
-  "summary": "An ambitious department store manager builds a Christmas display to win the job running the new Paris store.",
-  "source_url": "https://christmas-specials.fandom.com/wiki/My_Christmas_Dream",
-  "confidence": "low"
+  "summary": "A store manager chasing a Paris promotion recruits a fired artist dad to build the ultimate holiday display.",
+  "source_url": "https://www.hallmarkchannel.com/my-christmas-dream/about-my-christmas-dream",
+  "confidence": "high"
  },
  {
   "title": "A December Bride",
@@ -81,19 +83,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Jessica Lowndes",
   "his_actor": "Daniel Lissing",
-  "her_job": "Aspiring interior designer",
+  "her_job": "aspiring interior designer",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [
+   "exes_reunited",
    "fake_relationship",
-   "wedding",
-   "exes_reunited"
+   "wedding"
   ],
   "romance": true,
-  "summary": "At her cousin's wedding to her ex, a woman goes along with a fake engagement that starts feeling real.",
-  "source_url": "https://www.imdb.com/title/tt5739680/reference",
-  "confidence": "medium"
+  "summary": "Dreading her cousin's wedding to her ex-fiance, a woman is stuck with a date who blurts out a fake engagement.",
+  "source_url": "https://www.hallmarkchannel.com/a-december-bride/about-a-december-bride",
+  "confidence": "high"
  },
  {
   "title": "Broadcasting Christmas",
@@ -146,9 +148,9 @@
   "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": "A woman's planned storybook Christmas bucket list falls apart when her boyfriend vanishes and a new romance appears.",
-  "source_url": "https://thetvdb.com/movies/christmas-list",
-  "confidence": "medium"
+  "summary": "A woman's perfect holiday bucket list unravels when her boyfriend disappears and someone new shows up.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-list/about-christmas-list",
+  "confidence": "high"
  },
  {
   "title": "A Heavenly Christmas",
@@ -156,7 +158,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Kristin Davis",
   "his_actor": "Eric McCormack",
-  "her_job": "Workaholic who dies and becomes a trainee Christmas angel",
+  "her_job": "workaholic turned trainee Christmas angel",
   "his_job": "Struggling singer",
   "location": null,
   "location_type": null,
@@ -164,9 +166,9 @@
    "magic_or_santa"
   ],
   "romance": true,
-  "summary": "A workaholic who dies young trains as a Christmas angel and is assigned to help a struggling singer heal.",
-  "source_url": "https://en.wikipedia.org/wiki/A_Heavenly_Christmas",
-  "confidence": "medium"
+  "summary": "A workaholic dies, flunks angel training, and gets stuck fixing a hard-luck man's life, maybe finding love too.",
+  "source_url": "https://www.hallmarkchannel.com/a-heavenly-christmas",
+  "confidence": "high"
  },
  {
   "title": "Journey Back to Christmas",
@@ -174,7 +176,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Candace Cameron Bure",
   "his_actor": "Oliver Hudson",
-  "her_job": "World War II nurse",
+  "her_job": "WWII-era nurse",
   "his_job": null,
   "location": null,
   "location_type": null,
@@ -182,9 +184,9 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A World War II nurse is magically carried from 1945 to the present and meets a man who helps her see family bonds.",
-  "source_url": "https://www.hallmarkmystery.com/journey-back-to-christmas",
-  "confidence": "medium",
+  "summary": "A World War II nurse is zapped forward in time and learns about family from a modern-day man.",
+  "source_url": "https://www.hallmarkchannel.com/journey-back-to-christmas",
+  "confidence": "high",
   "problem": "Search shows Hallmark released this in 2016 (some catalogs list 2017); network may be Hallmark Channel, not verified."
  },
  {
@@ -193,7 +195,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Nikki DeLoach",
   "his_actor": "Andrew Walker",
-  "her_job": "Lowly employee at an advertising firm",
+  "her_job": "employee at an advertising firm",
   "his_job": null,
   "location": null,
   "location_type": null,
@@ -202,25 +204,28 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A restless wife gets a Christmas angel's wish to be single again and finds her new life is not what she expected.",
-  "source_url": "https://www.directv.com/guide/movies/A-Dream-of-Christmas-14ec2f2e-57dc-de70-2734-437444635b39",
-  "confidence": "medium"
+  "summary": "A restless wife wishes to be single again via a Christmas angel, then regrets it and tries to win her husband back.",
+  "source_url": "https://www.hallmarkchannel.com/a-dream-of-christmas/about-a-dream-of-christmas",
+  "confidence": "high"
  },
  {
   "title": "Looks Like Christmas",
   "year": 2016,
   "network": "Hallmark Channel",
-  "her_actor": null,
+  "her_actor": "Anne Heche",
   "his_actor": "Dylan Neal",
   "her_job": null,
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "competition_or_contest",
+   "single_parent"
+  ],
   "romance": true,
-  "summary": "A Hallmark Channel Countdown to Christmas romance that premiered December 4, 2016; plot details not found.",
-  "source_url": "https://christmas-specials.fandom.com/wiki/Looks_Like_Christmas",
-  "confidence": "low"
+  "summary": "Two type-A single parents wage war over their kids' middle school Christmas and end up open to romance.",
+  "source_url": "https://www.hallmarkchannel.com/looks-like-christmas/about-looks-like-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Nutcracker Christmas",
@@ -247,18 +252,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Bonnie Somerville",
   "his_actor": "Brennan Elliott",
-  "her_job": "High-powered marketing executive",
+  "her_job": "high-powered marketing executive",
   "his_job": null,
   "location": "Christmas Valley",
   "location_type": "small_town",
   "tropes": [
-   "snowed_in_or_stranded",
-   "big_city_to_small_town"
+   "big_city_to_small_town",
+   "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "Car trouble strands a marketing executive in Christmas Valley, a town devoted to the holiday, and she rethinks her priorities.",
-  "source_url": "https://www.directv.com/guide/movies/Love-You-Like-Christmas-29ca3ea2-f8ab-8a41-b215-b1b6e292962b",
-  "confidence": "medium"
+  "summary": "Car trouble detours a marketing exec to a Christmas-obsessed town where she questions what she has been missing.",
+  "source_url": "https://www.hallmarkchannel.com/love-you-like-christmas/about-love-you-like-christmas",
+  "confidence": "high"
  },
  {
   "title": "My Christmas Love",
@@ -272,9 +277,9 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Listed as a December 17, 2016 Countdown to Christmas premiere; no plot details found.",
-  "source_url": "https://thetvdb.com/series/hallmark-countdown-to-christmas/seasons/official/2016",
-  "confidence": "low"
+  "summary": "A commitment-shy romantic receives the twelve days of Christmas as anonymous gifts and starts to hope her secret admirer measures up.",
+  "source_url": "https://www.hallmarkchannel.com/my-christmas-love/about-my-christmas-love",
+  "confidence": "high"
  },
  {
   "title": "Sleigh Bells Ring",
@@ -282,18 +287,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Erin Cahill",
   "his_actor": "David Alpay",
-  "her_job": "Hometown Christmas parade organizer (recently divorced)",
+  "her_job": "recently divorced head of her hometown Christmas parade",
   "his_job": "woodworker",
   "location": "Mission City",
-  "location_type": "small_town",
+  "location_type": "her_hometown",
   "tropes": [
    "exes_reunited",
    "returns_home"
   ],
   "romance": true,
-  "summary": "A recently divorced woman running her hometown parade restores an old sleigh with her former boyfriend.",
-  "source_url": "https://rissiwrites.com/2016/12/sleigh-bells-ring-2016-small-town.html",
-  "confidence": "medium"
+  "summary": "A newly divorced parade organizer gets her holiday spirit and maybe a love life back thanks to a sleigh and a woodworker.",
+  "source_url": "https://www.hallmarkchannel.com/sleigh-bells-ring/about-sleigh-bells-ring",
+  "confidence": "high"
  },
  {
   "title": "Finding Father Christmas",
@@ -413,7 +418,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Jill Wagner",
   "his_actor": "Wes Brown",
-  "her_job": "Executive sent to close a cookie factory",
+  "her_job": "executive sent to shut down the cookie factory",
   "his_job": "owner of the cookie factory",
   "location": "Cookie Jar",
   "location_type": "small_town",
@@ -421,9 +426,9 @@
    "save_the_business"
   ],
   "romance": true,
-  "summary": "A Christmas-averse executive must close the cookie factory that is the lifeblood of a small town.",
-  "source_url": "https://www.directv.com/guide/movies/Christmas-Cookies-b459117f-ebf3-f959-b22f-c5b7429b9d78",
-  "confidence": "low"
+  "summary": "A holiday-skeptic executive sent to close a beloved cookie factory gets thawed by the owner and the town's cheer.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-cookies/about-christmas-cookies",
+  "confidence": "high"
  },
  {
   "title": "Love Always, Santa",

@@ -13,9 +13,9 @@
    "single_parent"
   ],
   "romance": true,
-  "summary": "A single mom feuds with her grouchy neighbor, who seems to be ruining Christmas, until he may win her heart.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2022-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A hardworking single mom declares war on the neighbor she thinks is wrecking Christmas, then suspects he is a softie.",
+  "source_url": "https://www.hallmarkchannel.com/noel-next-door/about-noel-next-door",
+  "confidence": "high"
  },
  {
   "title": "We Wish You a Married Christmas",
@@ -25,13 +25,13 @@
   "his_actor": "Kristoffer Polaha",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "a quiet town (name not stated)",
+  "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": "On their marriage coach's advice, a married couple visits a quiet town to reconnect at Christmas.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "low"
+  "summary": "A married couple follows their marriage coach's advice and escapes to a quiet town to rekindle things.",
+  "source_url": "https://www.hallmarkchannel.com/we-wish-you-a-married-christmas/about-we-wish-you-a-married-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Kismet Christmas",
@@ -41,16 +41,16 @@
   "his_actor": "Carlo Marks",
   "her_job": "children's book author",
   "his_job": null,
-  "location": null,
+  "location": "her hometown (unnamed)",
   "location_type": "her_hometown",
   "tropes": [
    "childhood_friends",
    "returns_home"
   ],
   "romance": true,
-  "summary": "A famous author sent home for a publisher event reconnects with her teenage crush.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2022-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A children's author goes home, bumps into her teenage crush and discovers a family legend may be true.",
+  "source_url": "https://www.hallmarkchannel.com/a-kismet-christmas/about-a-kismet-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Cozy Christmas Inn",
@@ -58,8 +58,8 @@
   "network": "Hallmark Channel",
   "her_actor": "Jodie Sweetin",
   "his_actor": "David O'Donnell",
-  "her_job": "real estate executive",
-  "his_job": "owner of a bed-and-breakfast inn",
+  "her_job": "real estate exec",
+  "his_job": "owner of a B&B",
   "location": "Alaska",
   "location_type": "inn_lodge_resort",
   "tropes": [
@@ -67,9 +67,9 @@
    "sequel"
   ],
   "romance": true,
-  "summary": "A real estate exec travels to Alaska to buy an inn and finds it belongs to her ex.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "medium"
+  "summary": "A real estate exec goes to Alaska to buy a B&B and finds her ex owns it.",
+  "source_url": "https://www.hallmarkchannel.com/a-cozy-christmas-inn/about-a-cozy-christmas-inn",
+  "confidence": "high"
  },
  {
   "title": "Jolly Good Christmas",
@@ -77,15 +77,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Reshma Shetty",
   "his_actor": "Will Kemp",
-  "her_job": "professional personal shopper",
-  "his_job": "architect at a prestigious London firm",
-  "location": "London, England",
+  "her_job": "free-spirited personal shopper",
+  "his_job": "by-the-book architect",
+  "location": "London",
   "location_type": "big_city",
-  "tropes": [],
+  "tropes": [
+   "boss_or_client_romance"
+  ],
   "romance": true,
-  "summary": "An American architect newly relocated to London finds romance with Anji over the holidays.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "medium"
+  "summary": "A buttoned-up architect hires a personal shopper for a London gift hunt and finds more than a present.",
+  "source_url": "https://www.hallmarkchannel.com/jolly-good-christmas/about-jolly-good-christmas",
+  "confidence": "high"
  },
  {
   "title": "Ghosts of Christmas Always",
@@ -93,17 +95,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Kim Matula",
   "his_actor": "Ian Harding",
-  "her_job": "Ghost of Christmas Present with the Department of Restoring Christmas Spirit",
-  "his_job": null,
+  "her_job": "Ghost of Christmas Present",
+  "his_job": "a soul in need of Christmas spirit (job not stated)",
   "location": null,
   "location_type": null,
   "tropes": [
    "magic_or_santa"
   ],
   "romance": true,
-  "summary": "A Ghost of Christmas Present is assigned to help Peter rediscover his holiday spirit.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2022-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A Ghost of Christmas Present has one assignment: help Peter find his holiday spirit, though this year gets complicated.",
+  "source_url": "https://www.hallmarkchannel.com/ghosts-of-christmas-always/about-ghosts-of-christmas-always",
+  "confidence": "high"
  },
  {
   "title": "A Magical Christmas Village",
@@ -120,9 +122,9 @@
    "single_parent"
   ],
   "romance": true,
-  "summary": "An architect raising her young daughter in a small town gets caught up in a Christmas village's magic.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "medium"
+  "summary": "A Christmas village works its magic on Summer and her family, mending old wounds and sparking new love.",
+  "source_url": "https://www.hallmarkchannel.com/a-magical-christmas-village/about-a-magical-christmas-village",
+  "confidence": "high"
  },
  {
   "title": "All Saints Christmas",
@@ -130,8 +132,8 @@
   "network": "Hallmark Channel",
   "her_actor": "Ledisi",
   "his_actor": "Roger Cross",
-  "her_job": "R&B singer",
-  "his_job": "music producer",
+  "her_job": "popular R&B singer",
+  "his_job": "music producer (her ex)",
   "location": "New Orleans",
   "location_type": "her_hometown",
   "tropes": [
@@ -139,9 +141,9 @@
    "returns_home"
   ],
   "romance": true,
-  "summary": "A popular R&B singer heads home to New Orleans for Christmas and faces the man who once broke her heart.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2022-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A famous singer brings her producer ex home to New Orleans after the media mistakes their photo for an engagement.",
+  "source_url": "https://www.hallmarkchannel.com/all-saints-christmas/about-all-saints-christmas",
+  "confidence": "high"
  },
  {
   "title": "In Merry Measure",
@@ -149,26 +151,27 @@
   "network": "Hallmark Channel",
   "her_actor": "Patti Murin",
   "his_actor": "Brendan Penny",
-  "her_job": "pop singer",
+  "her_job": "pop star",
   "his_job": "high school music teacher",
   "location": "her Ohio hometown (town not named)",
   "location_type": "her_hometown",
   "tropes": [
    "competition_or_contest",
+   "returns_home",
    "work_rivals"
   ],
   "romance": true,
-  "summary": "A pop singer ends up coaching a high school choir alongside her onetime rival, a music teacher.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "medium"
+  "summary": "A pop star home for Christmas gets drafted to coach the school choir alongside her former rival.",
+  "source_url": "https://www.hallmarkchannel.com/in-merry-measure/about-in-merry-measure",
+  "confidence": "high"
  },
  {
   "title": "The Royal Nanny",
   "year": 2022,
   "network": "Hallmark Channel",
   "her_actor": "Rachel Skarsten",
-  "his_actor": null,
-  "her_job": "MI5 agent posing as the royal nanny",
+  "his_actor": "Dan Jeannotte",
+  "her_job": "MI5 agent undercover as the royal nanny",
   "his_job": "Prince Colin, member of the royal family",
   "location": "England",
   "location_type": "europe_or_kingdom",
@@ -177,9 +180,9 @@
    "secret_identity"
   ],
   "romance": true,
-  "summary": "An MI5 agent goes undercover as a royal nanny and falls for the prince.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "medium"
+  "summary": "A spy posing as the royal nanny must guard the family while resisting a charming prince.",
+  "source_url": "https://www.hallmarkchannel.com/the-royal-nanny/about-the-royal-nanny",
+  "confidence": "high"
  },
  {
   "title": "Christmas at the Golden Dragon",
@@ -193,9 +196,9 @@
   "location_type": "other",
   "tropes": [],
   "romance": false,
-  "summary": "Two siblings face the closing of their parents' beloved Chinese restaurant at Christmas; the story is not a love story.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "low"
+  "summary": "Two siblings and the regulars rethink their lives as the town's landmark Chinese restaurant prepares to close.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-at-the-golden-dragon/about-christmas-at-the-golden-dragon",
+  "confidence": "high"
  },
  {
   "title": "Inventing the Christmas Prince",
@@ -227,10 +230,10 @@
   "location": null,
   "location_type": null,
   "tropes": [],
-  "romance": true,
-  "summary": "Three brothers must work together to care for a baby over the holidays.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "low"
+  "romance": false,
+  "summary": "Three brothers are forced to team up and babysit a baby over the holidays, with predictable chaos.",
+  "source_url": "https://www.hallmarkchannel.com/three-wise-men-and-a-baby/about-three-wise-men-and-a-baby",
+  "confidence": "high"
  },
  {
   "title": "My Southern Family Christmas",
@@ -246,9 +249,9 @@
    "secret_identity"
   ],
   "romance": true,
-  "summary": "A journalist covering a holiday event meets her estranged father and his family under a secret identity.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "medium"
+  "summary": "A journalist sent to cover a Pere Noel festival meets her estranged father and his new family for the first time.",
+  "source_url": "https://www.hallmarkchannel.com/my-southern-family-christmas/about-my-southern-family-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Royal Corgi Christmas",
@@ -256,17 +259,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Hunter King",
   "his_actor": "Jordan Renzo",
-  "her_job": "animal behavior expert",
-  "his_job": "prince, heir to the throne",
-  "location": null,
-  "location_type": null,
+  "her_job": "American dog trainer",
+  "his_job": "prince",
+  "location": "a royal kingdom (unnamed)",
+  "location_type": "europe_or_kingdom",
   "tropes": [
    "royalty"
   ],
   "romance": true,
-  "summary": "An American animal behaviorist is hired to train a prince's corgi and grows close to the reluctant royal.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "medium"
+  "summary": "An American dog trainer is hired to make a prince's unruly corgi ready for the royal Christmas ball.",
+  "source_url": "https://www.hallmarkchannel.com/a-royal-corgi-christmas/about-a-royal-corgi-christmas",
+  "confidence": "high"
  },
  {
   "title": "The Most Colorful Time of the Year",
@@ -274,31 +277,31 @@
   "network": "Hallmark Channel",
   "her_actor": "Katrina Bowden",
   "his_actor": "Christopher Russell",
-  "her_job": "optometrist",
+  "her_job": "optometrist and mother of one of his students",
   "his_job": "elementary school teacher",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A teacher who learns he is colorblind meets a student's mother, an optometrist, who brings color into his life.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "medium"
+  "summary": "A newly colorblind teacher gets some vibrancy from an optometrist whose kid sits in his class.",
+  "source_url": "https://www.hallmarkchannel.com/the-most-colorful-time-of-the-year/about-the-most-colorful-time-of-the-year",
+  "confidence": "high"
  },
  {
   "title": "Christmas Class Reunion",
   "year": 2022,
   "network": "Hallmark Channel",
   "her_actor": "Aimee Teegarden",
-  "his_actor": null,
+  "his_actor": "Tanner Novlan",
   "her_job": null,
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A woman organizing her high school reunion hopes to meet her old school crush.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "low"
+  "summary": "A valedictorian planning a perfect reunion pines for her old crush while a bad boy offers unexpected help.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-class-reunion/about-christmas-class-reunion",
+  "confidence": "high"
  },
  {
   "title": "'Twas the Night Before Christmas",
@@ -306,15 +309,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Torrey DeVitto",
   "his_actor": "Zane Holtz",
-  "her_job": "former actress (Madison)",
+  "her_job": "former actress trying to break into directing",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A former actress takes charge of her town's Christmas Eve courtroom play debating who wrote the famous poem, with her old co-star.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "medium"
+  "summary": "An ex-actress tries her hand at directing a courtroom play about who really wrote the famous Christmas poem.",
+  "source_url": "https://www.hallmarkchannel.com/twas-the-night-before-christmas/about-twas-the-night-before-christmas",
+  "confidence": "high"
  },
  {
   "title": "Hanukkah on Rye",
@@ -330,9 +333,9 @@
    "work_rivals"
   ],
   "romance": true,
-  "summary": "Two rival Jewish deli owners are unknowingly matched by a matchmaker and fall in love.",
-  "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
-  "confidence": "medium"
+  "summary": "A matchmaker pairs two people who turn out to own competing delis, putting their new romance to the test.",
+  "source_url": "https://www.hallmarkchannel.com/hanukkah-on-rye/about-hanukkah-on-rye",
+  "confidence": "high"
  },
  {
   "title": "Undercover Holiday",
@@ -340,8 +343,8 @@
   "network": "Hallmark Channel",
   "her_actor": "Noemi Gonzalez",
   "his_actor": "Stephen Huszar",
-  "her_job": "pop star",
-  "his_job": "security guard / bodyguard",
+  "her_job": "newly minted pop star",
+  "his_job": "security guard",
   "location": null,
   "location_type": null,
   "tropes": [
@@ -349,9 +352,9 @@
    "returns_home"
   ],
   "romance": true,
-  "summary": "A pop star back home for the holidays claims to be dating her bodyguard, blurring protector and partner.",
-  "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "medium"
+  "summary": "A fresh pop star heading home tells her protective family that her over-zealous bodyguard is her boyfriend.",
+  "source_url": "https://www.hallmarkchannel.com/undercover-holiday/about-undercover-holiday",
+  "confidence": "high"
  },
  {
   "title": "When I Think of Christmas",
@@ -364,13 +367,13 @@
   "location": null,
   "location_type": "her_hometown",
   "tropes": [
-   "returns_home",
-   "exes_reunited"
+   "exes_reunited",
+   "returns_home"
   ],
   "romance": true,
-  "summary": "A woman returns to her hometown to help her mother move and unexpectedly finds her ex-boyfriend back there too.",
-  "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "medium"
+  "summary": "A woman comes home to help her mom move, bumps into a past love, and stumbles on a surprise.",
+  "source_url": "https://www.hallmarkchannel.com/when-i-think-of-christmas/about-when-i-think-of-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Holiday Spectacular",
@@ -386,9 +389,9 @@
    "wedding"
   ],
   "romance": true,
-  "summary": "In 1958 an heiress pauses her society wedding plans to chase a secret dream of dancing at Radio City.",
-  "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "medium"
+  "summary": "In 1958 a Philadelphia heiress postpones her fancy wedding plans to sneak off and dance with the Radio City Rockettes.",
+  "source_url": "https://www.hallmarkchannel.com/a-holiday-spectacular/about-a-holiday-spectacular",
+  "confidence": "high"
  },
  {
   "title": "A Fabled Holiday",
@@ -398,15 +401,15 @@
   "his_actor": "Ryan Paevey",
   "her_job": "bookstore owner",
   "his_job": null,
-  "location": null,
+  "location": "a familiar-looking Christmas town (unnamed)",
   "location_type": null,
   "tropes": [
    "childhood_friends"
   ],
   "romance": true,
-  "summary": "A bookstore owner reconnects with a childhood friend during a storybook-like town's weeklong Christmas festival.",
-  "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "medium"
+  "summary": "Childhood best friends reunite in a cozy storybook-like town that heals visitors in rough patches.",
+  "source_url": "https://www.hallmarkchannel.com/a-fabled-holiday/about-a-fabled-holiday",
+  "confidence": "high"
  },
  {
   "title": "#Xmas",
@@ -419,12 +422,13 @@
   "location": null,
   "location_type": null,
   "tropes": [
+   "competition_or_contest",
    "fake_relationship"
   ],
   "romance": true,
-  "summary": "A holiday romance in the world of Instagram influencers built on a pretend relationship.",
-  "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "low"
+  "summary": "Jen fakes a picture-perfect family for an influencer contest and has to decide whether to keep the act going.",
+  "source_url": "https://www.hallmarkchannel.com/xmas/about-xmas",
+  "confidence": "high"
  },
  {
   "title": "Butlers in Love",
@@ -432,15 +436,17 @@
   "network": null,
   "her_actor": "Stacey Farber",
   "his_actor": "Corey Cott",
-  "her_job": "butler academy trainee",
-  "his_job": "butler academy trainee",
+  "her_job": "royal butler trainee",
+  "his_job": "royal butler trainee",
   "location": "elite butler academy",
   "location_type": "other",
-  "tropes": [],
+  "tropes": [
+   "work_rivals"
+  ],
   "romance": true,
-  "summary": "Two trainees at a prestigious butler academy fall for each other while learning to serve royals.",
-  "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "medium"
+  "summary": "Two competing butler-academy students find that fierce competition and romantic sparks make a tricky combination.",
+  "source_url": "https://www.hallmarkchannel.com/butlers-in-love/about-butlers-in-love",
+  "confidence": "high"
  },
  {
   "title": "Campfire Christmas",
@@ -454,9 +460,9 @@
   "location_type": "other",
   "tropes": [],
   "romance": true,
-  "summary": "A woman's parents host a holiday reunion at their summer camp before selling it, rekindling romance among old friends.",
-  "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "low"
+  "summary": "Old friends reunite at a family summer camp over the holidays before it's sold, and romance rekindles.",
+  "source_url": "https://www.hallmarkchannel.com/campfire-christmas/about-campfire-christmas",
+  "confidence": "high"
  },
  {
   "title": "The Holiday Sitter",
@@ -470,16 +476,16 @@
   "location_type": null,
   "tropes": [],
   "romance": false,
-  "summary": "A workaholic bachelor left caring for his niece and nephew falls for his neighbor; both leads are men.",
-  "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "medium"
+  "summary": "A workaholic bachelor babysitting his niece and nephew recruits a handsome neighbor and lands in an unplanned romance.",
+  "source_url": "https://www.hallmarkchannel.com/the-holiday-sitter/about-the-holiday-sitter",
+  "confidence": "high"
  },
  {
   "title": "Haul Out the Holly",
   "year": 2022,
   "network": null,
   "her_actor": "Lacey Chabert",
-  "his_actor": null,
+  "his_actor": "Wes Brown",
   "her_job": null,
   "his_job": null,
   "location": null,
@@ -488,9 +494,9 @@
    "returns_home"
   ],
   "romance": true,
-  "summary": "Newly single Emily goes home for the holidays and is pressured by the neighborhood HOA to join Christmas festivities.",
-  "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "low"
+  "summary": "Alone at her parents' house for the holidays, Emily gets roped into every Christmas event by the HOA.",
+  "source_url": "https://www.hallmarkchannel.com/haul-out-the-holly/about-haul-out-the-holly",
+  "confidence": "high"
  },
  {
   "title": "A Big Fat Family Christmas",
@@ -499,14 +505,16 @@
   "her_actor": "Shannon Chan-Kent",
   "his_actor": "Shannon Kook",
   "her_job": "photojournalist (Liv)",
-  "his_job": null,
+  "his_job": "coworker covering the story with her (exact job not stated)",
   "location": "Chinatown",
   "location_type": "other",
-  "tropes": [],
+  "tropes": [
+   "secret_identity"
+  ],
   "romance": true,
-  "summary": "A photojournalist covers her parents' big annual Chinatown Christmas party alongside a colleague.",
-  "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "medium"
+  "summary": "A photojournalist hides that her dream assignment is her own family's holiday party while falling for her coworker.",
+  "source_url": "https://www.hallmarkchannel.com/a-big-fat-family-christmas/about-a-big-fat-family-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Christmas Cookie Catastrophe",
@@ -514,17 +522,17 @@
   "network": null,
   "her_actor": "Rachel Boston",
   "his_actor": "Victor Webster",
-  "her_job": "CEO of Cooper's Cookies, the company her late grandmother founded",
-  "his_job": "baker",
+  "her_job": "CEO of Cooper's Cookies",
+  "his_job": "local baker",
   "location": null,
   "location_type": "small_town",
   "tropes": [
    "save_the_business"
   ],
   "romance": true,
-  "summary": "A cookie company heir teams with a local baker to recreate a stolen family recipe and rescue her struggling small-town business.",
-  "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "medium"
+  "summary": "A new cookie CEO teams up with a local baker to rebuild grandma's stolen secret recipe.",
+  "source_url": "https://www.hallmarkchannel.com/a-christmas-cookie-catastrophe/about-a-christmas-cookie-catastrophe",
+  "confidence": "high"
  },
  {
   "title": "We Need a Little Christmas",

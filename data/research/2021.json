@@ -1,21 +1,22 @@
 [
  {
-  "title": "You, Me & the Christmas Trees",
+  "title": "You, Me & The Christmas Trees",
   "year": 2021,
   "network": "Hallmark Channel",
   "her_actor": "Danica McKellar",
   "his_actor": "Benjamin Ayres",
-  "her_job": "Connecticut evergreen expert",
-  "his_job": "fourth-generation tree farmer",
+  "her_job": "Connecticut's resident evergreen expert",
+  "his_job": "fourth-generation Christmas tree farmer",
   "location": "Avon, Connecticut",
-  "location_type": "small_town",
+  "location_type": "farm_ranch_vineyard",
   "tropes": [
+   "save_the_business",
    "work_rivals"
   ],
   "romance": true,
-  "summary": "A tree expert helps a fourth-generation tree farmer solve a problem just before Christmas and finds feelings growing.",
-  "source_url": "https://culturess.com/2021/10/22/hallmark-channel-you-me-and-the-christmas-trees-how-to-watch",
-  "confidence": "medium"
+  "summary": "A tree expert tries to diagnose why a family farm's firs are dying, and catches feelings for the farmer.",
+  "source_url": "https://www.hallmarkchannel.com/you-me-the-christmas-trees/about-you-me-the-christmas-trees",
+  "confidence": "high"
  },
  {
   "title": "Coyote Creek Christmas",
@@ -29,12 +30,12 @@
   "location_type": "her_hometown",
   "tropes": [
    "returns_home",
-   "single_parent",
-   "save_the_business"
+   "save_the_business",
+   "single_parent"
   ],
   "romance": true,
-  "summary": "Paige returns home to plan her family's Christmas Eve party and meets a developer dad eyeing her parents' inn.",
-  "source_url": "https://culturess.com/2021/10/28/hallmark-channel-coyote-creek-christmas",
+  "summary": "An event planner's Christmas Around the World party at the family inn brings a charming father-and-son pair.",
+  "source_url": "https://www.hallmarkchannel.com/coyote-creek-christmas/about-coyote-creek-christmas",
   "confidence": "high"
  },
  {
@@ -44,17 +45,17 @@
   "her_actor": "Ashleigh Murray",
   "his_actor": "Luke James",
   "her_job": "music executive at Suprasonic Records",
-  "his_job": null,
+  "his_job": "director of the Holiday Chorus",
   "location": "North Carolina (her hometown, unnamed)",
   "location_type": "her_hometown",
   "tropes": [
-   "returns_home",
-   "exes_reunited"
+   "exes_reunited",
+   "returns_home"
   ],
   "romance": true,
-  "summary": "A laid-off music executive goes home and co-directs the church choir with her ex-boyfriend.",
-  "source_url": "https://www.ibtimes.com/christmas-harmony-hallmark-movie-premiere-cast-trailer-synopsis-3326011",
-  "confidence": "medium"
+  "summary": "Harmony gets tricked into auditioning for a holiday chorus run by her ex.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-in-harmony/about-christmas-in-harmony",
+  "confidence": "high"
  },
  {
   "title": "Christmas in My Heart",
@@ -189,7 +190,7 @@
   "tropes": [],
   "romance": true,
   "summary": "Two volunteers with a non-profit build a home for a family at Christmas.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
+  "source_url": "https://www.hallmarkchannel.com/a-godwink-christmas",
   "confidence": "medium"
  },
  {
@@ -215,8 +216,8 @@
   "title": "Sugar Plum Twist",
   "year": 2021,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Jamie Gray Hyder",
+  "his_actor": "Ektor Rivera",
   "her_job": "retired professional ballerina (Natalia)",
   "his_job": null,
   "location": "Richmond, Virginia",
@@ -225,9 +226,9 @@
    "returns_home"
   ],
   "romance": true,
-  "summary": "An injured ballerina returns home and reimagines The Nutcracker with a Latin twist.",
-  "source_url": "https://www.newsweek.com/hallmark-countdown-christmas-2021-all-movies-coming-out-1642706",
-  "confidence": "medium"
+  "summary": "A ballerina home for Christmas coaches a student whose salsa instincts might shake up the holiday dance.",
+  "source_url": "https://www.hallmarkchannel.com/sugar-plum-twist/about-sugar-plum-twist",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Bond",
@@ -295,12 +296,12 @@
    "sequel"
   ],
   "romance": true,
-  "summary": "Cat lovers Zachary and Marilee reunite to find homes for a litter of kittens.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
-  "confidence": "medium"
+  "summary": "Two cat lovers get thrown together again to find homes for a pile of adorable kittens.",
+  "source_url": "https://www.hallmarkchannel.com/the-nine-kittens-of-christmas/about-the-nine-kittens-of-christmas",
+  "confidence": "high"
  },
  {
-  "title": "Open by Christmas",
+  "title": "Open By Christmas",
   "year": 2021,
   "network": "Hallmark Channel",
   "her_actor": "Alison Sweeney / Erica Durance",
@@ -311,9 +312,9 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Nicky finds a never-seen high school card while readying her parents' house for sale and hunts for its author.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
-  "confidence": "low"
+  "summary": "Nicky and her best friend go sleuthing for the secret admirer behind a Christmas card that went unopened for years.",
+  "source_url": "https://www.hallmarkchannel.com/open-by-christmas/about-open-by-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Royal Queens Christmas",
@@ -330,9 +331,9 @@
    "secret_identity"
   ],
   "romance": true,
-  "summary": "A prince hides in Queens and helps a local baker stage a children's Christmas show.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
-  "confidence": "medium"
+  "summary": "A prince lands in Queens and gets roped into a local woman's children's Christmas show.",
+  "source_url": "https://www.hallmarkchannel.com/a-royal-queens-christmas/about-a-royal-queens-christmas",
+  "confidence": "high"
  },
  {
   "title": "An Unexpected Christmas",
@@ -341,17 +342,17 @@
   "her_actor": "Bethany Joy Lenz",
   "his_actor": "Tyler Hynes",
   "her_job": null,
-  "his_job": "speechwriter (Jamie)",
+  "his_job": "speechwriter",
   "location": "Illinois",
   "location_type": null,
   "tropes": [
-   "fake_relationship",
-   "exes_reunited"
+   "exes_reunited",
+   "fake_relationship"
   ],
   "romance": true,
-  "summary": "A speechwriter persuades his ex to pose as his girlfriend to rescue his family's Christmas.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
-  "confidence": "medium"
+  "summary": "A speechwriter and his ex fake a couple act to save his family's Christmas, until feelings catch up.",
+  "source_url": "https://www.hallmarkchannel.com/an-unexpected-christmas/about-an-unexpected-christmas",
+  "confidence": "high"
  },
  {
   "title": "Eight Gifts of Hanukkah",
@@ -359,15 +360,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Inbar Lavi",
   "his_actor": "Jake Epstein",
-  "her_job": "optometrist (Sara)",
+  "her_job": "optometrist",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A newly single optometrist receives a gift each night of Hanukkah from a mystery suitor.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
-  "confidence": "medium"
+  "summary": "An anonymous admirer sends an optometrist a gift each Hanukkah night, and the real answer surprises her.",
+  "source_url": "https://www.hallmarkchannel.com/eight-gifts-of-hanukkah/about-eight-gifts-of-hanukkah",
+  "confidence": "high"
  },
  {
   "title": "A Very Merry Bridesmaid",
@@ -395,19 +396,20 @@
   "network": "Hallmark Channel",
   "her_actor": null,
   "his_actor": null,
-  "her_job": "restaurant owner in Salt Lake City (Jennifer Swift)",
+  "her_job": "owner of a successful restaurant in Salt Lake City (Jennifer)",
   "his_job": null,
   "location": "Hazelwood (her hometown)",
   "location_type": "her_hometown",
   "tropes": [
+   "competition_or_contest",
    "returns_home",
-   "widowed",
-   "single_parent"
+   "single_parent",
+   "widowed"
   ],
   "romance": true,
-  "summary": "A widowed restaurateur takes her teen son to her small hometown, where her sister helps run the family bakery.",
-  "source_url": "https://en.wikipedia.org/wiki/Sister_Swap",
-  "confidence": "medium"
+  "summary": "Two sisters trade towns for Christmas, one rescuing a beloved theater at home, the other helping out at a restaurant contest.",
+  "source_url": "https://www.hallmarkchannel.com/sister-swap-a-hometown-holiday/about-sister-swap-a-hometown-holiday",
+  "confidence": "high"
  },
  {
   "title": "Sister Swap: Christmas in the City",
@@ -415,33 +417,36 @@
   "network": "Hallmark Channel",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "stand-in at her sister's restaurant (Meg; normally helps run the family bakery)",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Salt Lake City",
+  "location_type": "big_city",
   "tropes": [
-   "sequel"
+   "competition_or_contest",
+   "sequel",
+   "single_parent",
+   "widowed"
   ],
-  "romance": false,
-  "summary": "Sister Swap sequel with Kimberly Williams-Paisley, Ashley Williams, Keith Robinson and Kevin Nealon; plot not found.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movie-schedule-premiere-dates/",
-  "confidence": "low"
+  "romance": true,
+  "summary": "The flip side of the sister swap: Meg heads to the big city to coach a restaurant crew through a charity cook-off.",
+  "source_url": "https://www.hallmarkchannel.com/sister-swap-christmas-in-the-city/about-sister-swap-christmas-in-the-city",
+  "confidence": "high"
  },
  {
   "title": "A Dickens of a Holiday!",
   "year": 2021,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Brooke D'Orsay",
+  "his_actor": "Kristoffer Polaha",
   "her_job": "community theater director",
-  "his_job": "action movie star (Jake, plays Scrooge)",
+  "his_job": "action movie star",
   "location": "Dickens, Ohio (Cassie's hometown)",
   "location_type": "her_hometown",
   "tropes": [],
   "romance": true,
-  "summary": "Cassie recruits a former classmate turned movie star to headline her hometown's 100th anniversary Dickens festival.",
-  "source_url": "https://www.newsweek.com/hallmark-countdown-christmas-2021-all-movies-coming-out-1642706",
-  "confidence": "medium"
+  "summary": "Cassie lures a movie star classmate to play Scrooge at her hometown's centennial Victorian festival.",
+  "source_url": "https://www.hallmarkchannel.com/a-dickens-of-a-holiday/about-a-dickens-of-a-holiday",
+  "confidence": "high"
  },
  {
   "title": "The Christmas House 2: Deck the Halls",
@@ -462,20 +467,20 @@
   "confidence": "low"
  },
  {
-  "title": "'Tis the Season to Be Merry",
+  "title": "’Tis the Season to be Merry",
   "year": 2021,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Rachael Leigh Cook",
+  "his_actor": "Travis Van Winkle",
   "her_job": "author",
-  "his_job": "aid worker (Chris)",
+  "his_job": "aid worker",
   "location": "Vermont",
   "location_type": "other",
   "tropes": [],
   "romance": true,
-  "summary": "An author seeking a fresh angle for her relationship book heads to snowy Vermont and meets an aid worker.",
-  "source_url": "https://www.newsweek.com/hallmark-countdown-christmas-2021-all-movies-coming-out-1642706",
-  "confidence": "medium"
+  "summary": "An author hunting for a fresh angle on relationships finds one in snowy Vermont with an aid worker.",
+  "source_url": "https://www.hallmarkchannel.com/tis-the-season-to-be-merry/about-tis-the-season-to-be-merry",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Contest",
@@ -492,27 +497,28 @@
    "exes_reunited"
   ],
   "romance": true,
-  "summary": "Exes Lara and Ben compete in a Christmas contest to win money for charity.",
-  "source_url": "https://www.tasteofhome.com/article/hallmark-christmas-movies-2021/",
-  "confidence": "medium"
+  "summary": "Two exes go head to head in a citywide Christmas contest where charity money and old feelings are both on the line.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-contest/about-the-christmas-contest",
+  "confidence": "high"
  },
  {
   "title": "Christmas in Tahoe",
   "year": 2021,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": "talent booker (Claire Rhodes)",
-  "his_job": "lead guitarist in a popular band (Ryan)",
+  "her_actor": "Laura Osnes",
+  "his_actor": "Kyle Selig",
+  "her_job": "talent booker",
+  "his_job": "lead guitarist of a famous band",
   "location": "Lake Tahoe (her family's hotel and casino)",
   "location_type": "inn_lodge_resort",
   "tropes": [
-   "exes_reunited"
+   "exes_reunited",
+   "save_the_business"
   ],
   "romance": true,
-  "summary": "When a Christmas Eve show loses its act, a talent booker asks her ex, a band guitarist, for help.",
-  "source_url": "https://www.newsweek.com/hallmark-countdown-christmas-2021-all-movies-coming-out-1642706",
-  "confidence": "medium"
+  "summary": "To rescue her family hotel's Christmas show, a talent booker asks the famous-guitarist ex who got her fired.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-in-tahoe/about-christmas-in-tahoe",
+  "confidence": "high"
  },
  {
   "title": "Christmas at Castle Hart",
@@ -533,20 +539,20 @@
   "confidence": "medium"
  },
  {
-  "title": "A Christmas Together with You",
+  "title": "A Christmas Together With You",
   "year": 2021,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Laura Vandervoort",
+  "his_actor": "Niall Matter",
   "her_job": null,
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A woman and her father figure take a road trip to find his first true love.",
-  "source_url": "https://www.newsweek.com/hallmark-countdown-christmas-2021-all-movies-coming-out-1642706",
-  "confidence": "low"
+  "summary": "Megan road-trips with her father figure to find his lost love and stumbles onto her own.",
+  "source_url": "https://www.hallmarkchannel.com/a-christmas-together-with-you/about-a-christmas-together-with-you",
+  "confidence": "high"
  },
  {
   "title": "Next Stop, Christmas",
@@ -564,39 +570,41 @@
   ],
   "romance": true,
   "summary": "A commuter's usual ride becomes a Christmas train carrying her back to her hometown in 2011.",
-  "source_url": "https://en.wikipedia.org/wiki/List_of_Hallmark_Channel_Original_Movies_(2020s)",
-  "confidence": "medium"
+  "source_url": "https://www.hallmarkchannel.com/next-stop-christmas/about-next-stop-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Christmas Treasure",
   "year": 2021,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": "writer (Lou)",
-  "his_job": "chef (Kyle)",
+  "her_actor": "Jordin Sparks",
+  "his_actor": "Michael Xavier",
+  "her_job": "writer",
+  "his_job": "chef",
   "location": "Pine Grove (fictional; she runs her family's newspaper there)",
   "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": "A writer weighing a move to New York meets a chef dreaming of opening his own restaurant.",
-  "source_url": "https://en.wikipedia.org/wiki/List_of_Hallmark_Channel_Original_Movies_(2020s)",
-  "confidence": "medium"
+  "summary": "A time capsule and a charming chef make Lou doubt her planned move to New York.",
+  "source_url": "https://www.hallmarkchannel.com/a-christmas-treasure/about-a-christmas-treasure",
+  "confidence": "high"
  },
  {
   "title": "My Christmas Family Tree",
   "year": 2021,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Aimee Teegarden",
+  "his_actor": "Andrew Walker",
   "her_job": "social worker at a foster child placement non-profit (Vanessa Hall)",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": "A New York social worker spends Christmas with her biological family; James Tupper plays her biological father.",
-  "source_url": "https://en.wikipedia.org/wiki/List_of_Hallmark_Channel_Original_Movies_(2020s)",
-  "confidence": "medium"
+  "summary": "After a DNA test reveals relatives she never knew, Vanessa heads to their place for a Christmas of awkward introductions.",
+  "source_url": "https://www.hallmarkchannel.com/my-christmas-family-tree/about-my-christmas-family-tree",
+  "confidence": "high"
  }
 ]

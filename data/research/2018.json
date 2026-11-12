@@ -5,18 +5,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Jessica Lowndes",
   "his_actor": "Michael Rady",
-  "her_job": "event planner",
-  "his_job": "wealthy businessman",
+  "her_job": "New York event planner",
+  "his_job": "billionaire selling the estate",
   "location": "Lambton, Connecticut",
   "location_type": "small_town",
   "tropes": [
    "big_city_to_small_town",
-   "inheritance"
+   "inheritance",
+   "save_the_business"
   ],
   "romance": true,
-  "summary": "A New York event planner running a town festival keeps crossing paths with a Darcy-like tycoon trying to sell his late uncle's estate.",
-  "source_url": "https://thetvdb.com/series/hallmark-countdown-to-christmas/seasons/official/2018",
-  "confidence": "medium"
+  "summary": "A Pride and Prejudice remix: an event planner needs the estate a grumpy billionaire is selling.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-at-pemberley-manor/about-christmas-at-pemberley-manor",
+  "confidence": "high"
  },
  {
   "title": "Christmas Joy",
@@ -24,18 +25,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Danielle Panabaker",
   "his_actor": "Matt Long",
-  "her_job": "market researcher",
+  "her_job": "market researcher in DC",
   "his_job": null,
   "location": "Crystal Falls, North Carolina",
   "location_type": "her_hometown",
   "tropes": [
-   "returns_home",
-   "promotion_at_stake"
+   "competition_or_contest",
+   "promotion_at_stake",
+   "returns_home"
   ],
   "romance": true,
-  "summary": "A career-minded market researcher returns to her small hometown to help her aunt and works with her old crush on a holiday cookie event.",
-  "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "medium"
+  "summary": "A career-driven researcher rushes home to cover for her aunt in the town cookie contest, with her old crush as co-captain.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-joy/about-christmas-joy",
+  "confidence": "high"
  },
  {
   "title": "Road to Christmas",
@@ -43,15 +45,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Jessy Schram",
   "his_actor": "Chad Michael Murray",
-  "her_job": "television producer",
+  "her_job": "Los Angeles television producer",
   "his_job": "former producer of his mother's Christmas special",
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Los Angeles and Vermont",
+  "location_type": "other",
+  "tropes": [
+   "secret_identity"
+  ],
   "romance": true,
-  "summary": "A Los Angeles producer is told to co-produce a Christmas special with the host's son, and romance follows.",
-  "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "medium"
+  "summary": "A TV producer falls for the son of a lifestyle star and schemes to reunite his family during a live Vermont broadcast.",
+  "source_url": "https://www.hallmarkchannel.com/road-to-christmas/about-road-to-christmas",
+  "confidence": "high"
  },
  {
   "title": "It's Christmas, Eve",
@@ -65,13 +69,13 @@
   "location_type": "her_hometown",
   "tropes": [
    "returns_home",
-   "widowed",
-   "single_parent"
+   "single_parent",
+   "widowed"
   ],
   "romance": true,
-  "summary": "A superintendent forced to make school cutbacks falls for a widowed music teacher and his young daughter.",
-  "source_url": "https://lollychristmas.com/2018/09/the-full-line-up-of-hallmarks-2018-christmas-movies-are-here/",
-  "confidence": "medium"
+  "summary": "A budget-trimming school superintendent back in her hometown must decide whether to cut the music program run by her handsome neighbor.",
+  "source_url": "https://www.hallmarkchannel.com/its-christmas-eve/about-its-christmas-eve",
+  "confidence": "high"
  },
  {
   "title": "Christmas in Love",
@@ -80,14 +84,17 @@
   "her_actor": "Brooke D'Orsay",
   "his_actor": "Daniel Lissing",
   "her_job": "aspiring crafter working at a small-town bakery",
-  "his_job": "CEO (company not stated)",
+  "his_job": "big-city CEO",
   "location": null,
   "location_type": "small_town",
-  "tropes": [],
+  "tropes": [
+   "boss_or_client_romance",
+   "save_the_business"
+  ],
   "romance": true,
-  "summary": "A small-town bakery worker who makes famous Christmas kringles faces a threat to her town's beloved holiday traditions.",
-  "source_url": "https://lollychristmas.com/2018/09/the-full-line-up-of-hallmarks-2018-christmas-movies-are-here/",
-  "confidence": "low"
+  "summary": "A bakery crafter shows an automation-minded CEO that people make a business, and starts falling for him.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-in-love/about-christmas-in-love",
+  "confidence": "high"
  },
  {
   "title": "Christmas at Graceland",
@@ -113,19 +120,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Jill Wagner",
   "his_actor": "Mark Deklin",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "professional retail designer",
+  "his_job": "local contractor",
   "location": "Evergreen",
   "location_type": "her_hometown",
   "tropes": [
-   "sequel",
    "returns_home",
-   "save_the_business"
+   "save_the_business",
+   "sequel"
   ],
   "romance": true,
-  "summary": "Lisa visits her hometown for Christmas, takes on saving the historic general store, and falls for Kevin along the way.",
-  "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "medium"
+  "summary": "A retail designer home for Christmas revives a closed general store with a contractor and a mystery letter to Santa.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-in-evergreen-letters-to-santa/about-christmas-in-evergreen-letters-to-santa",
+  "confidence": "high"
  },
  {
   "title": "Christmas Everlasting",
@@ -153,16 +160,16 @@
   "her_actor": "Candace Cameron Bure",
   "his_actor": "Luke MacFarlane",
   "her_job": "department store worker",
-  "his_job": null,
+  "his_job": "firefighter",
   "location": null,
   "location_type": null,
   "tropes": [
    "magic_or_santa"
   ],
   "romance": true,
-  "summary": "A holiday-hating department store worker is locked in on Christmas Eve and visited by an unlikely angel.",
-  "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "medium"
+  "summary": "Locked in a department store on Christmas Eve, a woman meets a shoe-department guardian angel and a charming firefighter neighbor.",
+  "source_url": "https://www.hallmarkchannel.com/a-shoe-addicts-christmas/about-a-shoe-addicts-christmas",
+  "confidence": "high"
  },
  {
   "title": "Mingle All the Way",
@@ -171,14 +178,16 @@
   "her_actor": "Jen Lilley",
   "his_actor": "Brant Daugherty",
   "her_job": "founder of a networking app",
-  "his_job": null,
+  "his_job": "busy professional (job not stated)",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "fake_relationship"
+  ],
   "romance": true,
-  "summary": "The founder of a holiday networking app for busy professionals ends up finding more than expected with one of its users.",
-  "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "low"
+  "summary": "An app founder joins her own no-romance matchmaking service and gets matched with a man she has already humiliated herself in front of twice.",
+  "source_url": "https://www.hallmarkchannel.com/mingle-all-the-way/about-mingle-all-the-way",
+  "confidence": "high"
  },
  {
   "title": "Homegrown Christmas",
@@ -186,18 +195,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Lori Loughlin",
   "his_actor": "Victor Webster",
-  "her_job": "former CEO",
+  "her_job": "former CEO of her dream job",
   "his_job": null,
   "location": null,
-  "location_type": null,
+  "location_type": "her_hometown",
   "tropes": [
-   "returns_home",
-   "exes_reunited"
+   "exes_reunited",
+   "returns_home"
   ],
   "romance": true,
-  "summary": "After stepping down from a top executive job, Maddie goes home and reconnects with her high school sweetheart while organizing a school dance.",
-  "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "medium"
+  "summary": "A burned-out ex-CEO goes home, bumps into her old sweetheart, and gets drafted into running a high school Christmas dance.",
+  "source_url": "https://www.hallmarkchannel.com/homegrown-christmas/about-homegrown-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Majestic Christmas",
@@ -206,17 +215,18 @@
   "her_actor": "Jerrika Hinton",
   "his_actor": "Christian Vincent",
   "her_job": "architect",
-  "his_job": "owner of the Majestic Playhouse theater",
-  "location": null,
+  "his_job": "new owner of the Majestic Playhouse",
+  "location": "Briar Falls",
   "location_type": "her_hometown",
   "tropes": [
+   "promotion_at_stake",
    "returns_home",
    "save_the_business"
   ],
   "romance": true,
-  "summary": "An architect returns to her hometown to turn a historic playhouse into a multiplex, facing local opposition.",
-  "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "medium"
+  "summary": "An architect sent home to modernize a beloved theater tries to teach its Christmas-clueless owner some holiday spirit.",
+  "source_url": "https://www.hallmarkchannel.com/a-majestic-christmas/about-a-majestic-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas Made to Order",
@@ -224,7 +234,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Alexa PenaVega",
   "his_actor": "Jonathan Bennett",
-  "her_job": "holiday decorator with a side business (day job at a catalogue company)",
+  "her_job": "holiday coordinator",
   "his_job": "architect",
   "location": null,
   "location_type": null,
@@ -232,9 +242,9 @@
    "boss_or_client_romance"
   ],
   "romance": true,
-  "summary": "A holiday decorator is hired by an architect with no Christmas spirit who is hosting his family for the holidays.",
-  "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "medium"
+  "summary": "A Christmas-clueless architect hires a holiday coordinator to rescue his family gathering, and they get closer.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-made-to-order/about-christmas-made-to-order",
+  "confidence": "high"
  },
  {
   "title": "A Christmas for the Books",
@@ -266,9 +276,9 @@
    "royalty"
   ],
   "romance": true,
-  "summary": "A former skater is hired by a king to help his daughter with a Christmas ice skating performance.",
-  "source_url": "https://thehappyhallmarker.com/hallmark-channel-christmas-movies-checklists-for-each-year/",
-  "confidence": "medium"
+  "summary": "A former skater hired to coach a king's daughter falls for him, and the kingdom wonders about a foreign queen.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-at-the-palace/about-christmas-at-the-palace",
+  "confidence": "high"
  },
  {
   "title": "Entertaining Christmas",
@@ -276,15 +286,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Jodie Sweetin",
   "his_actor": "Brendan Fehr",
-  "her_job": null,
+  "her_job": "daughter and heir apparent to her mother's lifestyle brand",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "promotion_at_stake"
+  ],
   "romance": true,
-  "summary": "Candace is poised to take over her mother's lifestyle and crafting brand as her mother considers retiring, and a romance develops.",
-  "source_url": "https://thehappyhallmarker.com/hallmark-channel-christmas-movies-checklists-for-each-year/",
-  "confidence": "low"
+  "summary": "A daughter who cannot cook or sew must stand in for her domestic-goddess mom to win the brand's top job.",
+  "source_url": "https://www.hallmarkchannel.com/entertaining-christmas/about-entertaining-christmas",
+  "confidence": "high"
  },
  {
   "title": "Reunited at Christmas",
@@ -297,12 +309,13 @@
   "location": "Cedar Ridge",
   "location_type": "small_town",
   "tropes": [
+   "fake_relationship",
    "returns_home"
   ],
   "romance": true,
-  "summary": "A writer tasked with a Christmas novel returns with her family and boyfriend to her late grandmother's house to revive old traditions.",
-  "source_url": "https://thehappyhallmarker.com/hallmark-channel-christmas-movies-checklists-for-each-year/",
-  "confidence": "medium"
+  "summary": "A grandmother's posthumous scheme gathers the family for Christmas, just as a hasty engagement falls apart in front of everyone.",
+  "source_url": "https://www.hallmarkchannel.com/reunited-at-christmas/about-reunited-at-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas Bells Are Ringing",
@@ -388,13 +401,13 @@
   "his_actor": "Paul Campbell",
   "her_job": "antique appraiser from St. Louis",
   "his_job": "inn owner",
-  "location": "Nantucket",
+  "location": "Nantucket and Martha's Vineyard",
   "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": "An engaged antique appraiser visits her aunt in Nantucket and bonds with a charming local inn owner.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "medium"
+  "summary": "A reluctantly engaged antique appraiser visits her aunt, meets a charming inn owner, and gets some nudges from above.",
+  "source_url": "https://www.hallmarkchannel.com/a-godwink-christmas",
+  "confidence": "high"
  },
  {
   "title": "Last Vermont Christmas",
@@ -572,12 +585,12 @@
   "location": "Grand Valley",
   "location_type": "small_town",
   "tropes": [
-   "returns_home",
-   "big_city_to_small_town"
+   "big_city_to_small_town",
+   "returns_home"
   ],
   "romance": true,
   "summary": "A burned-out gallery-world artist returns home for Christmas and meets a dad assigned to review a hotel in town.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
+  "source_url": "https://www.hallmarkchannel.com/christmas-at-grand-valley",
   "confidence": "medium"
  },
  {
@@ -594,8 +607,8 @@
    "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "A ski resort developer stranded in a tiny town finds residents and its sheriff trying to win her over.",
-  "source_url": "https://thehappyhallmarker.com/hallmark-channel-christmas-movies-checklists-for-each-year/",
+  "summary": "A resort scout stranded by a fender-bender discovers a whole town campaigning to keep her from building anywhere near it.",
+  "source_url": "https://www.hallmarkchannel.com/welcome-to-christmas/about-welcome-to-christmas",
   "confidence": "high"
  }
 ]

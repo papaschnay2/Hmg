@@ -25,17 +25,17 @@
   "her_actor": "Merritt Patterson",
   "his_actor": "Luke Macfarlane",
   "her_job": "world-renowned pianist",
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "his_job": "musician (her ex and former bandmate)",
+  "location": "Chateau Neuhaus",
+  "location_type": "other",
   "tropes": [
-   "returns_home",
-   "exes_reunited"
+   "exes_reunited",
+   "returns_home"
   ],
   "romance": true,
-  "summary": "A famous pianist comes home for the holidays, reconnects with an ex, and rediscovers her love of music.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "medium"
+  "summary": "A star pianist goes home for the holidays and ends up headlining a concert with her ex.",
+  "source_url": "https://www.hallmarkchannel.com/chateau-christmas/about-chateau-christmas",
+  "confidence": "high"
  },
  {
   "title": "Love, Lights, Hanukkah!",
@@ -49,9 +49,9 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A restaurateur learns through a DNA test she is half Jewish, gaining a new family and an unlikely romance.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "medium"
+  "summary": "A DNA test reveals a restaurateur is Jewish, leading to a new family and an unlikely Hanukkah romance.",
+  "source_url": "https://www.hallmarkchannel.com/love-lights-hanukkah/about-love-lights-hanukkah",
+  "confidence": "high"
  },
  {
   "title": "The Christmas House",
@@ -63,11 +63,13 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home"
+  ],
   "romance": false,
-  "summary": "Ensemble holiday story featuring Jonathan Bennett as half of a gay couple hoping to adopt their first child.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "low"
+  "summary": "Two grown sons return to their parents' holiday-obsessed home, with an adoption call and an old flame in play.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-house/about-the-christmas-house",
+  "confidence": "high"
  },
  {
   "title": "USS Christmas",
@@ -95,11 +97,13 @@
   "his_job": "dance instructor",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "wedding"
+  ],
   "romance": true,
-  "summary": "A woman learns to dance with an instructor who also runs dance studios, helping her face her fears.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "medium"
+  "summary": "With her dream wedding canceled, Avery lets a dance instructor teach her to waltz past her fears.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-waltz/about-christmas-waltz",
+  "confidence": "high"
  },
  {
   "title": "If I Only Had Christmas",
@@ -126,14 +130,15 @@
   "her_job": "writer (advice columnist)",
   "his_job": null,
   "location": null,
-  "location_type": null,
+  "location_type": "her_hometown",
   "tropes": [
+   "boss_or_client_romance",
    "returns_home"
   ],
   "romance": true,
-  "summary": "Her column gets cancelled, so a writer heads home to family and meets the man behind the decision.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "medium"
+  "summary": "A writer whose column got axed heads home, where the man who axed it shows up.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-she-wrote/about-christmas-she-wrote",
+  "confidence": "high"
  },
  {
   "title": "A Christmas Carousel",
@@ -149,9 +154,9 @@
    "royalty"
   ],
   "romance": true,
-  "summary": "A restorer hired by a royal family races with their prince to finish a carousel as a gift by Christmas.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "medium",
+  "summary": "A restorer hired by a royal family has until Christmas to fix a carousel alongside the prince.",
+  "source_url": "https://www.hallmarkchannel.com/a-christmas-carousel/about-a-christmas-carousel",
+  "confidence": "high",
   "problem": "Actual title appears to be 'A Christmas Carousel'."
  },
  {
@@ -176,8 +181,8 @@
   "title": "A Timeless Christmas",
   "year": 2020,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Erin Cahill",
+  "his_actor": "Ryan Paevey",
   "her_job": "tour guide at a historic mansion",
   "his_job": null,
   "location": null,
@@ -186,9 +191,9 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A man from 1903 lands in 2020 and meets a mansion tour guide who shows him a modern Christmas.",
-  "source_url": "https://www.tvguide.com/news/hallmark-christmas-movie-schedule-2020-holiday-marathon-underway/",
-  "confidence": "medium"
+  "summary": "A gentleman from 1903 lands in 2020 and gets a crash course in modern Christmas from Megan.",
+  "source_url": "https://www.hallmarkchannel.com/a-timeless-christmas/about-a-timeless-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Nashville Christmas Carol",
@@ -201,12 +206,14 @@
   "location": "Nashville",
   "location_type": "big_city",
   "tropes": [
-   "childhood_friends"
+   "childhood_friends",
+   "exes_reunited",
+   "magic_or_santa"
   ],
   "romance": true,
-  "summary": "A workaholic TV producer staging a country music special is reunited with her childhood sweetheart.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "medium"
+  "summary": "A producer is stuck working with her ex on a country Christmas special while ghostly spirits nudge her past.",
+  "source_url": "https://www.hallmarkchannel.com/a-nashville-christmas-carol/about-a-nashville-christmas-carol",
+  "confidence": "high"
  },
  {
   "title": "A Bright and Merry Christmas",
@@ -235,20 +242,20 @@
   "location": "Chicago",
   "location_type": "big_city",
   "tropes": [
-   "work_rivals",
-   "promotion_at_stake"
+   "promotion_at_stake",
+   "work_rivals"
   ],
   "romance": true,
-  "summary": "Two rival game designers vying for a promotion must create a city-wide Twelve Days of Christmas scavenger hunt.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "medium"
+  "summary": "Two mismatched game designers build a citywide scavenger hunt based on the 12 Days of Christmas.",
+  "source_url": "https://www.hallmarkchannel.com/on-the-12th-date-of-christmas/about-on-the-12th-date-of-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas by Starlight",
   "year": 2020,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Kimberley Sustad",
+  "his_actor": "Paul Campbell",
   "her_job": "lawyer",
   "his_job": null,
   "location": null,
@@ -257,9 +264,9 @@
    "save_the_business"
   ],
   "romance": true,
-  "summary": "A lawyer tries to stop the planned demolition of her family's beloved cafe before Christmas.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "medium"
+  "summary": "Annie fights to save her family's beloved cafe from the wrecking ball before Christmas.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-by-starlight/about-christmas-by-starlight",
+  "confidence": "high"
  },
  {
   "title": "Christmas Tree Lane",

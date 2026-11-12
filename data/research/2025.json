@@ -6,16 +6,17 @@
   "her_actor": "Fiona Gubelmann",
   "his_actor": "Warren Christie",
   "her_job": "Princess Victoria of Zelarnia",
-  "his_job": "Montana ranch guide, heir to his family's ranch",
-  "location": "Montana ranch (Big Sky Country)",
+  "his_job": "ranch guide and heir to the family ranch (Huntley Blaylock)",
+  "location": "Peaceful Pines Ranch, Montana",
   "location_type": "farm_ranch_vineyard",
   "tropes": [
-   "royalty"
+   "royalty",
+   "secret_identity"
   ],
   "romance": true,
-  "summary": "An overworked princess escapes to a Montana ranch for Christmas and must decide whether love is worth leaving royal life.",
-  "source_url": "https://lifetimeuncorked.com/2025/10/18/a-royal-montana-christmas-hallmark-movie-2025",
-  "confidence": "medium"
+  "summary": "A burned-out princess incognito at a Montana ranch gets rustic treatment from a guide who has no idea who she is.",
+  "source_url": "https://www.hallmarkchannel.com/a-royal-montana-christmas/about-a-royal-montana-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Christmas Angel Match",
@@ -23,18 +24,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Meghan Ory",
   "his_actor": "Benjamin Ayres",
-  "her_job": "Angel (Monica) in the Christmas Connection Department",
-  "his_job": "Angel (Michael) in the Christmas Connection Department",
+  "her_job": "Christmas Angel (Monica)",
+  "his_job": "Christmas Angel (Michael)",
   "location": null,
   "location_type": null,
   "tropes": [
-   "work_rivals",
-   "magic_or_santa"
+   "magic_or_santa",
+   "work_rivals"
   ],
   "romance": true,
-  "summary": "Two rival angels are paired up to match human soulmates at Christmas while their department faces downsizing.",
-  "source_url": "https://lifetimeuncorked.com/2025/10/20/a-christmas-angel-match-hallmark-christmas-movie-2025",
-  "confidence": "medium"
+  "summary": "A rule-following angel and a hot-chocolate-loving angel are forced into a joint matchmaking mission amid department downsizing.",
+  "source_url": "https://www.hallmarkchannel.com/a-christmas-angel-match/about-a-christmas-angel-match",
+  "confidence": "high"
  },
  {
   "title": "Merry Christmas, Ted Cooper!",
@@ -42,17 +43,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Kimberley Sustad",
   "his_actor": "Robert Buckley",
-  "her_job": "Urgent care doctor (Dr. Hope Miller)",
-  "his_job": "Weatherman (Ted Cooper)",
-  "location": "Corning, New York",
+  "her_job": "urgent care doctor (Dr. Hope Miller)",
+  "his_job": "weatherman (Ted Cooper)",
+  "location": "Lackawanna, NY",
   "location_type": "small_town",
   "tropes": [
    "returns_home"
   ],
   "romance": true,
-  "summary": "A weatherman determined to fix three miserable Christmases lands in urgent care with his high school crush, now a doctor.",
-  "source_url": "https://entertainmentnow.com/hallmark/merry-christmas-ted-cooper-july-24/",
-  "confidence": "medium"
+  "summary": "An accident-prone weatherman visits his hometown for a better Christmas and gets patched up by his old high school crush.",
+  "source_url": "https://www.hallmarkchannel.com/merry-christmas-ted-cooper/about-merry-christmas-ted-cooper",
+  "confidence": "high"
  },
  {
   "title": "Christmas on Duty",
@@ -65,13 +66,14 @@
   "location": "Quantico, Virginia",
   "location_type": "other",
   "tropes": [
-   "work_rivals",
-   "exes_reunited"
+   "exes_reunited",
+   "snowed_in_or_stranded",
+   "work_rivals"
   ],
   "romance": true,
-  "summary": "Two former Marine rivals are assigned to the same 24-hour holiday duty shift and must work together.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "Two bitter Marine rivals get punished with a joint 24-hour Christmas duty shift and a snowstorm to overcome.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-on-duty/about-christmas-on-duty",
+  "confidence": "high"
  },
  {
   "title": "A Newport Christmas",
@@ -79,7 +81,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Ginna Claire Mason",
   "his_actor": "Wes Brown",
-  "her_job": "wealthy, charitable socialite in 1905 Newport (Ella)",
+  "her_job": "charitable Newport socialite in 1905 (Ella)",
   "his_job": "sailor and local Newport historian (Nick)",
   "location": "Newport (1905 and 2025)",
   "location_type": "other",
@@ -87,9 +89,9 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A 1905 socialite wishes for a different life and wakes in 2025 aboard her own schooner, which a sailor claims is his.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "A comet wish flings a 1905 socialite to 2025, where a sailor claims her schooner is his.",
+  "source_url": "https://www.hallmarkchannel.com/a-newport-christmas/about-a-newport-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas Above the Clouds",
@@ -97,17 +99,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Erin Krakow",
   "his_actor": "Tyler Hynes",
-  "her_job": "Workaholic CEO (Ella Neezer)",
+  "her_job": "workaholic CEO (Ella Neezer)",
   "his_job": null,
   "location": "A long-haul flight to Australia",
   "location_type": "other",
   "tropes": [
+   "exes_reunited",
+   "magic_or_santa",
    "work_rivals"
   ],
   "romance": true,
-  "summary": "A workaholic CEO tries to skip Christmas by flying to Australia in a modern take on A Christmas Carol; third Three Wise Men film.",
-  "source_url": "https://www.seniordaily.com/best-hallmark-christmas-movies-of-2025-from-imdb/",
-  "confidence": "medium"
+  "summary": "A CEO fleeing Christmas on a flight to Australia gets haunted by three spirits and an ex in a Dickensian twist.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-above-the-clouds/about-christmas-above-the-clouds",
+  "confidence": "high"
  },
  {
   "title": "A Keller Christmas Vacation",
@@ -123,9 +127,9 @@
    "sequel"
   ],
   "romance": false,
-  "summary": "Three drifted-apart Keller siblings reluctantly take a family river cruise down the Danube at Christmas.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "summary": "Three grown Keller siblings get shipped down the Danube to Christmas markets and discover family bonding whether they like it or not.",
+  "source_url": "https://www.hallmarkchannel.com/a-keller-christmas-vacation/about-a-keller-christmas-vacation",
+  "confidence": "high"
  },
  {
   "title": "Three Wisest Men",
@@ -134,16 +138,17 @@
   "her_actor": null,
   "his_actor": "Paul Campbell",
   "her_job": null,
-  "his_job": null,
+  "his_job": "Brenner brother (Stephan, planning his wedding)",
   "location": null,
   "location_type": null,
   "tropes": [
-   "sequel"
+   "sequel",
+   "wedding"
   ],
   "romance": false,
-  "summary": "The Brenner brothers try to stage the best Christmas ever to reunite their scattered family; third in the series.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "The Brenner brothers rally for a final Christmas in the family home before mom sells it.",
+  "source_url": "https://www.hallmarkchannel.com/three-wisest-men/about-three-wisest-men",
+  "confidence": "high"
  },
  {
   "title": "Tidings for the Season",
@@ -151,17 +156,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Tamera Mowry-Housley",
   "his_actor": "B.J. Britt",
-  "her_job": "Single mom (job not stated)",
-  "his_job": "Local TV newscaster",
+  "her_job": "single mom (job not stated)",
+  "his_job": "local TV newscaster (Adam Kade)",
   "location": null,
   "location_type": null,
   "tropes": [
+   "promotion_at_stake",
    "single_parent"
   ],
   "romance": true,
-  "summary": "A career-driven local newscaster's life shifts after meeting a 10-year-old fan and his single mother.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "A serious newscaster takes a kid fan's advice to report good news and falls for the boy's single mom.",
+  "source_url": "https://www.hallmarkchannel.com/tidings-for-the-season/about-tidings-for-the-season",
+  "confidence": "high"
  },
  {
   "title": "Holiday Touchdown: A Bills Love Story",
@@ -169,17 +175,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Holland Roden",
   "his_actor": "Matthew Daddario",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "pediatric doctor (Morgan Quinn)",
+  "his_job": "Bills VP of Stadium Development (Gabe DeLuca)",
   "location": "Buffalo, New York",
   "location_type": "big_city",
   "tropes": [
    "childhood_friends"
   ],
   "romance": true,
-  "summary": "Two lifelong friends hunt for a mysterious secret Santa around Buffalo and the Bills' stadium.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "summary": "Next-door friends sleuth out a secret Santa for Uncle Tommy while Gabe's long-held crush gets harder to hide.",
+  "source_url": "https://www.hallmarkchannel.com/holiday-touchdown-a-bills-love-story/about-holiday-touchdown-a-bills-love-story",
+  "confidence": "high"
  },
  {
   "title": "Melt My Heart This Christmas",
@@ -187,15 +193,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Laura Vandervoort",
   "his_actor": "Stephen Huszar",
-  "her_job": "Glassblower (Holly James)",
-  "his_job": null,
-  "location": null,
+  "her_job": "glassblower (Holly James)",
+  "his_job": "fair entries overseer (Jack Dubois)",
+  "location": "Fern Grove",
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "competition_or_contest",
+   "secret_identity"
+  ],
   "romance": true,
-  "summary": "A struggling glassblower hopes to show her art at a Christmas fair while dealing with a prickly Jack.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "A glassblower secretly shows her art at the fair under a pseudonym until a reporter shatters the secret.",
+  "source_url": "https://www.hallmarkchannel.com/melt-my-heart-this-christmas/about-melt-my-heart-this-christmas",
+  "confidence": "high"
  },
  {
   "title": "We Met in December",
@@ -211,9 +220,9 @@
    "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "Two strangers meet during an unexpected December layover at a Chicago hotel, then each try to find the other again.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "Two strangers share a perfect layover night, forget to swap numbers, and each go hunting for the other.",
+  "source_url": "https://www.hallmarkchannel.com/we-met-in-december/about-we-met-in-december",
+  "confidence": "high"
  },
  {
   "title": "An Alpine Holiday",
@@ -222,14 +231,14 @@
   "her_actor": null,
   "his_actor": null,
   "her_job": null,
-  "his_job": null,
-  "location": "Chamonix, French Alps",
+  "his_job": "French mountaineer guide (Frederic)",
+  "location": "French Alps",
   "location_type": "europe_or_kingdom",
   "tropes": [],
   "romance": true,
-  "summary": "Two vastly different, estranged sisters reunite in the French Alps, retracing their grandfather's first trip, with a local guide along the way.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "summary": "Two estranged sisters retrace their grandparents' Alpine trip, and one sister gets a mountaineer guide with benefits.",
+  "source_url": "https://www.hallmarkchannel.com/an-alpine-holiday/about-an-alpine-holiday",
+  "confidence": "high"
  },
  {
   "title": "A Grand Ole Opry Christmas",
@@ -237,37 +246,39 @@
   "network": "Hallmark Channel",
   "her_actor": "Nikki DeLoach",
   "his_actor": "Kristoffer Polaha",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "daughter of a late country icon who abandoned songwriting (Gentry Wade)",
+  "his_job": "country music talent manager (Mac)",
   "location": "Nashville, at the Grand Ole Opry",
   "location_type": "other",
   "tropes": [
+   "childhood_friends",
+   "magic_or_santa",
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "The daughter of a late country star who gave up songwriting finds a time-bending Christmas at the Grand Ole Opry in Nashville.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "summary": "A hesitant songwriter and her lifelong friend get zapped back to 1995 inside the Opry for some Christmas-magic closure.",
+  "source_url": "https://www.hallmarkchannel.com/a-grand-ole-opry-christmas/about-a-grand-ole-opry-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas at the Catnip Café",
   "year": 2025,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": "Marketing executive",
-  "his_job": "Veterinarian and co-owner of the cat café",
-  "location": "Felicity, upstate New York",
+  "her_actor": "Erin Cahill",
+  "his_actor": "Paul Campbell",
+  "her_job": "marketing executive from Oakland (Olivia Pierce)",
+  "his_job": "veterinarian and co-owner of the cat cafe (Dr. Ben Kane)",
+  "location": "a cat cafe in upstate New York",
   "location_type": "small_town",
   "tropes": [
+   "big_city_to_small_town",
    "inheritance",
-   "save_the_business",
-   "big_city_to_small_town"
+   "save_the_business"
   ],
   "romance": true,
-  "summary": "A marketing executive inherits part of a cat café and must work with its veterinarian co-owner, who wants to sell.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "An heiress to half a cat cafe wants a quick sale, but a vet co-owner and three weeks of fundraising complicate it.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-at-the-catnip-cafe/about-christmas-at-the-catnip-cafe",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Cup",
@@ -276,17 +287,17 @@
   "her_actor": "Rhiannon Fish",
   "his_actor": "Ben Rosenbaum",
   "her_job": "Marine staff sergeant recovering from a knee injury (Kelly Brandt)",
-  "his_job": "Firefighter (Quinn Stokley)",
+  "his_job": "fire captain (Quinn Stokley)",
   "location": null,
   "location_type": "her_hometown",
   "tropes": [
-   "returns_home",
-   "competition_or_contest"
+   "competition_or_contest",
+   "returns_home"
   ],
   "romance": true,
-  "summary": "An injured Marine home on leave leads her hometown team against a rival town in the Christmas Cup alongside a firefighter.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "An injured Marine home for the holidays coaches her hometown team against a rival town with a firefighter's help.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-cup/about-the-christmas-cup",
+  "confidence": "high"
  },
  {
   "title": "She's Making a List",
@@ -294,20 +305,20 @@
   "network": "Hallmark Channel",
   "her_actor": "Lacey Chabert",
   "his_actor": "Andrew Walker",
-  "her_job": "Consultant who decides children's fates on the Naughty or Nice list",
-  "his_job": "Widowed father (job not stated)",
+  "her_job": "top inspector at the Naughty or Nice Group (Isabel)",
+  "his_job": "widowed father (job not stated)",
   "location": null,
   "location_type": null,
   "tropes": [
-   "widowed",
-   "single_parent",
    "magic_or_santa",
-   "promotion_at_stake"
+   "promotion_at_stake",
+   "single_parent",
+   "widowed"
   ],
   "romance": true,
-  "summary": "A Naughty-or-Nice list consultant falls for a widowed father.",
-  "source_url": "https://www.yahoo.com/entertainment/movies/articles/hallmark-just-released-full-christmas-211000138.html",
-  "confidence": "medium"
+  "summary": "A Naughty-or-Nice inspector falls for the widowed dad of her mischievous case subject.",
+  "source_url": "https://www.hallmarkchannel.com/shes-making-a-list/about-shes-making-a-list",
+  "confidence": "high"
  },
  {
   "title": "Single on the 25th",
@@ -316,14 +327,14 @@
   "her_actor": "Lyndsy Fonseca",
   "his_actor": "Daniel Lissing",
   "her_job": null,
-  "his_job": null,
+  "his_job": "financial analyst (Cooper)",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A single woman dreading couple-filled Christmas gets holiday-singlehood tips from her neighbor Cooper.",
-  "source_url": "https://www.yahoo.com/entertainment/movies/articles/hallmark-just-released-full-christmas-211000138.html",
-  "confidence": "low"
+  "summary": "A woman embracing solo Christmas gets tips from her happily unattached neighbor, until the friendship wobbles.",
+  "source_url": "https://www.hallmarkchannel.com/single-on-the-25th/about-single-on-the-25th",
+  "confidence": "high"
  },
  {
   "title": "A Suite Holiday Romance",
@@ -331,33 +342,35 @@
   "network": "Hallmark Channel",
   "her_actor": "Jessy Schram",
   "his_actor": "Dominic Sherwood",
-  "her_job": "writer ghostwriting a memoir for a famous art dealer",
-  "his_job": null,
+  "her_job": "struggling writer hired to ghostwrite an art dealer's memoir (Sabrina Post)",
+  "his_job": "personal secretary to Lord Spencer Braxton (Ian Turner)",
   "location": "Grand Fairbanks Hotel, New York City",
   "location_type": "inn_lodge_resort",
-  "tropes": [],
+  "tropes": [
+   "secret_identity"
+  ],
   "romance": true,
-  "summary": "A writer ghostwriting a memoir while staying at a grand New York hotel befriends a British tourist she suspects is a lord.",
-  "source_url": "https://www.yahoo.com/entertainment/movies/articles/hallmark-just-released-full-christmas-211000138.html",
-  "confidence": "low"
+  "summary": "A ghostwriter lets a charming Brit believe she is a wealthy guest, never guessing he is also not the lord he seems.",
+  "source_url": "https://www.hallmarkchannel.com/a-suite-holiday-romance/about-a-suite-holiday-romance",
+  "confidence": "high"
  },
  {
   "title": "Oy to the World!",
   "year": 2025,
   "network": "Hallmark Channel",
-  "her_actor": null,
+  "her_actor": "Brooke D'Orsay",
   "his_actor": "Jake Epstein",
-  "her_job": "Youth choir director at St. Joseph's Episcopal Church",
-  "his_job": "Aspiring musician and rabbi's son",
+  "her_job": "youth choir director at St. Joseph's Episcopal Church (Nikki Roberts)",
+  "his_job": "substitute youth choir director from Temple Beth Am (Jake Cohen)",
   "location": "Pine Bend",
   "location_type": "small_town",
   "tropes": [
    "work_rivals"
   ],
   "romance": true,
-  "summary": "A church choir director and a rabbi's son, old high school rivals, team up on a joint Hanukkah-Christmas celebration after a temple mishap.",
-  "source_url": "https://www.yahoo.com/entertainment/movies/articles/hallmark-just-released-full-christmas-211000138.html",
-  "confidence": "medium"
+  "summary": "Old high school rivals who lead rival choirs must combine one Hanukkah-Christmas Eve program after a temple plumbing disaster.",
+  "source_url": "https://www.hallmarkchannel.com/oy-to-the-world/about-oy-to-the-world",
+  "confidence": "high"
  },
  {
   "title": "The More the Merrier",
@@ -365,17 +378,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Rachel Boston",
   "his_actor": "Brendan Penny",
-  "her_job": "Emergency room doctor (Alice)",
-  "his_job": "Cardiologist (Brian)",
-  "location": "Pine Ridge (small rural hospital)",
+  "her_job": "emergency room doctor at a small rural hospital (Alice)",
+  "his_job": "newly hired cardiologist (Brian)",
+  "location": "small rural hospital",
   "location_type": "small_town",
   "tropes": [
    "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "An ER doctor and a cardiologist fall for each other during a snowed-in Christmas Eve baby boom at a rural hospital.",
-  "source_url": "https://www.justjared.com/2026/01/09/hallmarks-5-most-watched-movies-of-2025-revealed-1-isnt-a-christmas-movie/",
-  "confidence": "medium"
+  "summary": "A snowed-in Christmas Eve baby boom throws a holiday-loving ER doctor together with a new cardiologist.",
+  "source_url": "https://www.hallmarkchannel.com/the-more-the-merrier/about-the-more-the-merrier",
+  "confidence": "high"
  },
  {
   "title": "The Snow Must Go On",
@@ -383,17 +396,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Heather Hemmens",
   "his_actor": "Corey Cott",
-  "her_job": "school guidance counselor",
-  "his_job": "Former Broadway performer directing his niece's high school Christmas musical",
-  "location": "Upstate New York",
-  "location_type": null,
+  "her_job": "school guidance counselor (Lilly-Anne Brigente)",
+  "his_job": "former Broadway performer (Isaiah Heyward)",
+  "location": "upstate New York",
+  "location_type": "small_town",
   "tropes": [
+   "big_city_to_small_town",
    "competition_or_contest"
   ],
   "romance": true,
-  "summary": "A former Broadway star directs his niece's school Christmas musical hoping to impress a Broadway producer.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "summary": "A Broadway hopeful rescues his niece's school Christmas musical and trips into romance with the guidance counselor.",
+  "source_url": "https://www.hallmarkchannel.com/the-snow-must-go-on/about-the-snow-must-go-on",
+  "confidence": "high"
  },
  {
   "title": "A Make or Break Holiday",
@@ -405,11 +419,13 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "fake_relationship"
+  ],
   "romance": true,
-  "summary": "A couple takes a relationship break after an argument while their families gather at their home for Christmas.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "summary": "A couple on the outs fakes happiness for their hosted-family Christmas and might accidentally fix things.",
+  "source_url": "https://www.hallmarkchannel.com/a-make-or-break-holiday/about-a-make-or-break-holiday",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Baby",
@@ -423,8 +439,8 @@
   "location_type": null,
   "tropes": [],
   "romance": false,
-  "summary": "A married lesbian couple's lives change when a baby is left on their doorstep; no man-woman romance.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "summary": "A couple finds a baby on their doorstep days before Christmas and starts thinking about adoption.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-baby/about-the-christmas-baby",
+  "confidence": "high"
  }
 ]

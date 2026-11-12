@@ -5,18 +5,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Amanda Schull",
   "his_actor": "Victor Webster",
-  "her_job": "party planner and single mom",
-  "his_job": "ski instructor, son of the ski lodge owner",
-  "location": "A ski lodge (name not given)",
+  "her_job": "party planner and single mom (Lexi)",
+  "his_job": "ski instructor and son of the lodge owner (Ridge)",
+  "location": "a ski resort",
   "location_type": "inn_lodge_resort",
   "tropes": [
-   "single_parent",
-   "boss_or_client_romance"
+   "boss_or_client_romance",
+   "single_parent"
   ],
   "romance": true,
-  "summary": "A single-mom party planner hired for a ski lodge holiday party falls for the owner's ski-instructor son while her mother and daughter meddle.",
-  "source_url": "https://fangirlish.com/2026/10/14/countdown-to-christmas-preview-tis-the-season-for-setups/",
-  "confidence": "medium"
+  "summary": "A party planner and a ski instructor team up to match their parents and end up matched themselves.",
+  "source_url": "https://www.hallmarkchannel.com/tis-the-season-for-setups/about-tis-the-season-for-setups",
+  "confidence": "high"
  },
  {
   "title": "Holiday Touchdown: A Bears Love Story",
@@ -24,7 +24,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Lyndsy Fonseca",
   "his_actor": "Robert Buckley",
-  "her_job": "freelance reporter",
+  "her_job": "ambitious freelance reporter",
   "his_job": "Chicago firefighter",
   "location": "Chicago, Illinois",
   "location_type": "big_city",
@@ -32,9 +32,9 @@
    "returns_home"
   ],
   "romance": true,
-  "summary": "A freelance reporter home in Chicago for Christmas profiles a Bears superfan and grows close to her firefighter grandson.",
-  "source_url": "https://www.tvinsider.com/swooon/1287387/holiday-touchdown-bears-love-story-hallmark-movie-premiere-date-cast-plot/",
-  "confidence": "medium"
+  "summary": "A football-clueless reporter profiles a Bears superfan and gets a crash course from the fan's firefighter grandson.",
+  "source_url": "https://www.hallmarkchannel.com/holiday-touchdown-a-bears-love-story/about-holiday-touchdown-a-bears-love-story",
+  "confidence": "high"
  },
  {
   "title": "Mr. & Mrs. Christmas",
@@ -42,20 +42,20 @@
   "network": "Hallmark Channel",
   "her_actor": "Pascale Hutton",
   "his_actor": "Brendan Penny",
-  "her_job": "ambitious town accountant",
-  "his_job": "single dad and holiday display expert",
-  "location": "Pineway (fictional town)",
+  "her_job": "practical accountant seeking a leadership role",
+  "his_job": "holiday display expert and single dad",
+  "location": "Pineway",
   "location_type": "small_town",
   "tropes": [
-   "single_parent",
    "promotion_at_stake",
-   "work_rivals",
-   "save_the_business"
+   "save_the_business",
+   "single_parent",
+   "work_rivals"
   ],
   "romance": true,
-  "summary": "A newcomer hired to revive a town's Christmas market is partnered with an accountant whose promotion his plans threaten.",
-  "source_url": "https://entertainmentnow.com/hallmark/first-look-at-pascale-hutton-and-brendan-penny-in-hallmarks-mr-mrs-christmas/",
-  "confidence": "medium"
+  "summary": "A new-in-town single dad and a leadership-hungry accountant team up to revive the Christmas Market.",
+  "source_url": "https://www.hallmarkchannel.com/mr-mrs-christmas/about-mr-mrs-christmas",
+  "confidence": "high"
  },
  {
   "title": "Winter Wonderlanes",
@@ -63,21 +63,21 @@
   "network": "Hallmark Channel",
   "her_actor": "Ashley Newbrough",
   "his_actor": "Franco Lo Presti",
-  "her_job": "globe-trotting pop-up restaurateur and heir to her late grandfather's bowling alley",
+  "her_job": "globe-trotting pop-up restaurateur",
   "his_job": "local news reporter",
-  "location": "Unnamed hometown; story centers on the Wonderlanes bowling alley",
+  "location": "Audrey's hometown; story centers on the Wonderlanes bowling alley",
   "location_type": "her_hometown",
   "tropes": [
-   "returns_home",
-   "exes_reunited",
-   "save_the_business",
    "competition_or_contest",
-   "inheritance"
+   "exes_reunited",
+   "inheritance",
+   "returns_home",
+   "save_the_business"
   ],
   "romance": true,
-  "summary": "A pop-up restaurateur returns home to revive a youth bowling tournament at her late grandfather's alley before it is sold.",
-  "source_url": "https://entertainmentnow.com/hallmark/hallmark-channel-sneak-preview-winter-wonderlanes/",
-  "confidence": "medium"
+  "summary": "A pop-up chef returns home to revive a youth bowling tournament and reconnects with her high school boyfriend.",
+  "source_url": "https://www.hallmarkchannel.com/winter-wonderlanes/about-winter-wonderlanes",
+  "confidence": "high"
  },
  {
   "title": "Forgotten Holiday",
@@ -85,7 +85,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Janel Parrish",
   "his_actor": "Daniel Lissing",
-  "her_job": "antiques buyer",
+  "her_job": "antiques buyer for her father's store",
   "his_job": null,
   "location": "Small town (name not given)",
   "location_type": "small_town",
@@ -93,9 +93,9 @@
    "amnesia"
   ],
   "romance": true,
-  "summary": "After a car accident erases his past year, an antiques buyer helps her boyfriend retrace their romance and his love of Christmas.",
-  "source_url": "https://fangirlish.com/2026/10/23/countdown-to-christmas-2026-preview-guide-forgotten-holiday/",
-  "confidence": "medium"
+  "summary": "After a car crash wipes out his past year, her boyfriend needs her help to relearn their romance and Christmas.",
+  "source_url": "https://www.hallmarkchannel.com/forgotten-holiday/about-forgotten-holiday",
+  "confidence": "high"
  },
  {
   "title": "What If Christmas",
@@ -103,18 +103,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Lori Loughlin",
   "his_actor": "Tom Cavanagh",
-  "her_job": "former aspiring fashion designer who organized hospital charity galas",
+  "her_job": "hospital Christmas charity gala organizer and former aspiring fashion designer",
   "his_job": "heart surgeon",
-  "location": null,
-  "location_type": null,
+  "location": "New York City",
+  "location_type": "big_city",
   "tropes": [
-   "time_travel_or_wish",
-   "magic_or_santa"
+   "magic_or_santa",
+   "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A magic ornament sends a woman to an alternate life where she became a fashion designer, successful but lonely at Christmas.",
-  "source_url": "https://www.tvinsider.com/1299581/lori-loughlin-hallmark-what-if-christmas-movie-interview/",
-  "confidence": "medium"
+  "summary": "A magic ornament drops a woman into a world where she is a famous designer, but alternate-universe Adam is waiting.",
+  "source_url": "https://www.hallmarkchannel.com/what-if-christmas/about-what-if-christmas",
+  "confidence": "high"
  },
  {
   "title": "Who's Coming for Christmas?",
@@ -123,16 +123,16 @@
   "her_actor": "Rhiannon Fish",
   "his_actor": "Jake Foy",
   "her_job": null,
-  "his_job": "single father and neighbor",
+  "his_job": "dad and neighbor (job not stated)",
   "location": "New town (name not given)",
   "location_type": "small_town",
   "tropes": [
    "single_parent"
   ],
   "romance": true,
-  "summary": "A newcomer plans a Christmas Eve dinner with no guest list and trusts neighbors will fill the eight seats, helped by a single-dad neighbor.",
-  "source_url": "https://entertainmentnow.com/hallmark/rhiannon-fish-hallmark-whos-coming-for-christmas/",
-  "confidence": "medium"
+  "summary": "A newcomer plans Christmas Eve dinner for eight with no guest list and leans on her neighbor and holiday miracles.",
+  "source_url": "https://www.hallmarkchannel.com/whos-coming-for-christmas/about-whos-coming-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Adopting St. Nick",
@@ -141,17 +141,17 @@
   "her_actor": "Amy Groening",
   "his_actor": "Michael Rady",
   "her_job": "hardware store owner and single mom",
-  "his_job": "Director of Community Launch and Operations at a retirement community",
-  "location": "Jolly Acres retirement community (fictional)",
+  "his_job": "Director of Community Launch and Operations at retirement communities",
+  "location": "Jolly Acres retirement community",
   "location_type": "other",
   "tropes": [
-   "single_parent",
-   "magic_or_santa"
+   "magic_or_santa",
+   "single_parent"
   ],
   "romance": true,
-  "summary": "A mom and her daughter adopt a grandparent at a new retirement community and meet its manager and a resident who looks like Santa.",
-  "source_url": "https://www.philo.com/player/show/U2hvdzo2MDg1NDg4OTk2NDg1NTcxNjE",
-  "confidence": "medium"
+  "summary": "A hardware-store mom and her daughter join a retirement home's holiday program, where a Santa lookalike nudges mom toward the traveling director.",
+  "source_url": "https://www.hallmarkchannel.com/adopting-st-nick/about-adopting-st-nick",
+  "confidence": "high"
  },
  {
   "title": "A Danish Christmas",
@@ -159,18 +159,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Emilie Ullerup",
   "his_actor": "Corey Sevier",
-  "her_job": "Chicago-based hotel technology executive",
-  "his_job": "inn guest (Ryan Miller) mistaken for a travel writer",
+  "her_job": "hotel tech executive from Chicago (Marie)",
+  "his_job": "guest at the Andersen Inn mistaken for a travel writer (Ryan Miller)",
   "location": "Copenhagen, Denmark",
   "location_type": "europe_or_kingdom",
   "tropes": [
    "returns_home",
-   "save_the_business"
+   "save_the_business",
+   "secret_identity"
   ],
   "romance": true,
-  "summary": "A hotel-tech executive returns to Copenhagen to save her family's inn and builds a Christmas tour for a guest she thinks is a travel writer.",
-  "source_url": "https://entertainmentnow.com/hallmark/a-danish-christmas-hallmark-movie-corey-sevier-emilie-ullerup/",
-  "confidence": "medium"
+  "summary": "A hotel exec home in Copenhagen builds a Danish Christmas tour for an inn guest she wrongly thinks is a travel writer.",
+  "source_url": "https://www.hallmarkchannel.com/a-danish-christmas/about-a-danish-christmas",
+  "confidence": "high"
  },
  {
   "title": "Merry Memories",
@@ -179,14 +180,14 @@
   "her_actor": "Lindura",
   "his_actor": "Brendan Morgan",
   "her_job": "rigid accountant",
-  "his_job": "substitute teacher",
+  "his_job": "free-spirited substitute teacher",
   "location": "Small town (name not given)",
   "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": "An uptight accountant minding her nephew over Christmas clashes with, then loosens up around, his creative substitute teacher over a scrapbook project.",
-  "source_url": "https://fangirlish.com/2026/11/03/merrymemories/",
-  "confidence": "medium"
+  "summary": "An uptight accountant helping with her nephew's scrapbook loosens up around his creative substitute teacher.",
+  "source_url": "https://www.hallmarkchannel.com/merry-memories/about-merry-memories",
+  "confidence": "high"
  },
  {
   "title": "My Christmas Cowboy",
@@ -202,8 +203,8 @@
    "returns_home"
   ],
   "romance": true,
-  "summary": "A small-town news producer's college crush, a struggling Hollywood host, returns to Texas for the holidays and they help each other take risks.",
-  "source_url": "https://entertainmentnow.com/hallmark/sneak-peek-hallmark-my-christmas-cowboy/",
+  "summary": "A disgraced Hollywood host lays low in Texas and gets riding lessons from the college crush he once wronged.",
+  "source_url": "https://www.hallmarkchannel.com/my-christmas-cowboy/about-my-christmas-cowboy",
   "confidence": "high"
  },
  {
@@ -212,15 +213,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Tori Anderson",
   "his_actor": "Ian Harding",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
-  "romance": null,
-  "summary": null,
-  "source_url": "https://www.americantv.com/how-to-watch-barking-all-the-way-on-hallmark.php",
-  "confidence": "low"
+  "her_job": "workaholic realtor",
+  "his_job": "traveling contractor",
+  "location": "Billie's hometown (name not given)",
+  "location_type": "her_hometown",
+  "tropes": [
+   "exes_reunited",
+   "returns_home"
+  ],
+  "romance": true,
+  "summary": "A chaotic dog and a mysterious Mrs. C push a workaholic realtor back toward her high school ex.",
+  "source_url": "https://www.hallmarkchannel.com/barking-all-the-way/about-barking-all-the-way",
+  "confidence": "high"
  },
  {
   "title": "Save the Date for Christmas",
@@ -233,12 +237,13 @@
   "location": null,
   "location_type": null,
   "tropes": [
-   "exes_reunited"
+   "exes_reunited",
+   "wedding"
   ],
-  "romance": true,
-  "summary": "An overworked real estate agent's Christmas plans change when a chaotic dog reunites her with her high school sweetheart.",
-  "source_url": "https://www.americantv.com/how-to-watch-save-the-date-for-christmas-on-hallmark.php",
-  "confidence": "low"
+  "romance": false,
+  "summary": "Two single best friends survive a sister's last-minute Christmas wedding while dodging family matchmaking and rethinking love.",
+  "source_url": "https://www.hallmarkchannel.com/save-the-date-for-christmas/about-save-the-date-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "The Snowflake Effect",
@@ -247,7 +252,7 @@
   "her_actor": "Heather Hemmens",
   "his_actor": "Mark Ghanimé",
   "her_job": "corporate attorney",
-  "his_job": "gift-shop clerk",
+  "his_job": "gift shop clerk",
   "location": "Chicago, Illinois",
   "location_type": "big_city",
   "tropes": [
@@ -255,9 +260,9 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "An attorney cursed with everyone's bad luck after entering a magical snowflake in a gift exchange teams up with a shop clerk to find it.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "medium"
+  "summary": "A lawyer inherits everyone's bad luck from a misgifted magic snowflake and chases it across Chicago with a shop clerk.",
+  "source_url": "https://www.hallmarkchannel.com/the-snowflake-effect/about-the-snowflake-effect",
+  "confidence": "high"
  },
  {
   "title": "A Grand Biltmore Christmas",
@@ -270,13 +275,13 @@
   "location": "Biltmore Estate, Asheville, North Carolina",
   "location_type": "other",
   "tropes": [
-   "time_travel_or_wish",
-   "sequel"
+   "sequel",
+   "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A sequel in which Elizabeth and Michael's time-spanning romance continues at Biltmore, jumping between the 1895 opening and twenty years after they first met.",
-  "source_url": "https://www.forbes.com/sites/maryroeloffs/2026/10/10/hallmark-christmas-season-starts-friday-a-guide-to-all-34-new-movies/",
-  "confidence": "medium"
+  "summary": "A teenage Biltmore friendship resurfaces twenty years later, when a magical hourglass drags Elizabeth into the 21st century with Michael.",
+  "source_url": "https://www.hallmarkchannel.com/a-grand-biltmore-christmas/about-a-grand-biltmore-christmas",
+  "confidence": "high"
  },
  {
   "title": "Snow Globe Town",
@@ -285,14 +290,16 @@
   "her_actor": "Kimberley Sustad",
   "his_actor": "Scott Michael Foster",
   "her_job": null,
-  "his_job": "journalist researching the town's romantic legacy",
-  "location": "Pine Grove, the self-styled Christmas Proposal Capital of America",
+  "his_job": "skeptical journalist researching the town's romantic legacy",
+  "location": "Pine Grove",
   "location_type": "small_town",
-  "tropes": [],
+  "tropes": [
+   "competition_or_contest"
+  ],
   "romance": true,
-  "summary": "A woman visiting her sister's holiday engagement in a proposal-obsessed town is paired by its couples-only traditions with a skeptical journalist.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "medium"
+  "summary": "Sidelined at her sister's proposal getaway, a woman is paired by couples-only traditions with a skeptical journalist.",
+  "source_url": "https://www.hallmarkchannel.com/snow-globe-town/about-snow-globe-town",
+  "confidence": "high"
  },
  {
   "title": "Noelle Nomads",
@@ -316,15 +323,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Jessy Schram",
   "his_actor": "Will Kemp",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "children's choir master",
+  "his_job": "traditionalist boys' choir master",
   "location": "Canterbury, England",
   "location_type": "europe_or_kingdom",
-  "tropes": [],
+  "tropes": [
+   "competition_or_contest",
+   "work_rivals"
+  ],
   "romance": true,
-  "summary": "A woman questions why only boys perform at the annual Christmas Eve concert in Canterbury Cathedral.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "summary": "Two rival choir masters battle over who sings at the Cathedral's Christmas Eve concert, and the rivalry turns to romance.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-in-canterbury/about-christmas-in-canterbury",
+  "confidence": "high"
  },
  {
   "title": "Hearts All Aglow",
@@ -332,15 +342,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Mishael Morgan",
   "his_actor": "B.J. Britt",
-  "her_job": "ambitious music historian",
-  "his_job": "sharp New York attorney",
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_job": "music historian",
+  "his_job": "New York attorney",
+  "location": "DuPree Museum Christmas gala (city not named)",
+  "location_type": "other",
+  "tropes": [
+   "competition_or_contest"
+  ],
   "romance": true,
-  "summary": "A music historian and an attorney team up at an exclusive holiday gala to recover a cherished heirloom.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "summary": "A music historian and a lawyer crash a museum gala and team up through silly contests to chase their separate goals.",
+  "source_url": "https://www.hallmarkchannel.com/hearts-all-aglow/about-hearts-all-aglow",
+  "confidence": "high"
  },
  {
   "title": "Holiday Ever After: A Disney World Wish Come True",
@@ -350,29 +362,31 @@
   "his_actor": "Travis Van Winkle",
   "her_job": null,
   "his_job": null,
-  "location": "Walt Disney World, Florida",
+  "location": "Walt Disney World",
   "location_type": "other",
-  "tropes": [],
+  "tropes": [
+   "time_travel_or_wish"
+  ],
   "romance": true,
-  "summary": "Lindsey takes her extended family to Walt Disney World for Christmas and ends up neighbors with her recent disastrous first date.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "summary": "A disastrous first date turns out to be her hotel neighbor at Disney World, and a fountain wish thaws the rivalry.",
+  "source_url": "https://www.hallmarkchannel.com/holiday-ever-after-a-disney-wish-come-true/about-holiday-ever-after-a-disney-world-wish-come-true",
+  "confidence": "high"
  },
  {
   "title": "A Season of Promises",
   "year": 2026,
   "network": "Hallmark Channel",
-  "her_actor": null,
+  "her_actor": "Brooke D'Orsay",
   "his_actor": null,
-  "her_job": null,
+  "her_job": "buttoned-up aspiring play-by-play announcer for a pro hockey team",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
-  "romance": null,
-  "summary": "Two estranged sisters team up to find their father a date by Christmas, honoring their late mother's final wish.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "romance": false,
+  "summary": "Two mismatched sisters call a truce to play Cupid for their widowed dad before Christmas.",
+  "source_url": "https://www.hallmarkchannel.com/a-season-of-promises/about-a-season-of-promises",
+  "confidence": "high"
  },
  {
   "title": "The Nights Before Christmas",
@@ -380,7 +394,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Laci J. Mailey",
   "his_actor": "Tyler Hynes",
-  "her_job": null,
+  "her_job": "out-of-work journalist",
   "his_job": null,
   "location": "New York City",
   "location_type": "big_city",
@@ -388,9 +402,9 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A man stuck in a rut wishes for more time and finds himself reliving Christmas Eve in a Groundhog Day-style loop.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "summary": "A man stuck in a rut relives Christmas Eve on repeat and tries to win over a woman who forgets him daily.",
+  "source_url": "https://www.hallmarkchannel.com/the-nights-before-christmas/about-the-nights-before-christmas",
+  "confidence": "high"
  },
  {
   "title": "Mistletoe and Mimosas",
@@ -398,36 +412,40 @@
   "network": "Hallmark Channel",
   "her_actor": "Tamera Mowry-Housley",
   "his_actor": "Kristoffer Polaha",
-  "her_job": "owner of her late uncle's Christmas-themed bar",
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "her_job": "Manhattan business consultant who inherits her uncle's Christmas bar",
+  "his_job": "part owner and manager of a trendy club",
+  "location": "The Tipsy Reindeer bar, upstate New York",
+  "location_type": "other",
   "tropes": [
+   "competition_or_contest",
    "inheritance",
-   "save_the_business"
+   "save_the_business",
+   "work_rivals"
   ],
   "romance": true,
-  "summary": "Claire inherits her late uncle's Christmas-themed bar along with the debt that is sinking it.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "summary": "Rival bar owners face off in a 12 Days of Christmas contest, and the competition turns flirty.",
+  "source_url": "https://www.hallmarkchannel.com/mistletoe-and-mimosas/about-mistletoe-and-mimosas",
+  "confidence": "high"
  },
  {
   "title": "Our Holiday Playbook",
   "year": 2026,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Taylor Cole",
+  "his_actor": "Charles Michael Davis",
   "her_job": null,
-  "his_job": "former football star",
-  "location": null,
-  "location_type": null,
+  "his_job": "teacher and former local football star",
+  "location": "Lexi's hometown (name not given)",
+  "location_type": "her_hometown",
   "tropes": [
-   "fake_relationship"
+   "competition_or_contest",
+   "fake_relationship",
+   "returns_home"
   ],
   "romance": true,
-  "summary": "A woman recruits a former football star to pose as her boyfriend at her family's Christmas flag football game, in exchange for baking lessons.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "summary": "A woman trades baking help for a fake boyfriend to play in her family's flag football Bell Bowl.",
+  "source_url": "https://www.hallmarkchannel.com/our-holiday-playbook/about-our-holiday-playbook",
+  "confidence": "high"
  },
  {
   "title": "Christmas in Blue Dog Valley",
@@ -435,7 +453,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Erin Cahill",
   "his_actor": "Andrew Walker",
-  "her_job": "celebrity pet veterinarian from Los Angeles who buys a veterinary clinic",
+  "her_job": "on-set veterinarian from Hollywood who buys a family-run veterinary clinic",
   "his_job": null,
   "location": "Blue Dog Valley, Wisconsin",
   "location_type": "small_town",
@@ -443,25 +461,27 @@
    "big_city_to_small_town"
   ],
   "romance": true,
-  "summary": "A Los Angeles celebrity pet vet leaves Hollywood after a breakup and impulsively buys a clinic in a tight-knit Wisconsin town.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "medium"
+  "summary": "A Hollywood set vet buys a clinic in a frosty small town, with the owner's black-sheep son and a mystery dog guiding her.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-in-blue-dog-valley/about-christmas-in-blue-dog-valley",
+  "confidence": "high"
  },
  {
   "title": "Double Booked for the Holidays",
   "year": 2026,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": "runs a bookshop with her twin sister",
-  "his_job": null,
+  "her_actor": "Rachael Leigh Cook",
+  "his_actor": "Owain Yeoman, Stephen Hagan",
+  "her_job": "bookish twin Abigail, temporarily running a Welsh bookshop (twin Charlie is a globe-trotting event planner)",
+  "his_job": "barista (Tom); lord (Rhys)",
   "location": "Hay-on-Wye, Wales",
   "location_type": "europe_or_kingdom",
-  "tropes": [],
+  "tropes": [
+   "secret_identity"
+  ],
   "romance": true,
-  "summary": "Identical twin sisters spend their first Christmas without their mother running a bookshop in the Welsh book town of Hay-on-Wye.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "summary": "Identical twins swap holiday romances in a Welsh book town, and mistaken identities pile up until the Winterton Ball.",
+  "source_url": "https://www.hallmarkchannel.com/double-booked-for-the-holidays/about-double-booked-for-the-holidays",
+  "confidence": "high"
  },
  {
   "title": "Christmas Delivered",
@@ -470,14 +490,14 @@
   "her_actor": "Autumn Reeser",
   "his_actor": "Wes Brown",
   "her_job": "tech expert",
-  "his_job": "tree farmer",
-  "location": null,
-  "location_type": null,
+  "his_job": "owner of a tree farm and tree delivery app",
+  "location": "Grandmother's farmhouse in a small Canadian town (name not given)",
+  "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": "A tech-savvy woman visiting her grandmother fixes a free-spirited tree farmer's delivery app so he can bring trees to local families.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "medium"
+  "summary": "A practical tech whiz visiting her grandma debugs a dreamy tree farmer's delivery app and rides shotgun in his red truck.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-delivered/about-christmas-delivered",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Eve Feast",
@@ -485,17 +505,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Daniella Monet",
   "his_actor": "Kevin McGarry",
-  "her_job": null,
-  "his_job": null,
-  "location": "Boston",
+  "her_job": "executive chef at a New York restaurant",
+  "his_job": "photographer documenting family traditions",
+  "location": "Boston's Italian North End",
   "location_type": "her_hometown",
   "tropes": [
    "returns_home"
   ],
   "romance": true,
-  "summary": "Silvy returns to Boston to cook her family's Feast of the Seven Fishes while her Nonna recovers from an injury.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "summary": "A burned-out chef goes home to cook the Feast of the Seven Fishes and bonds with her Nonna's photographer friend.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-eve-feast/about-the-christmas-eve-feast",
+  "confidence": "high"
  },
  {
   "title": "Return to Santa",
@@ -508,64 +528,66 @@
   "location": null,
   "location_type": null,
   "tropes": [
+   "childhood_friends",
    "magic_or_santa"
   ],
   "romance": true,
-  "summary": "Santa finds a Christmas list Jake wrote decades ago and decides to fast-track every wish on it.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "summary": "Santa finds a grown man's lost childhood wish letter and starts granting it, as his best friend moves back to town.",
+  "source_url": "https://www.hallmarkchannel.com/return-to-santa/about-return-to-santa",
+  "confidence": "high"
  },
  {
   "title": "The Most Wonderful Secret",
   "year": 2026,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Tammin Sursok",
+  "his_actor": "Peter Porte",
   "her_job": "burned-out art teacher",
   "his_job": "electrician",
   "location": "Small town (name not given)",
   "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": "A burned-out art teacher rediscovers her passion and finds romance with an electrician amid a Christmas scavenger hunt and block party.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "medium"
+  "summary": "A burned-out art teacher solves a scavenger hunt and plans a block party with the electrician next door.",
+  "source_url": "https://www.hallmarkchannel.com/the-most-wonderful-secret/about-the-most-wonderful-secret",
+  "confidence": "high"
  },
  {
   "title": "Eight Nights for Love",
   "year": 2026,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
+  "her_actor": "Hunter King",
+  "his_actor": "Dan Jeannotte",
+  "her_job": "works at a large New York City auction house",
+  "his_job": "works for a wealthy boss (role not stated)",
   "location": null,
   "location_type": null,
   "tropes": [
    "childhood_friends",
-   "magic_or_santa"
+   "magic_or_santa",
+   "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "During Hanukkah a magical menorah helps Hannah realize her childhood best friend is the love she has overlooked.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "summary": "A magic menorah sends an auction-house worker through her past each Hanukkah night, revealing feelings for her best friend.",
+  "source_url": "https://www.hallmarkchannel.com/eight-nights-for-love/about-eight-nights-for-love",
+  "confidence": "high"
  },
  {
   "title": "Miles to Christmas",
   "year": 2026,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Ashley Williams",
+  "his_actor": "Steve Lund",
+  "her_job": "straight-laced business 'suit' (job not stated)",
   "his_job": "trucker",
   "location": "Road trip from Chicago to Tennessee",
   "location_type": "other",
   "tropes": [
    "snowed_in_or_stranded"
   ],
-  "romance": null,
-  "summary": "A snowstorm ruins two friends' trip from Chicago to Tennessee, so they hitch a ride home for Christmas with a friend's trucker brother.",
-  "source_url": "https://www.tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list/",
-  "confidence": "low"
+  "romance": true,
+  "summary": "A grounded flyer hitches a ride home in a trucker's 18-wheeler and sparks fly somewhere past the Mrs. Claus parade.",
+  "source_url": "https://www.hallmarkchannel.com/miles-to-christmas/about-miles-to-christmas",
+  "confidence": "high"
  }
 ]

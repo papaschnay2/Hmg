@@ -1,6 +1,6 @@
 [
  {
-  "title": "'Twas the Date Before Christmas",
+  "title": "’Twas the Date Before Christmas",
   "year": 2024,
   "network": "Hallmark Channel",
   "her_actor": "Amy Groening",
@@ -9,30 +9,32 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "fake_relationship"
+  ],
   "romance": true,
-  "summary": "A woman fibs about bringing a date to her family's Christmas Eve Olympics, so a dating-app match joins her for the day.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2024-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "To save her family's Christmas Olympics, a woman invents a date, then hires a dating-app stranger and struggles to keep the story straight.",
+  "source_url": "https://www.hallmarkchannel.com/twas-the-date-before-christmas/about-twas-the-date-before-christmas",
+  "confidence": "high"
  },
  {
   "title": "Holiday Crashers",
   "year": 2024,
   "network": "Hallmark Channel",
   "her_actor": "Lyndsy Fonseca",
-  "his_actor": null,
-  "her_job": "card shop worker (mistaken for a lawyer)",
-  "his_job": "wealthy business mogul",
-  "location": "corporate Christmas retreat in the mountains (Vermont per one listing)",
+  "his_actor": "Chris McNally",
+  "her_job": "card shop worker mistaken for a lawyer (finished law school, never passed the bar)",
+  "his_job": "business mogul",
+  "location": "corporate Christmas retreat in the snowy Vermont mountains",
   "location_type": "inn_lodge_resort",
   "tropes": [
    "boss_or_client_romance",
    "secret_identity"
   ],
   "romance": true,
-  "summary": "Two card-shop friends crash a corporate holiday retreat, and one is mistaken for a lawyer who saves a wealthy businessman money.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2024-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "summary": "Two card-shop pals crash holiday parties, and one is mistaken for a lawyer by a smitten business mogul at a snowy retreat.",
+  "source_url": "https://www.hallmarkchannel.com/holiday-crashers/about-holiday-crashers",
+  "confidence": "high"
  },
  {
   "title": "Scouting for Christmas",
@@ -45,12 +47,13 @@
   "location": null,
   "location_type": null,
   "tropes": [
+   "exes_reunited",
    "single_parent"
   ],
   "romance": true,
-  "summary": "A busy single-mom realtor and a bakery owner find a connection through a scouting-themed Christmas story.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2024-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A harried single-mom realtor teams up with a bakery owner for her daughter's scout event until her ex returns.",
+  "source_url": "https://www.hallmarkchannel.com/scouting-for-christmas/about-scouting-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Operation Nutcracker",
@@ -77,17 +80,18 @@
   "her_actor": "Rachel Skarsten",
   "his_actor": "Corey Sevier",
   "her_job": "librarian",
-  "his_job": "FBI agent",
+  "his_job": "FBI special agent",
   "location": null,
   "location_type": null,
   "tropes": [
+   "fake_relationship",
    "secret_identity",
    "sequel"
   ],
   "romance": true,
-  "summary": "A cautious librarian is pulled into an undercover FBI sting after a blind-date mix-up and becomes an action hero.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2024-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A cautious librarian is dragged into an undercover FBI sting as an agent's pretend girlfriend while chasing a ruby thief.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-charade/about-the-christmas-charade",
+  "confidence": "high"
  },
  {
   "title": "The 5-Year Christmas Party",
@@ -95,7 +99,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Katie Findlay",
   "his_actor": "Jordan Fisher",
-  "her_job": "catering company employee (recent college graduate)",
+  "her_job": "catering company employee",
   "his_job": "catering company employee",
   "location": "Chicago",
   "location_type": "big_city",
@@ -104,9 +108,9 @@
    "work_rivals"
   ],
   "romance": true,
-  "summary": "Old theater-school rivals meet again each year at a Chicago catering company's Christmas party.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "medium"
+  "summary": "Two former theater school rivals reunite each year at a Chicago caterer's Christmas party, with bad timing until the final season.",
+  "source_url": "https://www.hallmarkchannel.com/the-5-year-christmas-party/about-the-5-year-christmas-party",
+  "confidence": "high"
  },
  {
   "title": "A Carol for Two",
@@ -114,15 +118,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Ginna Claire Mason",
   "his_actor": "Jordan Litz",
-  "her_job": "Singing waitress at a Broadway-style restaurant",
-  "his_job": "singing waiter at a Broadway-style restaurant",
-  "location": "New York City",
+  "her_job": "singing waitress at Fiore's, a theater district diner, hoping for a Broadway break",
+  "his_job": "singing waiter at Fiore's theater district diner",
+  "location": "New York City (theater district)",
   "location_type": "big_city",
   "tropes": [],
   "romance": true,
-  "summary": "A small-town singer working as a singing waitress in New York faces a love triangle that risks her shot at stardom.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "medium"
+  "summary": "A diner waitress sharing a Christmas Eve duet with a grumpy coworker ends up in a Cyrano-style love triangle with his cousin.",
+  "source_url": "https://www.hallmarkchannel.com/a-carol-for-two/about-a-carol-for-two",
+  "confidence": "high"
  },
  {
   "title": "Our Holiday Story",
@@ -134,11 +138,13 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "work_rivals"
+  ],
   "romance": true,
-  "summary": "A couple tell their daughter's boyfriend the story of how they fell in love one Christmas.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "low"
+  "summary": "A couple retells how one Christmas kept pairing them up as unaware work nemeses planning a town festival, inspiring their daughter's nervous boyfriend.",
+  "source_url": "https://www.hallmarkchannel.com/our-holiday-story/about-our-holiday-story",
+  "confidence": "high"
  },
  {
   "title": "Holiday Mismatch",
@@ -152,9 +158,9 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Two rival mothers scheme to break up their grown children after the pair matched on a dating site.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "low"
+  "summary": "Two feuding mothers realize they accidentally matched their grown kids on a dating app, then try to stop it and end up friends.",
+  "source_url": "https://www.hallmarkchannel.com/holiday-mismatch/about-holiday-mismatch",
+  "confidence": "high"
  },
  {
   "title": "Christmas with the Singhs",
@@ -162,15 +168,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Anuja Joshi",
   "his_actor": "Benjamin Hollingsworth",
-  "her_job": "Hospital worker (role not stated)",
+  "her_job": "hospital worker (role not stated)",
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": "Newly engaged Asha and Jake face clashing family holiday traditions while she works through Christmas at the hospital.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "low"
+  "summary": "Newly engaged Asha and Jake head home for Christmas and discover their two very different families have a lot to work out.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-with-the-singhs/about-christmas-with-the-singhs",
+  "confidence": "high"
  },
  {
   "title": "Jingle Bell Run",
@@ -186,27 +194,28 @@
    "competition_or_contest"
   ],
   "romance": true,
-  "summary": "A bookish teacher and a retired hockey player team up in an Amazing Race-style holiday competition across the country.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "medium"
+  "summary": "A cautious teacher is secretly entered into a Christmas race show with an ex-hockey player, and opposites slowly start to click.",
+  "source_url": "https://www.hallmarkchannel.com/jingle-bell-run/about-jingle-bell-run",
+  "confidence": "high"
  },
  {
   "title": "Confessions of a Christmas Letter",
   "year": 2024,
   "network": "Hallmark Channel",
   "her_actor": "Angela Kinsey",
-  "his_actor": null,
+  "his_actor": "Alec Santos",
   "her_job": null,
-  "his_job": null,
+  "his_job": "struggling novelist",
   "location": null,
   "location_type": null,
   "tropes": [
-   "competition_or_contest"
+   "competition_or_contest",
+   "fake_relationship"
   ],
-  "romance": null,
-  "summary": "A quirky family matriarch enters her town's holiday letter contest and hires a struggling novelist to help write it.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "low"
+  "romance": false,
+  "summary": "A mom hires a blocked novelist to polish her holiday letter contest entry, and a rumor of his engagement to her daughter spirals.",
+  "source_url": "https://www.hallmarkchannel.com/confessions-of-a-christmas-letter/about-confessions-of-a-christmas-letter",
+  "confidence": "high"
  },
  {
   "title": "Christmas on Call",
@@ -220,9 +229,9 @@
   "location_type": "big_city",
   "tropes": [],
   "romance": true,
-  "summary": "A Philadelphia ER doctor juggles her demanding job and a budding romance with an EMT in the lead-up to Christmas.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "medium"
+  "summary": "An ER doctor new to Philadelphia gets a sightseeing tour, and a growing crush, from a friendly EMT during the holiday rush.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-on-call/about-christmas-on-call",
+  "confidence": "high"
  },
  {
   "title": "Three Wiser Men and a Boy",
@@ -234,11 +243,13 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "sequel"
+  ],
   "romance": false,
-  "summary": "Three men, including Paul Campbell, Tyler Hynes and Andrew Walker, find their Christmas shaped by a boy; details not confirmed.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2024-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "summary": "Five years on, three brothers scramble to rescue a school holiday musical while dealing with their mom's new boyfriend.",
+  "source_url": "https://www.hallmarkchannel.com/three-wiser-men-and-a-boy/about-three-wiser-men-and-a-boy",
+  "confidence": "high"
  },
  {
   "title": "Santa Tell Me",
@@ -246,7 +257,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Erin Krakow",
   "his_actor": null,
-  "her_job": "design show host (one source says TV producer)",
+  "her_job": "interior designer",
   "his_job": null,
   "location": null,
   "location_type": null,
@@ -254,9 +265,9 @@
    "magic_or_santa"
   ],
   "romance": true,
-  "summary": "A letter from Santa promises a woman she will meet her true love, a man named Nick, by Christmas Eve.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "low"
+  "summary": "An old letter from Santa promises Olivia she will meet her love named Nick, and suddenly three Nicks and a charming coworker appear.",
+  "source_url": "https://www.hallmarkchannel.com/santa-tell-me/about-santa-tell-me",
+  "confidence": "high"
  },
  {
   "title": "'Tis the Season to Be Irish",
@@ -264,15 +275,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Fiona Gubelmann",
   "his_actor": "Eoin Macken",
-  "her_job": "Nomadic house flipper / real estate investor (Rose)",
-  "his_job": "Local real estate agent (Sean)",
+  "her_job": "nomadic house flipper",
+  "his_job": "local realtor",
   "location": "Dunclare, Ireland",
   "location_type": "europe_or_kingdom",
   "tropes": [],
   "romance": true,
-  "summary": "A house flipper travels to Ireland to renovate an old cottage and clashes with a local realtor who wants to preserve it.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "medium"
+  "summary": "A commitment-shy house flipper arrives in Ireland to sell a cottage and gets tangled up with a realtor who loves the town's heritage.",
+  "source_url": "https://www.hallmarkchannel.com/tis-the-season-to-be-irish/about-tis-the-season-to-be-irish",
+  "confidence": "high"
  },
  {
   "title": "Deck the Walls",
@@ -280,18 +291,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Ashley Greene",
   "his_actor": "Wes Brown",
-  "her_job": "Interior designer (Rose DeMonte)",
-  "his_job": "Contractor with a home-flipping company",
-  "location": "Rose's hometown (town not named)",
+  "her_job": "Chicago-based interior designer",
+  "his_job": "contractor",
+  "location": "suburban Colorado hometown (town not named)",
   "location_type": "her_hometown",
   "tropes": [
-   "returns_home",
-   "exes_reunited"
+   "exes_reunited",
+   "returns_home"
   ],
   "romance": true,
-  "summary": "An interior designer returns home to renovate a Christmas charity house for her brother and runs into an ex.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2024-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A big-city designer reluctantly heads home to rescue a charity house flip and finds her brother's contractor friend is now something more.",
+  "source_url": "https://www.hallmarkchannel.com/deck-the-walls/about-deck-the-walls",
+  "confidence": "high"
  },
  {
   "title": "A '90s Christmas",
@@ -299,7 +310,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Eva Bourne",
   "his_actor": "Chandler Massey",
-  "her_job": "Workaholic divorce lawyer (Lucy Miller)",
+  "her_job": "workaholic lawyer",
   "his_job": null,
   "location": "Chicago",
   "location_type": "big_city",
@@ -307,9 +318,9 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A workaholic lawyer is sent back to the 1990s Christmas era in a time-travel twist, alongside Matt.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "low"
+  "summary": "A lonely lawyer's Christmas Eve rideshare drops her in 1999, where she revisits family, friends and a high school crush.",
+  "source_url": "https://www.hallmarkchannel.com/a-90s-christmas/about-a-90s-christmas",
+  "confidence": "high"
  },
  {
   "title": "Believe in Christmas",
@@ -325,9 +336,9 @@
    "magic_or_santa"
   ],
   "romance": true,
-  "summary": "A journalist lukewarm on Christmas travels to the magical Christmasland and meets a charming stranger named Ethan.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2024-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "summary": "A Christmas skeptic dragged to the magical Christmasland starts doubting what's real once a charming stranger enters the picture.",
+  "source_url": "https://www.hallmarkchannel.com/believe-in-christmas/about-believe-in-christmas",
+  "confidence": "high"
  },
  {
   "title": "Holiday Touchdown: A Chiefs Love Story",
@@ -336,17 +347,18 @@
   "her_actor": "Hunter King",
   "his_actor": "Tyler Hynes",
   "her_job": null,
-  "his_job": "fan engagement director for the Kansas City Chiefs",
-  "location": "Independence / Kansas City, Missouri",
+  "his_job": "Director of Fan Engagement for the Kansas City Chiefs",
+  "location": "Kansas City",
   "location_type": "big_city",
   "tropes": [
    "boss_or_client_romance",
-   "competition_or_contest"
+   "competition_or_contest",
+   "magic_or_santa"
   ],
   "romance": true,
-  "summary": "A devoted Chiefs superfan chasing the team's Fan of the Year title clashes and connects with the new fan engagement director.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "medium"
+  "summary": "A superfan family vying for the team's Fan of the Year title sparks with the executive judging them, plus a missing lucky hat.",
+  "source_url": "https://www.hallmarkchannel.com/holiday-touchdown-a-chiefs-love-story/about-holiday-touchdown-a-chiefs-love-story",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Quest",
@@ -355,16 +367,16 @@
   "her_actor": "Lacey Chabert",
   "his_actor": "Kristoffer Polaha",
   "her_job": "archaeologist",
-  "his_job": "Old Norse language expert",
+  "his_job": "expert in ancient Norse languages",
   "location": "Iceland",
   "location_type": "europe_or_kingdom",
   "tropes": [
    "exes_reunited"
   ],
   "romance": true,
-  "summary": "An archaeologist and her ex-husband travel to Iceland to hunt for the legendary treasure of the Yule Lads.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2024-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "summary": "Two exes who are archaeologist and Norse linguist race through Iceland hunting for the Yule Lads' fabled treasure.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-quest/about-the-christmas-quest",
+  "confidence": "high"
  },
  {
   "title": "The Finnish Line",
@@ -380,9 +392,9 @@
    "competition_or_contest"
   ],
   "romance": true,
-  "summary": "A dog sled racer honoring her father's legacy competes in Finland and falls for a journalist who used to race.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "medium"
+  "summary": "Following her late father's footsteps, a sled racer enters a Finnish race with a borrowed dog owned by a journalist.",
+  "source_url": "https://www.hallmarkchannel.com/the-finnish-line/about-the-finnish-line",
+  "confidence": "high"
  },
  {
   "title": "Private Princess Christmas",
@@ -390,17 +402,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Ali Skovbye",
   "his_actor": "Derek Klena",
-  "her_job": "princess of Wingravia",
-  "his_job": "Captain Ryan, leadership program instructor",
-  "location": "Colorado (leadership bootcamp)",
+  "her_job": "Princess Violet of Wingravia",
+  "his_job": "Captain Ryan Douglas, leadership boot camp supervisor",
+  "location": "Colorado (leadership boot camp)",
   "location_type": "other",
   "tropes": [
    "royalty"
   ],
   "romance": true,
-  "summary": "A pampered princess sent to an American leadership program bonds with her stoic instructor.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "medium"
+  "summary": "A spoiled princess must survive a tough leadership boot camp under a strict captain or lose her throne to her uncle.",
+  "source_url": "https://www.hallmarkchannel.com/private-princess-christmas/about-private-princess-christmas",
+  "confidence": "high"
  },
  {
   "title": "Sugarplummed",
@@ -416,10 +428,10 @@
    "magic_or_santa",
    "time_travel_or_wish"
   ],
-  "romance": null,
-  "summary": "A lawyer wishes for a perfect movie-style Christmas, and a Sugarplum fairy-tale figure turns up to help.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2024-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "romance": false,
+  "summary": "A perfectionist's wish for a TV-movie Christmas brings a cheery film character to life, whose magical fixes keep backfiring.",
+  "source_url": "https://www.hallmarkchannel.com/sugarplummed/about-sugarplummed",
+  "confidence": "high"
  },
  {
   "title": "Christmas by the Book",
@@ -445,15 +457,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Brooke D'Orsay",
   "his_actor": "John Brotherton",
-  "her_job": "Former TV personality whose career was derailed by scandal (Abby Marshall)",
-  "his_job": "Innkeeper",
+  "her_job": "former TV actress known for an inspirational mother role",
+  "his_job": "B&B owner, high school astronomy teacher and church pageant director",
   "location": "Vermont",
-  "location_type": null,
-  "tropes": [],
+  "location_type": "inn_lodge_resort",
+  "tropes": [
+   "widowed"
+  ],
   "romance": true,
-  "summary": "A disgraced former TV personality prepares for a role as an innkeeper in Vermont and meets a real one.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2024-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A scandal-scarred TV mom lands a room at a widower's B&B and helps with his Christmas pageant while a rare star approaches.",
+  "source_url": "https://www.hallmarkchannel.com/following-yonder-star/about-following-yonder-star",
+  "confidence": "high"
  },
  {
   "title": "Happy Howlidays",
@@ -461,15 +475,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Jessica Lowndes",
   "his_actor": "Ezra Moreland",
-  "her_job": "Webpage editor for the Seattle Tourism Board (Mia)",
+  "her_job": "webpage editor for the Seattle Tourism Board",
   "his_job": "dog shelter owner",
   "location": "Seattle",
   "location_type": "big_city",
   "tropes": [],
   "romance": true,
-  "summary": "A Seattle tourism-board editor's holidays are upended by a stray dog and a man named Max.",
-  "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "medium"
+  "summary": "A workaholic editor stuck on duty over the holidays meets a shelter owner and trades dog help for a tour of Seattle.",
+  "source_url": "https://www.hallmarkchannel.com/happy-howlidays/about-happy-howlidays",
+  "confidence": "high"
  },
  {
   "title": "This Time Each Year",
@@ -574,7 +588,7 @@
   "tropes": [],
   "romance": true,
   "summary": "A mother joins the PTA to plan a more inclusive school dance for her autistic teenage daughter, and meets Daniel.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2024-schedule-premiere-dates-cast/",
+  "source_url": "https://www.hallmarkchannel.com/a-dance-in-the-snow",
   "confidence": "low"
  },
  {
@@ -608,7 +622,7 @@
   "tropes": [],
   "romance": true,
   "summary": "Singer Maggie meets tech entrepreneur Archer on her parents' farm at Christmas.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2024-schedule-premiere-dates-cast/",
+  "source_url": "https://www.hallmarkchannel.com/all-i-need-for-christmas",
   "confidence": "medium"
  },
  {
@@ -624,7 +638,7 @@
   "tropes": [],
   "romance": true,
   "summary": "Michelle hatches a creative plan to help her sister Keri, who needs a new home.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2024-schedule-premiere-dates-cast/",
+  "source_url": "https://www.hallmarkchannel.com/trading-up-christmas",
   "confidence": "low"
  },
  {
@@ -635,15 +649,15 @@
   "his_actor": null,
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "a house at 7 Cherry Lane (1951, 2003 and 2024)",
+  "location_type": "other",
   "tropes": [
    "sequel"
   ],
   "romance": false,
-  "summary": null,
-  "source_url": "https://www.hallmarkchannel.com/hallmark-plus/2024-holiday-movies-on-hallmark",
-  "confidence": "low"
+  "summary": "Decades of families celebrate Christmas Eve in the same house, from a wartime send-off to in-law hosting woes and secret surprises.",
+  "source_url": "https://www.hallmarkchannel.com/seasons-greetings-from-cherry-lane/about-seasons-greetings-from-cherry-lane",
+  "confidence": "high"
  },
  {
   "title": "Happy Holidays from Cherry Lane",
@@ -653,15 +667,18 @@
   "his_actor": null,
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "a house on Cherry Lane (1960, 1998 and 2015)",
+  "location_type": "other",
   "tropes": [
-   "sequel"
+   "sequel",
+   "snowed_in_or_stranded",
+   "wedding",
+   "widowed"
   ],
   "romance": false,
-  "summary": null,
-  "source_url": "https://www.hallmarkchannel.com/hallmark-plus/2024-holiday-movies-on-hallmark",
-  "confidence": "low"
+  "summary": "Three families spend Christmas Eve in the same house across decades, including a time capsule, a blizzard romance and a wedding.",
+  "source_url": "https://www.hallmarkchannel.com/happy-holidays-from-cherry-lane/about-happy-holidays-from-cherry-lane",
+  "confidence": "high"
  },
  {
   "title": "Deck the Halls on Cherry Lane",
@@ -671,15 +688,16 @@
   "his_actor": null,
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "a house on Cherry Lane (1966, 1981 and 2000)",
+  "location_type": "other",
   "tropes": [
+   "competition_or_contest",
    "sequel"
   ],
   "romance": false,
-  "summary": null,
-  "source_url": "https://www.hallmarkchannel.com/hallmark-plus/2024-holiday-movies-on-hallmark",
-  "confidence": "low"
+  "summary": "Three eras of Christmas Eve unfold in one house, from a surprise TV broadcast to a move-or-stay dilemma and a mystery do-gooder.",
+  "source_url": "https://www.hallmarkchannel.com/deck-the-halls-on-cherry-lane/about-deck-the-halls-on-cherry-lane",
+  "confidence": "high"
  },
  {
   "title": "Unwrapping Christmas: Mia's Prince",
@@ -687,33 +705,34 @@
   "network": "Hallmark+",
   "her_actor": "Kathryn Davis",
   "his_actor": "Nathan Witte",
-  "her_job": "accountant at gift-wrapping shop All Wrapped Up",
-  "his_job": "philanthropist",
+  "her_job": "accountant at All Wrapped Up",
+  "his_job": "local celebrity and heir to a wealthy family",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "The accountant behind a gift-wrapping shop meets a local celebrity philanthropist.",
-  "source_url": "https://www.hallmarkchannel.com/hallmark-plus/2024-holiday-movies-on-hallmark",
-  "confidence": "medium"
+  "summary": "An accountant meets a local celebrity who looks like her favorite romance hero, despite his disapproving family.",
+  "source_url": "https://www.hallmarkchannel.com/unwrapping-christmas-mias-prince/about-unwrapping-christmas-mias-prince",
+  "confidence": "high"
  },
  {
   "title": "Unwrapping Christmas: Tina's Miracle",
   "year": 2024,
   "network": "Hallmark+",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": "owner of gift-wrapping business All Wrapped Up",
+  "her_actor": "Natalie Hall",
+  "his_actor": "Alec Santos",
+  "her_job": "owner of gift-wrapping shop All Wrapped Up",
   "his_job": "single dad (job not stated)",
   "location": null,
   "location_type": "small_town",
   "tropes": [
+   "save_the_business",
    "single_parent"
   ],
   "romance": true,
-  "summary": "A gift-wrapping entrepreneur organizing her town's endangered Christmas gala meets a charming newcomer and his daughter.",
-  "source_url": "https://www.hallmarkchannel.com/hallmark-plus/2024-holiday-movies-on-hallmark",
-  "confidence": "medium"
+  "summary": "A gift-wrap shop owner planning the town's Christmas gala watches it teeter toward cancellation thanks to a scrooge-like estate owner.",
+  "source_url": "https://www.hallmarkchannel.com/unwrapping-christmas-tinas-miracle/about-unwrapping-christmas-tinas-miracle",
+  "confidence": "high"
  },
  {
   "title": "Unwrapping Christmas: Olivia's Reunion",
@@ -730,8 +749,8 @@
    "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "A gift-wrapper delivering presents ends up snowed in at a remote cabin with her ex-boyfriend.",
-  "source_url": "https://www.hallmarkchannel.com/hallmark-plus/2024-holiday-movies-on-hallmark",
-  "confidence": "medium"
+  "summary": "A gift delivery to a remote cabin turns into a storm-trapped reunion with her ex-boyfriend.",
+  "source_url": "https://www.hallmarkchannel.com/unwrapping-christmas-olivias-reunion/about-unwrapping-christmas-olivias-reunion",
+  "confidence": "high"
  }
 ]

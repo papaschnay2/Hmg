@@ -5,20 +5,20 @@
   "network": "Hallmark Channel",
   "her_actor": "Kim Matula",
   "his_actor": "Kevin McGarry",
-  "her_job": "real estate agent",
-  "his_job": "hockey player",
-  "location": "Idaho Falls, Idaho",
+  "her_job": "real estate agent in a career crisis",
+  "his_job": "journeyman hockey player",
+  "location": "her hometown (name not stated)",
   "location_type": "her_hometown",
   "tropes": [
    "returns_home"
   ],
   "romance": true,
-  "summary": "A hockey player traded to a small-town team falls for a local real estate agent.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A traded hockey player moves into the backyard cottage of a hockey-crazy family and falls for their real estate agent daughter.",
+  "source_url": "https://www.hallmarkchannel.com/checkin-it-twice/about-checkin-it-twice",
+  "confidence": "high"
  },
  {
-  "title": "Where Are You, Christmas?",
+  "title": "Where are you, Christmas?",
   "year": 2023,
   "network": "Hallmark Channel",
   "her_actor": "Lyndsy Fonseca",
@@ -32,9 +32,9 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "After wishing for a year without Christmas, a woman wakes in a world without it and teams up with a mechanic to restore it.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A woman's wish for a Christmas-free year turns her world black and white, so she enlists the local mechanic to bring color back.",
+  "source_url": "https://www.hallmarkchannel.com/where-are-you-christmas/about-where-are-you-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas by Design",
@@ -48,12 +48,13 @@
   "location_type": "her_hometown",
   "tropes": [
    "big_city_to_small_town",
+   "competition_or_contest",
    "returns_home"
   ],
   "romance": true,
-  "summary": "A fashion designer returns to her hometown seeking inspiration and finds romance.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A fashion designer enters a Christmas collection challenge and ends up redesigning her priorities too.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-by-design/about-christmas-by-design",
+  "confidence": "high"
  },
  {
   "title": "Mystic Christmas",
@@ -103,9 +104,9 @@
    "inheritance"
   ],
   "romance": true,
-  "summary": "A busy realtor helps her sister flip an inherited house, clashing with its co-beneficiary who has other plans.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A busy realtor agrees to a simple flip of an inherited house, until a co-beneficiary shows up with other ideas.",
+  "source_url": "https://www.hallmarkchannel.com/flipping-for-christmas/about-flipping-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Under the Christmas Sky",
@@ -113,15 +114,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Jessica Parker Kennedy",
   "his_actor": "Ryan Paevey",
-  "her_job": "aspiring astronaut sidelined by an accident (works on a planetarium exhibit)",
+  "her_job": "astrophysicist grounded before her first spaceflight, volunteering at a planetarium",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A sidelined aspiring astronaut works on a planetarium exhibit and finds love.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A grounded astrophysicist volunteers at a planetarium and gets paired with a by-the-book colleague on a holiday exhibit.",
+  "source_url": "https://www.hallmarkchannel.com/under-the-christmas-sky/about-under-the-christmas-sky",
+  "confidence": "high"
  },
  {
   "title": "Joyeux Noel",
@@ -145,15 +146,15 @@
   "network": "Hallmark Channel",
   "her_actor": "Hunter King",
   "his_actor": "Benjamin Hollingsworth",
-  "her_job": null,
+  "her_job": "art teacher",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Three teacher friends get their groove back and find love around a town's Santa-themed event.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "summary": "Three friends join a town's Santa-suit bar crawl, where a recently dumped art teacher loses track of the guy she just clicked with.",
+  "source_url": "https://www.hallmarkchannel.com/the-santa-summit/about-the-santa-summit",
+  "confidence": "high"
  },
  {
   "title": "Everything Christmas",
@@ -163,15 +164,15 @@
   "his_actor": null,
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Yuletide Springs",
+  "location_type": "small_town",
   "tropes": [
    "magic_or_santa"
   ],
   "romance": true,
-  "summary": "A lifelong Christmas fanatic's holiday road trip is disrupted by car trouble and may bring a meeting with Santa.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "summary": "Two Christmas-obsessed friends road-trip to a year-round Christmas town, meet two guys, and need a little magic when plans go sideways.",
+  "source_url": "https://www.hallmarkchannel.com/everything-christmas/about-everything-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas Island",
@@ -179,7 +180,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Rachel Skarsten",
   "his_actor": "Andrew Walker",
-  "her_job": "commercial pilot",
+  "her_job": "pilot flying a family's private jet",
   "his_job": "air traffic controller",
   "location": "Christmas Island (fictional town)",
   "location_type": "small_town",
@@ -188,44 +189,44 @@
    "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "A new private-jet pilot is diverted by a snowstorm to a festive town and teams up with an air traffic controller.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A snowstorm diverts a pilot's big first private flight to Christmas Island, where she needs an air traffic controller's help to keep her dream job.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-island/about-christmas-island",
+  "confidence": "high"
  },
  {
   "title": "A Heidelberg Holiday",
   "year": 2023,
   "network": "Hallmark Channel",
-  "her_actor": null,
+  "her_actor": "Ginna Claire Mason",
   "his_actor": "Frédéric Brossier",
-  "her_job": "ornament maker (American glass ornament designer)",
+  "her_job": "handmade glass ornament maker",
   "his_job": "local artisan",
   "location": "Heidelberg, Germany",
   "location_type": "europe_or_kingdom",
   "tropes": [],
   "romance": true,
-  "summary": "An American ornament maker visits Heidelberg's Christmas market and connects with a local artisan and her heritage.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium",
+  "summary": "An ornament maker selling at Heidelberg's Christmas market meets a local artisan who helps her track down her roots.",
+  "source_url": "https://www.hallmarkchannel.com/a-heidelberg-holiday/about-a-heidelberg-holiday",
+  "confidence": "high",
   "problem": "Actual title appears to be 'A Heidelberg Holiday' (2023, Hallmark Channel)."
  },
  {
   "title": "Navigating Christmas",
   "year": 2023,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Chelsea Hobbs",
+  "his_actor": "Stephen Huszar",
   "her_job": null,
-  "his_job": null,
-  "location": "Saint Nicholas Island (old lighthouse)",
+  "his_job": "lighthouse owner",
+  "location": "a remote island with a working lighthouse",
   "location_type": "other",
   "tropes": [
    "single_parent"
   ],
   "romance": true,
-  "summary": "A divorced mom and her teen son spend Christmas at a lighthouse on a remote island.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "summary": "A newly divorced mom and her son end up running a working lighthouse and warming to its curt, cute owner.",
+  "source_url": "https://www.hallmarkchannel.com/navigating-christmas/about-navigating-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Merry Scottish Christmas",
@@ -239,9 +240,9 @@
   "location_type": "europe_or_kingdom",
   "tropes": [],
   "romance": false,
-  "summary": "Estranged siblings travel to Scotland to reunite with their mother at Christmas.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "Estranged siblings fly to Scotland to see their mother and get hit with a big family secret.",
+  "source_url": "https://www.hallmarkchannel.com/a-merry-scottish-christmas/about-a-merry-scottish-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Biltmore Christmas",
@@ -249,17 +250,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Bethany Joy Lenz",
   "his_actor": "Kristoffer Polaha",
-  "her_job": "screenwriter hired to script a remake of a holiday movie",
-  "his_job": "1940s movie star (actor)",
-  "location": "Biltmore Estate, Asheville, North Carolina",
+  "her_job": "screenwriter hired to write a remake of a holiday classic",
+  "his_job": "film star in the 1947 production",
+  "location": "Biltmore Estate",
   "location_type": "other",
   "tropes": [
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A writer hired to script a holiday movie remake finds herself in a romance.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A screenwriter sent to Biltmore for inspiration uses a magic hourglass to hop to 1947 and flirt with a movie star.",
+  "source_url": "https://www.hallmarkchannel.com/a-biltmore-christmas/about-a-biltmore-christmas",
+  "confidence": "high"
  },
  {
   "title": "Our Christmas Mural",
@@ -272,14 +273,14 @@
   "location": "small town in New Hampshire",
   "location_type": "her_hometown",
   "tropes": [
+   "competition_or_contest",
    "returns_home",
-   "single_parent",
-   "competition_or_contest"
+   "single_parent"
   ],
   "romance": true,
-  "summary": "A single mom back in her hometown rediscovers her love of art by entering a mural contest with a local teacher.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A single mom home for Christmas is secretly entered into a mural contest by her mother and wins, partnering with a teacher.",
+  "source_url": "https://www.hallmarkchannel.com/our-christmas-mural/about-our-christmas-mural",
+  "confidence": "high"
  },
  {
   "title": "Christmas in Notting Hill",
@@ -287,31 +288,33 @@
   "network": "Hallmark Channel",
   "her_actor": "Sarah Ramos",
   "his_actor": "William Moseley",
-  "her_job": "teacher",
-  "his_job": "professional footballer",
+  "her_job": "visiting American (teacher)",
+  "his_job": "famous soccer star",
   "location": "Notting Hill, London",
   "location_type": "europe_or_kingdom",
   "tropes": [],
   "romance": true,
-  "summary": "An American teacher visiting her sister in London falls for a star footballer home for Christmas.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A soccer star who is too busy for love meets the one American visitor who has no clue who he is.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-in-notting-hill/about-christmas-in-notting-hill",
+  "confidence": "high"
  },
  {
   "title": "My Norwegian Holiday",
   "year": 2023,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": "PhD student working on a dissertation",
+  "her_actor": "Rhiannon Fish",
+  "his_actor": "David Elsendoorn",
+  "her_job": "grad student seeking dissertation inspiration",
   "his_job": null,
   "location": "Bergen, Norway",
   "location_type": "europe_or_kingdom",
-  "tropes": [],
+  "tropes": [
+   "wedding"
+  ],
   "romance": true,
-  "summary": "A grad student seeking dissertation inspiration follows a troll figurine's origins to Norway with a local man.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A grieving grad student follows a troll figurine's origins to Norway with a local and lands in his family's wedding festivities.",
+  "source_url": "https://www.hallmarkchannel.com/my-norwegian-holiday/about-my-norwegian-holiday",
+  "confidence": "high"
  },
  {
   "title": "A Not So Royal Christmas",
@@ -319,8 +322,8 @@
   "network": "Hallmark Channel",
   "her_actor": "Brooke D'Orsay",
   "his_actor": "Will Kemp",
-  "her_job": "gossip columnist",
-  "his_job": "palace landscaper",
+  "her_job": "tabloid journalist",
+  "his_job": "groundskeeper posing as the Count",
   "location": null,
   "location_type": "europe_or_kingdom",
   "tropes": [
@@ -328,9 +331,9 @@
    "secret_identity"
   ],
   "romance": true,
-  "summary": "A tabloid columnist chasing an interview with a count mistakes a palace landscaper for the nobleman.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A gossip reporter chases a reclusive Count who is actually a gardener hired by the royals to play the part.",
+  "source_url": "https://www.hallmarkchannel.com/a-not-so-royal-christmas/about-a-not-so-royal-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas with a Kiss",
@@ -346,27 +349,27 @@
    "returns_home"
   ],
   "romance": true,
-  "summary": "An unlucky-in-love brand ambassador returns home for her family's Christmas dance tradition and finds two chances at love.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A woman returns home to help with her family's Christmas Carnival while a photojournalist arranges a surprise reunion.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-with-a-kiss/about-christmas-with-a-kiss",
+  "confidence": "high"
  },
  {
   "title": "Magic in Mistletoe",
   "year": 2023,
   "network": "Hallmark Channel",
-  "her_actor": null,
+  "her_actor": "Lyndie Greenwood",
   "his_actor": "Paul Campbell",
   "her_job": "publicist",
-  "his_job": "bestselling author of the Magic in Mistletoe book series",
-  "location": "his hometown (small town, name not given)",
+  "his_job": "author of a popular book series",
+  "location": "his hometown (name not stated)",
   "location_type": "small_town",
   "tropes": [
    "returns_home"
   ],
   "romance": true,
-  "summary": "A publicist works to rescue a reclusive author's career when he returns home for the town's Christmas festival.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A publicist on damage-control duty tries to thaw a bitter, recluse author at a festival celebrating his own books.",
+  "source_url": "https://www.hallmarkchannel.com/magic-in-mistletoe/about-magic-in-mistletoe",
+  "confidence": "high"
  },
  {
   "title": "Round and Round",
@@ -382,9 +385,9 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "An editor heading to her family's Hanukkah party gets stuck in a time loop and hunts for answers.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "summary": "A woman reliving her parents' Hanukkah party in a time loop hopes the nice boy her grandma picked can help her escape.",
+  "source_url": "https://www.hallmarkchannel.com/round-and-round/about-round-and-round",
+  "confidence": "high"
  },
  {
   "title": "Christmas on Cherry Lane",
@@ -397,10 +400,10 @@
   "location": "7 Cherry Lane (a single street, town not named)",
   "location_type": "other",
   "tropes": [],
-  "romance": true,
-  "summary": "Three families on one street share Christmas Eves across the decades.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "romance": false,
+  "summary": "Three couples at different life turning points celebrate Christmas Eve, from a coming baby to a new chapter.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-on-cherry-lane/about-christmas-on-cherry-lane",
+  "confidence": "high"
  },
  {
   "title": "The Secret Gift of Christmas",
@@ -409,18 +412,18 @@
   "her_actor": "Meghan Ory",
   "his_actor": "Christopher Russell",
   "her_job": "personal shopper",
-  "his_job": "contractor",
+  "his_job": "widowed client (contractor per earlier research)",
   "location": null,
   "location_type": null,
   "tropes": [
-   "widowed",
+   "boss_or_client_romance",
    "single_parent",
-   "boss_or_client_romance"
+   "widowed"
   ],
   "romance": true,
-  "summary": "A busy holiday personal shopper falls for a gruff widowed contractor client and his young daughter.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A personal shopper helps her widowed client reconnect with his young daughter and wins his attention too.",
+  "source_url": "https://www.hallmarkchannel.com/the-secret-gift-of-christmas/about-the-secret-gift-of-christmas",
+  "confidence": "high"
  },
  {
   "title": "Sealed with a List",
@@ -434,9 +437,9 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "After being fired before Christmas, a woman gives herself until New Year's to finish her unfulfilled resolutions, with a colleague's help.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "summary": "A festive woman tackles last year's abandoned resolutions with a coworker's help and picks up love and confidence along the way.",
+  "source_url": "https://www.hallmarkchannel.com/sealed-with-a-list/about-sealed-with-a-list",
+  "confidence": "high"
  },
  {
   "title": "Friends & Family Christmas",
@@ -446,13 +449,15 @@
   "his_actor": null,
   "her_job": "big-city artist",
   "his_job": null,
-  "location": "New York City",
+  "location": "New York",
   "location_type": "big_city",
-  "tropes": [],
+  "tropes": [
+   "fake_relationship"
+  ],
   "romance": false,
-  "summary": "A big-city artist who prefers paintbrushes to mistletoe finds holiday romance with another woman.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "Two women set up by their parents pretend to date for the holidays and accidentally build something real.",
+  "source_url": "https://www.hallmarkchannel.com/friends-family-christmas/about-friends-and-family-christmas",
+  "confidence": "high"
  },
  {
   "title": "Ms. Christmas Comes to Town",
@@ -503,7 +508,7 @@
   ],
   "romance": true,
   "summary": "A divorced mom moves to a New England hamlet and uncovers a Christmas mystery in her historic home.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2023-movies-cast-dates-schedule/",
+  "source_url": "https://www.hallmarkchannel.com/mystery-on-mistletoe-lane",
   "confidence": "medium"
  },
  {

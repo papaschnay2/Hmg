@@ -466,7 +466,7 @@
   ],
   "romance": false,
   "summary": "A bickering family on a ski trip gets stranded in a poor remote town and helps stage its Christmas pageant.",
-  "source_url": "https://en.wikipedia.org/wiki/List_of_Hallmark_Channel_Original_Movies_(2000%E2%80%932015)",
+  "source_url": "https://www.hallmarkchannel.com/the-town-christmas-forgot",
   "confidence": "low"
  },
  {
@@ -991,7 +991,7 @@
   "confidence": "low"
  },
  {
-  "title": "Jingle & Bell's Christmas Star",
+  "title": "Jingle and Bell's Christmas Star",
   "year": 2012,
   "network": "Hallmark Channel",
   "her_actor": null,
@@ -1002,9 +1002,9 @@
   "location_type": "small_town",
   "tropes": [],
   "romance": false,
-  "summary": "Animated story of Jingle and his friend Andrew welcoming new friends Sofia and her husky pup Bell to town.",
-  "source_url": "https://thestressfreechristmas.com/complete-list-hallmark-christmas-movies/",
-  "confidence": "low",
+  "summary": "Two husky pups and their kid friends prove that Christmas is about the company you keep, not the zip code.",
+  "source_url": "https://www.hallmarkchannel.com/jingle-and-bells-christmas-star/about",
+  "confidence": "high",
   "problem": "Appears to be an animated children's film, not a man/woman romance."
  },
  {
@@ -1015,15 +1015,15 @@
   "his_actor": "Joey Lawrence",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "New York",
+  "location_type": "big_city",
   "tropes": [
    "fake_relationship"
   ],
   "romance": true,
-  "summary": "Two singles agree to pose as each other's partner through the holidays to keep their meddling families off their backs.",
-  "source_url": "https://thestressfreechristmas.com/complete-list-hallmark-christmas-movies/",
-  "confidence": "medium"
+  "summary": "Two single New Yorkers pretend to date through Thanksgiving and Hanukkah to quiet their nagging families, then feelings get inconveniently real.",
+  "source_url": "https://www.hallmarkchannel.com/hitched-for-the-holidays/about",
+  "confidence": "high"
  },
  {
   "title": "A Bride for Christmas",
@@ -1031,17 +1031,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Arielle Kebbel",
   "his_actor": "Andrew W. Walker",
-  "her_job": null,
+  "her_job": "interior designer (co-owner of a design company with her sister)",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [
+   "boss_or_client_romance",
    "wedding"
   ],
   "romance": true,
-  "summary": "A woman who keeps calling off engagements is pursued by a man who secretly bets he can get her to marry him by Christmas.",
-  "source_url": "https://thestressfreechristmas.com/complete-list-hallmark-christmas-movies/",
-  "confidence": "low"
+  "summary": "A thrice-jilted bride-to-be gets wooed by a charmer who secretly wagered his friends he could land a wife by Christmas.",
+  "source_url": "https://www.hallmarkchannel.com/a-bride-for-christmas/about",
+  "confidence": "high"
  },
  {
   "title": "Come Dance with Me",
@@ -1085,19 +1086,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Chyler Leigh",
   "his_actor": "Paul Campbell",
-  "her_job": "Department store window decorator",
-  "his_job": "department store window decorator (her rival for the job)",
-  "location": "New York City",
+  "her_job": "department store window dresser",
+  "his_job": "department store window dresser",
+  "location": "Manhattan",
   "location_type": "big_city",
   "tropes": [
-   "work_rivals",
+   "competition_or_contest",
    "promotion_at_stake",
-   "competition_or_contest"
+   "work_rivals"
   ],
   "romance": true,
-  "summary": "A department store window decorator competes with a rival for the head designer job and gets to know him beyond the facades.",
-  "source_url": "https://christmas-specials.fandom.com/wiki/Window_Wonderland",
-  "confidence": "medium"
+  "summary": "Two rival window dressers battle for one job with dueling Christmas displays while sparks and a snooty boyfriend complicate things.",
+  "source_url": "https://www.hallmarkchannel.com/window-wonderland/about",
+  "confidence": "high"
  },
  {
   "title": "Let It Snow",
@@ -1161,15 +1162,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Katrina Law",
   "his_actor": null,
-  "her_job": "tabloid journalist at a gossip magazine",
-  "his_job": "eldest son of a famous political family (job not stated)",
-  "location": "Mountain retreat",
+  "her_job": "tabloid reporter at Pulse! Gossip",
+  "his_job": "son of the late Senator Tannehill (job not stated)",
+  "location": "Big Bear (family mountain compound)",
   "location_type": "inn_lodge_resort",
-  "tropes": [],
+  "tropes": [
+   "promotion_at_stake",
+   "secret_identity",
+   "work_rivals"
+  ],
   "romance": true,
-  "summary": "A gossip-magazine reporter spends the week before Christmas at a mountain retreat with a famous political family.",
-  "source_url": "https://www.ibtimes.com/hallmark-channel-christmas-movies-2013-when-where-watch-12-new-original-countdown-christmas-movies",
-  "confidence": "medium"
+  "summary": "A gossip reporter chasing a proposal scoop accidentally becomes a houseguest of the political family she is supposed to expose.",
+  "source_url": "https://www.hallmarkchannel.com/snow-bride/about",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Ornament",
@@ -1178,16 +1183,16 @@
   "her_actor": "Kellie Martin",
   "his_actor": "Cameron Mathison",
   "her_job": null,
-  "his_job": "Christmas tree lot owner",
+  "his_job": "Christmas tree shop owner",
   "location": null,
   "location_type": null,
   "tropes": [
    "widowed"
   ],
   "romance": true,
-  "summary": "A widow who exchanged ornaments with her late husband meets a Christmas tree lot owner.",
-  "source_url": "https://www.ibtimes.com/hallmark-channel-christmas-movies-2013-when-where-watch-12-new-original-countdown-christmas-movies",
-  "confidence": "medium"
+  "summary": "A newly widowed baker dodges every holiday tradition until a tree-shop owner and a hope-themed ornament thaw her out.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-ornament",
+  "confidence": "high"
  },
  {
   "title": "Catch a Christmas Star",
@@ -1200,13 +1205,14 @@
   "location": "New Jersey",
   "location_type": "small_town",
   "tropes": [
-   "widowed",
-   "single_parent"
+   "exes_reunited",
+   "single_parent",
+   "widowed"
   ],
   "romance": true,
-  "summary": "A huge pop star falls for a widowed high school basketball coach and dad while a Christmas Eve concert looms.",
-  "source_url": "https://www.ibtimes.com/hallmark-channel-christmas-movies-2013-when-where-watch-12-new-original-countdown-christmas-movies",
-  "confidence": "medium"
+  "summary": "A global pop star's high school sweetheart, now a widowed coach, gets nudged back into her orbit by his scheming kids.",
+  "source_url": "https://www.hallmarkchannel.com/catch-a-christmas-star/about",
+  "confidence": "high"
  },
  {
   "title": "Hats Off to Christmas",
@@ -1251,15 +1257,15 @@
   "year": 2013,
   "network": "Hallmark Channel",
   "her_actor": "Alicia Witt",
-  "his_actor": null,
+  "his_actor": "Mark Wiebe",
   "her_job": "antique shop owner",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
-  "romance": null,
+  "romance": true,
   "summary": "An engaged woman flies to meet her fiance's family at Christmas and ends up at the wrong house.",
-  "source_url": "https://www.ibtimes.com/hallmark-channel-christmas-movies-2013-when-where-watch-12-new-original-countdown-christmas-movies",
+  "source_url": "https://www.hallmarkchannel.com/a-very-merry-mix-up",
   "confidence": "low"
  },
  {

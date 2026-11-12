@@ -11,9 +11,9 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A Christmas-loving astronomy student left alone by her boyfriend meets an adventurous cowboy while travelling and weighs safe love against risk.",
-  "source_url": "https://christmas-specials.fandom.com/wiki/One_Starry_Christmas",
-  "confidence": "medium"
+  "summary": "An astronomy-loving woman's bumpy holiday trip to surprise her boyfriend leads to a bus-seat connection with a constellation-loving cowboy.",
+  "source_url": "https://www.hallmarkchannel.com/one-starry-christmas/about",
+  "confidence": "high"
  },
  {
   "title": "The Nine Lives of Christmas",
@@ -27,8 +27,8 @@
   "location_type": "big_city",
   "tropes": [],
   "romance": true,
-  "summary": "A commitment-shy firefighter adopts a stray cat and falls for a pet-loving veterinary student who has nowhere to live.",
-  "source_url": "https://en.wikipedia.org/wiki/The_Nine_Lives_of_Christmas",
+  "summary": "A cat-adopting, commitment-averse firefighter meets a veterinary student who teaches him feline care and tempts him toward companionship.",
+  "source_url": "https://www.hallmarkchannel.com/the-nine-lives-of-christmas/about",
   "confidence": "high"
  },
  {
@@ -38,18 +38,19 @@
   "her_actor": "Erin Krakow",
   "his_actor": "David Haydn-Jones",
   "her_job": "elementary school teacher",
-  "his_job": "single dad (job not stated)",
+  "his_job": "single dad who runs a charitable shelter",
   "location": "small town in Ohio (one source only)",
   "location_type": "small_town",
   "tropes": [
-   "work_rivals",
+   "childhood_friends",
    "competition_or_contest",
-   "childhood_friends"
+   "single_parent",
+   "work_rivals"
   ],
   "romance": true,
-  "summary": "Two rival teachers and former best friends feud over a Christmas cookie bake-off and the same single dad.",
-  "source_url": "https://www.hallmarkmystery.com/a-cookie-cutter-christmas",
-  "confidence": "low"
+  "summary": "Two archrival teachers feud over a cookie bake-off and a charming baking-savvy single dad who tutors his daughter.",
+  "source_url": "https://www.hallmarkchannel.com/a-cookie-cutter-christmas/about",
+  "confidence": "high"
  },
  {
   "title": "Northpole",
@@ -95,8 +96,8 @@
   "network": "Hallmark Channel",
   "her_actor": "Lacey Chabert",
   "his_actor": "Stephen Hagan",
-  "her_job": "seamstress from Philadelphia",
-  "his_job": "prince of Cordinia (Prince Leopold)",
+  "her_job": "seamstress at her father's tailor shop",
+  "his_job": "prince, heir to the throne of Cordinia",
   "location": "Cordinia (fictional kingdom) and Philadelphia",
   "location_type": "europe_or_kingdom",
   "tropes": [
@@ -105,9 +106,9 @@
    "wedding"
   ],
   "romance": true,
-  "summary": "A Philadelphia seamstress learns her boyfriend is a prince whose queen mother is scheming to end the romance.",
-  "source_url": "https://Www.wikipedia.org/wiki/A_Royal_Christmas",
-  "confidence": "medium"
+  "summary": "A Philadelphia seamstress learns her boyfriend is a prince, and his disapproving mother and an ex make the castle chilly.",
+  "source_url": "https://www.hallmarkchannel.com/a-royal-christmas/about",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Shepherd",
@@ -134,7 +135,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Candace Cameron Bure",
   "his_actor": "David O'Donnell",
-  "her_job": "surgical resident turned town doctor",
+  "her_job": "third-year surgery resident turned town doctor",
   "his_job": "handyman (Andy Holliday)",
   "location": "Garland, Alaska",
   "location_type": "small_town",
@@ -143,9 +144,9 @@
    "promotion_at_stake"
   ],
   "romance": true,
-  "summary": "A surgical resident whose fellowship falls through takes a doctor post in remote Alaska and falls for a local man.",
-  "source_url": "https://tvtango.com/movie/christmas_under_wraps",
-  "confidence": "medium"
+  "summary": "A surgeon-in-training who misses her fellowship takes a doctor job in tiny Garland, Alaska, and a local charmer helps her loosen up.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-under-wraps/about",
+  "confidence": "high"
  },
  {
   "title": "Debbie Macomber's Mr. Miracle",
@@ -171,19 +172,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Alicia Witt",
   "his_actor": "Gabriel Hogan",
-  "her_job": "out-of-work single mother who becomes a department store Santa",
-  "his_job": null,
-  "location": "Cartwright's department store (Chicago, per shooting stand-in note)",
-  "location_type": "big_city",
+  "her_job": "unemployed single mom turned department store Santa",
+  "his_job": "department store manager",
+  "location": "Cartwright's Department Store",
+  "location_type": "other",
   "tropes": [
-   "single_parent",
    "magic_or_santa",
-   "secret_identity"
+   "secret_identity",
+   "single_parent"
   ],
   "romance": true,
-  "summary": "A broke single mom takes a department store Santa job with an angel's help and hides that Santa is a woman.",
-  "source_url": "https://en.wikipedia.org/wiki/Christmas_at_Cartwright%27s",
-  "confidence": "medium"
+  "summary": "A broke single mom lands the department store Santa gig with magical help while hiding that Santa is a woman.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-at-cartwrights/about",
+  "confidence": "high"
  },
  {
   "title": "Best Christmas Party Ever",
@@ -191,37 +192,38 @@
   "network": "Hallmark Channel",
   "her_actor": "Torrey DeVitto",
   "his_actor": "Steve Lund",
-  "her_job": "party planner at Petra's Parties, New York",
-  "his_job": null,
+  "her_job": "party planner at Petra's Parties",
+  "his_job": "event planning business heir (Petra's nephew)",
   "location": "New York",
   "location_type": "big_city",
   "tropes": [
+   "boss_or_client_romance",
    "promotion_at_stake",
    "work_rivals"
   ],
   "romance": true,
-  "summary": "A New York party planner eyeing her retiring boss's business is paired with a partner to plan a toy store Christmas party.",
-  "source_url": "https://www.serialscoop.com/2014/12/hallmark-movie-best-christmas-party-ever",
-  "confidence": "medium"
+  "summary": "A party planner expecting to inherit her retiring boss's firm gets the boss's charming nephew instead, plus a toy store bash.",
+  "source_url": "https://www.hallmarkchannel.com/best-christmas-party-ever/about-best-christmas-party-ever",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Parade",
   "year": 2014,
   "network": "Hallmark Channel",
   "her_actor": "AnnaLynne McCord",
-  "his_actor": null,
-  "her_job": "TV talk show host",
-  "his_job": "local artist (community arts center)",
-  "location": "small town",
+  "his_actor": "Jefferson Brown",
+  "her_job": "entertainment reporter for a network morning show",
+  "his_job": "runs a community art center (artist)",
+  "location": "Carver Bend",
   "location_type": "small_town",
   "tropes": [
    "big_city_to_small_town",
    "save_the_business"
   ],
   "romance": true,
-  "summary": "A TV host humiliated by her cheating fiance flees to a small town and helps an artist save a kids' arts center with a parade float.",
-  "source_url": "https://www.serialscoop.com/2014/12/hallmark-movie-the-christmas-parade",
-  "confidence": "low"
+  "summary": "A humiliated TV reporter sentenced to community service in a small town helps an artist save a kids' art center with a parade float.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-parade/about-the-christmas-parade",
+  "confidence": "high"
  },
  {
   "title": "Signed, Sealed, Delivered for Christmas",
@@ -238,7 +240,7 @@
   ],
   "romance": false,
   "summary": "Postal detectives postpone their plans to help a little girl after finding a letter to God on Christmas Eve.",
-  "source_url": "https://www.serialscoop.com/2014/11/signed-sealed-delivered-for-christmas",
+  "source_url": "https://www.hallmarkchannel.com/signed-sealed-delivered-for-christmas",
   "confidence": "medium"
  },
  {
@@ -247,18 +249,18 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Bethany Joy Lenz",
   "his_actor": "John Reardon",
-  "her_job": "waitress (fired and facing eviction)",
+  "her_job": "bakery worker (recently fired, evicted, and in a custody fight)",
   "his_job": null,
   "location": "Wilsonville",
   "location_type": "small_town",
   "tropes": [
-   "single_parent",
-   "inheritance"
+   "inheritance",
+   "single_parent"
   ],
   "romance": true,
-  "summary": "A fired, near-evicted waitress and single mom in a small town faces a custody fight while a family secret changes her luck.",
-  "source_url": "https://www.tvguide.com/movies/the-christmas-secret/2030189518",
-  "confidence": "medium"
+  "summary": "A woman whose life collapses at once finds a bakery job, a family secret and a holiday romance just before Christmas.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-secret",
+  "confidence": "high"
  },
  {
   "title": "'Tis the Season for Love",
@@ -266,19 +268,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Sarah Lancaster",
   "his_actor": "Brendan Penny",
-  "her_job": "out-of-work actress in New York",
+  "her_job": "out-of-work actress",
   "his_job": null,
-  "location": "her small hometown",
+  "location": "her quaint small hometown",
   "location_type": "her_hometown",
   "tropes": [
-   "returns_home",
    "big_city_to_small_town",
-   "childhood_friends"
+   "childhood_friends",
+   "returns_home"
   ],
   "romance": true,
-  "summary": "A small-town girl stuck in New York as an actress returns home for the holidays and finds her dreams may be there.",
-  "source_url": "https://thetvdb.com/series/hallmark-countdown-to-christmas/episodes/5858424",
-  "confidence": "medium"
+  "summary": "A jobless New York actress heads back to her hometown, where unexpected performing gigs and romance await.",
+  "source_url": "https://www.hallmarkchannel.com/tis-the-season-for-love/about-tis-the-season-for-love",
+  "confidence": "high"
  },
  {
   "title": "Ice Sculpture Christmas",
@@ -287,7 +289,7 @@
   "her_actor": "Rachel Boston",
   "his_actor": "David Alpay",
   "her_job": "aspiring chef at a country club restaurant",
-  "his_job": "member of wealthy club family (childhood friend)",
+  "his_job": "member of wealthy club family (job not stated)",
   "location": "country club",
   "location_type": "inn_lodge_resort",
   "tropes": [
@@ -296,9 +298,9 @@
    "work_rivals"
   ],
   "romance": true,
-  "summary": "An aspiring chef is entered in her country club's ice sculpting contest against her boss by a childhood friend.",
-  "source_url": "https://www.countdownuntilchristmas.com/christmas-movies-a-to-z/ice-sculpture-christmas-2015/",
-  "confidence": "medium"
+  "summary": "A rookie chef gets entered in the club's ice sculpting contest against her boss by a childhood friend, and sparks fly.",
+  "source_url": "https://www.hallmarkchannel.com/ice-sculpture-christmas/about-ice-sculpture-christmas",
+  "confidence": "high"
  },
  {
   "title": "Charming Christmas",
@@ -320,12 +322,12 @@
   "confidence": "medium"
  },
  {
-  "title": "I'm Not Ready for Christmas",
+  "title": "\"I'm Not Ready For Christmas\"",
   "year": 2015,
   "network": "Hallmark Channel",
   "her_actor": "Alicia Witt",
   "his_actor": "George Stults",
-  "her_job": "advertising executive",
+  "her_job": "advertising executive (job not further stated)",
   "his_job": null,
   "location": null,
   "location_type": null,
@@ -334,9 +336,9 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "After her niece's wish to Santa, an ambitious ad executive can no longer lie, upending her career and love life.",
-  "source_url": "https://en.wikipedia.org/wiki/I%27m_Not_Ready_for_Christmas",
-  "confidence": "medium"
+  "summary": "A niece's wish to Santa leaves a fibbing woman unable to lie, wrecking her career and love life in the process.",
+  "source_url": "https://www.hallmarkchannel.com/im-not-ready-for-christmas/about-im-not-ready-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas Incorporated",
@@ -344,19 +346,20 @@
   "network": "Hallmark Channel",
   "her_actor": "Shenae Grimes-Beech",
   "his_actor": "Steve Lund",
-  "her_job": "assistant to a wealthy entrepreneur",
-  "his_job": "wealthy entrepreneur who inherited his father's company",
+  "her_job": "assistant to a wealthy New York entrepreneur",
+  "his_job": "wealthy New York City entrepreneur and socialite",
   "location": null,
   "location_type": null,
   "tropes": [
    "boss_or_client_romance",
+   "inheritance",
    "save_the_business",
-   "inheritance"
+   "secret_identity"
   ],
   "romance": true,
-  "summary": "An assistant must help her Scrooge-like boss, who wants to close a factory, rediscover Christmas.",
-  "source_url": "https://www.serialscoop.com/2015/11/hallmark-movie-christmas-incorporated",
-  "confidence": "medium"
+  "summary": "An assistant must talk her Scrooge-like boss out of closing a factory before Christmas, despite a mistaken-identity snag.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-incorporated/about-christmas-incorporated",
+  "confidence": "high"
  },
  {
   "title": "Northpole: Open for Christmas",
@@ -386,17 +389,19 @@
   "her_actor": "Jessica Lowndes",
   "his_actor": "Christopher Russell",
   "her_job": "advertising executive turned wedding planner for a fashion magazine",
-  "his_job": "wedding planner",
+  "his_job": "high powered fashion photographer (her ex)",
   "location": null,
   "location_type": null,
   "tropes": [
+   "exes_reunited",
+   "promotion_at_stake",
    "wedding",
    "work_rivals"
   ],
   "romance": true,
-  "summary": "Two very different planners compete over organising a magazine's perfect Christmas wedding and find opposites attract.",
-  "source_url": "https://thetvdb.com/series/hallmark-countdown-to-christmas/episodes/5858437",
-  "confidence": "medium"
+  "summary": "An ad exec gets her dream Christmas wedding assignment, but her partner on it is her estranged ex-boyfriend.",
+  "source_url": "https://www.hallmarkchannel.com/merry-matrimony/about-merry-matrimony",
+  "confidence": "high"
  },
  {
   "title": "Once Upon a Holiday",
@@ -405,7 +410,7 @@
   "her_actor": "Briana Evigan",
   "his_actor": "Paul Campbell",
   "her_job": "runaway princess",
-  "his_job": "contractor (remodeling/restoration)",
+  "his_job": "good Samaritan (job not stated)",
   "location": null,
   "location_type": null,
   "tropes": [
@@ -413,9 +418,9 @@
    "secret_identity"
   ],
   "romance": true,
-  "summary": "A runaway princess whose purse is stolen falls for a good-hearted contractor who does not know who she is.",
-  "source_url": "https://tv.apple.com/us/movie/once-upon-a-holiday/umc.cmc.11l4of0w3y9cwrvr13ipo2a7h",
-  "confidence": "medium"
+  "summary": "A princess ducking her duties for a few days falls for a kind stranger who has no idea who she is.",
+  "source_url": "https://www.hallmarkchannel.com/once-upon-a-holiday/about-once-upon-a-holiday",
+  "confidence": "high"
  },
  {
   "title": "12 Gifts of Christmas",
@@ -423,7 +428,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Katrina Law",
   "his_actor": "Aaron O'Connell",
-  "her_job": "unemployed painter turned personal shopper",
+  "her_job": "unemployed painter",
   "his_job": "corporate executive",
   "location": null,
   "location_type": null,
@@ -431,9 +436,9 @@
    "boss_or_client_romance"
   ],
   "romance": true,
-  "summary": "An out-of-work painter hired as a busy executive's personal shopper teaches him what makes a gift meaningful.",
-  "source_url": "https://www.directv.com/guide/movies/12-Gifts-of-Christmas-1bf7cb2e-d02f-a3d1-b77f-efea155183f9",
-  "confidence": "medium"
+  "summary": "A broke painter becomes a stiff executive's personal Christmas shopper and teaches him gift-giving is not about the price tag.",
+  "source_url": "https://www.hallmarkchannel.com/12-gifts-of-christmas/about-12-gifts-of-christmas",
+  "confidence": "high"
  },
  {
   "title": "Crown for Christmas",
@@ -446,14 +451,15 @@
   "location": "Winshire (fictional kingdom)",
   "location_type": "europe_or_kingdom",
   "tropes": [
+   "boss_or_client_romance",
    "royalty",
    "single_parent",
-   "boss_or_client_romance"
+   "widowed"
   ],
   "romance": true,
-  "summary": "A fired American hotel maid becomes governess to a princess and sparks with the king, her charge's father.",
-  "source_url": "https://www.serialscoop.com/2015/11/-crown-for-christmas-hallmark-movie",
-  "confidence": "medium"
+  "summary": "A fired New York hotel maid takes a governess gig for a castle princess and catches the widowed king's eye.",
+  "source_url": "https://www.hallmarkchannel.com/crown-for-christmas/about-crown-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Christmas Detour",
@@ -463,15 +469,15 @@
   "his_actor": "Paul Greene",
   "her_job": "bridal magazine writer",
   "his_job": "bartender",
-  "location": "Buffalo, New York (stranded after diverted flight)",
+  "location": "Buffalo, New York airport hotel (stranded)",
   "location_type": "other",
   "tropes": [
    "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "A magazine writer stranded en route to meet her fiance's parents must travel with a man she can't stand.",
-  "source_url": "https://www.serialscoop.com/2015/11/A-Christmas-Detour-Hallmark-movie",
-  "confidence": "medium"
+  "summary": "A snowstorm strands an optimistic woman en route to her fiance's parents with a heartbroken fellow traveler as her unlikely helper.",
+  "source_url": "https://www.hallmarkchannel.com/a-christmas-detour/about-a-christmas-detour",
+  "confidence": "high"
  },
  {
   "title": "Angel of Christmas",
@@ -499,16 +505,16 @@
   "his_actor": "Michael Stahl-David",
   "her_job": "psychology professor",
   "his_job": "coffee shop owner",
-  "location": "her hometown",
+  "location": "her small hometown",
   "location_type": "her_hometown",
   "tropes": [
-   "time_travel_or_wish",
-   "magic_or_santa"
+   "magic_or_santa",
+   "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A professor torn between marrying at home and a faraway job is sent three years ahead by a mysterious coachman.",
-  "source_url": "https://thetvdb.com/series/hallmark-countdown-to-christmas/episodes/5858446",
-  "confidence": "medium"
+  "summary": "Torn between marrying her boyfriend and an Ivy League job, a woman gets magically zapped three years into the future.",
+  "source_url": "https://www.hallmarkchannel.com/just-in-time-for-christmas/about-just-in-time-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Karen Kingsbury's The Bridge (Part 1)",
@@ -542,9 +548,9 @@
    "returns_home"
   ],
   "romance": true,
-  "summary": "A woman tries to restore holiday cheer to her long-time crush, who returns to town as a Scrooge.",
-  "source_url": "https://www.countdownuntilchristmas.com/christmas-movies-a-to-z/on-the-twelfth-day-of-christmas-2015/",
-  "confidence": "medium"
+  "summary": "A woman with a long crush on a newly arrived, now Grinchy neighbor devises twelve Christmas tasks to revive his holiday spirit.",
+  "source_url": "https://www.hallmarkchannel.com/on-the-twelfth-day-of-christmas/about-on-the-twelfth-day-of-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Christmas Melody",
@@ -554,17 +560,17 @@
   "his_actor": "Brennan Elliott",
   "her_job": "clothing designer",
   "his_job": "music teacher",
-  "location": "small Ohio town (her hometown)",
+  "location": "Ohio hometown",
   "location_type": "her_hometown",
   "tropes": [
+   "big_city_to_small_town",
    "returns_home",
-   "single_parent",
-   "big_city_to_small_town"
+   "single_parent"
   ],
   "romance": true,
-  "summary": "A designer whose Manhattan shop closed moves home to Ohio with her daughter and bonds with the girl's music teacher.",
-  "source_url": "https://www.thetvdb.com/series/hallmark-countdown-to-christmas/seasons/official/2015",
-  "confidence": "medium"
+  "summary": "A divorced designer closes her Manhattan boutique, moves home to Ohio with her daughter, and clashes with an old rival.",
+  "source_url": "https://www.hallmarkchannel.com/a-christmas-melody/about-a-christmas-melody",
+  "confidence": "high"
  },
  {
   "title": "Christmas Land",
@@ -572,18 +578,20 @@
   "network": "Hallmark Channel",
   "her_actor": "Nikki DeLoach",
   "his_actor": "Luke Macfarlane",
-  "her_job": "inherited her grandmother's Christmas tree farm (job not stated)",
-  "his_job": "lawyer",
-  "location": "Christmas-themed village with a tree farm (town unnamed)",
+  "her_job": "New York marketing businesswoman who inherits Christmas Land",
+  "his_job": "lawyer handling the estate",
+  "location": "Christmas Land (Christmas village and tree farm in the countryside)",
   "location_type": "farm_ranch_vineyard",
   "tropes": [
+   "big_city_to_small_town",
    "inheritance",
-   "magic_or_santa"
+   "magic_or_santa",
+   "save_the_business"
   ],
   "romance": true,
-  "summary": "A woman inherits a Christmas tree farm, plans to sell it for a New York dream home, and is won over by the town and a lawyer.",
-  "source_url": "https://www.thetvdb.com/series/hallmark-countdown-to-christmas/seasons/official/2015",
-  "confidence": "medium"
+  "summary": "A city marketer inherits a magical Christmas village, weighs selling to a tycoon, and meets the charming lawyer on the estate.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-land/about-christmas-land",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Note",
@@ -598,10 +606,10 @@
   "tropes": [
    "returns_home"
   ],
-  "romance": true,
-  "summary": "A woman moves back to her hometown with her son while her husband recovers from a deployment injury; a mysterious note drives the story.",
-  "source_url": "https://www.parentstv.org/blog/watch-the-christmas-note-on-hallmark-movies-and-mysteries",
-  "confidence": "low"
+  "romance": false,
+  "summary": "A military wife back in her hometown with her son helps a neighbor hunt for a long-lost sibling and finds friendship.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-note",
+  "confidence": "high"
  },
  {
   "title": "Murder, She Baked: A Plum Pudding Mystery",

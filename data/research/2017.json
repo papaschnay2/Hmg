@@ -6,17 +6,17 @@
   "her_actor": "Rachel Skarsten",
   "his_actor": "Trevor Donovan",
   "her_job": "bridal boutique owner",
-  "his_job": "Hollywood action star and artist",
-  "location": null,
-  "location_type": null,
+  "his_job": "movie star",
+  "location": "Fool's Gold",
+  "location_type": "small_town",
   "tropes": [
    "boss_or_client_romance",
    "wedding"
   ],
   "romance": true,
-  "summary": "A boutique owner planning a Christmas Eve wedding falls for the bride's brother, a movie star longing for a quieter life.",
-  "source_url": "https://lifetimeuncorked.com/2017/10/31/marry-me-at-christmas-2017-hallmark-channel/?nb=1",
-  "confidence": "medium"
+  "summary": "A bridal shop owner planning a Christmas wedding is swept off her feet by the bride's famous action-hero brother.",
+  "source_url": "https://www.hallmarkchannel.com/marry-me-at-christmas/about-marry-me-at-christmas",
+  "confidence": "high"
  },
  {
   "title": "Miss Christmas",
@@ -24,8 +24,8 @@
   "network": "Hallmark Channel",
   "her_actor": "Brooke D'Orsay",
   "his_actor": "Marc Blucas",
-  "her_job": "official tree finder for Chicago's Radcliffe tree lighting, nicknamed Miss Christmas",
-  "his_job": null,
+  "her_job": "official tree finder for Chicago's Radcliffe Tree lighting",
+  "his_job": "single dad (job not stated)",
   "location": "small town in Wisconsin",
   "location_type": "small_town",
   "tropes": [
@@ -33,9 +33,9 @@
    "single_parent"
   ],
   "romance": true,
-  "summary": "A Chicago holiday-event director hunts for a replacement city tree in a Wisconsin town and meets a boy's single dad.",
-  "source_url": "https://rissiwrites.com/2017/11/miss-christmas-2017-hallmark-christmas.html",
-  "confidence": "medium"
+  "summary": "Chicago's tree hunter chases the perfect tree to a small town where a boy's dad won't let it go.",
+  "source_url": "https://www.hallmarkchannel.com/miss-christmas/about-miss-christmas",
+  "confidence": "high"
  },
  {
   "title": "The Sweetest Christmas",
@@ -43,19 +43,19 @@
   "network": "Hallmark Channel",
   "her_actor": "Lacey Chabert",
   "his_actor": "Lea Coco",
-  "her_job": "pastry chef",
-  "his_job": "local restaurant owner, divorced father",
+  "her_job": "struggling pastry chef",
+  "his_job": "owner of his family's pizzeria",
   "location": "Helen",
   "location_type": "small_town",
   "tropes": [
-   "exes_reunited",
    "competition_or_contest",
+   "exes_reunited",
    "single_parent"
   ],
   "romance": true,
-  "summary": "A pastry chef enters a gingerbread contest to fund her bakery and reconnects with her high school sweetheart.",
-  "source_url": "https://christmas-specials.fandom.com/wiki/The_Sweetest_Christmas",
-  "confidence": "medium"
+  "summary": "A pastry chef with a broken oven borrows her ex's pizza oven for a gingerbread contest and sparks fly.",
+  "source_url": "https://www.hallmarkchannel.com/the-sweetest-christmas/about-the-sweetest-christmas",
+  "confidence": "high"
  },
  {
   "title": "Enchanted Christmas",
@@ -63,35 +63,35 @@
   "network": "Hallmark Channel",
   "her_actor": "Alexa PenaVega",
   "his_actor": "Carlos PenaVega",
-  "her_job": "project manager and young widow",
-  "his_job": "former professional dancer (her ex-boyfriend)",
-  "location": "the Enchanted lodge, Rosemont, Utah",
-  "location_type": "inn_lodge_resort",
+  "her_job": "interior designer",
+  "his_job": "runs the annual Christmas Eve dance show (her ex-boyfriend and dance partner)",
+  "location": "Utah (old hotel)",
+  "location_type": "her_hometown",
   "tropes": [
+   "exes_reunited",
    "returns_home",
-   "widowed",
-   "exes_reunited"
+   "widowed"
   ],
   "romance": true,
-  "summary": "A widowed project manager returns home to renovate a lodge by Christmas Eve and faces her old dance partner.",
-  "source_url": "https://mubi.com/en/us/films/enchanted-christmas",
-  "confidence": "medium"
+  "summary": "An interior designer returns to renovate a hotel and is pulled back onto the dance floor with her ex.",
+  "source_url": "https://www.hallmarkchannel.com/enchanted-christmas/about-enchanted-christmas",
+  "confidence": "high"
  },
  {
-  "title": "Coming Home for Christmas",
+  "title": "Coming Home For Christmas",
   "year": 2017,
   "network": "Hallmark Channel",
   "her_actor": "Danica McKellar",
   "his_actor": "Neal Bledsoe",
-  "her_job": "house manager of Ashford Estate",
-  "his_job": "executor of the Ashford Estate",
+  "her_job": "house manager of the Ashford Estate",
+  "his_job": "executor of the estate",
   "location": "Ashford Estate, Virginia countryside",
-  "location_type": null,
+  "location_type": "other",
   "tropes": [],
   "romance": true,
-  "summary": "A house manager hired to reunite an estranged family for one last Christmas at their Virginia estate is drawn to Robert.",
-  "source_url": "https://ibtimes.com/hallmark-channel-coming-home-christmas-premiere-meet-cast-watch-trailer-2615108",
-  "confidence": "medium"
+  "summary": "A house manager throws one last gala for a bickering family and finds herself torn between two of its men.",
+  "source_url": "https://www.hallmarkchannel.com/coming-home-for-christmas/about-coming-home-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Gift to Remember",
@@ -107,9 +107,9 @@
    "amnesia"
   ],
   "romance": true,
-  "summary": "A bookshop worker helps a man who loses his memory after a bike collision and cares for his dog.",
-  "source_url": "https://watch.afi.com/movie/a-gift-to-remember",
-  "confidence": "medium"
+  "summary": "A year after bicycle-meets-man, an amnesia-free couple trade gifts, including a carved replica of her hometown and her threatened rec center.",
+  "source_url": "https://www.hallmarkchannel.com/a-gift-to-remember",
+  "confidence": "high"
  },
  {
   "title": "The Mistletoe Inn",
@@ -124,7 +124,7 @@
   "tropes": [],
   "romance": true,
   "summary": "A heartbroken aspiring novelist joins a romance writing retreat at a Vermont inn and meets another writer.",
-  "source_url": "https://lifetimeuncorked.com/2017/11/28/the-mistletoe-inn-2017-hallmark-channel/",
+  "source_url": "https://www.hallmarkchannel.com/the-mistletoe-inn",
   "confidence": "medium"
  },
  {
@@ -133,15 +133,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Jodie Sweetin",
   "his_actor": "Eric Winter",
-  "her_job": null,
+  "her_job": "runs her late parents' Christmas store and the town Christmas parade",
   "his_job": null,
   "location": "Green River, Connecticut",
-  "location_type": "small_town",
-  "tropes": [],
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": "A woman from Green River must choose between family legacy and her own dreams as the town's Christmas Eve parade nears.",
-  "source_url": "https://www.mediavillage.com/article/hallmarks-has-a-full-house-with-jodie-sweetin-lori-loughlin-and-candace-cameron-bure/amp/",
-  "confidence": "medium"
+  "summary": "A Christmas-obsessed parade boss drafts the Santa's Scrooge-ish son as a replacement and they inspire each other.",
+  "source_url": "https://www.hallmarkchannel.com/finding-santa/about-the-movie",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Train",
@@ -159,7 +161,7 @@
   ],
   "romance": true,
   "summary": "A cynical journalist travels by train to write a story and runs into an old flame as a snowstorm hits.",
-  "source_url": "https://en.wikipedia.org/wiki/The_Christmas_Train_(film)",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-train",
   "confidence": "medium"
  },
  {
@@ -192,33 +194,33 @@
   "location_type": "small_town",
   "tropes": [
    "big_city_to_small_town",
-   "snowed_in_or_stranded",
-   "single_parent"
+   "single_parent",
+   "snowed_in_or_stranded"
   ],
   "romance": true,
   "summary": "A veterinarian about to move to the city meets a doctor and his daughter when a storm shuts down the airport.",
-  "source_url": "https://www.hallmarkchannel.com/christmas/2017-holiday-movies-preview/",
+  "source_url": "https://www.hallmarkchannel.com/christmas-in-evergreen",
   "confidence": "medium"
  },
  {
   "title": "Christmas at Holly Lodge",
   "year": 2017,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": "owner and innkeeper of the lodge (inherited)",
-  "his_job": "businessman sent by a developer to assess the lodge's value",
-  "location": "lodge in the snowy mountains (town not named)",
+  "her_actor": "Alison Sweeney",
+  "his_actor": "Jordan Bridges",
+  "her_job": "owner of Holly Lodge",
+  "his_job": "developer's representative sent to evaluate the lodge",
+  "location": "Holly Lodge",
   "location_type": "inn_lodge_resort",
   "tropes": [
+   "boss_or_client_romance",
    "inheritance",
-   "save_the_business",
-   "boss_or_client_romance"
+   "save_the_business"
   ],
   "romance": true,
-  "summary": "An innkeeper who inherited a mountain lodge falls for the developer's envoy sent to appraise it.",
-  "source_url": "https://www.fox32chicago.com/news/hallmark-releases-christmas-movie-lineup-for-2017",
-  "confidence": "medium"
+  "summary": "A lodge owner tries to convince the developer's appraiser her place is a bad investment while fighting the attraction.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-at-holly-lodge/about-christmas-at-holly-lodge",
+  "confidence": "high"
  },
  {
   "title": "Christmas Getaway",
@@ -231,49 +233,49 @@
   "location": null,
   "location_type": null,
   "tropes": [
-   "widowed",
    "single_parent",
-   "snowed_in_or_stranded"
+   "snowed_in_or_stranded",
+   "widowed"
   ],
   "romance": true,
-  "summary": "A travel writer on her first traditional Christmas vacation is double-booked with a widower, his mother and his daughter.",
-  "source_url": "https://www.fox32chicago.com/news/hallmark-releases-christmas-movie-lineup-for-2017",
-  "confidence": "medium"
+  "summary": "A travel writer's first traditional Christmas rental is double-booked with a widower, his daughter and his mom.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-getaway/about-the-movie",
+  "confidence": "high"
  },
  {
   "title": "Christmas Next Door",
   "year": 2017,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Fiona Gubelmann",
+  "his_actor": "Jesse Metcalfe",
   "her_job": null,
   "his_job": "author of bachelor lifestyle books",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A bachelor-lifestyle author turns to his Christmas-loving neighbor for help; the results were inconsistent on the cast and setting.",
-  "source_url": "https://en.wikipedia.org/wiki/Christmas_Next_Door",
-  "confidence": "low"
+  "summary": "A bachelor author stuck babysitting his niece and nephew leans on his Christmas-crazy neighbor for help.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-next-door/about-christmas-next-door",
+  "confidence": "high"
  },
  {
   "title": "Christmas Festival of Ice",
   "year": 2017,
   "network": "Hallmark Channel",
-  "her_actor": null,
+  "her_actor": "Taylor Cole",
   "his_actor": "Damon Runyan",
-  "her_job": "lawyer awaiting bar exam results",
-  "his_job": "sculptor (one source says tree farmer)",
-  "location": "small New England town (not named)",
-  "location_type": "small_town",
+  "her_job": "law school graduate turned ice-sculpting contest organizer",
+  "his_job": "town's ace artisan",
+  "location": "her hometown (not named)",
+  "location_type": "her_hometown",
   "tropes": [
    "competition_or_contest",
    "save_the_business"
   ],
   "romance": true,
-  "summary": "A young lawyer waiting on bar results tries to rescue her town's canceled ice sculpting contest with help from a reluctant sculptor.",
-  "source_url": "https://www.fox32chicago.com/news/hallmark-releases-christmas-movie-lineup-for-2017",
-  "confidence": "medium"
+  "summary": "A law grad rescues her town's canceled ice-sculpting contest and talks the local artisan into being her teammate.",
+  "source_url": "https://www.hallmarkchannel.com/christmas-festival-of-ice/about-christmas-festival-of-ice",
+  "confidence": "high"
  },
  {
   "title": "Engaging Father Christmas",
@@ -402,7 +404,7 @@
   ],
   "romance": true,
   "summary": "A nurse left money by a dying patient buys a bed-and-breakfast, while his suspicious son checks on her undercover as a guest.",
-  "source_url": "https://www.wnct.com/news/hallmark-releases-its-2017-christmas-movie-lineup/amp/",
+  "source_url": "https://www.hallmarkchannel.com/a-bramble-house-christmas",
   "confidence": "medium"
  },
  {
@@ -418,7 +420,7 @@
   "tropes": [],
   "romance": true,
   "summary": "A man who runs a gift-picking business helps a friend learn his girlfriend's wish and ends up falling for her.",
-  "source_url": "https://www.broadwayworld.com/bwwtv/article/Hallmark-Movies-Mysteries-to-Present-Record-12-New-Original-Holdiay-Films-20170913",
+  "source_url": "https://www.hallmarkchannel.com/the-perfect-christmas-present",
   "confidence": "medium"
  },
  {
@@ -447,7 +449,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Merritt Patterson",
   "his_actor": "Steve Lund",
-  "her_job": "interior designer",
+  "her_job": "interior designer in Raleigh, North Carolina",
   "his_job": null,
   "location": "family cottage, Oregon (one user review)",
   "location_type": "other",
@@ -457,9 +459,9 @@
    "wedding"
   ],
   "romance": true,
-  "summary": "A maid of honor and her best friend's brother, her ex, get snowed in together at a family cottage before the wedding.",
-  "source_url": "https://www.cbsnews.com/amp/philadelphia/hallmark-countdown-to-christmas",
-  "confidence": "medium"
+  "summary": "A love-skeptic maid of honor gets snowed into a legendary honeymoon cottage with her best friend's brother.",
+  "source_url": "https://www.hallmarkchannel.com/the-christmas-cottage/about-the-christmas-cottage",
+  "confidence": "high"
  },
  {
   "title": "Journey Back to Christmas",
@@ -467,7 +469,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Candace Cameron Bure",
   "his_actor": "Oliver Hudson",
-  "her_job": "World War II nurse",
+  "her_job": "WWII-era nurse",
   "his_job": null,
   "location": null,
   "location_type": null,
@@ -475,25 +477,28 @@
    "time_travel_or_wish"
   ],
   "romance": true,
-  "summary": "A World War II nurse is magically carried from 1945 to the present and meets a man who helps her see family bonds.",
-  "source_url": "https://www.hallmarkmystery.com/journey-back-to-christmas",
-  "confidence": "medium",
+  "summary": "A World War II nurse is zapped forward in time and learns about family from a modern-day man.",
+  "source_url": "https://www.hallmarkchannel.com/journey-back-to-christmas",
+  "confidence": "high",
   "problem": "Search shows Hallmark released this in 2016 (some catalogs list 2017); network may be Hallmark Channel, not verified."
  },
  {
   "title": "With Love, Christmas",
   "year": 2017,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
+  "her_actor": "Emilie Ullerup",
+  "his_actor": "Aaron O'Connell",
+  "her_job": "ad executive",
+  "his_job": "ad executive (her coworker)",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "secret_identity",
+   "work_rivals"
+  ],
   "romance": true,
-  "summary": "A Hallmark Channel 2017 Countdown premiere on November 22; no details found.",
-  "source_url": "https://www.hallmarkchannel.com/christmas/2017-holiday-movies-preview/",
-  "confidence": "low"
+  "summary": "An ad exec writes anonymous Santa emails to her stiff coworker, who thinks someone else is his Secret Santa.",
+  "source_url": "https://www.hallmarkchannel.com/with-love-christmas/about-the-movie",
+  "confidence": "high"
  }
 ]
