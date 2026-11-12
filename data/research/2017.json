@@ -123,9 +123,9 @@
   "location_type": "inn_lodge_resort",
   "tropes": [],
   "romance": true,
-  "summary": "A heartbroken aspiring novelist joins a romance writing retreat at a Vermont inn and meets another writer.",
-  "source_url": "https://www.hallmarkchannel.com/the-mistletoe-inn",
-  "confidence": "medium"
+  "summary": "A freshly dumped aspiring novelist attends a Vermont writing retreat, gets paired with an annoying stranger, and finds her ex lurking nearby.",
+  "source_url": "https://www.hallmarkmystery.com/the-mistletoe-inn/about-the-mistletoe-inn",
+  "confidence": "high"
  },
  {
   "title": "Finding Santa",
@@ -189,7 +189,7 @@
   "her_actor": "Ashley Williams",
   "his_actor": "Teddy Sears",
   "her_job": "veterinarian",
-  "his_job": "doctor (one listing)",
+  "his_job": "doctor",
   "location": "Evergreen, Virginia",
   "location_type": "small_town",
   "tropes": [
@@ -198,9 +198,9 @@
    "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "A veterinarian about to move to the city meets a doctor and his daughter when a storm shuts down the airport.",
-  "source_url": "https://www.hallmarkchannel.com/christmas-in-evergreen",
-  "confidence": "medium"
+  "summary": "A veterinarian expecting a perfect holiday with her boyfriend meets a doctor and his daughter when a storm grounds flights.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-in-evergreen/about-the-movie",
+  "confidence": "high"
  },
  {
   "title": "Christmas at Holly Lodge",
@@ -285,15 +285,16 @@
   "his_actor": "Niall Matter",
   "her_job": null,
   "his_job": null,
-  "location": "Carlton Heath, England",
+  "location": "Carlton Heath",
   "location_type": "europe_or_kingdom",
   "tropes": [
+   "secret_identity",
    "sequel"
   ],
   "romance": true,
-  "summary": "Miranda leaves Seattle to join her newfound family in Carlton Heath in this sequel to Finding Father Christmas.",
-  "source_url": "https://www.hallmarkmystery.com/engaging-father-christmas",
-  "confidence": "medium"
+  "summary": "Miranda spends Christmas with her long-lost family, fearing an anonymous texter will expose the secret she promised to keep.",
+  "source_url": "https://www.hallmarkmystery.com/engaging-father-christmas/about-engaging-father-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas in Angel Falls",
@@ -301,7 +302,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Rachel Boston",
   "his_actor": "Paul Greene",
-  "her_job": "guardian angel on assignment",
+  "her_job": "angel on assignment who works as a church volunteer coordinator",
   "his_job": "volunteer fire chief",
   "location": "Angel Falls",
   "location_type": "small_town",
@@ -309,9 +310,9 @@
    "magic_or_santa"
   ],
   "romance": true,
-  "summary": "A guardian angel sent to the town of Angel Falls works to restore its Christmas spirit and finds love.",
-  "source_url": "https://www.hallmarkmystery.com/christmas-encore",
-  "confidence": "medium"
+  "summary": "An angel sent to revive a town's lost Christmas spirit befriends its skeptical volunteer fire chief.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-in-angel-falls/about-christmas-in-angel-falls",
+  "confidence": "high"
  },
  {
   "title": "Christmas Encore",
@@ -319,18 +320,19 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Maggie Lawson",
   "his_actor": "Brennan Elliott",
-  "her_job": "actress in her last off-Broadway show",
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "her_job": "aspiring New York actress",
+  "his_job": "director and TV star (Julian Walker)",
+  "location": "New York",
+  "location_type": "big_city",
   "tropes": [
+   "boss_or_client_romance",
    "returns_home",
    "save_the_business"
   ],
   "romance": true,
-  "summary": "An actress in her final off-Broadway run needs a Christmas miracle when the historic theater loses its lease.",
-  "source_url": "https://www.hallmarkmystery.com/christmas-encore",
-  "confidence": "medium"
+  "summary": "A struggling actress lands a lead in A Christmas Carol, falls for the director, then loses the theater.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-encore/about-the-movie",
+  "confidence": "high"
  },
  {
   "title": "Rocky Mountain Christmas",
@@ -343,12 +345,13 @@
   "location": "her uncle's ranch, Rocky Mountains",
   "location_type": "farm_ranch_vineyard",
   "tropes": [
+   "returns_home",
    "save_the_business"
   ],
   "romance": true,
-  "summary": "A woman helps her uncle's struggling ranch and bonds with the Hollywood star who arrives to prep for a film.",
-  "source_url": "https://www.hallmarkmystery.com/miracles-of-christmas/best-hallmark-mystery-christmas-movies-2017/",
-  "confidence": "medium"
+  "summary": "A woman fleeing a breakup hides out at her uncle's struggling ranch, where an entitled movie star turns up to prep for a role.",
+  "source_url": "https://www.hallmarkmystery.com/rocky-mountain-christmas/about-rocky-mountain-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas in the Air",
@@ -356,18 +359,19 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Catherine Bell",
   "his_actor": "Eric Close",
-  "her_job": "professional organizer",
-  "his_job": null,
+  "her_job": "successful professional organizer",
+  "his_job": "toy inventor and widower",
   "location": null,
   "location_type": null,
   "tropes": [
-   "widowed",
-   "single_parent"
+   "boss_or_client_romance",
+   "single_parent",
+   "widowed"
   ],
   "romance": true,
-  "summary": "A professional organizer meets a widower with two young children who is struggling with work-life balance.",
-  "source_url": "https://www.wric.com/news/hallmark-releases-its-2017-christmas-movie-lineup/",
-  "confidence": "medium"
+  "summary": "A tidy organizer helps a frazzled widowed toy inventor sort out his life before a big pitch.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-in-the-air/about-christmas-in-the-air",
+  "confidence": "high"
  },
  {
   "title": "Christmas Homecoming",
@@ -375,8 +379,8 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Julie Benz",
   "his_actor": "Michael Shanks",
-  "her_job": null,
-  "his_job": "Army Captain recovering from a combat injury",
+  "her_job": "military widow",
+  "his_job": "Army Captain recovering from a battle injury",
   "location": null,
   "location_type": "small_town",
   "tropes": [
@@ -384,9 +388,9 @@
    "widowed"
   ],
   "romance": true,
-  "summary": "A military widow who has lost her holiday faith teams with an injured Army captain to save the town's military museum.",
-  "source_url": "https://www.wnct.com/news/hallmark-releases-its-2017-christmas-movie-lineup/amp/",
-  "confidence": "medium"
+  "summary": "A military widow and her injured tenant team up on a fundraiser to save the town's military museum.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-homecoming/about-christmas-homecoming",
+  "confidence": "high"
  },
  {
   "title": "A Bramble House Christmas",
@@ -394,7 +398,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Autumn Reeser",
   "his_actor": "David Haydn-Jones",
-  "her_job": "nurse who receives a bequest from her late patient",
+  "her_job": "nurse who took over a bed and breakfast",
   "his_job": null,
   "location": "coastal Oregon (Bramble House bed-and-breakfast)",
   "location_type": "inn_lodge_resort",
@@ -403,9 +407,9 @@
    "secret_identity"
   ],
   "romance": true,
-  "summary": "A nurse left money by a dying patient buys a bed-and-breakfast, while his suspicious son checks on her undercover as a guest.",
-  "source_url": "https://www.hallmarkchannel.com/a-bramble-house-christmas",
-  "confidence": "medium"
+  "summary": "A man goes undercover at a bed and breakfast to find out why his late dad left the nurse $50,000.",
+  "source_url": "https://www.hallmarkmystery.com/a-bramble-house-christmas/about-a-bramble-house-christmas",
+  "confidence": "high"
  },
  {
   "title": "The Perfect Christmas Present",
@@ -419,9 +423,9 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A man who runs a gift-picking business helps a friend learn his girlfriend's wish and ends up falling for her.",
-  "source_url": "https://www.hallmarkchannel.com/the-perfect-christmas-present",
-  "confidence": "medium"
+  "summary": "A professional gift guru helps a college buddy decode his girlfriend's wish list and gets a little too close to her.",
+  "source_url": "https://www.hallmarkmystery.com/the-perfect-christmas-present/about-the-perfect-christmas-present",
+  "confidence": "high"
  },
  {
   "title": "A Song for Christmas",
@@ -429,19 +433,19 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Becca Tobin",
   "his_actor": "Kevin McGarry",
-  "her_job": "pop star",
-  "his_job": "son on his family's dairy farm (job not stated)",
-  "location": "small town family dairy farm (town not named)",
+  "her_job": "pop superstar",
+  "his_job": "oldest son on his family's dairy farm (job not stated)",
+  "location": "family dairy farm in Virginia",
   "location_type": "farm_ranch_vineyard",
   "tropes": [
-   "snowed_in_or_stranded",
+   "save_the_business",
    "secret_identity",
-   "save_the_business"
+   "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "A pop star slips away from her manager and ends up stranded at a struggling family farm, bonding with the eldest son over music.",
-  "source_url": "https://www.hallmarkmystery.com/a-song-for-christmas",
-  "confidence": "medium"
+  "summary": "A pop star who ditches her tour bus lands on a struggling dairy farm where one son spots her.",
+  "source_url": "https://www.hallmarkmystery.com/a-song-for-christmas/about-a-song-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Cottage",

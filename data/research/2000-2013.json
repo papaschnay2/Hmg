@@ -348,16 +348,16 @@
   "year": 2008,
   "network": "Hallmark Channel",
   "her_actor": null,
-  "his_actor": null,
+  "his_actor": "Jason Gedrick",
   "her_job": null,
-  "his_job": "workaholic accountant who forms a choir with homeless shelter residents",
+  "his_job": "successful accountant who volunteers at a homeless shelter and forms a choir from its residents",
   "location": null,
   "location_type": null,
   "tropes": [],
-  "romance": null,
-  "summary": "Based on a true story, an accountant volunteering at a shelter starts a choir with its residents.",
-  "source_url": "https://www.imdb.com/list/ls021562700/",
-  "confidence": "low"
+  "romance": false,
+  "summary": "A lost-souled accountant turns shelter residents into a subway-singing choir in this true-story holiday tale.",
+  "source_url": "https://www.hallmarkmystery.com/the-christmas-choir/about",
+  "confidence": "high"
  },
  {
   "title": "The National Tree",
@@ -447,9 +447,9 @@
    "magic_or_santa"
   ],
   "romance": false,
-  "summary": "Santa crash-lands at a busy couple's home with amnesia, and the family helps restore his memory.",
-  "source_url": "https://en.wikipedia.org/wiki/List_of_Hallmark_Channel_Original_Movies_(2000%E2%80%932015)",
-  "confidence": "medium"
+  "summary": "Two self-absorbed workaholic parents must rescue Christmas when an amnesiac Santa crash-lands in their house.",
+  "source_url": "https://www.hallmarkmystery.com/the-night-before-the-night-before-christmas/about",
+  "confidence": "high"
  },
  {
   "title": "The Town Christmas Forgot",
@@ -459,15 +459,15 @@
   "his_actor": "Rick Roberts",
   "her_job": null,
   "his_job": null,
-  "location": "remote struggling small town (sources call it lumber or mining)",
+  "location": "remote, impoverished lumber town",
   "location_type": "small_town",
   "tropes": [
    "snowed_in_or_stranded"
   ],
   "romance": false,
-  "summary": "A bickering family on a ski trip gets stranded in a poor remote town and helps stage its Christmas pageant.",
-  "source_url": "https://www.hallmarkchannel.com/the-town-christmas-forgot",
-  "confidence": "low"
+  "summary": "A squabbling city family breaks down in a forgotten lumber town and gets roped into its Christmas pageant.",
+  "source_url": "https://www.hallmarkmystery.com/the-town-christmas-forgot/about",
+  "confidence": "high"
  },
  {
   "title": "Call Me Mrs. Miracle",
@@ -623,12 +623,13 @@
   "location": null,
   "location_type": null,
   "tropes": [
+   "save_the_business",
    "single_parent"
   ],
   "romance": true,
-  "summary": "A terminally unlucky single mother wonders if she will ever catch a break as Christmas approaches.",
-  "source_url": "https://fullofcoffee.blog/2019/11/22/lets-talk-hallmark-2011-countdown-to-christmas-movies/",
-  "confidence": "low"
+  "summary": "A luckless single mom's winning lottery ticket rides off in a stolen car, driven by a guy told to romance her.",
+  "source_url": "https://www.hallmarkmystery.com/lucky-christmas/about",
+  "confidence": "high"
  },
  {
   "title": "Cancel Christmas",
@@ -945,14 +946,14 @@
   "location": null,
   "location_type": null,
   "tropes": [
-   "work_rivals",
+   "competition_or_contest",
    "promotion_at_stake",
-   "competition_or_contest"
+   "work_rivals"
   ],
   "romance": true,
-  "summary": "Two music teachers compete for one department job through dueling acts in a televised Christmas song contest.",
-  "source_url": "https://thestressfreechristmas.com/complete-list-hallmark-christmas-movies/",
-  "confidence": "low"
+  "summary": "Two music teachers fight for one job with rival choirs in a televised holiday contest, and sparks fly anyway.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-song/about",
+  "confidence": "high"
  },
  {
   "title": "The Wishing Tree",
@@ -1055,12 +1056,13 @@
   "location": null,
   "location_type": null,
   "tropes": [
+   "boss_or_client_romance",
    "promotion_at_stake"
   ],
   "romance": true,
-  "summary": "A brokerage executive chasing a promotion falls for his dance instructor while a deal threatens her studio.",
-  "source_url": "https://thestressfreechristmas.com/complete-list-hallmark-christmas-movies/",
-  "confidence": "medium"
+  "summary": "A brokerage exec takes dance lessons to nail a proposal to the boss's daughter, then falls for his instructor.",
+  "source_url": "https://www.hallmarkmystery.com/come-dance-with-me/about",
+  "confidence": "high"
  },
  {
   "title": "Help for the Holidays",
@@ -1124,18 +1126,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Nicollette Sheridan",
   "his_actor": "Bart Johnson",
-  "her_job": "journalist",
+  "her_job": "distinguished journalist",
   "his_job": null,
   "location": "Quiet New England town",
   "location_type": "small_town",
   "tropes": [
-   "save_the_business",
-   "magic_or_santa"
+   "magic_or_santa",
+   "save_the_business"
   ],
-  "romance": null,
-  "summary": "In a coma, a journalist's spirit tries to stop a greedy developer from ruining her hometown.",
-  "source_url": "https://en.wikipedia.org/wiki/The_Christmas_Spirit_(2013_film)",
-  "confidence": "medium"
+  "romance": false,
+  "summary": "A comatose journalist, awake only as a spirit, must stop a greedy developer, himself a ghost, before the town votes.",
+  "source_url": "https://www.hallmarkmystery.com/the-christmas-spirit/about",
+  "confidence": "high"
  },
  {
   "title": "Pete's Christmas",
@@ -1238,19 +1240,20 @@
   "title": "Finding Christmas",
   "year": 2013,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Tricia Helfer",
+  "his_actor": "Mark Lutz",
   "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "his_job": "New York City adman",
+  "location": "small North Carolina town",
+  "location_type": "small_town",
   "tropes": [
+   "big_city_to_small_town",
    "single_parent"
   ],
-  "romance": null,
-  "summary": "A divorced single mom named Ryan has given up on dating and keeps her young son as the main man in her life.",
-  "source_url": "https://www.ibtimes.com/hallmark-channel-christmas-movies-2013-when-where-watch-12-new-original-countdown-christmas-movies",
-  "confidence": "low"
+  "romance": true,
+  "summary": "A divorced mom falls for the city adman who swapped homes with her brother, who is busy charming his assistant.",
+  "source_url": "https://www.hallmarkmystery.com/finding-christmas/about",
+  "confidence": "high"
  },
  {
   "title": "A Very Merry Mix-Up",

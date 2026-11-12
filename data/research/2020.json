@@ -83,9 +83,9 @@
   "location_type": "other",
   "tropes": [],
   "romance": true,
-  "summary": "A reporter meets a naval officer during a Christmastime Tiger Cruise out of Norfolk.",
-  "source_url": "https://www.thewrap.com/hallmark-christmas-movies-schedule-gay-adoption-storyline-holiday-countdown-to-christmas/",
-  "confidence": "medium"
+  "summary": "A Norfolk reporter on a holiday Tiger Cruise meets a handsome officer and stumbles onto a mystery in the ship's archives.",
+  "source_url": "https://www.hallmarkmystery.com/uss-christmas/about-uss-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas Waltz",
@@ -274,17 +274,18 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Alicia Witt",
   "his_actor": "Andrew Walker",
-  "her_job": "music teacher",
-  "his_job": null,
+  "her_job": "music store owner",
+  "his_job": "works for the company trying to demolish her street (role not stated)",
   "location": null,
   "location_type": null,
   "tropes": [
-   "save_the_business"
+   "save_the_business",
+   "work_rivals"
   ],
   "romance": true,
-  "summary": "A music teacher fights to save her town's beloved Christmas Tree Lane shopping district from demolition.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "medium"
+  "summary": "A shop owner leads the fight to save her street, then learns her new crush works for the demolition crew.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-tree-lane/about-christmas-tree-lane",
+  "confidence": "high"
  },
  {
   "title": "Holly & Ivy",
@@ -306,17 +307,17 @@
   "title": "The Christmas Bow",
   "year": 2020,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": "violinist",
+  "her_actor": "Lucia Micarelli",
+  "his_actor": "Michael Rady",
+  "her_job": "musician aiming for the Rocky Mountain Philharmonic",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "An accident puts a violinist's dream of joining a philharmonic on hold, and an old family friend helps her heal.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "medium"
+  "summary": "An injury derails a musician's orchestra dream, and an old family friend helps her heal and find someone who believes in her.",
+  "source_url": "https://www.hallmarkmystery.com/the-christmas-bow/about-the-christmas-bow",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Ring",
@@ -330,9 +331,9 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A reporter traces the love story behind an antique engagement ring with help from its owner's grandson.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "medium"
+  "summary": "A reporter and the ring owner's grandson dig into the love story behind an antique engagement ring.",
+  "source_url": "https://www.hallmarkmystery.com/the-christmas-ring/about-the-christmas-ring",
+  "confidence": "high"
  },
  {
   "title": "The Angel Tree",
@@ -340,31 +341,33 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Jill Wagner",
   "his_actor": "Lucas Bryant",
-  "her_job": "magazine writer",
+  "her_job": "writer",
   "his_job": "local diner owner",
   "location": "Pine River",
   "location_type": "her_hometown",
-  "tropes": [],
+  "tropes": [
+   "childhood_friends"
+  ],
   "romance": true,
-  "summary": "A magazine writer investigates the mysterious tree that appears overnight in her small mountain hometown's square.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "medium"
+  "summary": "A writer hunts for whoever secretly grants wishes left on a town tree and rediscovers her childhood friend along the way.",
+  "source_url": "https://www.hallmarkmystery.com/the-angel-tree/about-the-angel-tree",
+  "confidence": "high"
  },
  {
   "title": "Time for Us to Come Home for Christmas",
   "year": 2020,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Lacey Chabert",
+  "his_actor": "Stephen Huszar",
   "her_job": null,
   "his_job": "inn owner",
   "location": "an inn",
   "location_type": "inn_lodge_resort",
   "tropes": [],
   "romance": true,
-  "summary": "Five guests are mysteriously invited to an inn, where a past event may connect them.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "summary": "Five mystery-invited guests gather at an inn, where a woman and the owner uncover a past event tying them together.",
+  "source_url": "https://www.hallmarkmystery.com/time-for-us-to-come-home-for-christmas/about-time-for-us-to-come-home-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Unlocking Christmas",
@@ -378,9 +381,9 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A mysterious key and a holiday riddle send two leads on a Christmas adventure and romance.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "low"
+  "summary": "A mystery key and a holiday riddle turn up on two doorsteps and launch a memorable Christmas adventure.",
+  "source_url": "https://www.hallmarkmystery.com/unlocking-christmas/about-unlocking-christmas",
+  "confidence": "high"
  },
  {
   "title": "Project Christmas Wish",
@@ -396,9 +399,9 @@
    "magic_or_santa"
   ],
   "romance": true,
-  "summary": "A woman who plays secret Santa to her small town finds a reluctant man chosen as its Wish of the Season.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "medium"
+  "summary": "A town's unofficial Santa grants a little girl's wish and ends up with some wishes of her own coming true.",
+  "source_url": "https://www.hallmarkmystery.com/project-christmas-wish/about-project-christmas-wish",
+  "confidence": "high"
  },
  {
   "title": "Cranberry Christmas",
@@ -411,14 +414,14 @@
   "location": "a Maine cranberry farm (town not named)",
   "location_type": "farm_ranch_vineyard",
   "tropes": [
-   "fake_relationship",
    "exes_reunited",
+   "fake_relationship",
    "save_the_business"
   ],
   "romance": true,
-  "summary": "A separated couple pretends to be happily married to help their town's Christmas festival and their farm business.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "medium"
+  "summary": "A separated couple fakes wedded bliss on TV for their town's festival, and the pretending starts to feel suspiciously real.",
+  "source_url": "https://www.hallmarkmystery.com/cranberry-christmas/about-cranberry-christmas",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Doctor",
@@ -426,15 +429,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Holly Robinson Peete",
   "his_actor": "Adrian Holmes",
-  "her_job": "traveling locum doctor",
+  "her_job": "traveling doctor",
   "his_job": "engineer (sources say software engineer / graphic designer)",
   "location": "Willowbrook",
   "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": "A traveling doctor finds love and a home at her latest assignment, where a man from her past appears.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "medium"
+  "summary": "A doctor who never stays anywhere long takes a holiday clinic post in a small town and unexpectedly feels at home.",
+  "source_url": "https://www.hallmarkmystery.com/the-christmas-doctor/about-the-christmas-doctor",
+  "confidence": "high"
  },
  {
   "title": "Meet Me at Christmas",
@@ -450,9 +453,9 @@
    "wedding"
   ],
   "romance": true,
-  "summary": "A mother must organize her son's Christmas Eve wedding herself after the wedding planner quits.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "medium"
+  "summary": "A mother takes over her son's Christmas Eve wedding planning and gets help from the bride's uncle with a shared past.",
+  "source_url": "https://www.hallmarkmystery.com/meet-me-at-christmas/about-meet-me-at-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Little Christmas Charm",
@@ -466,9 +469,9 @@
   "location_type": "big_city",
   "tropes": [],
   "romance": true,
-  "summary": "A jewelry designer and a reporter hunt for the owner of a lost charm bracelet before Christmas Eve.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "medium"
+  "summary": "A jewelry designer and a reporter race the Christmas Eve clock to return a lost charm bracelet to its owner.",
+  "source_url": "https://www.hallmarkmystery.com/a-little-christmas-charm/about-a-little-christmas-charm",
+  "confidence": "high"
  },
  {
   "title": "Swept Up by Christmas",
@@ -477,31 +480,35 @@
   "her_actor": "Lindy Booth",
   "his_actor": "Justin Bruening",
   "her_job": "antique dealer",
-  "his_job": "estate cleaner (sources disagree; one says vet)",
+  "his_job": "cleaner (downsizing estates)",
   "location": null,
   "location_type": null,
   "tropes": [
    "work_rivals"
   ],
   "romance": true,
-  "summary": "An antique dealer clashes with the man helping her clear out a large reclusive owner's estate before Christmas.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "medium"
+  "summary": "An antique dealer and a cleaner bicker over emptying a grand estate while reconnecting its recluse owner with Christmases past.",
+  "source_url": "https://www.hallmarkmystery.com/swept-up-by-christmas/about-swept-up-by-christmas",
+  "confidence": "high"
  },
  {
   "title": "Deliver by Christmas",
   "year": 2020,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Alvina August",
+  "his_actor": "Eion Bailey",
   "her_job": "bakery owner",
-  "his_job": null,
+  "his_job": "widower (job not stated)",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "secret_identity",
+   "single_parent",
+   "widowed"
+  ],
   "romance": true,
-  "summary": "A bakery owner's life gets complicated by two men, including a mysterious client she has never met in person.",
-  "source_url": "https://www.tvinsider.com/950286/hallmark-movies-mysteries-miracles-of-christmas-2020-schedule-list/",
-  "confidence": "medium"
+  "summary": "A baker falls for the new-in-town widower and a mystery client, without realizing they are one and the same man.",
+  "source_url": "https://www.hallmarkmystery.com/deliver-by-christmas/about-deliver-by-christmas",
+  "confidence": "high"
  }
 ]

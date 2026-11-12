@@ -63,33 +63,35 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Heather Hemmens",
   "his_actor": "Luke Macfarlane",
-  "her_job": "concert violinist (Beth)",
-  "his_job": "reclusive country music star (Sean Grant)",
+  "her_job": "concert violinist",
+  "his_job": "reclusive country music star",
   "location": "West Virginia (town unnamed)",
   "location_type": null,
   "tropes": [
    "returns_home"
   ],
   "romance": true,
-  "summary": "A violinist back in her hometown tutors a country star's daughter for a holiday concert.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "medium"
+  "summary": "A concert violinist tutors a hermit country star's daughter for a holiday show, and music draws the grown-ups together too.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-in-my-heart/about-christmas-in-my-heart",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Promise",
   "year": 2021,
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Torrey DeVitto",
-  "his_actor": "Dylan Bruce / Greyston Holt",
-  "her_job": "toy store owner (Nicole)",
-  "his_job": "carpenter (Joe)",
+  "his_actor": "Dylan Bruce",
+  "her_job": "toy store owner",
+  "his_job": "carpenter",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "boss_or_client_romance"
+  ],
   "romance": true,
-  "summary": "A grieving toy store owner hires a carpenter to renovate the house meant for her and her fiance.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "medium"
+  "summary": "A grieving woman leans on her grandfather and a hired carpenter while renovating the house once meant for her and her fiance.",
+  "source_url": "https://www.hallmarkmystery.com/the-christmas-promise/about-the-christmas-promise",
+  "confidence": "high"
  },
  {
   "title": "Debbie Macomber's A Mrs. Miracle Christmas",
@@ -104,10 +106,10 @@
   "tropes": [
    "magic_or_santa"
   ],
-  "romance": true,
-  "summary": "Mrs. Miracle helps a struggling family through a painful holiday season; leads' jobs and setting not stated in results.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "low"
+  "romance": false,
+  "summary": "A heavenly helper swoops in to restore a lonely, faith-shaken family's holiday spirit.",
+  "source_url": "https://www.hallmarkmystery.com/debbie-macombers-a-mrs-miracle-christmas/about-debbie-macombers-a-mrs-miracle-christmas",
+  "confidence": "high"
  },
  {
   "title": "One December Night",
@@ -121,9 +123,9 @@
   "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": "Two music managers set aside their history to stage a televised reunion of their rock star fathers.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "medium"
+  "summary": "Two music managers shelve their own history to stage a televised reunion for their feuding rock star fathers.",
+  "source_url": "https://www.hallmarkmystery.com/one-december-night/about-one-december-night",
+  "confidence": "high"
  },
  {
   "title": "Five More Minutes",
@@ -147,19 +149,19 @@
   "title": "Time for Them to Come Home for Christmas",
   "year": 2021,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Jessy Schram",
+  "his_actor": "Brendan Penny",
   "her_job": null,
-  "his_job": null,
+  "his_job": "nurse",
   "location": null,
   "location_type": null,
   "tropes": [
    "amnesia"
   ],
   "romance": true,
-  "summary": "A woman with amnesia wakes alone in a rural hospital ten days before Christmas.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "medium"
+  "summary": "A woman with amnesia and her handsome nurse chase a lone clue, a festival invitation, to learn who she is.",
+  "source_url": "https://www.hallmarkmystery.com/time-for-them-to-come-home-for-christmas/about-time-for-them-to-come-home-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Our Christmas Journey",
@@ -171,11 +173,13 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "single_parent"
+  ],
   "romance": false,
-  "summary": "A single mother faces a hard decision about her autistic 18-year-old son at Christmas.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "medium"
+  "summary": "A single mom must learn to let go as her teenage son with autism is ready to flourish on his own.",
+  "source_url": "https://www.hallmarkmystery.com/our-christmas-journey/about-our-christmas-journey",
+  "confidence": "high"
  },
  {
   "title": "A Godwink Christmas: Miracle of Love",
@@ -183,15 +187,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Katherine Barrell",
   "his_actor": "Alberto Frezza",
-  "her_job": "volunteer (Joy)",
-  "his_job": "volunteer (Eric)",
+  "her_job": "community service volunteer (Joy)",
+  "his_job": "community service volunteer (Eric)",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Two volunteers with a non-profit build a home for a family at Christmas.",
-  "source_url": "https://www.hallmarkchannel.com/a-godwink-christmas",
-  "confidence": "medium"
+  "summary": "Two volunteers helping a family rebuild their home find purpose, coincidences, and a medical miracle that makes them believe in destiny.",
+  "source_url": "https://www.hallmarkmystery.com/a-godwink-christmas-miracle-of-love/about-a-godwink-christmas-miracle-of-love",
+  "confidence": "high"
  },
  {
   "title": "Christmas for Keeps",
@@ -204,13 +208,13 @@
   "location": null,
   "location_type": null,
   "tropes": [
-   "returns_home",
-   "childhood_friends"
+   "childhood_friends",
+   "returns_home"
   ],
-  "romance": true,
-  "summary": "Childhood friends return home after ten years for a celebration of life honoring their beloved high school teacher.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2021-movies-schedule-photos/",
-  "confidence": "medium"
+  "romance": false,
+  "summary": "A tight group of childhood friends comes home after a decade to honor their beloved high school teacher.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-for-keeps/about-christmas-for-keeps",
+  "confidence": "high"
  },
  {
   "title": "Sugar Plum Twist",
@@ -249,7 +253,7 @@
   "skip": true
  },
  {
-  "title": "Every Time a Bell Rings",
+  "title": "Every Time A Bell Rings",
   "year": 2021,
   "network": "Hallmark Movies & Mysteries",
   "her_actor": null,
@@ -261,10 +265,10 @@
   "tropes": [
    "returns_home"
   ],
-  "romance": true,
-  "summary": "Three sisters reunite in their hometown to follow their late father's scavenger hunt for the family wishing bell.",
-  "source_url": "https://itsawonderfulmovie.blogspot.com/2021/09/hallmark-movies-mysteries-2021-miracles-of-christmas-movies-tv-schedule-list.html",
-  "confidence": "medium"
+  "romance": false,
+  "summary": "Three sisters reunite at home and follow their late father's final scavenger hunt to find the family wishing bell.",
+  "source_url": "https://www.hallmarkmystery.com/every-time-a-bell-rings/about-every-time-a-bell-rings",
+  "confidence": "high"
  },
  {
   "title": "Christmas CEO",

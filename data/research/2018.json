@@ -102,7 +102,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Kellie Pickler",
   "his_actor": "Wes Brown",
-  "her_job": "business executive",
+  "her_job": "Chicago-based business executive",
   "his_job": "music promoter",
   "location": "Memphis, Tennessee",
   "location_type": "big_city",
@@ -110,9 +110,9 @@
    "exes_reunited"
   ],
   "romance": true,
-  "summary": "A Chicago-based executive on a banking deal in Memphis runs into her ex and is drawn back toward music.",
-  "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "medium"
+  "summary": "A Chicago executive in Memphis to buy a bank bumps into her old singing partner and starts dreaming of music again.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-at-graceland/about-christmas-at-graceland",
+  "confidence": "high"
  },
  {
   "title": "Christmas in Evergreen: Letters to Santa",
@@ -140,18 +140,19 @@
   "network": "Hallmark Hall of Fame (Hallmark Channel)",
   "her_actor": "Tatyana Ali",
   "his_actor": "Dondre T. Whitfield",
-  "her_job": "corporate lawyer",
+  "her_job": "lawyer who just made partner at her law firm",
   "his_job": "attorney",
   "location": null,
   "location_type": "her_hometown",
   "tropes": [
-   "returns_home",
-   "promotion_at_stake"
+   "inheritance",
+   "promotion_at_stake",
+   "returns_home"
   ],
   "romance": true,
-  "summary": "A hotshot New York lawyer nearing partnership returns to her hometown after her sister's death.",
-  "source_url": "https://www.ibtimes.com/new-hallmark-christmas-2018-movies-schedule-countdown-christmas-miracles-christmas-2726604",
-  "confidence": "medium"
+  "summary": "A newly minted law partner heads home after her sister's death to sort out a very eccentric will.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-everlasting/about-christmas-everlasting",
+  "confidence": "high"
  },
  {
   "title": "A Shoe Addict's Christmas",
@@ -250,17 +251,17 @@
   "title": "A Christmas for the Books",
   "year": 2018,
   "network": null,
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Chelsea Kane",
+  "his_actor": "Drew Seeley",
   "her_job": "lifestyle guru and romance expert",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A lifestyle guru and romance expert who must prove her credentials hosts a holiday gala and gets caught in a love triangle.",
-  "source_url": "https://thehappyhallmarker.com/hallmark-channel-christmas-movies-checklists-for-each-year/",
-  "confidence": "medium"
+  "summary": "A lifestyle guru hosting a fancy holiday gala has to prove she knows romance while tangled in a love triangle of her own.",
+  "source_url": "https://www.hallmarkmystery.com/a-christmas-for-the-books/about-a-christmas-for-the-books",
+  "confidence": "high"
  },
  {
   "title": "Christmas at the Palace",
@@ -318,7 +319,7 @@
   "confidence": "high"
  },
  {
-  "title": "Christmas Bells Are Ringing",
+  "title": "Christmas Bells are Ringing",
   "year": 2018,
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Emilie Ullerup",
@@ -326,14 +327,17 @@
   "her_job": "freelance photographer",
   "his_job": null,
   "location": "Cape Cod",
-  "location_type": null,
+  "location_type": "other",
   "tropes": [
-   "returns_home"
+   "childhood_friends",
+   "promotion_at_stake",
+   "returns_home",
+   "wedding"
   ],
   "romance": true,
-  "summary": "A freelance photographer returns to Cape Cod for the first time since her mother died.",
-  "source_url": "https://lollychristmas.com/2018/09/the-full-line-up-of-hallmarks-2018-christmas-movies-are-here/",
-  "confidence": "low"
+  "summary": "A photographer returns to her family's Cape Cod vacation home for her dad's wedding and reunites with her old summer best friend.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-bells-are-ringing/about-christmas-bells-are-ringing",
+  "confidence": "high"
  },
  {
   "title": "Marrying Father Christmas",
@@ -350,9 +354,9 @@
    "wedding"
   ],
   "romance": true,
-  "summary": "Miranda prepares to marry Ian at Christmas with both families gathering, in the third Father Christmas film.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "summary": "Engaged Miranda prepares to marry Ian at Christmas while his family and her newfound family crowd in.",
+  "source_url": "https://www.hallmarkmystery.com/marrying-father-christmas/about-the-movie",
+  "confidence": "high"
  },
  {
   "title": "A Veteran's Christmas",
@@ -360,18 +364,18 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Eloise Mumford",
   "his_actor": "Sean Faris",
-  "her_job": "decorated Marine veteran (search and rescue captain)",
-  "his_job": "judge",
-  "location": "River's Crossing",
+  "her_job": "honorably discharged Marine offered a job heading the town's Search & Rescue",
+  "his_job": "judge (considering a District Court Judge job in Chicago)",
+  "location": "River Crossing",
   "location_type": "small_town",
   "tropes": [
    "returns_home",
    "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "A veteran returning from Afghanistan has car trouble and is offered a guesthouse by a local judge.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "medium"
+  "summary": "A discharged Marine's jeep breaks down on the road and a friendly judge lends her his guesthouse, which goes about how you'd expect.",
+  "source_url": "https://www.hallmarkmystery.com/a-veterans-christmas/about-a-veterans-christmas",
+  "confidence": "high"
  },
  {
   "title": "Return to Christmas Creek",
@@ -379,19 +383,20 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Tori Anderson",
   "his_actor": "Stephen Huszar",
-  "her_job": "app developer and startup CEO",
+  "her_job": "career-focused Chicago app developer",
   "his_job": null,
   "location": "Christmas Creek",
   "location_type": "her_hometown",
   "tropes": [
-   "sequel",
+   "big_city_to_small_town",
+   "childhood_friends",
    "returns_home",
-   "big_city_to_small_town"
+   "sequel"
   ],
   "romance": true,
-  "summary": "A Chicago startup CEO whose holiday app is rejected by investors returns to her small hometown and falls for Mike.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "medium"
+  "summary": "A holiday-weary Chicago app developer goes back to her hometown, reconnects with her childhood best friend, and unravels an old family rift.",
+  "source_url": "https://www.hallmarkmystery.com/return-to-christmas-creek/about-return-to-christmas-creek",
+  "confidence": "high"
  },
  {
   "title": "A Godwink Christmas",
@@ -416,18 +421,19 @@
   "her_actor": "Erin Cahill",
   "his_actor": "Justin Bruening",
   "her_job": "interior designer",
-  "his_job": null,
-  "location": "Woodstock, Vermont",
+  "his_job": "buyer planning to use the house as an investment property (job not stated)",
+  "location": "Vermont",
   "location_type": "her_hometown",
   "tropes": [
+   "exes_reunited",
    "returns_home",
-   "widowed",
-   "exes_reunited"
+   "single_parent",
+   "widowed"
   ],
   "romance": true,
-  "summary": "A widowed mom comes home to learn her parents are selling the family house, and the buyer is her high school sweetheart.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "summary": "A widowed mom comes home to find her parents selling the family house, and the buyer is her high school sweetheart.",
+  "source_url": "https://www.hallmarkmystery.com/last-vermont-christmas/about-last-vermont-christmas",
+  "confidence": "high"
  },
  {
   "title": "Hope at Christmas",
@@ -435,18 +441,19 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Scottie Thompson",
   "his_actor": "Ryan Paevey",
-  "her_job": "recently divorced stay-at-home mom re-entering the workforce",
-  "his_job": "elementary schoolteacher (and fill-in Santa)",
+  "her_job": "recently divorced mom seeking a fresh start",
+  "his_job": "elementary schoolteacher and fill-in Santa",
   "location": "Hopewell, North Carolina",
   "location_type": "small_town",
   "tropes": [
-   "single_parent",
-   "inheritance"
+   "inheritance",
+   "magic_or_santa",
+   "single_parent"
   ],
   "romance": true,
-  "summary": "A recently divorced mom and her daughter start fresh in a small town, where a local teacher helps her believe in Christmas again.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "medium"
+  "summary": "A divorced mom and daughter plan to sell an inherited house, but a town full of Christmas charm and a Santa-subbing teacher change things.",
+  "source_url": "https://www.hallmarkmystery.com/hope-at-christmas/about-hope-at-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas on Honeysuckle Lane",
@@ -462,9 +469,9 @@
    "returns_home"
   ],
   "romance": true,
-  "summary": "Emma returns to her hometown for the holidays and finds a surprise hidden in her late mother's antique desk.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "medium"
+  "summary": "Siblings gather for one last Christmas in their late parents' house, and a hidden surprise in mom's collection sends them on a quest.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-on-honeysuckle-lane/about-christmas-on-honeysuckle-lane",
+  "confidence": "high"
  },
  {
   "title": "Christmas Wonderland",
@@ -472,18 +479,18 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Emily Osment",
   "his_actor": "Ryan Rottman",
-  "her_job": "art gallery curator",
+  "her_job": "art gallery curator (painter on hold)",
   "his_job": "teacher",
   "location": "Pleasant Valley",
   "location_type": "her_hometown",
   "tropes": [
-   "returns_home",
    "big_city_to_small_town",
-   "exes_reunited"
+   "exes_reunited",
+   "returns_home"
   ],
   "romance": true,
-  "summary": "A city gallery curator goes back to her small hometown, helps her high school love find a venue for the Christmas dance, and rediscovers painting.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
+  "summary": "A gallery curator babysits her niece and nephew back home and helps her high school love rescue the Christmas dance.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-wonderland/about-christmas-wonderland",
   "confidence": "high"
  },
  {
@@ -508,17 +515,19 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Christina Milian",
   "his_actor": "Mark Taylor",
-  "her_job": "financial dealmaker",
+  "her_job": "star San Francisco financial dealmaker",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "a Michigan town",
+  "location_type": "her_hometown",
   "tropes": [
+   "big_city_to_small_town",
+   "inheritance",
    "returns_home"
   ],
   "romance": true,
-  "summary": "A busy San Francisco dealmaker goes to her childhood home planning to sell it and rediscovers her love of the holidays.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "medium"
+  "summary": "A hotshot dealmaker heads to her Michigan hometown to sell her late mom's house and rediscovers holiday joy and love.",
+  "source_url": "https://www.hallmarkmystery.com/memories-of-christmas/about-memories-of-christmas",
+  "confidence": "high"
  },
  {
   "title": "Time for Me to Come Home for Christmas",
@@ -528,15 +537,16 @@
   "his_actor": "Josh Henderson",
   "her_job": null,
   "his_job": "country singer",
-  "location": "Tulsa, Oklahoma",
+  "location": "Oklahoma",
   "location_type": "other",
   "tropes": [
-   "save_the_business"
+   "save_the_business",
+   "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "Cara flies from New York to Oklahoma, seeking a loan for her family's business, and meets a grieving country singer.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "low"
+  "summary": "Two grieving strangers, one a low-key country star, bond while bad weather keeps derailing their trips, until tabloid gossip complicates things.",
+  "source_url": "https://www.hallmarkmystery.com/time-for-me-to-come-home-for-christmas/about-time-for-me-to-come-home-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Northern Lights of Christmas",
@@ -546,15 +556,15 @@
   "his_actor": "Corey Sevier",
   "her_job": "pilot",
   "his_job": "ranch hand",
-  "location": "Aurora, Alaska",
+  "location": "her uncle's ranch, Alaska",
   "location_type": "farm_ranch_vineyard",
   "tropes": [
    "inheritance"
   ],
   "romance": true,
-  "summary": "A pilot inherits her uncle's Alaska ranch, plans to sell, then revives his Christmas festival with help from the ranch hand.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
-  "confidence": "medium"
+  "summary": "A pilot inherits her uncle's Alaska ranch intending to sell, until a handsome ranch hand and two reindeer change her mind.",
+  "source_url": "https://www.hallmarkmystery.com/northern-lights-of-christmas/about-northern-lights-of-christmas",
+  "confidence": "high"
  },
  {
   "title": "Small Town Christmas",
@@ -567,11 +577,12 @@
   "location": "Springdale",
   "location_type": "small_town",
   "tropes": [
-   "big_city_to_small_town"
+   "big_city_to_small_town",
+   "exes_reunited"
   ],
   "romance": true,
-  "summary": "A New York novelist ends a book tour in the town that inspired her bestseller and falls for the local bookstore owner.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/seasons/official/2018",
+  "summary": "A touring novelist lands in the hometown of the ex-coworker who stood her up and whose stories inspired her book.",
+  "source_url": "https://www.hallmarkmystery.com/small-town-christmas/about-small-town-christmas",
   "confidence": "high"
  },
  {
@@ -589,9 +600,9 @@
    "returns_home"
   ],
   "romance": true,
-  "summary": "A burned-out gallery-world artist returns home for Christmas and meets a dad assigned to review a hotel in town.",
-  "source_url": "https://www.hallmarkchannel.com/christmas-at-grand-valley",
-  "confidence": "medium"
+  "summary": "A burned-out gallery artist goes home to Grand Valley and meets a dad reviewing a local hotel on a family vacation.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-at-grand-valley/about-christmas-at-grand-valley",
+  "confidence": "high"
  },
  {
   "title": "Welcome to Christmas",

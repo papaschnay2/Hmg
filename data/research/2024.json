@@ -496,12 +496,14 @@
   "location": null,
   "location_type": null,
   "tropes": [
-   "fake_relationship"
+   "exes_reunited",
+   "fake_relationship",
+   "single_parent"
   ],
   "romance": true,
-  "summary": "A separated wife pretends to still be with her husband to placate her mother, and the ruse may help them repair their marriage.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2024-schedule-premiere-dates-cast/",
-  "confidence": "medium"
+  "summary": "Separated parents pretend to still be happily married for her visiting mother, and the act starts feeling suspiciously real.",
+  "source_url": "https://www.hallmarkmystery.com/this-time-each-year/about-this-time-each-year",
+  "confidence": "high"
  },
  {
   "title": "Five Gold Rings",
@@ -510,16 +512,17 @@
   "her_actor": "Holland Roden",
   "his_actor": "Nolan Gerard Funk",
   "her_job": "New York City painter",
-  "his_job": "Local private investigator (Finn O'Sullivan)",
-  "location": "Small hometown in Minnesota",
+  "his_job": "local private investigator and childhood friend",
+  "location": "her small Minnesota hometown",
   "location_type": "her_hometown",
   "tropes": [
+   "childhood_friends",
    "returns_home"
   ],
   "romance": true,
-  "summary": "A New York painter returns to her Minnesota hometown and, with a local PI, follows her late grandmother's quest to return five gold rings.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2024-schedule-premiere-dates-cast/",
-  "confidence": "medium"
+  "summary": "A painter goes home and, per grandma's last wish, teams with a PI pal to return five mystery rings before Christmas.",
+  "source_url": "https://www.hallmarkmystery.com/five-gold-rings/about-five-gold-rings",
+  "confidence": "high"
  },
  {
   "title": "A Reason for the Season",
@@ -527,15 +530,19 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Taylor Cole",
   "his_actor": "Kevin McGarry",
-  "her_job": "Heiress to a makeup company (Evie Lane)",
-  "his_job": "Local attorney",
+  "her_job": "heiress working to earn her trust fund",
+  "his_job": "handsome local attorney",
   "location": "Brookswood",
   "location_type": "small_town",
-  "tropes": [],
+  "tropes": [
+   "boss_or_client_romance",
+   "inheritance",
+   "secret_identity"
+  ],
   "romance": true,
-  "summary": "Evie is tasked with granting Christmas wishes to the people who saved her life on the night she was born.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2024-schedule-premiere-dates-cast/",
-  "confidence": "medium"
+  "summary": "An heiress must secretly grant wishes to her lifesavers to claim her fortune, and the lawyer she hires helps and charms her.",
+  "source_url": "https://www.hallmarkmystery.com/a-reason-for-the-season/about-a-reason-for-the-season",
+  "confidence": "high"
  },
  {
   "title": "Christmas Under the Lights",
@@ -544,16 +551,16 @@
   "her_actor": "Heather Hemmens",
   "his_actor": "Marco Grazzini",
   "her_job": null,
-  "his_job": "Artist (Luke)",
-  "location": "Her family's animal rescue ranch and hometown",
+  "his_job": "once-successful artist who works with light",
+  "location": "her family's animal rescue ranch",
   "location_type": "farm_ranch_vineyard",
   "tropes": [
    "returns_home"
   ],
   "romance": true,
-  "summary": "Emily, reluctant to return to her family's animal rescue ranch, helps organize the town Christmas Carnival after her mother dies.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2024-schedule-premiere-dates-cast/",
-  "confidence": "medium"
+  "summary": "A reluctant daughter heads home to run the town Christmas Carnival and teams up with a light artist staying at the ranch.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-under-the-lights/about-christmas-under-the-lights",
+  "confidence": "high"
  },
  {
   "title": "My Sweet Austrian Holiday",
@@ -561,9 +568,9 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Brittany Bristow",
   "his_actor": "Will Kemp",
-  "her_job": "chocolatier (owns inherited family chocolate shop)",
-  "his_job": null,
-  "location": "Vienna, Austria",
+  "her_job": "chocolatier who inherited her grandparents' chocolate shop",
+  "his_job": "billionaire businessman who took over his father's company",
+  "location": "Vienna",
   "location_type": "europe_or_kingdom",
   "tropes": [
    "competition_or_contest",
@@ -571,9 +578,9 @@
    "save_the_business"
   ],
   "romance": true,
-  "summary": "An American chocolatier in Vienna must win a big award to keep developers from taking her late grandmother's historic shop.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2024-schedule-premiere-dates-cast/",
-  "confidence": "medium"
+  "summary": "A new Vienna chocolatier fights a developer, then learns her charming boyfriend's company is the one behind the plan.",
+  "source_url": "https://www.hallmarkmystery.com/my-sweet-austrian-holiday/about-my-sweet-austrian-holiday",
+  "confidence": "high"
  },
  {
   "title": "A Dance in the Snow",
@@ -582,14 +589,16 @@
   "her_actor": "Erica Cerra",
   "his_actor": "Mark Ghanimé",
   "her_job": null,
-  "his_job": null,
+  "his_job": "high school literature teacher",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "single_parent"
+  ],
   "romance": true,
-  "summary": "A mother joins the PTA to plan a more inclusive school dance for her autistic teenage daughter, and meets Daniel.",
-  "source_url": "https://www.hallmarkchannel.com/a-dance-in-the-snow",
-  "confidence": "low"
+  "summary": "A mom joins the school dance committee to cheer up her teen daughter and falls for the literature teacher while secrets snowball.",
+  "source_url": "https://www.hallmarkmystery.com/a-dance-in-the-snow/about-a-dance-in-the-snow",
+  "confidence": "high"
  },
  {
   "title": "A Novel Noel",
@@ -597,17 +606,17 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Julie Gonzalo",
   "his_actor": "Brendan Penny",
-  "her_job": "New York City book editor (Harper)",
-  "his_job": null,
+  "her_job": "successful New York City book editor",
+  "his_job": "cranky, business-minded son of the bookstore owners (job not stated)",
   "location": "Saint Ives, Maine",
   "location_type": "small_town",
   "tropes": [
    "big_city_to_small_town"
   ],
   "romance": true,
-  "summary": "A New York book editor takes a temporary gig running a Maine bookstore.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2024-schedule-premiere-dates-cast/",
-  "confidence": "medium"
+  "summary": "A slumping city editor runs a small-town bookstore for December and clashes with the owners' grumpy, secretly talented son.",
+  "source_url": "https://www.hallmarkmystery.com/a-novel-noel/about-a-novel-noel",
+  "confidence": "high"
  },
  {
   "title": "All I Need for Christmas",
@@ -615,15 +624,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Mallory Jansen",
   "his_actor": "Dan Jeannotte",
-  "her_job": "Singer",
-  "his_job": "Tech entrepreneur",
-  "location": "Her parents' farm",
+  "her_job": "aspiring singer/songwriter",
+  "his_job": "tech entrepreneur developing large-scale apps",
+  "location": "her parents' farm",
   "location_type": "farm_ranch_vineyard",
   "tropes": [],
   "romance": true,
-  "summary": "Singer Maggie meets tech entrepreneur Archer on her parents' farm at Christmas.",
-  "source_url": "https://www.hallmarkchannel.com/all-i-need-for-christmas",
-  "confidence": "medium"
+  "summary": "A songwriter who blames apps for her troubles meets a lonely app developer, and each nudges the other toward heart over hustle.",
+  "source_url": "https://www.hallmarkmystery.com/all-i-need-for-christmas/about-all-i-need-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Trading Up Christmas",
@@ -632,14 +641,14 @@
   "her_actor": "Italia Ricci",
   "his_actor": "Michael Xavier",
   "her_job": null,
-  "his_job": null,
+  "his_job": "local reporter",
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "Michelle hatches a creative plan to help her sister Keri, who needs a new home.",
-  "source_url": "https://www.hallmarkchannel.com/trading-up-christmas",
-  "confidence": "low"
+  "summary": "A dreamer swaps her way up from a Christmas stocking toward a house for her sister, with a reporter chronicling and cheering her on.",
+  "source_url": "https://www.hallmarkmystery.com/trading-up-christmas/about-trading-up-christmas",
+  "confidence": "high"
  },
  {
   "title": "Season's Greetings from Cherry Lane",

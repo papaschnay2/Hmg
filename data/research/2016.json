@@ -123,8 +123,8 @@
   "network": "Hallmark Channel",
   "her_actor": "Taylor Cole",
   "his_actor": "Michael Rady",
-  "her_job": "Famous actress",
-  "his_job": "Local innkeeper and single dad",
+  "her_job": "one of the most famous actresses in the world",
+  "his_job": "local innkeeper and single dad",
   "location": "Homestead, Iowa",
   "location_type": "small_town",
   "tropes": [
@@ -132,8 +132,8 @@
    "single_parent"
   ],
   "romance": true,
-  "summary": "A famous actress shooting a holiday movie in a Christmas-obsessed Iowa town falls for the local innkeeper and single dad.",
-  "source_url": "https://tv.apple.com/us/movie/christmas-in-homestead/umc.cmc.1fchlrtkfv5jkks3qrb4ife0q",
+  "summary": "A world-famous actress shooting a holiday film in Christmas-obsessed Homestead falls for the local innkeeper dad.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-in-homestead/about-christmas-in-homestead",
   "confidence": "high"
  },
  {
@@ -308,15 +308,15 @@
   "his_actor": "Niall Matter",
   "her_job": "Seattle interior designer",
   "his_job": "Local lawyer and hotelier",
-  "location": null,
+  "location": "a New England town",
   "location_type": "small_town",
   "tropes": [
    "big_city_to_small_town"
   ],
   "romance": true,
-  "summary": "A Seattle designer searching for the father she never knew falls for a local lawyer and hotelier.",
+  "summary": "A woman chasing clues to her unknown father finds a helpful local man and a family secret she may not share.",
   "source_url": "https://www.hallmarkmystery.com/finding-father-christmas/about-finding-father-christmas",
-  "confidence": "medium"
+  "confidence": "high"
  },
  {
   "title": "Operation Christmas",
@@ -324,17 +324,17 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Tricia Helfer",
   "his_actor": "Marc Blucas",
-  "her_job": "Single mother",
-  "his_job": "Military sergeant",
-  "location": "a military base",
+  "her_job": "single mother (job not stated)",
+  "his_job": "military sergeant",
+  "location": "his military base",
   "location_type": "other",
   "tropes": [
    "single_parent"
   ],
   "romance": true,
-  "summary": "A single mom's new romance with a sergeant is tested when he deploys, so she helps other military families.",
-  "source_url": "https://www.directv.com/guide/movies/Operation-Christmas-6c86e87f-408e-d00e-d87a-54867dd3af71",
-  "confidence": "medium"
+  "summary": "A single mom whose sergeant boyfriend ships out rallies to help military families, and the internet notices.",
+  "source_url": "https://www.hallmarkmystery.com/operation-christmas/about-operation-christmas",
+  "confidence": "high"
  },
  {
   "title": "I'll Be Home for Christmas",
@@ -342,7 +342,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Mena Suvari",
   "his_actor": "James Brolin",
-  "her_job": "Prosecutor",
+  "her_job": "Assistant District Attorney and single mom",
   "his_job": null,
   "location": null,
   "location_type": null,
@@ -350,27 +350,27 @@
    "single_parent"
   ],
   "romance": false,
-  "summary": "A prosecutor trying to close a case before Christmas faces her estranged retired-cop father showing up at her door.",
-  "source_url": "https://www.directv.com/guide/movies/Ill-Be-Home-for-Christmas-b171b383-96b6-30fe-73ca-7083c7ac908b",
-  "confidence": "low"
+  "summary": "A busy prosecutor's plan for a quiet Christmas collapses when her estranged dad turns up at the door.",
+  "source_url": "https://www.hallmarkmystery.com/ill-be-home-for-christmas/about-ill-be-home-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Hearts of Christmas",
   "year": 2016,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": "Emilie Ullerop",
+  "her_actor": "Emilie Ullerup",
   "his_actor": "Kristoffer Polaha",
-  "her_job": "Hospital employee",
-  "his_job": "new hospital CFO tasked with cutting costs",
+  "her_job": "neonatal intensive care unit staffer",
+  "his_job": "hospital CFO tasked with cutting costs",
   "location": null,
   "location_type": null,
   "tropes": [
    "work_rivals"
   ],
   "romance": true,
-  "summary": "A hospital employee planning a retirement party clashes with the new manager out to cut costs.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/allseasons/official",
-  "confidence": "medium"
+  "summary": "A nurse plans a surprise party for her retiring boss while the new cost-cutting CFO complicates things.",
+  "source_url": "https://www.hallmarkmystery.com/hearts-of-christmas/about-hearts-of-christmas",
+  "confidence": "high"
  },
  {
   "title": "Sound of Christmas",
@@ -378,19 +378,20 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Lindy Booth",
   "his_actor": "Robin Dunne",
-  "her_job": "Piano teacher at a music school",
+  "her_job": "high school music teacher",
   "his_job": "widower (job not stated)",
   "location": null,
   "location_type": null,
   "tropes": [
+   "boss_or_client_romance",
    "save_the_business",
-   "widowed",
-   "single_parent"
+   "single_parent",
+   "widowed"
   ],
   "romance": true,
-  "summary": "A piano teacher helps save her school and its fundraiser while unsure if a parent only wants its property.",
-  "source_url": "https://www.rottentomatoes.com/m/sound_of_christmas",
-  "confidence": "medium"
+  "summary": "A music teacher hired to coach a widower's teenage daughters ends up pulling the whole family closer.",
+  "source_url": "https://www.hallmarkmystery.com/sound-of-christmas/about-sound-of-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Christmas to Remember",
@@ -398,19 +399,20 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Mira Sorvino",
   "his_actor": "Cameron Mathison",
-  "her_job": "TV personality",
+  "her_job": "harsh TV personality",
   "his_job": null,
-  "location": "a small mountain town",
+  "location": "small town mountain retreat",
   "location_type": "small_town",
   "tropes": [
    "amnesia",
-   "widowed",
-   "single_parent"
+   "single_parent",
+   "snowed_in_or_stranded",
+   "widowed"
   ],
   "romance": true,
-  "summary": "A harsh TV personality with no memory of who she is joins a widowed father of three in a mountain town.",
-  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/episodes/7994400",
-  "confidence": "medium"
+  "summary": "A prickly TV star crashes in a blizzard, wakes with no memory, and is taken in by a kind stranger.",
+  "source_url": "https://www.hallmarkmystery.com/a-christmas-to-remember/about-a-christmas-to-remember",
+  "confidence": "high"
  },
  {
   "title": "Christmas Cookies",

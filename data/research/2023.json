@@ -465,15 +465,15 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Erica Durance",
   "his_actor": "Brennan Elliott",
-  "her_job": "shopping channel host with a terminal diagnosis",
+  "her_job": "shopping channel host known as Ms. Christmas, with a terminal diagnosis",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A shopping channel host facing a terminal diagnosis goes on a multi-city tour before her farewell broadcast.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A beloved shopping channel host hits the road to spread cheer across several cities before her farewell broadcast.",
+  "source_url": "https://www.hallmarkmystery.com/ms-christmas-comes-to-town/about-ms-christmas-comes-to-town",
+  "confidence": "high"
  },
  {
   "title": "My Christmas Guide",
@@ -482,16 +482,16 @@
   "her_actor": "Amber Marshall",
   "his_actor": "Ben Mehl",
   "her_job": "guide dog trainer",
-  "his_job": "college professor who has lost his eyesight (single dad)",
+  "his_job": "college professor who lost his eyesight",
   "location": null,
   "location_type": null,
   "tropes": [
    "single_parent"
   ],
   "romance": true,
-  "summary": "A blind college professor adopts a guide dog from a trainer and falls for her.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A newly blind professor adopts a guide dog, and time with the dog's trainer brings back his confidence and opens his heart.",
+  "source_url": "https://www.hallmarkmystery.com/my-christmas-guide/about-my-christmas-guide",
+  "confidence": "high"
  },
  {
   "title": "Mystery on Mistletoe Lane",
@@ -507,9 +507,9 @@
    "single_parent"
   ],
   "romance": true,
-  "summary": "A divorced mom moves to a New England hamlet and uncovers a Christmas mystery in her historic home.",
-  "source_url": "https://www.hallmarkchannel.com/mystery-on-mistletoe-lane",
-  "confidence": "medium"
+  "summary": "A newcomer and her kids find a Christmas mystery in their old house, and the local handyman-historian helps crack it.",
+  "source_url": "https://www.hallmarkmystery.com/mystery-on-mistletoe-lane/about-mystery-on-mistletoe-lane",
+  "confidence": "high"
  },
  {
   "title": "A World Record Christmas",
@@ -521,11 +521,13 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
-  "romance": true,
-  "summary": "An autistic boy attempts to stack 1,400 Jenga blocks for a Guinness world record.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "tropes": [
+   "competition_or_contest"
+  ],
+  "romance": false,
+  "summary": "An autistic boy and his family rally the town to help him stack 1,400 Jenga blocks for a world record.",
+  "source_url": "https://www.hallmarkmystery.com/a-world-record-christmas/about-a-world-record-christmas",
+  "confidence": "high"
  },
  {
   "title": "A Season for Family",
@@ -534,16 +536,17 @@
   "her_actor": "Stacey Farber",
   "his_actor": "Brendan Penny",
   "her_job": "manager of a five-star hotel",
-  "his_job": "single dad (job not stated)",
+  "his_job": "widower (job not stated)",
   "location": null,
   "location_type": null,
   "tropes": [
-   "single_parent"
+   "single_parent",
+   "widowed"
   ],
   "romance": true,
-  "summary": "An adopted boy wishes to meet his brother.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "summary": "Two adopted brothers unknowingly become fast friends while their parents, a mom and a reluctant widower, feel sparks.",
+  "source_url": "https://www.hallmarkmystery.com/a-season-for-family/about-a-season-for-family",
+  "confidence": "high"
  },
  {
   "title": "Time for Her to Come Home for Christmas",
@@ -552,16 +555,16 @@
   "her_actor": "Shenae Grimes-Beech",
   "his_actor": "Chris Carmack",
   "her_job": "church choir leader",
-  "his_job": "Army veteran recently returned home",
-  "location": "small town",
+  "his_job": "man back in town after serving in the army",
+  "location": "quaint small town",
   "location_type": "small_town",
   "tropes": [
    "returns_home"
   ],
   "romance": true,
-  "summary": "Facing her first Christmas without her mother, a woman leads a small-town church choir.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "Grieving her mom, a woman takes a choir-leading gig in a quaint town and finds clues, a veteran, and some forgiveness.",
+  "source_url": "https://www.hallmarkmystery.com/time-for-her-to-come-home-for-christmas/about-time-for-her-to-come-home-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Miracle in Bethlehem, PA",
@@ -571,16 +574,16 @@
   "his_actor": "Benjamin Ayres",
   "her_job": "lawyer",
   "his_job": "former rock star",
-  "location": "Bethlehem, Pennsylvania",
+  "location": "Bethlehem, PA",
   "location_type": "small_town",
   "tropes": [
-   "snowed_in_or_stranded",
-   "single_parent"
+   "single_parent",
+   "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "A woman who adopted a baby is stranded in Bethlehem and stays with a stranger.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "low"
+  "summary": "A fiercely independent new mom gets weather-trapped in Bethlehem and bunks with a barn-like bachelor who tidies up his life.",
+  "source_url": "https://www.hallmarkmystery.com/miracle-in-bethlehem-pa/about-miracle-in-bethlehem-pa",
+  "confidence": "high"
  },
  {
   "title": "Heaven Down Here",
@@ -590,15 +593,16 @@
   "his_actor": null,
   "her_job": null,
   "his_job": null,
-  "location": "a diner",
+  "location": "a local diner",
   "location_type": "other",
   "tropes": [
-   "snowed_in_or_stranded"
+   "snowed_in_or_stranded",
+   "widowed"
   ],
-  "romance": null,
-  "summary": "Strangers are snowed in at a diner on Christmas Eve.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "romance": false,
+  "summary": "A snowstorm strands four strangers in a diner on Christmas Eve, where bickering turns into answered prayers.",
+  "source_url": "https://www.hallmarkmystery.com/heaven-down-here/about-heaven-down-here",
+  "confidence": "high"
  },
  {
   "title": "To All a Good Night",
@@ -606,14 +610,14 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Kimberley Sustad",
   "his_actor": "Mark Ghanimé",
-  "her_job": "photographer",
+  "her_job": "small-town photographer",
   "his_job": "Army veteran",
   "location": "unnamed small town",
   "location_type": "small_town",
   "tropes": [],
   "romance": true,
-  "summary": "A photographer rescues a mysterious man.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "summary": "A photographer saves a stranger who might be in town to buy the family parkland where the Christmas celebration happens.",
+  "source_url": "https://www.hallmarkmystery.com/to-all-a-good-night/about-to-all-a-good-night",
+  "confidence": "high"
  }
 ]

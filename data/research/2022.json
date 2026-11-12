@@ -545,12 +545,13 @@
   "location": null,
   "location_type": null,
   "tropes": [
-   "single_parent"
+   "single_parent",
+   "widowed"
   ],
-  "romance": true,
-  "summary": "A newly single mother facing her first Christmas alone forms an unexpected friendship with an older neighbor.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2022-movies-cast-dates-schedule",
-  "confidence": "low"
+  "romance": false,
+  "summary": "A widowed mom juggling a grieving child faces her first Christmas alone and befriends a neighbor.",
+  "source_url": "https://www.hallmarkmystery.com/we-need-a-little-christmas/about-we-need-a-little-christmas",
+  "confidence": "high"
  },
  {
   "title": "Christmas Bedtime Stories",
@@ -567,9 +568,9 @@
    "widowed"
   ],
   "romance": true,
-  "summary": "A mother raising her daughter alone after her husband is presumed dead tells bedtime stories about him.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2022-movies-cast-dates-schedule",
-  "confidence": "low"
+  "summary": "With her husband missing and presumed dead, a mom raises her daughter on bedtime stories about her father.",
+  "source_url": "https://www.hallmarkmystery.com/christmas-bedtime-stories/about-christmas-bedtime-stories",
+  "confidence": "high"
  },
  {
   "title": "A Maple Valley Christmas",
@@ -577,7 +578,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Peyton List",
   "his_actor": "Andrew Walker",
-  "her_job": "runs her family's maple syrup ranch",
+  "her_job": "rancher running the family farm with her mother and sister",
   "his_job": "businessman making an offer on her land for his family's business (title not stated)",
   "location": "Maple Valley Farm, Montana",
   "location_type": "farm_ranch_vineyard",
@@ -585,9 +586,9 @@
    "save_the_business"
   ],
   "romance": true,
-  "summary": "A rancher defending her family's maple farm falls for the man who arrives to buy the land.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2022-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "A lifelong farmer's plans are upended by a newcomer, and she starts wondering what she really wants.",
+  "source_url": "https://www.hallmarkmystery.com/a-maple-valley-christmas/about-a-maple-valley-christmas",
+  "confidence": "high"
  },
  {
   "title": "Our Italian Christmas Memories",
@@ -600,10 +601,10 @@
   "location": null,
   "location_type": null,
   "tropes": [],
-  "romance": true,
-  "summary": "Siblings try to recreate their late grandmother's pasta sauce to stir their grandfather's memory as he struggles with dementia.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2022-movies-cast-dates-schedule",
-  "confidence": "low"
+  "romance": false,
+  "summary": "Siblings try to recreate their late grandmother's famous pasta sauce to stir their dementia-stricken grandfather's memory.",
+  "source_url": "https://www.hallmarkmystery.com/our-italian-christmas-memories/about-our-italian-christmas-memories",
+  "confidence": "high"
  },
  {
   "title": "Long Lost Christmas",
@@ -617,9 +618,9 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "An interior designer plans a perfect holiday surprise for her newly widowed mother and meets a love interest.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2022-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "A designer plans to gift her newly widowed mom the big extended family she secretly longs for.",
+  "source_url": "https://www.hallmarkmystery.com/long-lost-christmas/about-long-lost-christmas",
+  "confidence": "high"
  },
  {
   "title": "The Holiday Stocking",
@@ -635,9 +636,9 @@
    "magic_or_santa"
   ],
   "romance": false,
-  "summary": "A newly trained angel has twelve days to reunite his estranged sisters using a family Christmas tradition.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2022-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "An angel has twelve days and one family Christmas tradition to get his sisters talking again.",
+  "source_url": "https://www.hallmarkmystery.com/the-holiday-stocking/about-the-holiday-stocking",
+  "confidence": "high"
  },
  {
   "title": "The Gift of Peace",
@@ -653,9 +654,9 @@
    "widowed"
   ],
   "romance": true,
-  "summary": "An artist who lost her faith after tragedy spends a second Christmas without her husband and joins a grief support group.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2022-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "An artist who lost her faith finds hope and community in a Christmastime grief support group.",
+  "source_url": "https://www.hallmarkmystery.com/the-gift-of-peace/about-the-gift-of-peace",
+  "confidence": "high"
  },
  {
   "title": "Five More Minutes: Moments Like These",
@@ -670,11 +671,12 @@
   "tropes": [
    "returns_home",
    "sequel",
+   "single_parent",
    "widowed"
   ],
   "romance": true,
-  "summary": "A young widow returns to her former home for the holidays while her son joins a local fundraising effort.",
-  "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2022-movies-cast-dates-schedule",
-  "confidence": "medium"
+  "summary": "A young widow returns to her old home, where her son's Christmas wish gets granted in surprising ways.",
+  "source_url": "https://www.hallmarkmystery.com/five-more-minutes-moments-like-these/about-five-more-minutes-moments-like-these",
+  "confidence": "high"
  }
 ]

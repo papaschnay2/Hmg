@@ -116,18 +116,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Teri Polo",
   "his_actor": "Martin Cummins",
-  "her_job": "widowed children's book author",
+  "her_job": "children's book author and illustrator",
   "his_job": "owner of a new coffee shop business",
-  "location": "small town in Massachusetts",
+  "location": "small Massachusetts town",
   "location_type": "small_town",
   "tropes": [
-   "widowed",
-   "single_parent"
+   "single_parent",
+   "widowed"
   ],
   "romance": true,
-  "summary": "A widowed author and a widowed dad both think they own the German Shepherd that ran off in a storm.",
-  "source_url": "https://www.serialscoop.com/2014/11/hallmark-movie-the-christmas-shepherd",
-  "confidence": "medium"
+  "summary": "A widowed author hunts for her runaway dog and finds him adopted by a widowed dad and his teen daughter.",
+  "source_url": "https://www.hallmarkmystery.com/the-christmas-shepherd/about",
+  "confidence": "high"
  },
  {
   "title": "Christmas Under Wraps",
@@ -231,17 +231,17 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Kristin Booth",
   "his_actor": "Eric Mabius",
-  "her_job": "postal detective (Dead Letter Office)",
-  "his_job": "postal detective (Dead Letter Office)",
+  "her_job": "post office detective",
+  "his_job": "post office detective",
   "location": null,
   "location_type": null,
   "tropes": [
    "sequel"
   ],
   "romance": false,
-  "summary": "Postal detectives postpone their plans to help a little girl after finding a letter to God on Christmas Eve.",
-  "source_url": "https://www.hallmarkchannel.com/signed-sealed-delivered-for-christmas",
-  "confidence": "medium"
+  "summary": "Mail detectives put their own plans on hold to help a little girl whose Christmas letter was meant for God.",
+  "source_url": "https://www.hallmarkmystery.com/signed-sealed-delivered-for-christmas/about",
+  "confidence": "high"
  },
  {
   "title": "The Christmas Secret",
@@ -308,7 +308,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Julie Benz",
   "his_actor": "David Sutcliffe",
-  "her_job": "owner/manager of her family's department store",
+  "her_job": "uptight heiress of Rossman's Department Store",
   "his_job": "department store Santa",
   "location": null,
   "location_type": null,
@@ -317,9 +317,9 @@
    "save_the_business"
   ],
   "romance": true,
-  "summary": "A workaholic department store heiress reluctantly plays Mrs. Claus and finds romance with the new store Santa.",
-  "source_url": "https://www.tvinsider.com/show/charming-christmas/",
-  "confidence": "medium"
+  "summary": "A workaholic heiress in a magical Mrs. Claus dress wonders if her store's charming Santa is the real one.",
+  "source_url": "https://www.hallmarkmystery.com/charming-christmas/about-charming-christmas",
+  "confidence": "high"
  },
  {
   "title": "\"I'm Not Ready For Christmas\"",
@@ -367,20 +367,20 @@
   "network": "Hallmark Channel",
   "her_actor": "Lori Loughlin",
   "his_actor": "Dermot Mulroney",
-  "her_job": "businesswoman who inherited her aunt's inn",
-  "his_job": "small-town handyman who looks after the inn",
-  "location": "her aunt's inn",
+  "her_job": "heir to her aunt's once-majestic hotel",
+  "his_job": "hotel handyman with kids",
+  "location": "her aunt's rundown hotel",
   "location_type": "inn_lodge_resort",
   "tropes": [
    "inheritance",
    "magic_or_santa",
-   "sequel",
-   "save_the_business"
+   "save_the_business",
+   "sequel"
   ],
   "romance": true,
-  "summary": "A businesswoman who inherited an inn plans to sell it, until Santa's elves help her find the holiday spirit.",
-  "source_url": "https://thetvdb.com/movies/northpole-open-for-christmas",
-  "confidence": "medium"
+  "summary": "An heiress plans to sell her aunt's shabby hotel until Santa's elves arrive to fix it and her outlook.",
+  "source_url": "https://www.hallmarkmystery.com/northpole-open-for-christmas/about-northpole-open-for-christmas",
+  "confidence": "high"
  },
  {
   "title": "Merry Matrimony",
@@ -625,8 +625,8 @@
    "sequel"
   ],
   "romance": true,
-  "summary": "Baker-sleuth Hannah Swensen and Detective Mike Kingston investigate a holiday-season murder in this Joanne Fluke adaptation.",
-  "source_url": "https://www.serialscoop.com/2015/11/murder-she-baked-a-plum-pudding-mystery",
-  "confidence": "low"
+  "summary": "Hannah stirs plum pudding, chases a long suspect list in an office murder, and makes room for some romance.",
+  "source_url": "https://www.hallmarkmystery.com/murder-she-baked-a-plum-pudding-mystery/about-murder-she-baked-a-plum-pudding-mystery",
+  "confidence": "high"
  }
 ]
