@@ -184,6 +184,7 @@
     meter.innerHTML = "";
     for (let i = 0; i < 3; i++) meter.append(el("span", i < level ? "pip on" : "pip", "❄"));
     meter.setAttribute("aria-label", `${level} of 3 details match a real movie`);
+    lastFinding = { state, pitch, level, head: head.textContent, movies: shown.map((x) => x.m) };
     $("verdict").dataset.level = level;
   }
 
@@ -273,6 +274,7 @@
     });
     renderVerdict(s, pitch);
     $("verdict").hidden = !revealed;
+    $("poster").hidden = true;
     $("pitch").hidden = !!revealed;
     $("pitch").disabled = false;
     $("pitch-status").innerHTML = "&nbsp;";
@@ -471,6 +473,187 @@
       newRound();
     }));
 
+  // ---------- poster: the finding as a shareable image ----------
+  let lastFinding = null;
+  function wrapLines(ctx, text, maxW) {
+    const lines = [];
+    let line = "";
+    text.split(/\s+/).forEach((w) => {
+      const next = line ? `${line} ${w}` : w;
+      if (line && ctx.measureText(next).width > maxW) { lines.push(line); line = w; } else line = next;
+    });
+    if (line) lines.push(line);
+    return lines;
+  }
+  async function drawPoster(f) {
+    const serif = '"Playfair Display", Georgia, serif', sans = 'Lato, "Helvetica Neue", Arial, sans-serif';
+    try {
+      await Promise.all(['800 80px "Playfair Display"', 'italic 600 40px "Playfair Display"', "700 30px Lato", "400 30px Lato"]
+        .map((font) => document.fonts.load(font)));
+    } catch {}
+    const W = 1080, H = 1350, c = document.createElement("canvas");
+    c.width = W; c.height = H;
+    const ctx = c.getContext("2d");
+    const RED = "#a3222e", GREEN = "#1f5a43", GOLD = "#c9973a", INK = "#3a2320", MUTED = "#7a5f58";
+    ctx.fillStyle = "#fbf5ea"; ctx.fillRect(0, 0, W, H);
+    ctx.strokeStyle = RED; ctx.lineWidth = 18; ctx.strokeRect(27, 27, W - 54, H - 54);
+    ctx.strokeStyle = GOLD; ctx.lineWidth = 3; ctx.strokeRect(50, 50, W - 100, H - 100);
+    ["#d7263d", "#f2c14e", "#2e8b57", "#1b98e0", "#f46036"].forEach((col, i, all) => {
+      for (let k = i; k < 15; k += all.length) {
+        ctx.beginPath(); ctx.fillStyle = col;
+        ctx.ellipse(150 + k * 56, 104, 9, 14, 0, 0, Math.PI * 2); ctx.fill();
+      }
+    });
+    ctx.textAlign = "center"; ctx.textBaseline = "alphabetic";
+    let y = 190;
+    const line = (text, font, color, gap) => { ctx.font = font; ctx.fillStyle = color; ctx.fillText(text, W / 2, y); y += gap; };
+    const block = (text, sizes, fontOf, color, maxLines, lead) => {
+      let lines, size;
+      for (size of sizes) { ctx.font = fontOf(size); lines = wrapLines(ctx, text, 880); if (lines.length <= maxLines) break; }
+      lines.slice(0, maxLines).forEach((l) => { y += size * lead; ctx.fillStyle = color; ctx.fillText(l, W / 2, y); });
+      y += size * 0.5;
+    };
+    line("THE INSTITUTE FOR YULETIDE NARRATIVE STUDIES", `700 24px ${sans}`, GREEN, 44);
+    line(`PROPOSAL NO. ${f.pitch.number}`, `700 24px ${sans}`, GOLD, 10);
+    block(f.pitch.title, [92, 78, 64, 54], (z) => `800 ${z}px ${serif}`, RED, 3, 1.12);
+    block(f.pitch.tagline, [34, 30, 26], (z) => `italic 600 ${z}px ${serif}`, GREEN, 2, 1.35);
+    y += 18;
+    [HER[f.state.her].label, PLACE[f.state.place].label, HIM[f.state.him].label].forEach((label, i) => {
+      y += 50; ctx.font = `400 36px ${sans}`; ctx.fillStyle = INK; ctx.fillText((i ? "+ " : "") + label, W / 2, y);
+    });
+    y += 84;
+    ctx.font = "54px serif";
+    [-1, 0, 1].forEach((d, i) => { ctx.fillStyle = i < f.level ? RED : "#e3d6c3"; ctx.fillText("❄", W / 2 + d * 90, y); });
+    y += 62;
+    line("THE INSTITUTE'S FINDING", `700 24px ${sans}`, GOLD, 4);
+    block(f.head, [64, 54, 46, 40], (z) => `800 ${z}px ${serif}`, f.level === 3 ? RED : INK, 3, 1.18);
+    y += 44;
+    const names = f.movies.slice(0, 3).map((m) => `“${m.t}” (${m.y})`);
+    if (names.length) {
+      line(f.level === 3 ? "Hallmark called it:" : "The nearest real thing:", `italic 600 30px ${serif}`, MUTED, 0);
+      names.forEach((n) => { if (y < H - 215) block(n, [36, 30, 26], (z) => `700 ${z}px ${sans}`, GREEN, 1, 1.5); });
+    } else {
+      line("The Institute considers it available.", `italic 600 32px ${serif}`, MUTED, 0);
+    }
+    y = H - 118;
+    line("The Unofficial Hallmark Movie Generator", `800 34px ${serif}`, RED, 38);
+    line("an unofficial fan parody", `400 22px ${sans}`, MUTED, 0);
+    return c.toDataURL("image/png");
+  }
+  $("poster-btn").addEventListener("click", async () => {
+    if (!lastFinding) return;
+    $("poster-img").src = await drawPoster(lastFinding);
+    $("poster-img").alt = `Poster: ${lastFinding.pitch.title}. ${lastFinding.head}`;
+    $("poster").hidden = false;
+    scrollTo($("poster"));
+  });
+
+  // ---------- daily case file ----------
+  function setupDaily() {
+    const now = new Date();
+    const dayNo = Math.floor((Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()) - Date.UTC(2026, 10, 1)) / 864e5) + 1;
+    // Only films with all three clues written out, and whose clues do not give the title away.
+    const dull = new Set("christmas holiday holidays with from home love time come merry this that your about".split(" "));
+    const leaks = (m) => {
+      const clues = `${m.hj} ${m.loc} ${m.ij}`.toLowerCase();
+      return (m.t.toLowerCase().match(/[a-z]{4,}/g) || []).some((w) => !dull.has(w) && clues.includes(w));
+    };
+    const rand = mulberry32(20261101);
+    const pool = complete.filter((m) => m.hj && m.loc && m.ij && !leaks(m))
+      .sort((a, b) => a.t.localeCompare(b.t))
+      .map((m) => [rand(), m]).sort((a, b) => a[0] - b[0]).map((x) => x[1]);
+    if (pool.length < 12) { document.querySelector(".daily").hidden = true; return; }
+    const at = ((dayNo - 1) % pool.length + pool.length) % pool.length;
+    const answer = pool[at];
+    const dayRand = mulberry32(dayNo * 7919);
+    const others = pool.filter((m) => m !== answer).map((m) => [dayRand() - (KEYS.some((k) => m.idx[k] === answer.idx[k]) ? 1 : 0), m])
+      .sort((a, b) => a[0] - b[0]).slice(0, 5).map((x) => x[1]);
+    const options = [answer, ...others].sort((a, b) => a.t.localeCompare(b.t));
+    const stars = [answer.ha, answer.ia].filter(Boolean).join(" and ");
+    const clues = [
+      ["She is", withArticle(lowerFirst(answer.hj))], ["Where", noParens(answer.loc)], ["He is", withArticle(lowerFirst(answer.ij))],
+      stars ? ["It stars", stars] : ["It aired in", String(answer.y)],
+    ];
+    const MAX = clues.length;
+    let saved = { day: dayNo, guesses: [] }, streak = { last: 0, n: 0, best: 0 };
+    try {
+      const s = JSON.parse(localStorage.getItem("hmg-daily") || "null");
+      if (s && s.day === dayNo && Array.isArray(s.guesses)) saved = s;
+      streak = Object.assign(streak, JSON.parse(localStorage.getItem("hmg-daily-streak") || "{}"));
+    } catch {}
+    const store = () => {
+      try {
+        localStorage.setItem("hmg-daily", JSON.stringify(saved));
+        localStorage.setItem("hmg-daily-streak", JSON.stringify(streak));
+      } catch {}
+    };
+    const won = () => saved.guesses.includes(answer.t);
+    const over = () => won() || saved.guesses.length >= MAX;
+    const resultLine = () => (won()
+      ? `${"❄".repeat(saved.guesses.length)}${"·".repeat(MAX - saved.guesses.length)} solved on clue ${saved.guesses.length} of ${MAX}`
+      : `${"✗".repeat(MAX)} unsolved`);
+
+    function render() {
+      const shown = Math.min(saved.guesses.length + 1, MAX);
+      const list = $("daily-clues");
+      list.innerHTML = "";
+      clues.forEach(([k, v], i) => {
+        const li = el("li", i < shown || over() ? null : "sealed");
+        li.append(el("span", "clue-k", k), el("span", null, i < shown || over() ? v : `Sealed until guess ${i + 1}`));
+        list.append(li);
+      });
+      const box = $("daily-options");
+      box.innerHTML = "";
+      options.forEach((m) => {
+        const b = el("button", null, m.t);
+        b.type = "button";
+        if (saved.guesses.includes(m.t)) b.className = m === answer ? "right" : "wrong";
+        else if (over() && m === answer) b.className = "right";
+        b.disabled = over() || saved.guesses.includes(m.t);
+        b.addEventListener("click", () => guess(m));
+        box.append(b);
+      });
+      const msg = $("daily-msg"), ans = $("daily-answer");
+      ans.innerHTML = "";
+      if (!over()) {
+        msg.textContent = saved.guesses.length
+          ? `Not that one. Another clue has been unsealed. ${plural(MAX - saved.guesses.length, "guess", "guesses")} left.`
+          : "Which film is this?";
+      } else {
+        const n = saved.guesses.length;
+        msg.textContent = won()
+          ? ["Solved on the first clue. The Institute is concerned about how much of this you watch.",
+            "Solved on two clues. Respectable.", "Solved on three clues.", "Solved on the last clue. A win is a win."][n - 1]
+          : `Unsolved. It was “${answer.t}.” In fairness, it could have been any of them.`;
+        ans.append(movieCard(answer));
+        ans.append(el("li", "more", `Case file no. ${dayNo + 1} opens tomorrow.`));
+      }
+      $("daily-share").hidden = !over();
+      $("daily-streak").textContent = streak.n;
+      $("daily-best").textContent = streak.best;
+    }
+    function guess(m) {
+      if (over()) return;
+      saved.guesses.push(m.t);
+      if (over() && streak.last !== dayNo) {
+        streak.n = won() ? (streak.last === dayNo - 1 ? streak.n + 1 : 1) : 0;
+        streak.best = Math.max(streak.best, streak.n);
+        streak.last = dayNo;
+      }
+      store();
+      render();
+    }
+    $("daily-no").textContent = `Daily case file no. ${dayNo} · ${now.toLocaleDateString(undefined, { month: "long", day: "numeric" })}`;
+    $("daily-share").addEventListener("click", async () => {
+      const btn = $("daily-share");
+      const text = `Hallmark Case File no. ${dayNo}: ${resultLine()}\n${location.href.split("#")[0]}`;
+      try { await navigator.clipboard.writeText(text); btn.textContent = "Copied. Go and gloat."; }
+      catch { btn.textContent = resultLine(); }
+      setTimeout(() => (btn.textContent = "Copy my result"), 2500);
+    });
+    render();
+  }
+
   // ---------- findings ----------
   function bars(target, rows) {
     const max = Math.max(...rows.map((r) => r[1]), 1);
@@ -612,6 +795,7 @@
 
   // ---------- go ----------
   renderStats();
+  setupDaily();
   showExhibit();
   renderBrowse();
   newRound();

@@ -64,9 +64,28 @@
         <h2 id="verdict-head"></h2>
         <p id="verdict-sub" class="verdict-sub"></p>
         <ul id="matches" class="movies"></ul>
-        <button id="share" class="ghost" type="button">Copy link to this finding</button>
+        <div class="verdict-actions">
+          <button id="share" class="ghost" type="button">Copy link to this finding</button>
+          <button id="poster-btn" class="ghost" type="button">Make a poster</button>
+        </div>
+        <figure id="poster" class="poster-fig" hidden>
+          <img id="poster-img" alt="">
+          <figcaption>Press and hold the poster (or right-click it) to save or share it.</figcaption>
+        </figure>
       </section>
     </div>
+
+    <section class="panel daily" aria-labelledby="daily-h">
+      <p class="presents" id="daily-no">Daily case file</p>
+      <h2 id="daily-h">Name That Movie</h2>
+      <p class="panel-sub">One real film a day. The Institute releases its evidence one clue at a time. You get four guesses.</p>
+      <ol id="daily-clues" class="clues"></ol>
+      <div id="daily-options" class="daily-options"></div>
+      <p id="daily-msg" class="game-msg" aria-live="polite">&nbsp;</p>
+      <ul id="daily-answer" class="movies"></ul>
+      <p class="score">Daily streak: <b id="daily-streak">0</b> · Best: <b id="daily-best">0</b></p>
+      <button id="daily-share" class="ghost" type="button" hidden>Copy my result</button>
+    </section>
 
     <section class="panel life" aria-labelledby="life-h">
       <p class="presents">Field study</p>

@@ -266,6 +266,30 @@ footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding-bl
 .exhibit-src { margin: 0 0 12px; color: var(--muted); font-style: italic; }
 .verdict h2 { text-wrap: balance; }
 
+/* ---------- poster ---------- */
+.verdict-actions { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 22px; }
+.verdict-actions .ghost { margin-top: 0; }
+.poster-fig { margin: 22px auto 0; max-width: 360px; }
+.poster-fig img { width: 100%; height: auto; border-radius: 10px; box-shadow: var(--shadow); display: block; }
+.poster-fig figcaption { margin-top: 10px; color: var(--muted); font-size: 0.9rem; }
+
+/* ---------- daily case file ---------- */
+.daily { border-top: 8px solid var(--green); }
+.clues { list-style: none; padding: 0; margin: 0 auto 18px; max-width: 560px; display: grid; gap: 8px; text-align: left; }
+.clues li { display: grid; grid-template-columns: 7.2em 1fr; gap: 12px; padding: 10px 14px; background: var(--cream); border: 1px solid #eadfcd; border-radius: 10px; }
+.clues li.sealed { color: var(--muted); font-style: italic; border-style: dashed; background: none; }
+.clue-k { font-weight: 700; color: var(--green); }
+.daily-options { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; max-width: 640px; margin: 0 auto; }
+.daily-options button {
+  min-height: 56px; padding: 10px 12px; background: var(--paper); border: 2px solid #d9c6ad; border-radius: 12px;
+  font-family: var(--serif); font-weight: 800; font-size: 1rem; color: var(--ink); cursor: pointer;
+}
+.daily-options button:hover:not(:disabled) { border-color: var(--green); }
+.daily-options button.wrong { opacity: 0.45; text-decoration: line-through; }
+.daily-options button.right { background: var(--green); border-color: var(--green); color: #fff; }
+.daily-options button:disabled { cursor: default; }
+#daily-answer { max-width: 640px; margin: 0 auto 14px; }
+
 /* ---------- small screens ---------- */
 @media (max-width: 680px) {
   .machine { padding: 18px 14px; }
@@ -273,6 +297,8 @@ footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding-bl
   .window { height: 76px; }
   .stat-grid { grid-template-columns: 1fr; }
   .life-form { grid-template-columns: 1fr; }
+  .daily-options { grid-template-columns: 1fr; }
+  .clues li { grid-template-columns: 6.2em 1fr; }
   .beats li { grid-template-columns: 5.2em 1fr; }
 }
 

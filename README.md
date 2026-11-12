@@ -13,6 +13,8 @@ fan parody, not affiliated with Hallmark.
 - **Lock** a reel to keep it while you re-spin the others. **Copy link** shares the finding.
 - **Which Hallmark Movie Is Your Life?** matches your job, where you live and your
   partner's job against the real movies.
+- **Make a poster** turns a finding into an image to save or share.
+- **Name That Movie** is a daily puzzle: one real film, four clues, four guesses, a streak.
 - **Real or Fake?** shows a real plot (or title) next to a generated one.
 - **By the Numbers** reports deadpan statistics, real occupations ("Exhibit A") and
   the most-cast actors, all computed from the movie list.
