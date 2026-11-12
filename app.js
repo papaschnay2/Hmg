@@ -18,8 +18,8 @@
   const withArticle = (s) =>
     /^(a|an|the|his|her|one|two|former|\S+'s)\s/i.test(s) ? s : `${/^[aeiou]/i.test(s) ? "an" : "a"} ${s}`;
   // "Hotel executive" -> "hotel executive", but leave "New York planner" and "TV host" alone
-  const lowerFirst = (s) =>
-    /^[A-Z][a-z']+(\s[a-z(]|,|$)/.test(s) && !/^(Hollywood|Chicago|Seattle|Montana|Connecticut|Broadway|Army|Navy|Santa)\b/.test(s)
+  const lowerFirst = (raw, s = raw.replace(/\s*\([^)]*\)/g, "")) =>
+    /^[A-Z][a-z'-]+(\s[a-z(]|,|$)/.test(s) && !/^(Hollywood|Chicago|Seattle|Montana|Connecticut|Broadway|Army|Navy|Santa)\b/.test(s)
       ? s[0].toLowerCase() + s.slice(1) : s;
   const el = (tag, cls, text) => {
     const e = document.createElement(tag);
