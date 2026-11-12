@@ -1,0 +1,440 @@
+[
+ {
+  "title": "A Wish for Christmas",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Lacey Chabert",
+  "his_actor": "Paul Greene",
+  "her_job": "Junior web designer at a marketing firm",
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [
+   "magic_or_santa",
+   "time_travel_or_wish"
+  ],
+  "romance": true,
+  "summary": "A timid junior web designer gets Santa's help finding her voice, with only 48 hours to learn to speak up for herself.",
+  "source_url": "https://imdb.com/title/tt5676118",
+  "confidence": "medium"
+ },
+ {
+  "title": "The Mistletoe Promise",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Jaime King",
+  "his_actor": "Luke MacFarlane",
+  "her_job": null,
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [
+   "fake_relationship"
+  ],
+  "romance": true,
+  "summary": "Two people who dislike Christmas sign a contract to help each other through the holidays, and real feelings sneak in.",
+  "source_url": "https://www.countdownuntilchristmas.com/christmas-movies-a-to-z/the-mistletoe-promise-2016/",
+  "confidence": "medium"
+ },
+ {
+  "title": "Every Christmas Has a Story",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Lori Loughlin",
+  "his_actor": "Colin Ferguson",
+  "her_job": "National morning show host",
+  "his_job": null,
+  "location": null,
+  "location_type": "small_town",
+  "tropes": [
+   "big_city_to_small_town"
+  ],
+  "romance": true,
+  "summary": "A morning show host who bashed Christmas on air goes to the most Christmas-y town in America to repair her image.",
+  "source_url": "https://www.countdownuntilchristmas.com/christmas-movies-a-to-z/every-christmas-has-a-story-2016/",
+  "confidence": "medium"
+ },
+ {
+  "title": "My Christmas Dream",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Danica McKellar",
+  "his_actor": "David Haydn-Jones",
+  "her_job": "Department store manager",
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [
+   "promotion_at_stake",
+   "work_rivals"
+  ],
+  "romance": true,
+  "summary": "An ambitious department store manager builds a Christmas display to win the job running the new Paris store.",
+  "source_url": "https://christmas-specials.fandom.com/wiki/My_Christmas_Dream",
+  "confidence": "low"
+ },
+ {
+  "title": "A December Bride",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Jessica Lowndes",
+  "his_actor": "Daniel Lissing",
+  "her_job": "Aspiring interior designer",
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [
+   "fake_relationship",
+   "wedding",
+   "exes_reunited"
+  ],
+  "romance": true,
+  "summary": "At her cousin's wedding to her ex, a woman goes along with a fake engagement that starts feeling real.",
+  "source_url": "https://www.imdb.com/title/tt5739680/reference",
+  "confidence": "medium"
+ },
+ {
+  "title": "Broadcasting Christmas",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Melissa Joan Hart",
+  "his_actor": "Dean Cain",
+  "her_job": "Ambitious television news anchor/journalist",
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [
+   "competition_or_contest",
+   "work_rivals",
+   "promotion_at_stake"
+  ],
+  "romance": true,
+  "summary": "Rival TV personalities compete to become the new co-host of a morning show, and sparks fly.",
+  "source_url": "https://www.yahoo.com/news/broadcasting-christmas-hallmark-channel-weeknight-160837491.html",
+  "confidence": "medium"
+ },
+ {
+  "title": "Christmas in Homestead",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Taylor Cole",
+  "his_actor": "Michael Rady",
+  "her_job": "Famous actress",
+  "his_job": "Local innkeeper and single dad",
+  "location": "Homestead, Iowa",
+  "location_type": "small_town",
+  "tropes": [
+   "big_city_to_small_town",
+   "single_parent"
+  ],
+  "romance": true,
+  "summary": "A famous actress shooting a holiday movie in a Christmas-obsessed Iowa town falls for the local innkeeper and single dad.",
+  "source_url": "https://tv.apple.com/us/movie/christmas-in-homestead/umc.cmc.1fchlrtkfv5jkks3qrb4ife0q",
+  "confidence": "high"
+ },
+ {
+  "title": "Christmas List",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Alicia Witt",
+  "his_actor": "Gabriel Hogan",
+  "her_job": null,
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [],
+  "romance": true,
+  "summary": "A woman's planned storybook Christmas bucket list falls apart when her boyfriend vanishes and a new romance appears.",
+  "source_url": "https://thetvdb.com/movies/christmas-list",
+  "confidence": "medium"
+ },
+ {
+  "title": "A Heavenly Christmas",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Kristin Davis",
+  "his_actor": "Eric McCormack",
+  "her_job": "Workaholic who dies and becomes a trainee Christmas angel",
+  "his_job": "Struggling singer",
+  "location": null,
+  "location_type": null,
+  "tropes": [
+   "magic_or_santa"
+  ],
+  "romance": true,
+  "summary": "A workaholic who dies young trains as a Christmas angel and is assigned to help a struggling singer heal.",
+  "source_url": "https://en.wikipedia.org/wiki/A_Heavenly_Christmas",
+  "confidence": "medium"
+ },
+ {
+  "title": "Journey Back to Christmas",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Candace Cameron Bure",
+  "his_actor": "Oliver Hudson",
+  "her_job": "World War II nurse (from 1945)",
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [
+   "time_travel_or_wish"
+  ],
+  "romance": true,
+  "summary": "A WWII nurse is transported from 1945 to 2016 and rediscovers family and the meaning of Christmas.",
+  "source_url": "https://christmas-specials.fandom.com/wiki/Journey_Back_to_Christmas",
+  "confidence": "medium"
+ },
+ {
+  "title": "A Dream of Christmas",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Nikki DeLoach",
+  "his_actor": "Andrew Walker",
+  "her_job": "Lowly employee at an advertising firm",
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [],
+  "romance": true,
+  "summary": "An overlooked ad-firm employee wants a better job and a way out of her self-centered marriage.",
+  "source_url": "https://www.directv.com/guide/movies/A-Dream-of-Christmas-14ec2f2e-57dc-de70-2734-437444635b39",
+  "confidence": "low"
+ },
+ {
+  "title": "Looks Like Christmas",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": null,
+  "his_actor": null,
+  "her_job": null,
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [],
+  "romance": true,
+  "summary": "A Hallmark Channel Countdown to Christmas romance that premiered December 4, 2016; plot details not found.",
+  "source_url": "https://christmas-specials.fandom.com/wiki/Looks_Like_Christmas",
+  "confidence": "low"
+ },
+ {
+  "title": "A Nutcracker Christmas",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Amy Acker",
+  "his_actor": "Sascha Radetsky",
+  "her_job": "Former ballerina",
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [
+   "returns_home",
+   "exes_reunited"
+  ],
+  "romance": true,
+  "summary": "A jaded former ballerina faces the life and love she left behind when her niece joins a Nutcracker production.",
+  "source_url": "https://dancespirit.com/legit-dance-stars-hallmarks-nutcracker-christmas/",
+  "confidence": "medium"
+ },
+ {
+  "title": "Love You Like Christmas",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Bonnie Somerville",
+  "his_actor": "Brennan Elliott",
+  "her_job": "High-powered marketing executive",
+  "his_job": null,
+  "location": "Christmas Valley",
+  "location_type": "small_town",
+  "tropes": [
+   "snowed_in_or_stranded",
+   "big_city_to_small_town"
+  ],
+  "romance": true,
+  "summary": "Car trouble strands a marketing executive in Christmas Valley, a town devoted to the holiday, and she rethinks her priorities.",
+  "source_url": "https://www.directv.com/guide/movies/Love-You-Like-Christmas-29ca3ea2-f8ab-8a41-b215-b1b6e292962b",
+  "confidence": "medium"
+ },
+ {
+  "title": "My Christmas Love",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": null,
+  "his_actor": null,
+  "her_job": null,
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [],
+  "romance": true,
+  "summary": "Listed as a December 17, 2016 Countdown to Christmas premiere; no plot details found.",
+  "source_url": "https://thetvdb.com/series/hallmark-countdown-to-christmas/seasons/official/2016",
+  "confidence": "low"
+ },
+ {
+  "title": "Sleigh Bells Ring",
+  "year": 2016,
+  "network": "Hallmark Channel",
+  "her_actor": "Erin Cahill",
+  "his_actor": "David Alpay",
+  "her_job": "Hometown Christmas parade organizer (recently divorced)",
+  "his_job": null,
+  "location": null,
+  "location_type": "small_town",
+  "tropes": [
+   "exes_reunited",
+   "returns_home"
+  ],
+  "romance": true,
+  "summary": "A recently divorced woman running her hometown parade restores an old sleigh with her former boyfriend.",
+  "source_url": "https://rissiwrites.com/2016/12/sleigh-bells-ring-2016-small-town.html",
+  "confidence": "medium"
+ },
+ {
+  "title": "Finding Father Christmas",
+  "year": 2016,
+  "network": "Hallmark Movies & Mysteries",
+  "her_actor": "Erin Krakow",
+  "his_actor": "Niall Matter",
+  "her_job": "Seattle interior designer",
+  "his_job": "Local lawyer and hotelier",
+  "location": null,
+  "location_type": "small_town",
+  "tropes": [
+   "big_city_to_small_town"
+  ],
+  "romance": true,
+  "summary": "A Seattle designer searching for the father she never knew falls for a local lawyer and hotelier.",
+  "source_url": "https://www.hallmarkmystery.com/finding-father-christmas/about-finding-father-christmas",
+  "confidence": "medium"
+ },
+ {
+  "title": "Operation Christmas",
+  "year": 2016,
+  "network": "Hallmark Movies & Mysteries",
+  "her_actor": "Tricia Helfer",
+  "his_actor": "Marc Blucas",
+  "her_job": "Single mother",
+  "his_job": "Military sergeant",
+  "location": "a military base",
+  "location_type": "other",
+  "tropes": [
+   "single_parent"
+  ],
+  "romance": true,
+  "summary": "A single mom's new romance with a sergeant is tested when he deploys, so she helps other military families.",
+  "source_url": "https://www.directv.com/guide/movies/Operation-Christmas-6c86e87f-408e-d00e-d87a-54867dd3af71",
+  "confidence": "medium"
+ },
+ {
+  "title": "I'll Be Home for Christmas",
+  "year": 2016,
+  "network": "Hallmark Movies & Mysteries",
+  "her_actor": "Mena Suvari",
+  "his_actor": "James Brolin",
+  "her_job": "Prosecutor",
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [
+   "single_parent"
+  ],
+  "romance": false,
+  "summary": "A prosecutor trying to close a case before Christmas faces her estranged retired-cop father showing up at her door.",
+  "source_url": "https://www.directv.com/guide/movies/Ill-Be-Home-for-Christmas-b171b383-96b6-30fe-73ca-7083c7ac908b",
+  "confidence": "low"
+ },
+ {
+  "title": "Hearts of Christmas",
+  "year": 2016,
+  "network": "Hallmark Movies & Mysteries",
+  "her_actor": "Emilie Ullerop",
+  "his_actor": "Kristoffer Polaha",
+  "her_job": "Hospital employee",
+  "his_job": "New hospital manager",
+  "location": null,
+  "location_type": null,
+  "tropes": [
+   "work_rivals"
+  ],
+  "romance": true,
+  "summary": "A hospital employee planning a retirement party clashes with the new manager out to cut costs.",
+  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/allseasons/official",
+  "confidence": "medium"
+ },
+ {
+  "title": "Sound of Christmas",
+  "year": 2016,
+  "network": "Hallmark Movies & Mysteries",
+  "her_actor": "Lindy Booth",
+  "his_actor": "Robin Dunne",
+  "her_job": "Piano teacher at a music school",
+  "his_job": null,
+  "location": null,
+  "location_type": null,
+  "tropes": [
+   "save_the_business"
+  ],
+  "romance": true,
+  "summary": "A piano teacher helps save her school and its fundraiser while unsure if a parent only wants its property.",
+  "source_url": "https://www.rottentomatoes.com/m/sound_of_christmas",
+  "confidence": "medium"
+ },
+ {
+  "title": "A Christmas to Remember",
+  "year": 2016,
+  "network": "Hallmark Movies & Mysteries",
+  "her_actor": "Mira Sorvino",
+  "his_actor": "Cameron Mathison",
+  "her_job": "TV personality",
+  "his_job": null,
+  "location": "a small mountain town",
+  "location_type": "small_town",
+  "tropes": [
+   "amnesia",
+   "widowed",
+   "single_parent"
+  ],
+  "romance": true,
+  "summary": "A harsh TV personality with no memory of who she is joins a widowed father of three in a mountain town.",
+  "source_url": "https://thetvdb.com/series/the-most-wonderful-movies-of-christmas/episodes/7994400",
+  "confidence": "medium"
+ },
+ {
+  "title": "Christmas Cookies",
+  "year": 2016,
+  "network": "Hallmark Movies & Mysteries",
+  "her_actor": "Jill Wagner",
+  "his_actor": "Wes Brown",
+  "her_job": "Executive sent to close a cookie factory",
+  "his_job": null,
+  "location": "Cookie Jar",
+  "location_type": "small_town",
+  "tropes": [
+   "save_the_business"
+  ],
+  "romance": true,
+  "summary": "A Christmas-averse executive must close the cookie factory that is the lifeblood of a small town.",
+  "source_url": "https://www.directv.com/guide/movies/Christmas-Cookies-b459117f-ebf3-f959-b22f-c5b7429b9d78",
+  "confidence": "low"
+ },
+ {
+  "title": "Love Always, Santa",
+  "year": 2016,
+  "network": "Hallmark Movies & Mysteries",
+  "her_actor": "Marguerite Moreau",
+  "his_actor": "Mike Faiola",
+  "her_job": null,
+  "his_job": "Struggling writer",
+  "location": "Northfield, Minnesota",
+  "location_type": "small_town",
+  "tropes": [
+   "widowed",
+   "magic_or_santa",
+   "single_parent"
+  ],
+  "romance": true,
+  "summary": "A widow's daughter writes Santa asking for her mom to find love, and the letter inspires a struggling writer.",
+  "source_url": "https://en.wikipedia.org/wiki/Love_Always,_Santa",
+  "confidence": "medium"
+ }
+]

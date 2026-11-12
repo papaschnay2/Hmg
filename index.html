@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Holiday Movie Generator</title>
-  <meta name="description" content="Spin the wheel to generate the cozy small-town holiday romance you've definitely already seen.">
+  <title>The Unofficial Hallmark Movie Generator</title>
+  <meta name="description" content="Spin up a cozy holiday romance, then find out Hallmark already made it. An unofficial fan parody built on real movies.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,800;1,600&family=Lato:wght@400;700&display=swap" rel="stylesheet">
@@ -15,68 +15,98 @@
 
   <header class="masthead">
     <ul class="lights" aria-hidden="true"></ul>
-    <p class="eyebrow">Now streaming, every night until January</p>
-    <h1>The Holiday Movie Generator</h1>
-    <p class="sub">Spin the reels. Meet your leads. Cry at the tree lighting.</p>
+    <p class="eyebrow">An unofficial fan parody</p>
+    <h1>The Hallmark Movie Generator</h1>
+    <p class="sub">Invent a cozy Christmas romance. Then find out they already made it.</p>
+    <p class="count" id="count"></p>
   </header>
 
   <main>
     <section class="machine" aria-label="Movie slot machine">
       <div class="reels">
-        <div class="reel" data-key="heroine">
-          <h2>She's a…</h2>
+        <div class="reel" data-key="her">
+          <h2>She's…</h2>
           <div class="window"><span class="value">?</span></div>
+          <p class="tally" aria-live="polite">&nbsp;</p>
           <button class="lock" type="button" aria-pressed="false">🔓 Lock</button>
         </div>
-        <div class="reel" data-key="location">
-          <h2>Who ends up in…</h2>
+        <div class="reel" data-key="place">
+          <h2>Who ends up…</h2>
           <div class="window"><span class="value">?</span></div>
+          <p class="tally" aria-live="polite">&nbsp;</p>
           <button class="lock" type="button" aria-pressed="false">🔓 Lock</button>
         </div>
-        <div class="reel" data-key="hero">
-          <h2>And falls for a…</h2>
+        <div class="reel" data-key="him">
+          <h2>And falls for…</h2>
           <div class="window"><span class="value">?</span></div>
+          <p class="tally" aria-live="polite">&nbsp;</p>
           <button class="lock" type="button" aria-pressed="false">🔓 Lock</button>
         </div>
       </div>
       <button id="spin" class="spin" type="button">Spin the Wheel ✨</button>
     </section>
 
-    <section id="result" class="poster" hidden aria-live="polite">
-      <p class="presents">A Cozy Original Movie Event</p>
-      <h2 id="title" class="title"></h2>
-      <p id="tagline" class="tagline"></p>
-      <p id="synopsis" class="synopsis"></p>
+    <div id="result" hidden>
+      <section class="poster" aria-live="polite">
+        <p class="presents">Your pitch</p>
+        <h2 id="title" class="title"></h2>
+        <p id="tagline" class="tagline"></p>
+        <p id="synopsis" class="synopsis"></p>
+      </section>
 
-      <div class="details">
-        <div>
-          <h3>Starring</h3>
-          <p id="cast"></p>
-        </div>
-        <div>
-          <h3>Coziness</h3>
-          <p id="cozy" class="cozy"></p>
-        </div>
-        <div>
-          <h3>Runtime</h3>
-          <p>84 min (+ 36 min of ads)</p>
-        </div>
+      <section id="verdict" class="verdict" aria-live="polite">
+        <p class="presents">Meanwhile, at Hallmark</p>
+        <div id="meter" class="meter" role="img"></div>
+        <h2 id="verdict-head"></h2>
+        <p id="verdict-sub" class="verdict-sub"></p>
+        <ul id="matches" class="movies"></ul>
+        <button id="share" class="ghost" type="button">Copy link to this spin</button>
+      </section>
+    </div>
+
+    <section class="panel game" aria-labelledby="game-h">
+      <p class="presents">Bonus round</p>
+      <h2 id="game-h">Real or Fake?</h2>
+      <p class="panel-sub">One of these is a real Hallmark Christmas movie. The other one we made up thirty seconds ago.</p>
+      <div class="game-choices">
+        <button type="button" class="choice" id="choice-a"></button>
+        <span class="or">or</span>
+        <button type="button" class="choice" id="choice-b"></button>
       </div>
+      <p id="game-msg" class="game-msg" aria-live="polite">&nbsp;</p>
+      <p class="score">Streak: <b id="streak">0</b> · Best: <b id="best">0</b></p>
+      <button id="game-next" class="ghost" type="button" hidden>Next pair →</button>
+    </section>
 
-      <div class="bingo">
-        <h3>Trope Bingo <span class="hint">tap as you watch</span></h3>
-        <ul id="tropes"></ul>
+    <section class="panel stats" aria-labelledby="stats-h">
+      <p class="presents">The research</p>
+      <h2 id="stats-h">By the Numbers</h2>
+      <p class="panel-sub" id="stats-sub"></p>
+      <div class="stat-grid">
+        <div><h3>She is…</h3><ol id="stat-her" class="bars"></ol></div>
+        <div><h3>It happens…</h3><ol id="stat-place" class="bars"></ol></div>
+        <div><h3>He is…</h3><ol id="stat-him" class="bars"></ol></div>
+        <div><h3>And also…</h3><ol id="stat-tropes" class="bars"></ol></div>
       </div>
+      <p id="stat-combo" class="combo"></p>
+    </section>
 
-      <button id="share" class="share" type="button">Copy link to this movie</button>
+    <section class="panel browse" aria-labelledby="browse-h">
+      <details>
+        <summary id="browse-h">The full filmography</summary>
+        <input id="filter" type="search" placeholder="Search titles, jobs, towns, actors…" aria-label="Search the movies">
+        <p id="filter-count" class="panel-sub"></p>
+        <ul id="all-movies" class="movies"></ul>
+      </details>
     </section>
   </main>
 
   <footer>
-    <p>A fan-made parody. Every movie here is invented, and yet you've seen all of them.</p>
+    <p>An unofficial fan-made parody, not affiliated with or endorsed by Hallmark. Movie facts come from publicly available synopses and may contain mistakes; the pitches are entirely our fault.</p>
   </footer>
 
-  <script src="data.js"></script>
+  <script src="buckets.js"></script>
+  <script src="movies.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
