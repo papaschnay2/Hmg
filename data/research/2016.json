@@ -43,11 +43,12 @@
   "her_actor": "Lori Loughlin",
   "his_actor": "Colin Ferguson",
   "her_job": "National morning show host",
-  "his_job": null,
+  "his_job": "producer of her morning show",
   "location": null,
   "location_type": "small_town",
   "tropes": [
-   "big_city_to_small_town"
+   "big_city_to_small_town",
+   "exes_reunited"
   ],
   "romance": true,
   "summary": "A morning show host who bashed Christmas on air goes to the most Christmas-y town in America to repair her image.",
@@ -61,12 +62,13 @@
   "her_actor": "Danica McKellar",
   "his_actor": "David Haydn-Jones",
   "her_job": "Department store manager",
-  "his_job": null,
+  "his_job": "handyman (struggling single father)",
   "location": null,
   "location_type": null,
   "tropes": [
    "promotion_at_stake",
-   "work_rivals"
+   "work_rivals",
+   "single_parent"
   ],
   "romance": true,
   "summary": "An ambitious department store manager builds a Christmas display to win the job running the new Paris store.",
@@ -99,9 +101,9 @@
   "network": "Hallmark Channel",
   "her_actor": "Melissa Joan Hart",
   "his_actor": "Dean Cain",
-  "her_job": "Ambitious television news anchor/journalist",
+  "her_job": "television news journalist",
   "his_job": null,
-  "location": null,
+  "location": "Connecticut",
   "location_type": null,
   "tropes": [
    "competition_or_contest",
@@ -138,10 +140,10 @@
   "network": "Hallmark Channel",
   "her_actor": "Alicia Witt",
   "his_actor": "Gabriel Hogan",
-  "her_job": null,
+  "her_job": "fashion designer",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Fall River, Oregon",
+  "location_type": "small_town",
   "tropes": [],
   "romance": true,
   "summary": "A woman's planned storybook Christmas bucket list falls apart when her boyfriend vanishes and a new romance appears.",
@@ -195,18 +197,21 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "magic_or_santa",
+   "time_travel_or_wish"
+  ],
   "romance": true,
-  "summary": "An overlooked ad-firm employee wants a better job and a way out of her self-centered marriage.",
+  "summary": "A restless wife gets a Christmas angel's wish to be single again and finds her new life is not what she expected.",
   "source_url": "https://www.directv.com/guide/movies/A-Dream-of-Christmas-14ec2f2e-57dc-de70-2734-437444635b39",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Looks Like Christmas",
   "year": 2016,
   "network": "Hallmark Channel",
   "her_actor": null,
-  "his_actor": null,
+  "his_actor": "Dylan Neal",
   "her_job": null,
   "his_job": null,
   "location": null,
@@ -224,9 +229,9 @@
   "her_actor": "Amy Acker",
   "his_actor": "Sascha Radetsky",
   "her_job": "Former ballerina",
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "his_job": "runs the ballet company staging the Nutcracker",
+  "location": "Philadelphia",
+  "location_type": "big_city",
   "tropes": [
    "returns_home",
    "exes_reunited"
@@ -278,8 +283,8 @@
   "her_actor": "Erin Cahill",
   "his_actor": "David Alpay",
   "her_job": "Hometown Christmas parade organizer (recently divorced)",
-  "his_job": null,
-  "location": null,
+  "his_job": "woodworker",
+  "location": "Mission City",
   "location_type": "small_town",
   "tropes": [
    "exes_reunited",
@@ -351,7 +356,7 @@
   "her_actor": "Emilie Ullerop",
   "his_actor": "Kristoffer Polaha",
   "her_job": "Hospital employee",
-  "his_job": "New hospital manager",
+  "his_job": "new hospital CFO tasked with cutting costs",
   "location": null,
   "location_type": null,
   "tropes": [
@@ -369,11 +374,13 @@
   "her_actor": "Lindy Booth",
   "his_actor": "Robin Dunne",
   "her_job": "Piano teacher at a music school",
-  "his_job": null,
+  "his_job": "widower (job not stated)",
   "location": null,
   "location_type": null,
   "tropes": [
-   "save_the_business"
+   "save_the_business",
+   "widowed",
+   "single_parent"
   ],
   "romance": true,
   "summary": "A piano teacher helps save her school and its fundraiser while unsure if a parent only wants its property.",
@@ -407,7 +414,7 @@
   "her_actor": "Jill Wagner",
   "his_actor": "Wes Brown",
   "her_job": "Executive sent to close a cookie factory",
-  "his_job": null,
+  "his_job": "owner of the cookie factory",
   "location": "Cookie Jar",
   "location_type": "small_town",
   "tropes": [

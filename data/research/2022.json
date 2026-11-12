@@ -21,15 +21,15 @@
   "title": "We Wish You a Married Christmas",
   "year": 2022,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Marisol Nichols",
+  "his_actor": "Kristoffer Polaha",
   "her_job": null,
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": null,
+  "summary": "On their marriage coach's advice, a married couple visits a quiet town to reconnect at Christmas.",
   "source_url": "https://www.etonline.com/hallmark-reveals-christmas-movie-schedule-for-2022-see-the-40-movie-lineup-191332",
   "confidence": "low"
  },
@@ -337,34 +337,40 @@
  {
   "title": "Undercover Holiday",
   "year": 2022,
-  "network": null,
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
+  "network": "Hallmark Channel",
+  "her_actor": "Noemi Gonzalez",
+  "his_actor": "Stephen Huszar",
+  "her_job": "pop star",
+  "his_job": "security guard / bodyguard",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "fake_relationship",
+   "returns_home"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A pop star back home for the holidays claims to be dating her bodyguard, blurring protector and partner.",
   "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "When I Think of Christmas",
   "year": 2022,
   "network": null,
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Shenae Grimes-Beech",
+  "his_actor": "Niall Matter",
   "her_job": null,
   "his_job": null,
   "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "exes_reunited"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A woman returns to her hometown to help her mother move and unexpectedly finds her ex-boyfriend back there too.",
   "source_url": "https://www.thewrap.com/all-43-new-hallmark-christmas-movies-of-2022-ranked-worst-to-best-photos/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Holiday Spectacular",
@@ -530,9 +536,11 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "single_parent"
+  ],
   "romance": true,
-  "summary": null,
+  "summary": "A newly single mother facing her first Christmas alone forms an unexpected friendship with an older neighbor.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2022-movies-cast-dates-schedule",
   "confidence": "low"
  },

@@ -347,7 +347,7 @@
       .map(([t, n]) => [TROPE_LABELS[t], n]).sort((a, b) => b[1] - a[1]).slice(0, 6));
 
     const combos = {};
-    complete.forEach((m) => {
+    complete.filter((m) => KEYS.every((k) => m[k] !== "other")).forEach((m) => {
       const key = KEYS.map((k) => m.idx[k]).join(",");
       (combos[key] = combos[key] || []).push(m);
     });

@@ -23,24 +23,24 @@
   "his_actor": "Brandon Routh",
   "her_job": "veterinary student",
   "his_job": "firefighter",
-  "location": null,
-  "location_type": null,
+  "location": "Portland, Oregon",
+  "location_type": "big_city",
   "tropes": [],
   "romance": true,
   "summary": "A commitment-shy firefighter adopts a stray cat and falls for a pet-loving veterinary student who has nowhere to live.",
   "source_url": "https://en.wikipedia.org/wiki/The_Nine_Lives_of_Christmas",
-  "confidence": "medium"
+  "confidence": "high"
  },
  {
   "title": "A Cookie Cutter Christmas",
   "year": 2014,
   "network": "Hallmark Channel",
   "her_actor": "Erin Krakow",
-  "his_actor": null,
+  "his_actor": "David Haydn-Jones",
   "her_job": "elementary school teacher",
   "his_job": "single dad (job not stated)",
-  "location": null,
-  "location_type": null,
+  "location": "small town in Ohio (one source only)",
+  "location_type": "small_town",
   "tropes": [
    "work_rivals",
    "competition_or_contest",
@@ -97,8 +97,8 @@
   "his_actor": "Stephen Hagan",
   "her_job": "seamstress from Philadelphia",
   "his_job": "prince of Cordinia (Prince Leopold)",
-  "location": null,
-  "location_type": null,
+  "location": "Cordinia (fictional kingdom) and Philadelphia",
+  "location_type": "europe_or_kingdom",
   "tropes": [
    "royalty",
    "secret_identity",
@@ -133,9 +133,9 @@
   "year": 2014,
   "network": "Hallmark Channel",
   "her_actor": "Candace Cameron Bure",
-  "his_actor": null,
+  "his_actor": "David O'Donnell",
   "her_job": "surgical resident turned town doctor",
-  "his_job": null,
+  "his_job": "handyman (Andy Holliday)",
   "location": "Garland, Alaska",
   "location_type": "small_town",
   "tropes": [
@@ -247,18 +247,18 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Bethany Joy Lenz",
   "his_actor": null,
-  "her_job": "struggling single mother who lost job and home",
+  "her_job": "waitress (fired and facing eviction)",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Wilsonville",
+  "location_type": "small_town",
   "tropes": [
    "single_parent",
    "inheritance"
   ],
   "romance": true,
-  "summary": "A single mother who has lost her job and home uncovers a family secret tied to an heirloom and finds new luck by Christmas.",
+  "summary": "A fired, near-evicted waitress and single mom in a small town faces a custody fight while a family secret changes her luck.",
   "source_url": "https://www.tvguide.com/movies/the-christmas-secret/2030189518",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "'Tis the Season for Love",
@@ -272,7 +272,8 @@
   "location_type": "her_hometown",
   "tropes": [
    "returns_home",
-   "big_city_to_small_town"
+   "big_city_to_small_town",
+   "childhood_friends"
   ],
   "romance": true,
   "summary": "A small-town girl stuck in New York as an actress returns home for the holidays and finds her dreams may be there.",
@@ -304,7 +305,7 @@
   "year": 2015,
   "network": "Hallmark Channel",
   "her_actor": "Julie Benz",
-  "his_actor": "Brock Jolliffe",
+  "his_actor": "David Sutcliffe",
   "her_job": "owner/manager of her family's department store",
   "his_job": "department store Santa",
   "location": null,
@@ -460,10 +461,10 @@
   "network": "Hallmark Channel",
   "her_actor": "Candace Cameron Bure",
   "his_actor": "Paul Greene",
-  "her_job": "magazine writer",
+  "her_job": "bridal magazine writer",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Buffalo, New York (stranded after diverted flight)",
+  "location_type": "other",
   "tropes": [
    "snowed_in_or_stranded"
   ],
@@ -549,33 +550,40 @@
   "title": "A Christmas Melody",
   "year": 2015,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_actor": "Lacey Chabert",
+  "his_actor": "Brennan Elliott",
+  "her_job": "clothing designer",
+  "his_job": "music teacher",
+  "location": "small Ohio town (her hometown)",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "single_parent",
+   "big_city_to_small_town"
+  ],
   "romance": true,
-  "summary": "Details not retrieved; title is on the 2015 Countdown to Christmas list.",
+  "summary": "A designer whose Manhattan shop closed moves home to Ohio with her daughter and bonds with the girl's music teacher.",
   "source_url": "https://www.thetvdb.com/series/hallmark-countdown-to-christmas/seasons/official/2015",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Christmas Land",
   "year": 2015,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_actor": "Nikki DeLoach",
+  "his_actor": "Luke Macfarlane",
+  "her_job": "inherited her grandmother's Christmas tree farm (job not stated)",
+  "his_job": "lawyer",
+  "location": "Christmas-themed village with a tree farm (town unnamed)",
+  "location_type": "farm_ranch_vineyard",
+  "tropes": [
+   "inheritance",
+   "magic_or_santa"
+  ],
   "romance": true,
-  "summary": "Details not retrieved; listed as the 2015 season finale on TheTVDB.",
+  "summary": "A woman inherits a Christmas tree farm, plans to sell it for a New York dream home, and is won over by the town and a lawyer.",
   "source_url": "https://www.thetvdb.com/series/hallmark-countdown-to-christmas/seasons/official/2015",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Christmas Note",
@@ -585,11 +593,13 @@
   "his_actor": "Greg Vaughan",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Wilsonville",
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
-  "summary": "A Hallmark Movies & Mysteries Christmas premiere blending holiday story and mystery; plot details not retrieved.",
+  "summary": "A woman moves back to her hometown with her son while her husband recovers from a deployment injury; a mysterious note drives the story.",
   "source_url": "https://www.parentstv.org/blog/watch-the-christmas-note-on-hallmark-movies-and-mysteries",
   "confidence": "low"
  },
@@ -599,10 +609,10 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Alison Sweeney",
   "his_actor": "Cameron Mathison",
-  "her_job": null,
+  "her_job": "baker and amateur detective (runs The Cookie Jar bakery)",
   "his_job": "detective (Mike Kingston)",
-  "location": null,
-  "location_type": null,
+  "location": "Lake Eden, Minnesota",
+  "location_type": "small_town",
   "tropes": [
    "sequel"
   ],

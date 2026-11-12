@@ -46,7 +46,9 @@
   "his_job": "Weatherman (Ted Cooper)",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "returns_home"
+  ],
   "romance": true,
   "summary": "A weatherman determined to fix three miserable Christmases lands in urgent care with his high school crush, now a doctor.",
   "source_url": "https://entertainmentnow.com/hallmark/merry-christmas-ted-cooper-july-24/",
@@ -58,15 +60,18 @@
   "network": "Hallmark Channel",
   "her_actor": "Janel Parrish",
   "his_actor": "Parker Young",
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_job": "Marine (Blair)",
+  "his_job": "Marine (Josh)",
+  "location": "Quantico, Virginia",
+  "location_type": "other",
+  "tropes": [
+   "work_rivals",
+   "exes_reunited"
+  ],
   "romance": true,
-  "summary": "A holiday romance starring Janel Parrish and Parker Young; plot details not confirmed.",
+  "summary": "Two former Marine rivals are assigned to the same 24-hour holiday duty shift and must work together.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "A Newport Christmas",
@@ -74,10 +79,10 @@
   "network": "Hallmark Channel",
   "her_actor": "Ginna Claire Mason",
   "his_actor": "Wes Brown",
-  "her_job": "Wealthy socialite from 1905 (Ella)",
-  "his_job": "Sailor (Nick)",
-  "location": null,
-  "location_type": null,
+  "her_job": "wealthy, charitable socialite in 1905 Newport (Ella)",
+  "his_job": "sailor and local Newport historian (Nick)",
+  "location": "Newport (1905 and 2025)",
+  "location_type": "other",
   "tropes": [
    "time_travel_or_wish"
   ],
@@ -94,8 +99,8 @@
   "his_actor": "Tyler Hynes",
   "her_job": "Workaholic CEO (Ella Neezer)",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "A long-haul flight to Australia",
+  "location_type": "other",
   "tropes": [
    "work_rivals"
   ],
@@ -112,13 +117,13 @@
   "his_actor": null,
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Danube river cruise (Europe)",
+  "location_type": "europe_or_kingdom",
   "tropes": [
    "sequel"
   ],
-  "romance": true,
-  "summary": "A Keller family Christmas film; cast and plot details not confirmed.",
+  "romance": false,
+  "summary": "Three drifted-apart Keller siblings reluctantly take a family river cruise down the Danube at Christmas.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
   "confidence": "low"
  },
@@ -135,10 +140,10 @@
   "tropes": [
    "sequel"
   ],
-  "romance": true,
-  "summary": "A film in the Three Wise Men series; plot details not confirmed.",
+  "romance": false,
+  "summary": "The Brenner brothers try to stage the best Christmas ever to reunite their scattered family; third in the series.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Tidings for the Season",
@@ -146,15 +151,17 @@
   "network": "Hallmark Channel",
   "her_actor": "Tamera Mowry-Housley",
   "his_actor": "B.J. Britt",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "Single mom (job not stated)",
+  "his_job": "Local TV newscaster",
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "single_parent"
+  ],
   "romance": true,
-  "summary": "A Christmas romance starring Tamera Mowry-Housley; plot details not confirmed.",
+  "summary": "A career-driven local newscaster's life shifts after meeting a 10-year-old fan and his single mother.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Holiday Touchdown: A Bills Love Story",
@@ -164,11 +171,13 @@
   "his_actor": "Matthew Daddario",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Buffalo, New York",
+  "location_type": "big_city",
+  "tropes": [
+   "childhood_friends"
+  ],
   "romance": true,
-  "summary": "Hallmark's second NFL-themed Christmas movie, set around the Buffalo Bills; plot details not confirmed.",
+  "summary": "Two lifelong friends hunt for a mysterious secret Santa around Buffalo and the Bills' stadium.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
   "confidence": "low"
  },
@@ -176,17 +185,17 @@
   "title": "Melt My Heart This Christmas",
   "year": 2025,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Laura Vandervoort",
+  "his_actor": "Stephen Huszar",
+  "her_job": "Glassblower (Holly James)",
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A Christmas romance premiering Nov 23, 2025; details not confirmed.",
+  "summary": "A struggling glassblower hopes to show her art at a Christmas fair while dealing with a prickly Jack.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "We Met in December",
@@ -196,15 +205,15 @@
   "his_actor": "Niall Matter",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Chicago",
+  "location_type": "big_city",
   "tropes": [
-   "fake_relationship"
+   "snowed_in_or_stranded"
   ],
   "romance": true,
-  "summary": "New neighbors make a holiday pact not to fall for each other.",
+  "summary": "Two strangers meet during an unexpected December layover at a Chicago hotel, then each try to find the other again.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "An Alpine Holiday",
@@ -214,11 +223,11 @@
   "his_actor": null,
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Chamonix, French Alps",
+  "location_type": "europe_or_kingdom",
   "tropes": [],
   "romance": true,
-  "summary": "A Hallmark Christmas movie premiering Nov 29, 2025; details not confirmed.",
+  "summary": "Two vastly different, estranged sisters reunite in the French Alps, retracing their grandfather's first trip, with a local guide along the way.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
   "confidence": "low"
  },
@@ -226,15 +235,17 @@
   "title": "A Grand Ole Opry Christmas",
   "year": 2025,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Nikki DeLoach",
+  "his_actor": "Kristoffer Polaha",
   "her_job": null,
   "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location": "Nashville, at the Grand Ole Opry",
+  "location_type": "other",
+  "tropes": [
+   "time_travel_or_wish"
+  ],
   "romance": true,
-  "summary": "A Christmas film with new music from Brad Paisley, premiering Nov 29, 2025; details not confirmed.",
+  "summary": "The daughter of a late country star who gave up songwriting finds a time-bending Christmas at the Grand Ole Opry in Nashville.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
   "confidence": "low"
  },
@@ -245,15 +256,16 @@
   "her_actor": null,
   "his_actor": null,
   "her_job": "Marketing executive",
-  "his_job": null,
-  "location": "New York",
-  "location_type": "big_city",
+  "his_job": "Veterinarian and co-owner of the cat café",
+  "location": "Felicity, upstate New York",
+  "location_type": "small_town",
   "tropes": [
    "inheritance",
-   "save_the_business"
+   "save_the_business",
+   "big_city_to_small_town"
   ],
   "romance": true,
-  "summary": "A marketing executive inherits her late great aunt's cat café in New York.",
+  "summary": "A marketing executive inherits part of a cat café and must work with its veterinarian co-owner, who wants to sell.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
   "confidence": "medium"
  },
@@ -261,17 +273,20 @@
   "title": "The Christmas Cup",
   "year": 2025,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
+  "her_actor": "Rhiannon Fish",
+  "his_actor": "Ben Rosenbaum",
+  "her_job": "Marine staff sergeant recovering from a knee injury (Kelly Brandt)",
+  "his_job": "Firefighter (Quinn Stokley)",
   "location": null,
-  "location_type": null,
-  "tropes": [],
+  "location_type": "her_hometown",
+  "tropes": [
+   "returns_home",
+   "competition_or_contest"
+  ],
   "romance": true,
-  "summary": "A Christmas movie premiering Nov 30, 2025; details not confirmed.",
+  "summary": "An injured Marine home on leave leads her hometown team against a rival town in the Christmas Cup alongside a firefighter.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "She's Making a List",
@@ -280,13 +295,14 @@
   "her_actor": "Lacey Chabert",
   "his_actor": "Andrew Walker",
   "her_job": "Consultant who decides children's fates on the Naughty or Nice list",
-  "his_job": "Widowed father",
+  "his_job": "Widowed father (job not stated)",
   "location": null,
   "location_type": null,
   "tropes": [
    "widowed",
    "single_parent",
-   "magic_or_santa"
+   "magic_or_santa",
+   "promotion_at_stake"
   ],
   "romance": true,
   "summary": "A Naughty-or-Nice list consultant falls for a widowed father.",
@@ -305,7 +321,7 @@
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A Christmas romance premiering Dec 7, 2025; plot details not confirmed.",
+  "summary": "A single woman dreading couple-filled Christmas gets holiday-singlehood tips from her neighbor Cooper.",
   "source_url": "https://www.yahoo.com/entertainment/movies/articles/hallmark-just-released-full-christmas-211000138.html",
   "confidence": "low"
  },
@@ -315,13 +331,13 @@
   "network": "Hallmark Channel",
   "her_actor": "Jessy Schram",
   "his_actor": "Dominic Sherwood",
-  "her_job": null,
+  "her_job": "writer ghostwriting a memoir for a famous art dealer",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Grand Fairbanks Hotel, New York City",
+  "location_type": "inn_lodge_resort",
   "tropes": [],
   "romance": true,
-  "summary": "A Christmas romance premiering Dec 13, 2025; plot details not confirmed.",
+  "summary": "A writer ghostwriting a memoir while staying at a grand New York hotel befriends a British tourist she suspects is a lord.",
   "source_url": "https://www.yahoo.com/entertainment/movies/articles/hallmark-just-released-full-christmas-211000138.html",
   "confidence": "low"
  },
@@ -330,32 +346,36 @@
   "year": 2025,
   "network": "Hallmark Channel",
   "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "his_actor": "Jake Epstein",
+  "her_job": "Youth choir director at St. Joseph's Episcopal Church",
+  "his_job": "Aspiring musician and rabbi's son",
+  "location": "Pine Bend",
+  "location_type": "small_town",
+  "tropes": [
+   "work_rivals"
+  ],
   "romance": true,
-  "summary": "A Hanukkah/Christmas-season Hallmark movie premiering Dec 14, 2025; details not confirmed.",
+  "summary": "A church choir director and a rabbi's son, old high school rivals, team up on a joint Hanukkah-Christmas celebration after a temple mishap.",
   "source_url": "https://www.yahoo.com/entertainment/movies/articles/hallmark-just-released-full-christmas-211000138.html",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The More the Merrier",
   "year": 2025,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
-  "his_job": null,
-  "location": null,
-  "location_type": null,
-  "tropes": [],
+  "her_actor": "Rachel Boston",
+  "his_actor": "Brendan Penny",
+  "her_job": "Emergency room doctor (Alice)",
+  "his_job": "Cardiologist (Brian)",
+  "location": "Pine Ridge (small rural hospital)",
+  "location_type": "small_town",
+  "tropes": [
+   "snowed_in_or_stranded"
+  ],
   "romance": true,
-  "summary": "A Christmas movie reported as the most-watched of the 2025 season; plot details not confirmed.",
+  "summary": "An ER doctor and a cardiologist fall for each other during a snowed-in Christmas Eve baby boom at a rural hospital.",
   "source_url": "https://www.justjared.com/2026/01/09/hallmarks-5-most-watched-movies-of-2025-revealed-1-isnt-a-christmas-movie/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "The Snow Must Go On",
@@ -364,12 +384,14 @@
   "her_actor": null,
   "his_actor": null,
   "her_job": null,
-  "his_job": null,
-  "location": null,
+  "his_job": "Former Broadway performer directing his niece's high school Christmas musical",
+  "location": "Upstate New York",
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "competition_or_contest"
+  ],
   "romance": true,
-  "summary": "A 2025 Countdown to Christmas movie; details not confirmed.",
+  "summary": "A former Broadway star directs his niece's school Christmas musical hoping to impress a Broadway producer.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
   "confidence": "low"
  },
@@ -377,15 +399,15 @@
   "title": "A Make or Break Holiday",
   "year": 2025,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Hunter King",
+  "his_actor": "Evan Roderick",
   "her_job": null,
   "his_job": null,
   "location": null,
   "location_type": null,
   "tropes": [],
   "romance": true,
-  "summary": "A Countdown to Christmas movie premiering Dec 20, 2025; details not confirmed.",
+  "summary": "A couple takes a relationship break after an argument while their families gather at their home for Christmas.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
   "confidence": "low"
  },
@@ -400,8 +422,8 @@
   "location": null,
   "location_type": null,
   "tropes": [],
-  "romance": true,
-  "summary": "The final 2025 premiere, Dec 21; details not confirmed.",
+  "romance": false,
+  "summary": "A married lesbian couple's lives change when a baby is left on their doorstep; no man-woman romance.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2025-movies-cast-dates-schedule",
   "confidence": "low"
  }
