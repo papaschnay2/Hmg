@@ -259,8 +259,8 @@
   "his_actor": null,
   "her_job": "interior designer",
   "his_job": null,
-  "location": null,
-  "location_type": null,
+  "location": "Seattle",
+  "location_type": "big_city",
   "tropes": [
    "magic_or_santa"
   ],
@@ -588,7 +588,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Erica Cerra",
   "his_actor": "Mark Ghanimé",
-  "her_job": null,
+  "her_job": "runs a nonprofit empowering neurodiverse teens",
   "his_job": "high school literature teacher",
   "location": null,
   "location_type": null,

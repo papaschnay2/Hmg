@@ -16,7 +16,8 @@
    "fake_relationship"
   ],
   "source_url": "https://www.hallmarkchannel.com/a-holiday-engagement/about",
-  "first_seen_on_site": "201408"
+  "first_seen_on_site": "201408",
+  "skip": true
  },
  {
   "title": "One Christmas Eve",
@@ -55,7 +56,8 @@
    "sequel"
   ],
   "source_url": "https://www.hallmarkchannel.com/the-good-witchs-gift/about-the-good-witchs-gift",
-  "first_seen_on_site": "201412"
+  "first_seen_on_site": "201412",
+  "skip": true
  },
  {
   "title": "A Perfect Christmas",
@@ -122,8 +124,8 @@
   "his_actor": "Michael Cassidy",
   "her_job": "advertising professional leading a Christmas campaign relaunch",
   "his_job": "advertising campaign 'fixer'",
-  "location": null,
-  "location_type": null,
+  "location": "Chicago, Illinois",
+  "location_type": "big_city",
   "romance": true,
   "summary": "Elle's big work project and college reunion collide, and her holiday-skeptic campaign partner proves hard to resist.",
   "confidence": "high",
@@ -162,7 +164,7 @@
   "year": 2019,
   "her_actor": "Ali Liebert",
   "his_actor": "Peter Porte",
-  "her_job": null,
+  "her_job": "manager of a bookstore",
   "his_job": "woodcarver (carves a replica of her hometown)",
   "location": "Darcy's hometown",
   "location_type": "her_hometown",
@@ -202,7 +204,7 @@
   "year": 2019,
   "her_actor": "Brittany Bristow",
   "his_actor": "Matt Cohen",
-  "her_job": null,
+  "her_job": "aspiring tailor",
   "his_job": "actor",
   "location": null,
   "location_type": null,
@@ -217,7 +219,7 @@
   "first_seen_on_site": "201910"
  },
  {
-  "title": "A Christmas Tree Grows in  Colorado",
+  "title": "A Christmas Tree Grows in Colorado",
   "year": 2020,
   "her_actor": "Rochelle Aytes",
   "his_actor": "Mark Taylor",
@@ -258,8 +260,8 @@
   "year": 2020,
   "her_actor": "Rukiya Bernard",
   "his_actor": "Antonio Cayonne",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "manager of the new Evergreen Christmas Museum",
+  "his_job": "tinker shop owner",
   "location": "Evergreen",
   "location_type": "small_town",
   "romance": true,
@@ -279,7 +281,7 @@
   "her_actor": "Sarah Drew",
   "his_actor": "Brennan Elliott",
   "her_job": "concert violinist",
-  "his_job": null,
+  "his_job": "American diplomat, widowed father of three",
   "location": "Vienna",
   "location_type": "europe_or_kingdom",
   "romance": true,
@@ -393,7 +395,7 @@
   "year": 2020,
   "her_actor": "Laura Osnes",
   "his_actor": "Aaron Tveit",
-  "her_job": null,
+  "her_job": "cardiac nurse (Anna)",
   "his_job": "prince",
   "location": null,
   "location_type": "her_hometown",
@@ -434,8 +436,8 @@
   "his_actor": "James Denton",
   "her_job": null,
   "his_job": "CEO of his company (in his altered life)",
-  "location": null,
-  "location_type": null,
+  "location": "Chicago",
+  "location_type": "big_city",
   "romance": true,
   "summary": "After a casual wish, Ethan wakes in a life where he never married Joyce, and has until Christmas to fix it.",
   "confidence": "high",
@@ -927,11 +929,12 @@
    "secret_identity"
   ],
   "source_url": "https://www.hallmarkchannel.com/a-very-country-christmas/about-a-very-country-christmas",
-  "first_seen_on_site": "202507"
+  "first_seen_on_site": "202507",
+  "skip": true
  },
  {
   "title": "Christmas Wedding Planner",
-  "year": 2025,
+  "year": 2017,
   "her_actor": null,
   "his_actor": null,
   "her_job": "wedding planner (Kelsey Wilson)",
@@ -946,11 +949,13 @@
    "wedding"
   ],
   "source_url": "https://www.hallmarkchannel.com/christmas-wedding-planner/about-christmas-wedding-planner",
-  "first_seen_on_site": "202507"
+  "first_seen_on_site": "202507",
+  "problem": "Search result indicates this Hallmark film aired in 2017, not 2025; cast not confirmed.",
+  "skip": true
  },
  {
   "title": "Christmas in Paris",
-  "year": 2025,
+  "year": 2019,
   "her_actor": "Rebecca Dalton",
   "his_actor": "Karl E. Lander",
   "her_job": null,
@@ -963,7 +968,9 @@
   "network": null,
   "tropes": [],
   "source_url": "https://www.hallmarkchannel.com/christmas-in-paris/about-christmas-in-paris",
-  "first_seen_on_site": "202507"
+  "first_seen_on_site": "202507",
+  "problem": "Search result (IMDb) lists release as 2019, not 2025; heroine is Robin Harbin from Montana.",
+  "skip": true
  },
  {
   "title": "Christmas on 5th Avenue",
@@ -982,7 +989,8 @@
    "boss_or_client_romance"
   ],
   "source_url": "https://www.hallmarkchannel.com/christmas-on-5th-avenue/about-christmas-on-5th-avenue",
-  "first_seen_on_site": "202507"
+  "first_seen_on_site": "202507",
+  "skip": true
  },
  {
   "title": "Christmas Under Construction",
@@ -1096,14 +1104,15 @@
    "single_parent"
   ],
   "source_url": "https://www.hallmarkmystery.com/christmas-with-holly/about",
-  "first_seen_on_site": "201408"
+  "first_seen_on_site": "201408",
+  "skip": true
  },
  {
   "title": "Debbie Macomber's Trading Christmas",
-  "year": 2014,
+  "year": 2011,
   "her_actor": "Faith Ford",
   "his_actor": "Tom Cavanagh",
-  "her_job": null,
+  "her_job": "second-grade teacher",
   "his_job": "English professor from Boston finishing a novel",
   "location": "Washington State and Boston",
   "location_type": "other",
@@ -1113,7 +1122,8 @@
   "network": "Hallmark Movies & Mysteries",
   "tropes": [],
   "source_url": "https://www.hallmarkmystery.com/debbie-macombers-trading-christmas/about",
-  "first_seen_on_site": "201408"
+  "first_seen_on_site": "201408",
+  "problem": "Search indicates this movie premiered in 2011, not 2014."
  },
  {
   "title": "Debbie Macomber's Dashing Through the Snow",
@@ -1272,7 +1282,7 @@
   "her_actor": "Autumn Reeser",
   "his_actor": "Antonio Cupo",
   "her_job": "heiress",
-  "his_job": null,
+  "his_job": "firefighter (Kyle)",
   "location": "Glenbrooke",
   "location_type": "small_town",
   "romance": true,
@@ -1322,7 +1332,7 @@
  },
  {
   "title": "Fallen Angel",
-  "year": 2025,
+  "year": 2003,
   "her_actor": "Joely Richardson",
   "his_actor": "Gary Sinise",
   "her_job": null,
@@ -1337,6 +1347,8 @@
    "returns_home"
   ],
   "source_url": "https://www.hallmarkmystery.com/fallen-angel/about-fallen-angel",
-  "first_seen_on_site": "202511"
+  "first_seen_on_site": "202511",
+  "problem": "Results show Fallen Angel with Joely Richardson and Gary Sinise is a 2003 Hallmark Hall of Fame TV movie, not a 2025 holiday original.",
+  "skip": true
  }
 ]

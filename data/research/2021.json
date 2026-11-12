@@ -134,11 +134,13 @@
   "her_actor": "Nikki Deloach",
   "his_actor": "David Haydn-Jones",
   "her_job": null,
-  "his_job": null,
+  "his_job": "veterinarian",
   "location": "North Carolina (mostly)",
   "location_type": null,
   "tropes": [
-   "time_travel_or_wish"
+   "time_travel_or_wish",
+   "exes_reunited",
+   "returns_home"
   ],
   "romance": true,
   "summary": "Clara wishes for more time with her late grandfather at Christmas and finds his journal.",
@@ -223,7 +225,7 @@
   "her_actor": "Jamie Gray Hyder",
   "his_actor": "Ektor Rivera",
   "her_job": "retired professional ballerina (Natalia)",
-  "his_job": null,
+  "his_job": "lighting designer (Mateo)",
   "location": "Richmond, Virginia",
   "location_type": "her_hometown",
   "tropes": [
@@ -368,7 +370,9 @@
   "his_job": null,
   "location": null,
   "location_type": null,
-  "tropes": [],
+  "tropes": [
+   "childhood_friends"
+  ],
   "romance": true,
   "summary": "An anonymous admirer sends an optometrist a gift each Hanukkah night, and the real answer surprises her.",
   "source_url": "https://www.hallmarkchannel.com/eight-gifts-of-hanukkah/about-eight-gifts-of-hanukkah",
@@ -492,8 +496,8 @@
   "network": "Hallmark Channel",
   "her_actor": "Candace Cameron Bure",
   "his_actor": "John Brotherton",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "business executive",
+  "his_job": "retired professional baseball player",
   "location": "Denver",
   "location_type": "big_city",
   "tropes": [
@@ -530,7 +534,7 @@
   "network": "Hallmark Channel",
   "her_actor": null,
   "his_actor": null,
-  "her_job": null,
+  "her_job": "waitress (mistaken for an event planner)",
   "his_job": "Earl of Glaslough (Aiden Hart)",
   "location": "Ireland (Castle Hart)",
   "location_type": "europe_or_kingdom",
@@ -564,7 +568,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Lyndsy Fonseca",
   "his_actor": "Chandler Massey",
-  "her_job": null,
+  "her_job": "neurosurgeon",
   "his_job": null,
   "location": "Angie's hometown (unnamed)",
   "location_type": "her_hometown",

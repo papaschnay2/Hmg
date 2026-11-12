@@ -44,9 +44,9 @@
   "her_actor": "Mia Kirshner",
   "his_actor": "Ben Savage",
   "her_job": "restaurant owner",
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "his_job": "restaurant critic",
+  "location": "Cleveland",
+  "location_type": "big_city",
   "tropes": [],
   "romance": true,
   "summary": "A DNA test reveals a restaurateur is Jewish, leading to a new family and an unlikely Hanukkah romance.",
@@ -93,10 +93,10 @@
   "network": "Hallmark Channel",
   "her_actor": "Lacey Chabert",
   "his_actor": "Will Kemp",
-  "her_job": null,
+  "her_job": "lawyer",
   "his_job": "dance instructor",
-  "location": null,
-  "location_type": null,
+  "location": "New York City",
+  "location_type": "big_city",
   "tropes": [
    "wedding"
   ],
@@ -128,7 +128,7 @@
   "her_actor": "Danica McKellar",
   "his_actor": "Dylan Neal",
   "her_job": "writer (advice columnist)",
-  "his_job": null,
+  "his_job": "newspaper editor in chief (Tripp Wyndham)",
   "location": null,
   "location_type": "her_hometown",
   "tropes": [
@@ -165,12 +165,13 @@
   "network": "Hallmark Channel",
   "her_actor": "Bethany Joy Lenz",
   "his_actor": "Victor Webster",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "daughter helping at her family's bed and breakfast (job not stated)",
+  "his_job": "incognito travel critic/travel writer",
   "location": "her hometown (father's bed and breakfast)",
   "location_type": "her_hometown",
   "tropes": [
-   "returns_home"
+   "returns_home",
+   "secret_identity"
   ],
   "romance": true,
   "summary": "Back in her hometown, a woman and her family scheme to win a five-star review for her father's B&B.",
@@ -184,9 +185,9 @@
   "her_actor": "Erin Cahill",
   "his_actor": "Ryan Paevey",
   "her_job": "tour guide at a historic mansion",
-  "his_job": null,
-  "location": null,
-  "location_type": null,
+  "his_job": "inventor and businessman from 1903",
+  "location": "Carlton",
+  "location_type": "small_town",
   "tropes": [
    "time_travel_or_wish"
   ],
@@ -259,7 +260,7 @@
   "her_job": "lawyer",
   "his_job": null,
   "location": null,
-  "location_type": null,
+  "location_type": "small_town",
   "tropes": [
    "save_the_business"
   ],
@@ -275,7 +276,7 @@
   "her_actor": "Alicia Witt",
   "his_actor": "Andrew Walker",
   "her_job": "music store owner",
-  "his_job": "works for the company trying to demolish her street (role not stated)",
+  "his_job": "businessman tied to the developer (role not stated)",
   "location": null,
   "location_type": null,
   "tropes": [
@@ -291,8 +292,8 @@
   "title": "Holly & Ivy",
   "year": 2020,
   "network": "Hallmark Movies & Mysteries",
-  "her_actor": null,
-  "his_actor": null,
+  "her_actor": "Janel Parrish",
+  "his_actor": "Jeremy Jordan",
   "her_job": null,
   "his_job": "contractor",
   "location": null,
@@ -391,12 +392,14 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Amanda Schull",
   "his_actor": "Travis Van Winkle",
-  "her_job": null,
-  "his_job": null,
+  "her_job": "radio station worker who grants the town's Wish of the Season",
+  "his_job": "widowed single dad (job not stated)",
   "location": null,
   "location_type": "small_town",
   "tropes": [
-   "magic_or_santa"
+   "magic_or_santa",
+   "widowed",
+   "single_parent"
   ],
   "romance": true,
   "summary": "A town's unofficial Santa grants a little girl's wish and ends up with some wishes of her own coming true.",
@@ -500,7 +503,7 @@
   "her_job": "bakery owner",
   "his_job": "widower (job not stated)",
   "location": null,
-  "location_type": null,
+  "location_type": "small_town",
   "tropes": [
    "secret_identity",
    "single_parent",
