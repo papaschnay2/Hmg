@@ -64,7 +64,7 @@
   "her_actor": "Ashley Newbrough",
   "his_actor": "Franco Lo Presti",
   "her_job": "globe-trotting pop-up restaurateur and heir to her late grandfather's bowling alley",
-  "his_job": null,
+  "his_job": "local news reporter",
   "location": "Unnamed hometown; story centers on the Wonderlanes bowling alley",
   "location_type": "her_hometown",
   "tropes": [
@@ -248,8 +248,8 @@
   "his_actor": "Mark Ghanimé",
   "her_job": "corporate attorney",
   "his_job": "gift-shop clerk",
-  "location": null,
-  "location_type": null,
+  "location": "Chicago, Illinois",
+  "location_type": "big_city",
   "tropes": [
    "magic_or_santa",
    "time_travel_or_wish"

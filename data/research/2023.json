@@ -23,7 +23,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Lyndsy Fonseca",
   "his_actor": "Michael Rady",
-  "her_job": null,
+  "her_job": "marketing executive",
   "his_job": "town mechanic",
   "location": "unnamed small town",
   "location_type": "small_town",
@@ -250,10 +250,12 @@
   "her_actor": "Bethany Joy Lenz",
   "his_actor": "Kristoffer Polaha",
   "her_job": "screenwriter hired to script a remake of a holiday movie",
-  "his_job": null,
+  "his_job": "1940s movie star (actor)",
   "location": "Biltmore Estate, Asheville, North Carolina",
   "location_type": "other",
-  "tropes": [],
+  "tropes": [
+   "time_travel_or_wish"
+  ],
   "romance": true,
   "summary": "A writer hired to script a holiday movie remake finds herself in a romance.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2023-movies-cast-dates-schedule/",
@@ -337,7 +339,7 @@
   "her_actor": "Mishael Morgan",
   "his_actor": "Ronnie Rowe",
   "her_job": "brand ambassador",
-  "his_job": null,
+  "his_job": "photojournalist",
   "location": null,
   "location_type": "small_town",
   "tropes": [
@@ -492,7 +494,7 @@
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Erica Cerra",
   "his_actor": "Victor Webster",
-  "her_job": null,
+  "her_job": "director of the town historical society",
   "his_job": "local handyman and historian",
   "location": "New Hollow, New England",
   "location_type": "small_town",
@@ -545,7 +547,7 @@
   "her_actor": "Shenae Grimes-Beech",
   "his_actor": "Chris Carmack",
   "her_job": "church choir leader",
-  "his_job": null,
+  "his_job": "Army veteran recently returned home",
   "location": "small town",
   "location_type": "small_town",
   "tropes": [
@@ -563,7 +565,7 @@
   "her_actor": "Laura Vandervoort",
   "his_actor": "Benjamin Ayres",
   "her_job": "lawyer",
-  "his_job": null,
+  "his_job": "former rock star",
   "location": "Bethlehem, Pennsylvania",
   "location_type": "small_town",
   "tropes": [
@@ -573,7 +575,7 @@
   "romance": true,
   "summary": "A woman who adopted a baby is stranded in Bethlehem and stays with a stranger.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-movies-mysteries-miracles-of-christmas-2023-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "confidence": "low"
  },
  {
   "title": "Heaven Down Here",
@@ -600,7 +602,7 @@
   "her_actor": "Kimberley Sustad",
   "his_actor": "Mark Ghanimé",
   "her_job": "photographer",
-  "his_job": null,
+  "his_job": "Army veteran",
   "location": "unnamed small town",
   "location_type": "small_town",
   "tropes": [],

@@ -57,7 +57,7 @@
   "network": "Hallmark Channel",
   "her_actor": "Tiffani Thiessen",
   "his_actor": "Josh Hopkins",
-  "her_job": null,
+  "her_job": "newspaper reporter (local paper The Examiner)",
   "his_job": "schoolteacher (her son's teacher)",
   "location": "Northpole (Santa's city)",
   "location_type": "other",
@@ -116,7 +116,7 @@
   "her_actor": "Teri Polo",
   "his_actor": "Martin Cummins",
   "her_job": "widowed children's book author",
-  "his_job": "widower (job not stated)",
+  "his_job": "owner of a new coffee shop business",
   "location": "small town in Massachusetts",
   "location_type": "small_town",
   "tropes": [
@@ -246,7 +246,7 @@
   "year": 2014,
   "network": "Hallmark Movies & Mysteries",
   "her_actor": "Bethany Joy Lenz",
-  "his_actor": null,
+  "his_actor": "John Reardon",
   "her_job": "waitress (fired and facing eviction)",
   "his_job": null,
   "location": "Wilsonville",
@@ -365,7 +365,7 @@
   "her_actor": "Lori Loughlin",
   "his_actor": "Dermot Mulroney",
   "her_job": "businesswoman who inherited her aunt's inn",
-  "his_job": null,
+  "his_job": "small-town handyman who looks after the inn",
   "location": "her aunt's inn",
   "location_type": "inn_lodge_resort",
   "tropes": [
@@ -462,7 +462,7 @@
   "her_actor": "Candace Cameron Bure",
   "his_actor": "Paul Greene",
   "her_job": "bridal magazine writer",
-  "his_job": null,
+  "his_job": "bartender",
   "location": "Buffalo, New York (stranded after diverted flight)",
   "location_type": "other",
   "tropes": [
@@ -498,7 +498,7 @@
   "her_actor": "Eloise Mumford",
   "his_actor": "Michael Stahl-David",
   "her_job": "psychology professor",
-  "his_job": null,
+  "his_job": "coffee shop owner",
   "location": "her hometown",
   "location_type": "her_hometown",
   "tropes": [
@@ -508,7 +508,7 @@
   "romance": true,
   "summary": "A professor torn between marrying at home and a faraway job is sent three years ahead by a mysterious coachman.",
   "source_url": "https://thetvdb.com/series/hallmark-countdown-to-christmas/episodes/5858446",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "Karen Kingsbury's The Bridge (Part 1)",
@@ -518,8 +518,8 @@
   "his_actor": "Wyatt Nash",
   "her_job": "college student",
   "his_job": "college student (aspiring singer)",
-  "location": null,
-  "location_type": null,
+  "location": "Franklin, Tennessee (novel's setting)",
+  "location_type": "small_town",
   "tropes": [
    "childhood_friends"
   ],

@@ -44,8 +44,8 @@
   "his_actor": "Robert Buckley",
   "her_job": "Urgent care doctor (Dr. Hope Miller)",
   "his_job": "Weatherman (Ted Cooper)",
-  "location": null,
-  "location_type": null,
+  "location": "Corning, New York",
+  "location_type": "small_town",
   "tropes": [
    "returns_home"
   ],
@@ -381,9 +381,9 @@
   "title": "The Snow Must Go On",
   "year": 2025,
   "network": "Hallmark Channel",
-  "her_actor": null,
-  "his_actor": null,
-  "her_job": null,
+  "her_actor": "Heather Hemmens",
+  "his_actor": "Corey Cott",
+  "her_job": "school guidance counselor",
   "his_job": "Former Broadway performer directing his niece's high school Christmas musical",
   "location": "Upstate New York",
   "location_type": null,

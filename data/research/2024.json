@@ -115,7 +115,7 @@
   "her_actor": "Ginna Claire Mason",
   "his_actor": "Jordan Litz",
   "her_job": "Singing waitress at a Broadway-style restaurant",
-  "his_job": null,
+  "his_job": "singing waiter at a Broadway-style restaurant",
   "location": "New York City",
   "location_type": "big_city",
   "tropes": [],
@@ -355,7 +355,7 @@
   "her_actor": "Lacey Chabert",
   "his_actor": "Kristoffer Polaha",
   "her_job": "archaeologist",
-  "his_job": null,
+  "his_job": "Old Norse language expert",
   "location": "Iceland",
   "location_type": "europe_or_kingdom",
   "tropes": [
@@ -364,7 +364,7 @@
   "romance": true,
   "summary": "An archaeologist and her ex-husband travel to Iceland to hunt for the legendary treasure of the Yule Lads.",
   "source_url": "https://www.tvinsider.com/gallery/hallmark-channel-countdown-to-christmas-2024-movies-cast-dates-schedule/",
-  "confidence": "medium"
+  "confidence": "low"
  },
  {
   "title": "The Finnish Line",
@@ -392,8 +392,8 @@
   "his_actor": "Derek Klena",
   "her_job": "princess of Wingravia",
   "his_job": "Captain Ryan, leadership program instructor",
-  "location": null,
-  "location_type": null,
+  "location": "Colorado (leadership bootcamp)",
+  "location_type": "other",
   "tropes": [
    "royalty"
   ],
@@ -462,14 +462,14 @@
   "her_actor": "Jessica Lowndes",
   "his_actor": "Ezra Moreland",
   "her_job": "Webpage editor for the Seattle Tourism Board (Mia)",
-  "his_job": null,
+  "his_job": "dog shelter owner",
   "location": "Seattle",
   "location_type": "big_city",
   "tropes": [],
   "romance": true,
   "summary": "A Seattle tourism-board editor's holidays are upended by a stray dog and a man named Max.",
   "source_url": "https://variety.com/lists/hallmark-countdown-to-christmas-2024-movies-schedule/",
-  "confidence": "low"
+  "confidence": "medium"
  },
  {
   "title": "This Time Each Year",
