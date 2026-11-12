@@ -68,7 +68,7 @@
 
     const taglines = [
       `This Christmas, she came for business. She stayed for ${hisName}.`,
-      `Some things can't be planned. Some things are ${vars.heroPun.toLowerCase()}.`,
+      `Some things can't be planned. Like falling for ${himArticle} ${lower(him.label)}.`,
       `She had a five-year plan. ${place.town} had other ideas.`,
       `Home is where the ${vars.herPun.toLowerCase()} is.`,
       `${place.event.replace(/^the /, "The ")} will never be the same.`,
