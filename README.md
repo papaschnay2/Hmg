@@ -4,13 +4,19 @@ Spin three reels (her job, the place, his job), get a parody pitch for a cozy
 Christmas romance, then find out whether Hallmark already made it. An unofficial
 fan parody, not affiliated with Hallmark.
 
-- **Spin** builds a made-up movie, then shows the real movies that match: all three
-  details (jackpot), two of three ("so close"), or nothing yet.
+- **Spin** builds a made-up proposal: title, a two-sentence plot, a projected cast
+  (whoever has played those parts most often) and the minute-by-minute schedule.
+- **Pitch it to Hallmark** pauses, then reveals the real movies that match: all three
+  details ("They made it in 2014. And 2017."), two of three, or no record.
 - About one spin in three is quietly steered onto a real movie so jackpots happen
   (`JACKPOT_RATE` in `app.js`).
-- **Lock** a reel to keep it while you re-spin the others. **Copy link** shares the spin.
-- **Real or Fake?** shows a real title next to a generated one.
-- **By the Numbers** and **The full filmography** are built from the same movie list.
+- **Lock** a reel to keep it while you re-spin the others. **Copy link** shares the finding.
+- **Which Hallmark Movie Is Your Life?** matches your job, where you live and your
+  partner's job against the real movies.
+- **Real or Fake?** shows a real plot (or title) next to a generated one.
+- **By the Numbers** reports deadpan statistics, real occupations ("Exhibit A") and
+  the most-cast actors, all computed from the movie list.
+- The whole page is written in the voice of a made-up research institute.
 
 ## Running it
 

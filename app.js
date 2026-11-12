@@ -15,10 +15,12 @@
   const pick = (rand, list) => list[Math.floor(rand() * list.length)];
   const fill = (str, vars) => str.replace(/\{(\w+)\}/g, (_, k) => vars[k] ?? "");
   const plural = (n, one, many) => `${n} ${n === 1 ? one : many}`;
+  const newSeed = () => Math.floor(Math.random() * 1e9);
   const withArticle = (s) =>
-    /^(a|an|the|his|her|one|two|former|\S+'s)\s/i.test(s) ? s : `${/^[aeiou]/i.test(s) ? "an" : "a"} ${s}`;
+    /^(a|an|the|his|her|one|two|\S+'s)\s/i.test(s) ? s : `${/^[aeiou]/i.test(s) ? "an" : "a"} ${s}`;
+  const noParens = (s) => s.replace(/\s*\([^)]*\)/g, "");
   // "Hotel executive" -> "hotel executive", but leave "New York planner" and "TV host" alone
-  const lowerFirst = (raw, s = raw.replace(/\s*\([^)]*\)/g, "")) =>
+  const lowerFirst = (raw, s = noParens(raw)) =>
     /^[A-Z][a-z'-]+(\s[a-z(]|,|$)/.test(s) && !/^(Hollywood|Chicago|Seattle|Montana|Connecticut|Broadway|Army|Navy|Santa)\b/.test(s)
       ? s[0].toLowerCase() + s.slice(1) : s;
   const el = (tag, cls, text) => {
@@ -29,6 +31,9 @@
   };
   const $ = (id) => document.getElementById(id);
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const scrollTo = (node) => node.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "start" });
+  const top = (counts, n) => Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, n);
+  const tally = (list) => list.reduce((acc, x) => ((acc[x] = (acc[x] || 0) + 1), acc), {});
 
   // ---------- index the real movies ----------
   const indexOf = {};
@@ -45,31 +50,38 @@
   });
   const complete = MOVIES.filter((m) => KEYS.every((k) => m.idx[k] >= 0));
   const realTitles = new Set(MOVIES.map((m) => m.t.toLowerCase()));
+  const byTitle = new Map(MOVIES.map((m) => [m.t, m]));
 
-  function findMatches(state) {
+  // Who has played each kind of part most often.
+  const actorKey = { her: "ha", him: "ia" };
+  const overallTop = {}, bucketTop = {};
+  ["her", "him"].forEach((k) => {
+    const names = MOVIES.map((m) => m[actorKey[k]]).filter(Boolean);
+    overallTop[k] = top(tally(names), 1)[0];
+    bucketTop[k] = REELS[k].map((_, i) =>
+      top(tally(MOVIES.filter((m) => m.idx[k] === i && m[actorKey[k]]).map((m) => m[actorKey[k]])), 1)[0]);
+  });
+
+  function findMatches(state, keys = KEYS) {
     const tiers = { 3: [], 2: [], 1: [] };
     MOVIES.forEach((m) => {
-      const hits = KEYS.filter((k) => m.idx[k] === state[k]);
+      const hits = keys.filter((k) => m.idx[k] === state[k]);
       if (hits.length) tiers[hits.length].push({ m, hits });
     });
     return tiers;
   }
 
-  // ---------- the parody pitch ----------
+  // ---------- the parody proposal ----------
   function buildPitch(state) {
     const her = HER[state.her], place = PLACE[state.place], him = HIM[state.him];
     const rand = mulberry32(state.seed);
-    const herName = pick(rand, HEROINE_NAMES), hisName = pick(rand, HERO_NAMES);
     const spot = pick(rand, place.spots);
     const vars = {
-      town: spot.n.replace(/^the /, ""),
-      landmark: pick(rand, LANDMARKS),
-      event: pick(rand, EVENTS),
-      herPun: pick(rand, her.puns),
-      heroPun: pick(rand, him.puns),
-      hero: hisName,
-      secret: him.secret,
-      rival: pick(rand, RIVALS),
+      her: pick(rand, HEROINE_NAMES), him: pick(rand, HERO_NAMES),
+      herA: her.a, himA: him.a, goal: her.goal, trait: him.trait, secret: him.secret,
+      at: spot.at, town: spot.n.replace(/^the /, ""),
+      event: pick(rand, EVENTS), inherits: pick(rand, INHERITS), inciting: pick(rand, INCITING),
+      rival: pick(rand, RIVALS), herPun: pick(rand, her.puns), heroPun: pick(rand, him.puns),
     };
     let title;
     for (let i = 0; i < 20; i++) {
@@ -77,20 +89,22 @@
       const clash = vars.herPun === vars.heroPun && title.split(vars.herPun).length > 2;
       if (!clash && !realTitles.has(title.toLowerCase())) break;
     }
-    const synopsis =
-      `${herName} is ${her.a} who ${her.goal}. But when ${pick(rand, INCITING)}, she finds herself ` +
-      `${spot.at}, with nothing but ${her.thing}. There she meets ${hisName}, ${him.a} who ${him.trait}. ` +
-      `They clash. They bake. They are somehow put in charge of ${vars.event}. ` +
-      `And just when everything seems lost, ${fill(pick(rand, CLIMAXES), vars)}.`;
     const taglines = [
-      `This Christmas, she came for business. She stayed for ${hisName}.`,
+      `This Christmas, she came for business. She stayed for ${vars.him}.`,
       `Some things can't be planned. Like falling for ${him.a}.`,
-      `She had a five-year plan. ${hisName} had a truck.`,
+      `She had a five-year plan. ${vars.him} had a truck.`,
       `Home is where the ${vars.herPun.toLowerCase()} is.`,
-      `${vars.event.replace(/^the /, "The ")} will never be the same.`,
       `Love is the best gift of all. (So is ${her.thing}.)`,
     ];
-    return { title, tagline: pick(rand, taglines), synopsis };
+    const cast = ["her", "him"].map((k) => bucketTop[k][state[k]] || overallTop[k]).filter(Boolean);
+    return {
+      title,
+      number: 1000 + (state.seed % 9000),
+      tagline: pick(rand, taglines),
+      synopsis: fill(pick(rand, PLOTS), vars),
+      cast,
+      beats: BEATS.map((b) => ({ min: b.min, text: fill(pick(rand, b.lines), vars) })),
+    };
   }
 
   // ---------- rendering real movies ----------
@@ -116,12 +130,22 @@
   }
 
   function diffNote(m, missing) {
-    if (m.idx[missing] < 0) return "Two for two. We couldn't confirm the third detail, so this may secretly be a jackpot.";
+    if (m.idx[missing] < 0) return "Two for two. We could not confirm the third detail, so this may secretly be a jackpot.";
     return {
       her: `Same movie, except she's ${withArticle(lowerFirst(m.hj))}.`,
-      place: `Same movie, except it happens here: ${m.loc}.`,
+      place: m.loc ? `Same movie, except it happens here: ${noParens(m.loc)}.` : `Same movie, different setting.`,
       him: `Same movie, except he's ${withArticle(lowerFirst(m.ij))}.`,
     }[missing];
+  }
+
+  // "They made it in 2014. And 2017. And 2021."
+  function yearsLine(movies) {
+    const years = [...new Set(movies.map((m) => m.y))].sort();
+    const shown = years.slice(0, 4);
+    let line = `They made it in ${shown[0]}.` + shown.slice(1).map((y) => ` And ${y}.`).join("");
+    if (years.length > shown.length) line += ` And ${years.length - shown.length} more times after that.`;
+    else if (movies.length > years.length) line += " Some years, twice.";
+    return line;
   }
 
   function renderVerdict(state, pitch) {
@@ -136,25 +160,25 @@
       level = 3;
       const n = tiers[3].length;
       shown = shuffle(tiers[3]).slice(0, 4);
-      head.textContent = n === 1 ? "Jackpot. This is a real movie." : `Jackpot. Hallmark has made this movie ${n} times.`;
+      head.textContent = yearsLine(tiers[3].map((x) => x.m));
       sub.textContent = n === 1
-        ? `You called it “${pitch.title}.” They called it “${shown[0].m.t}.”`
-        : `You called it “${pitch.title}.” They called it, among other things:`;
+        ? `You called it “${pitch.title}.” They called it “${shown[0].m.t}.” The Institute regrets to inform you that your idea is taken.`
+        : `You called it “${pitch.title}.” Hallmark has made this movie ${n} times, under the following names:`;
       shown.forEach(({ m }) => list.append(movieCard(m)));
-      if (n > shown.length) list.append(el("li", "more", `…and ${n - shown.length} more. Spin again to meet them.`));
+      if (n > shown.length) list.append(el("li", "more", `…and ${n - shown.length} more. Pitch it again to meet them.`));
     } else if (tiers[2].length) {
       level = 2;
       const n = tiers[2].length;
       shown = shuffle(tiers[2]).slice(0, 3);
-      head.textContent = "So close.";
-      sub.textContent = `No exact match, but ${plural(n, "real movie is", "real movies are")} one detail away from “${pitch.title}.”`;
+      head.textContent = "Not yet. But close.";
+      sub.textContent = `“${pitch.title}” has not been made. ${plural(n, "existing film is", "existing films are")} one detail away from it.`;
       shown.forEach(({ m, hits }) => list.append(movieCard(m, diffNote(m, KEYS.find((k) => !hits.includes(k))))));
     } else {
       level = tiers[1].length ? 1 : 0;
       shown = shuffle(tiers[1]).slice(0, 2);
-      head.textContent = "Somehow, this one doesn't exist yet.";
-      sub.textContent = `“${pitch.title}” is all yours. Hallmark, our inbox is open.` +
-        (shown.length ? " The closest they've come:" : "");
+      head.textContent = "No record of this film.";
+      sub.textContent = `The Institute considers “${pitch.title}” available. Hallmark, our inbox is open.` +
+        (shown.length ? " The nearest known relatives:" : "");
       shown.forEach(({ m }) => list.append(movieCard(m)));
     }
     meter.innerHTML = "";
@@ -209,10 +233,11 @@
   }
 
   let state = null;
+  let pitchTimers = [];
   const isLocked = (k) => !!state && reelEls[k].el.classList.contains("locked");
 
   function chooseNext() {
-    const next = { seed: Math.floor(Math.random() * 1e9) };
+    const next = { seed: newSeed() };
     // Sometimes steer onto a real movie (respecting locked reels) so jackpots actually happen.
     if (Math.random() < JACKPOT_RATE) {
       const pool = complete.filter((m) => KEYS.every((k) => !isLocked(k) || m.idx[k] === state[k]));
@@ -226,19 +251,33 @@
     return next;
   }
 
-  function render(s) {
+  // Show the proposal. The verdict stays hidden until it is pitched, unless `revealed`.
+  function show(s, revealed) {
+    state = s;
+    pitchTimers.forEach(clearTimeout);
+    pitchTimers = [];
     const pitch = buildPitch(s);
+    $("proposal-no").textContent = `Proposal no. ${pitch.number}`;
     $("title").textContent = pitch.title;
     $("tagline").textContent = pitch.tagline;
     $("synopsis").textContent = pitch.synopsis;
+    $("cast").textContent = pitch.cast.length === 2
+      ? `Projected cast, based on who has played these parts most often: ${pitch.cast[0][0]} and ${pitch.cast[1][0]}.`
+      : "";
+    const beats = $("beats");
+    beats.innerHTML = "";
+    pitch.beats.forEach((b) => {
+      const li = el("li");
+      li.append(el("span", "beat-min", `Minute ${b.min}`), el("span", "beat-text", b.text));
+      beats.append(li);
+    });
     renderVerdict(s, pitch);
+    $("verdict").hidden = !revealed;
+    $("pitch").hidden = !!revealed;
+    $("pitch").disabled = false;
+    $("pitch-status").innerHTML = "&nbsp;";
     $("result").hidden = false;
-  }
-  function show(s) {
-    state = s;
-    render(s);
     history.replaceState(null, "", "#" + encodeState(s));
-    $("result").scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "start" });
     spinBtn.textContent = "Spin Again ✨";
   }
 
@@ -247,8 +286,25 @@
     spinBtn.disabled = true;
     const next = chooseNext();
     await Promise.all(KEYS.filter((k) => !isLocked(k)).map((k, i) => animateReel(k, next[k], 1200 + i * 550)));
-    show(next);
+    show(next, false);
+    scrollTo($("result"));
     spinBtn.disabled = false;
+  });
+
+  // The pause before the verdict is the joke. Do not shorten it.
+  $("pitch").addEventListener("click", () => {
+    const btn = $("pitch"), status = $("pitch-status");
+    const reveal = () => {
+      btn.hidden = true;
+      status.innerHTML = "&nbsp;";
+      $("verdict").hidden = false;
+      scrollTo($("verdict"));
+    };
+    if (reduceMotion) return reveal();
+    btn.disabled = true;
+    const lines = ["Calling the network…", "They are checking the vault…", "Someone is laughing…"];
+    lines.forEach((line, i) => pitchTimers.push(setTimeout(() => (status.textContent = line), i * 750)));
+    pitchTimers.push(setTimeout(reveal, lines.length * 750));
   });
 
   // ---------- share links: #herId-placeId-himId-seed ----------
@@ -263,11 +319,90 @@
     const btn = $("share");
     try {
       await navigator.clipboard.writeText(location.href);
-      btn.textContent = "Copied! Send it to your mom 💌";
+      btn.textContent = "Copied. Send it to your mom 💌";
     } catch {
       btn.textContent = "Couldn't copy. Use your browser's share button instead.";
     }
-    setTimeout(() => (btn.textContent = "Copy link to this spin"), 2500);
+    setTimeout(() => (btn.textContent = "Copy link to this finding"), 2500);
+  });
+
+  // ---------- Which Hallmark movie is your life? ----------
+  const option = (value, label) => { const o = el("option", null, label); o.value = value; return o; };
+  LIFE_JOBS.forEach((j, i) => {
+    $("life-job").append(option(i, j.label));
+    $("life-partner").append(option(i, j.label));
+  });
+  $("life-partner").append(option("none", "No partner at the moment"));
+  PLACE.forEach((p, i) => $("life-place").append(option(i, p.life)));
+  $("life-place").value = String(indexOf.place.city);
+
+  $("life-form").addEventListener("submit", (e) => {
+    e.preventDefault();
+    const me = LIFE_JOBS[$("life-job").value];
+    const partnerValue = $("life-partner").value;
+    const partner = partnerValue === "none" ? null : LIFE_JOBS[partnerValue];
+    const place = Number($("life-place").value);
+    // Try the user as the heroine and as the hero; keep whichever fits a real movie better.
+    const tries = [
+      { mine: "her", s: { her: indexOf.her[me.her], place, him: partner ? indexOf.him[partner.him] : -2 } },
+      { mine: "him", s: { him: indexOf.him[me.him], place, her: partner ? indexOf.her[partner.her] : -2 } },
+    ].map((t) => ({ ...t, tiers: findMatches(t.s) }));
+    const level = (t) => (t.tiers[3].length ? 3 : t.tiers[2].length ? 2 : t.tiers[1].length ? 1 : 0);
+    const best = tries.sort((a, b) => level(b) - level(a) || b.tiers[2].length - a.tiers[2].length)[0];
+    const lvl = level(best);
+    const head = $("life-head"), sub = $("life-sub"), list = $("life-matches");
+    list.innerHTML = "";
+    const theirs = best.mine === "her" ? "him" : "her";
+    const lifeNote = (m, hits) => {
+      if (hits.length === 3) return null;
+      const missing = KEYS.filter((k) => !hits.includes(k));
+      if (missing.length > 1) return null;
+      const k = missing[0];
+      if (m.idx[k] < 0) return "A match on everything we could confirm.";
+      const job = k === "her" ? m.hj : m.ij;
+      if (k === "place") return m.loc ? `You would need to move here: ${noParens(m.loc)}.` : "You would need to move.";
+      if (k === best.mine) return `You would need to become ${withArticle(lowerFirst(job))}.`;
+      return partner
+        ? `Your partner would need to become ${withArticle(lowerFirst(job))}.`
+        : `Still to arrive: ${withArticle(lowerFirst(job))}.`;
+    };
+    const showCards = (items, n) => items.slice(0, n).forEach(({ m, hits }) => list.append(movieCard(m, lifeNote(m, hits))));
+
+    if (lvl === 3) {
+      const m = best.tiers[3][0].m;
+      head.textContent = "Your life is a real Hallmark movie.";
+      sub.textContent = `It aired in ${m.y} under the title “${m.t}.” You were not consulted.`;
+      showCards(best.tiers[3], 3);
+    } else if (lvl === 2 && !partner) {
+      head.textContent = "You are living the first eight minutes of a real Hallmark movie.";
+      sub.textContent = "Everything matches so far. According to our files, he arrives in minute nine.";
+      showCards(best.tiers[2], 3);
+    } else if (lvl === 2) {
+      // Films whose third detail we could not confirm go first: they may be exact matches.
+      const missingOf = (x) => KEYS.find((k) => !x.hits.includes(k));
+      const items = best.tiers[2].slice().sort((a, b) => (a.m.idx[missingOf(a)] < 0 ? 0 : 1) - (b.m.idx[missingOf(b)] < 0 ? 0 : 1));
+      const missing = missingOf(items[0]);
+      if (items[0].m.idx[missing] < 0) {
+        head.textContent = "Your life may already be a Hallmark movie.";
+        sub.textContent = "Two of your three answers match, and we could not confirm the third. The Institute is looking into it.";
+      } else {
+        head.textContent = missing === "place"
+          ? "You are one move away from a real Hallmark movie."
+          : missing === theirs
+            ? "Your partner is one career change away from a real Hallmark movie."
+            : "You are one career change away from a real Hallmark movie.";
+        sub.textContent = `${plural(items.length, "film matches", "films match")} two of your three answers.`;
+      }
+      showCards(items, 3);
+    } else if (lvl === 1) {
+      head.textContent = "You are two life decisions away from a real Hallmark movie.";
+      sub.textContent = "The Institute suggests starting with whichever is cheaper.";
+      showCards(best.tiers[1], 2);
+    } else {
+      head.textContent = "Your life has not been filmed.";
+      sub.textContent = "The Institute recommends moving to a small town and waiting.";
+    }
+    $("life-result").hidden = false;
   });
 
   // ---------- Real or Fake? ----------
@@ -280,22 +415,29 @@
     }
     return "A Very Algorithmic Christmas";
   }
-  const game = { real: null, fake: null, done: false, streak: 0, best: 0 };
+  const fakePlot = () =>
+    `${pick(Math.random, FAKE_PLOT_HER)} ${fill(pick(Math.random, FAKE_PLOT_GOES), { biz: pick(Math.random, FAKE_PLOT_BIZ) })} ${pick(Math.random, FAKE_PLOT_HIM)}.`;
+  const withPlots = MOVIES.filter((m) => m.s);
+  const game = { mode: "plots", real: null, fake: null, done: false, streak: 0, best: 0 };
   try { game.best = Number(localStorage.getItem("hmg-best")) || 0; } catch {}
   const choiceEls = [$("choice-a"), $("choice-b")];
 
   function newRound() {
-    game.real = MOVIES[Math.floor(Math.random() * MOVIES.length)];
-    game.fake = fakeTitle();
+    const plots = game.mode === "plots";
+    game.real = pick(Math.random, plots ? withPlots : MOVIES);
+    game.fake = plots ? fakePlot() : fakeTitle();
     game.done = false;
     const realFirst = Math.random() < 0.5;
     choiceEls.forEach((b, i) => {
       const isReal = (i === 0) === realFirst;
-      b.textContent = isReal ? game.real.t : game.fake;
+      b.textContent = isReal ? (plots ? game.real.s : game.real.t) : game.fake;
       b.dataset.real = String(isReal);
-      b.className = "choice";
+      b.className = plots ? "choice plot" : "choice";
       b.disabled = false;
     });
+    $("game-sub").textContent = plots
+      ? "One of these is the plot of a real Hallmark Christmas movie. We wrote the other one thirty seconds ago."
+      : "One of these is the title of a real Hallmark Christmas movie. We made the other one up thirty seconds ago.";
     $("game-msg").innerHTML = "&nbsp;";
     $("game-next").hidden = true;
     $("best").textContent = game.best;
@@ -307,8 +449,10 @@
     choiceEls.forEach((c) => { c.disabled = true; c.classList.add(c.dataset.real === "true" ? "is-real" : "is-fake"); });
     const m = game.real;
     const stars = [m.ha, m.ia].filter(Boolean).join(" and ");
-    $("game-msg").textContent = (right ? "Correct! " : "Nope. ") +
-      `“${m.t}” is real (${m.y}${stars ? `, with ${stars}` : ""}). “${game.fake}” is ours. For now.`;
+    const credit = `“${m.t}” (${m.y}${stars ? `, with ${stars}` : ""})`;
+    $("game-msg").textContent = (right ? "Correct. " : "Incorrect. ") + (game.mode === "plots"
+      ? `The real one is ${credit}. The other one is ours. For now.`
+      : `${credit} is real. “${game.fake}” is ours. For now.`);
     game.streak = right ? game.streak + 1 : 0;
     if (game.streak > game.best) {
       game.best = game.streak;
@@ -319,8 +463,15 @@
     $("game-next").hidden = false;
   }));
   $("game-next").addEventListener("click", newRound);
+  [["plots", $("mode-plots")], ["titles", $("mode-titles")]].forEach(([mode, btn]) =>
+    btn.addEventListener("click", () => {
+      game.mode = mode;
+      $("mode-plots").setAttribute("aria-pressed", String(mode === "plots"));
+      $("mode-titles").setAttribute("aria-pressed", String(mode === "titles"));
+      newRound();
+    }));
 
-  // ---------- stats ----------
+  // ---------- findings ----------
   function bars(target, rows) {
     const max = Math.max(...rows.map((r) => r[1]), 1);
     rows.forEach(([label, n]) => {
@@ -331,44 +482,94 @@
       target.append(li);
     });
   }
+
+  function renderFacts() {
+    const N = MOVIES.length;
+    const facts = [];
+    const stop = new Set("a the of for in to at and on my with me you our it is all".split(" "));
+    const words = tally(MOVIES.flatMap((m) => [...new Set(m.t.toLowerCase().match(/[a-z']+/g) || [])].filter((w) => !stop.has(w))));
+    const ranked = top(words, 4);
+    const cap = (w) => w[0].toUpperCase() + w.slice(1);
+    if (ranked.length > 3 && ranked[0][0] === "christmas") {
+      facts.push(`${ranked[0][1]} of ${N} titles contain the word “Christmas.” The runner-up is “${cap(ranked[1][0])},” with ${ranked[1][1]}.`);
+      facts.push(`Assembled from the most common title words, the statistically average film is called “A ${cap(ranked[1][0])} ${cap(ranked[2][0])} Christmas.” It has not been made. We checked.`);
+    }
+    const inAt = MOVIES.filter((m) => /^(a )?christmas (in|at) /i.test(m.t)).length;
+    if (inAt) facts.push(`${inAt} titles are simply “Christmas in” or “Christmas at” followed by a place.`);
+
+    const combos = new Set(complete.map((m) => KEYS.map((k) => m.idx[k]).join(",")));
+    const total = HER.length * PLACE.length * HIM.length;
+    const years = complete.map((m) => m.y);
+    const span = Math.max(...years) - Math.min(...years) + 1;
+    const doneBy = Math.max(...years) + Math.ceil((total - combos.size) / (combos.size / span));
+    facts.push(`The films we have fully documented cover ${combos.size} of the ${total.toLocaleString()} possible combinations of heroine, setting and love interest. At the current rate, the set will be complete in the year ${doneBy}.`);
+
+    const pronouns = MOVIES.map((m) => (m.t.match(/^Time for (\w+) to Come Home for Christmas$/) || [])[1]).filter(Boolean);
+    if (pronouns.length > 2) {
+      facts.push(`One series is titled “Time for ___ to Come Home for Christmas.” Pronouns used so far, per our files: ${pronouns.join(", ")}. Awaiting: It, Y'all, Thou.`);
+    }
+    const dads = tallies.him[indexOf.him.dad];
+    if (dads) facts.push(`In ${dads} films, the only occupation we could confirm for the male lead is “father.”`);
+    const noJob = MOVIES.filter((m) => m.idx.her >= 0 && m.idx.him < 0).length;
+    if (noJob) facts.push(`In ${noJob} films we could confirm what she does for a living but not what he does. The synopses do not appear to think it matters.`);
+    facts.forEach((f) => $("facts").append(el("li", null, f)));
+  }
+
   function renderStats() {
     const years = MOVIES.map((m) => m.y);
     const span = `${Math.min(...years)}–${Math.max(...years)}`;
     $("count").textContent = `${MOVIES.length} real Hallmark Christmas movies on file, ${span}`;
     $("stats-sub").textContent =
-      `${MOVIES.length} real movies, ${span}. Full details are confirmed for ${complete.length} so far; the rest are still being researched.`;
+      `Methodology: we read the synopses of ${MOVIES.length} real movies (${span}). We are fine. Full details are confirmed for ${complete.length} so far.`;
+    renderFacts();
     KEYS.forEach((k) => {
       const rows = REELS[k].map((b, i) => [b.label, tallies[k][i]]).sort((a, b) => b[1] - a[1]).slice(0, 6);
       bars($(`stat-${k}`), rows);
     });
-    const counts = {};
-    MOVIES.forEach((m) => (m.tr || []).forEach((t) => (counts[t] = (counts[t] || 0) + 1)));
-    bars($("stat-tropes"), Object.entries(counts).filter(([t]) => TROPE_LABELS[t])
-      .map(([t, n]) => [TROPE_LABELS[t], n]).sort((a, b) => b[1] - a[1]).slice(0, 6));
+    bars($("stat-tropes"), top(tally(MOVIES.flatMap((m) => m.tr || []).filter((t) => TROPE_LABELS[t])), 6)
+      .map(([t, n]) => [TROPE_LABELS[t], n]));
+    bars($("stat-actress"), top(tally(MOVIES.map((m) => m.ha).filter(Boolean)), 6));
+    bars($("stat-actor"), top(tally(MOVIES.map((m) => m.ia).filter(Boolean)), 6));
 
     const combos = {};
     complete.filter((m) => KEYS.every((k) => m[k] !== "other")).forEach((m) => {
       const key = KEYS.map((k) => m.idx[k]).join(",");
       (combos[key] = combos[key] || []).push(m);
     });
-    const top = Object.entries(combos).sort((a, b) => b[1].length - a[1].length)[0];
-    if (top && top[1].length > 1) {
-      const [h, p, i] = top[0].split(",").map(Number);
+    const best = Object.entries(combos).sort((a, b) => b[1].length - a[1].length)[0];
+    if (best && best[1].length > 1) {
+      const [h, p, i] = best[0].split(",").map(Number);
       const line = $("stat-combo");
       line.append(
         el("b", null, "The most Hallmark movie of all: "),
-        `${HER[h].label} + ${PLACE[p].label} + ${HIM[i].label}. They have made it ${top[1].length} times. `
+        `${HER[h].label} + ${PLACE[p].label} + ${HIM[i].label}. They have made it ${best[1].length} times. `
       );
       const btn = el("button", "ghost small", "Show me");
       btn.type = "button";
       btn.addEventListener("click", () => {
-        const s = { her: h, place: p, him: i, seed: Math.floor(Math.random() * 1e9) };
+        const s = { her: h, place: p, him: i, seed: newSeed() };
         KEYS.forEach((k) => showFinal(k, s[k]));
-        show(s);
+        show(s, true);
+        scrollTo($("result"));
       });
       line.append(btn);
     }
   }
+
+  // Exhibit A: real jobs.
+  const exhibits = HALL_OF_FAME.map(([title, who]) => {
+    const m = byTitle.get(title);
+    const job = m && (who === "her" ? m.hj : m.ij);
+    return job ? { job: noParens(job), m, who } : null;
+  }).filter(Boolean);
+  let exhibitAt = Math.floor(Math.random() * Math.max(exhibits.length, 1));
+  function showExhibit() {
+    if (!exhibits.length) return;
+    const x = exhibits[exhibitAt % exhibits.length];
+    $("exhibit-job").textContent = `“${x.job}”`;
+    $("exhibit-src").textContent = `${x.who === "her" ? "Her" : "His"} job in ${x.m.t} (${x.m.y})`;
+  }
+  $("exhibit-next").addEventListener("click", () => { exhibitAt++; showExhibit(); });
 
   // ---------- browse everything ----------
   const sorted = MOVIES.slice().sort((a, b) => b.y - a.y || a.t.localeCompare(b.t));
@@ -411,13 +612,12 @@
 
   // ---------- go ----------
   renderStats();
+  showExhibit();
   renderBrowse();
   newRound();
   const shared = decodeState(location.hash);
   if (shared) {
-    state = shared;
-    KEYS.forEach((k) => showFinal(k, state[k]));
-    render(state);
-    spinBtn.textContent = "Spin Again ✨";
+    KEYS.forEach((k) => showFinal(k, shared[k]));
+    show(shared, true); // a shared link shows the punchline straight away
   }
 })();

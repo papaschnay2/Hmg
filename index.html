@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>The Unofficial Hallmark Movie Generator</title>
-  <meta name="description" content="Spin up a cozy holiday romance, then find out Hallmark already made it. An unofficial fan parody built on real movies.">
+  <meta name="description" content="Propose a cozy Christmas romance, then find out Hallmark already made it. An unofficial fan parody built on real movies.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,800;1,600&family=Lato:wght@400;700&display=swap" rel="stylesheet">
@@ -15,9 +15,9 @@
 
   <header class="masthead">
     <ul class="lights" aria-hidden="true"></ul>
-    <p class="eyebrow">An unofficial fan parody</p>
+    <p class="eyebrow">The Institute for Yuletide Narrative Studies · an unofficial fan parody</p>
     <h1>The Hallmark Movie Generator</h1>
-    <p class="sub">Invent a cozy Christmas romance. Then find out they already made it.</p>
+    <p class="sub">Propose a cozy Christmas romance. We will check whether it already exists.</p>
     <p class="count" id="count"></p>
   </header>
 
@@ -47,28 +47,53 @@
     </section>
 
     <div id="result" hidden>
-      <section class="poster" aria-live="polite">
-        <p class="presents">Your pitch</p>
+      <section class="poster">
+        <p class="presents" id="proposal-no">Your proposal</p>
         <h2 id="title" class="title"></h2>
         <p id="tagline" class="tagline"></p>
         <p id="synopsis" class="synopsis"></p>
+        <p id="cast" class="cast"></p>
+        <ol id="beats" class="beats" aria-label="Projected schedule"></ol>
+        <button id="pitch" class="spin pitch" type="button">Pitch it to Hallmark</button>
+        <p id="pitch-status" class="pitch-status" aria-live="polite">&nbsp;</p>
       </section>
 
-      <section id="verdict" class="verdict" aria-live="polite">
-        <p class="presents">Meanwhile, at Hallmark</p>
+      <section id="verdict" class="verdict" aria-live="polite" hidden>
+        <p class="presents">The Institute's finding</p>
         <div id="meter" class="meter" role="img"></div>
         <h2 id="verdict-head"></h2>
         <p id="verdict-sub" class="verdict-sub"></p>
         <ul id="matches" class="movies"></ul>
-        <button id="share" class="ghost" type="button">Copy link to this spin</button>
+        <button id="share" class="ghost" type="button">Copy link to this finding</button>
       </section>
     </div>
 
+    <section class="panel life" aria-labelledby="life-h">
+      <p class="presents">Field study</p>
+      <h2 id="life-h">Which Hallmark Movie Is Your Life?</h2>
+      <p class="panel-sub">Three questions. Answer honestly. The Institute does not judge; it only matches.</p>
+      <form id="life-form" class="life-form">
+        <label for="life-job">I work in…<select id="life-job"></select></label>
+        <label for="life-place">I live…<select id="life-place"></select></label>
+        <label for="life-partner">My partner works in…<select id="life-partner"></select></label>
+        <button class="ghost" type="submit">Find my movie</button>
+      </form>
+      <div id="life-result" class="life-result" aria-live="polite" hidden>
+        <h3 id="life-head"></h3>
+        <p id="life-sub" class="panel-sub"></p>
+        <ul id="life-matches" class="movies"></ul>
+      </div>
+    </section>
+
     <section class="panel game" aria-labelledby="game-h">
-      <p class="presents">Bonus round</p>
+      <p class="presents">Peer review</p>
       <h2 id="game-h">Real or Fake?</h2>
-      <p class="panel-sub">One of these is a real Hallmark Christmas movie. The other one we made up thirty seconds ago.</p>
-      <div class="game-choices">
+      <div class="tabs" role="group" aria-label="What to compare">
+        <button type="button" id="mode-plots" class="tab" aria-pressed="true">Plots</button>
+        <button type="button" id="mode-titles" class="tab" aria-pressed="false">Titles</button>
+      </div>
+      <p class="panel-sub" id="game-sub"></p>
+      <div class="game-choices" id="game-choices">
         <button type="button" class="choice" id="choice-a"></button>
         <span class="or">or</span>
         <button type="button" class="choice" id="choice-b"></button>
@@ -79,14 +104,26 @@
     </section>
 
     <section class="panel stats" aria-labelledby="stats-h">
-      <p class="presents">The research</p>
+      <p class="presents">Findings to date</p>
       <h2 id="stats-h">By the Numbers</h2>
       <p class="panel-sub" id="stats-sub"></p>
+
+      <ul id="facts" class="facts-list"></ul>
+
+      <div class="exhibit">
+        <p class="presents">Exhibit A · actual occupations from actual movies</p>
+        <p id="exhibit-job" class="exhibit-job"></p>
+        <p id="exhibit-src" class="exhibit-src"></p>
+        <button id="exhibit-next" class="ghost small" type="button">Next exhibit</button>
+      </div>
+
       <div class="stat-grid">
         <div><h3>She is…</h3><ol id="stat-her" class="bars"></ol></div>
         <div><h3>It happens…</h3><ol id="stat-place" class="bars"></ol></div>
         <div><h3>He is…</h3><ol id="stat-him" class="bars"></ol></div>
         <div><h3>And also…</h3><ol id="stat-tropes" class="bars"></ol></div>
+        <div><h3>She is played by…</h3><ol id="stat-actress" class="bars"></ol></div>
+        <div><h3>He is played by…</h3><ol id="stat-actor" class="bars"></ol></div>
       </div>
       <p id="stat-combo" class="combo"></p>
     </section>
@@ -102,7 +139,7 @@
   </main>
 
   <footer>
-    <p>An unofficial fan-made parody, not affiliated with or endorsed by Hallmark. Movie facts come from publicly available synopses and may contain mistakes; the pitches are entirely our fault.</p>
+    <p>The Institute for Yuletide Narrative Studies is not real. This is an unofficial fan-made parody, not affiliated with or endorsed by Hallmark. Movie facts come from publicly available synopses and may contain mistakes; the proposals are entirely our fault. No screenwriters were consulted.</p>
   </footer>
 
   <script src="buckets.js"></script>

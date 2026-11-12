@@ -22,48 +22,48 @@ const HER = [
 ];
 
 const PLACE = [
-  { id: "hometown", label: "Back in Her Hometown", spots: [
-    { n: "Evergreen Falls", at: "back in Evergreen Falls, the hometown she swore she'd never return to" },
-    { n: "Holly Ridge", at: "back in Holly Ridge, where her childhood bedroom has not been touched" },
-    { n: "Hartwell Springs", at: "home in Hartwell Springs, where everyone still calls her by her high school nickname" },
+  { id: "hometown", label: "Back in Her Hometown", life: "In the town I grew up in", spots: [
+    { n: "Evergreen Falls", at: "in Evergreen Falls, the hometown she swore she'd never return to" },
+    { n: "Holly Ridge", at: "in Holly Ridge, where her childhood bedroom has not been touched" },
+    { n: "Hartwell Springs", at: "in Hartwell Springs, where everyone still uses her high school nickname" },
   ] },
-  { id: "smalltown", label: "Stuck in a Small Town", spots: [
-    { n: "Snowfall", at: "stranded in Snowfall, a town with one stoplight and nine festivals" },
-    { n: "Mistletoe Junction", at: "stuck in Mistletoe Junction, where the only mechanic is on vacation until the 26th" },
-    { n: "Peppermint Hollow", at: "in Peppermint Hollow, a town that takes Christmas extremely personally" },
+  { id: "smalltown", label: "Stuck in a Small Town", life: "In a small town", spots: [
+    { n: "Snowfall", at: "in Snowfall, a town with one stoplight and nine festivals" },
+    { n: "Mistletoe Junction", at: "in Mistletoe Junction, where the only mechanic is on vacation until the 26th" },
+    { n: "Peppermint Hollow", at: "in Peppermint Hollow, a town that takes Christmas personally" },
   ] },
-  { id: "city", label: "In the Big City", spots: [
-    { n: "Manhattan", at: "in a Manhattan where it is always snowing gently and parking is easy" },
-    { n: "Chicago", at: "in Chicago, in an apartment no one with her job could afford" },
+  { id: "city", label: "In the Big City", life: "In a big city", spots: [
+    { n: "Manhattan", at: "in a Manhattan where it snows gently and parking is easy" },
+    { n: "Chicago", at: "in Chicago, in an apartment nobody with her job could afford" },
     { n: "Seattle", at: "in Seattle, which is played by Vancouver" },
   ] },
-  { id: "kingdom", label: "In a Tiny European Kingdom", spots: [
-    { n: "Belmoravia", at: "in the kingdom of Belmoravia, a country roughly the size of a mall" },
+  { id: "kingdom", label: "In a Tiny European Kingdom", life: "In a tiny kingdom, technically", spots: [
+    { n: "Belmoravia", at: "in Belmoravia, a kingdom roughly the size of a mall" },
     { n: "Galdovia", at: "in Galdovia, where everyone has a different British accent" },
-    { n: "Valdoria", at: "in Valdoria, whose entire economy appears to be Christmas balls" },
+    { n: "Valdoria", at: "in Valdoria, whose economy appears to be Christmas balls" },
   ] },
-  { id: "europe", label: "Abroad, Somewhere With Castles", spots: [
-    { n: "Scotland", at: "in Scotland, staring at a castle she may have inherited" },
+  { id: "europe", label: "Abroad, Somewhere With Castles", life: "Abroad, somewhere with castles", spots: [
+    { n: "Scotland", at: "in Scotland, outside a castle she may have inherited" },
     { n: "Vienna", at: "in Vienna, which she mispronounces for the entire first act" },
-    { n: "Ireland", at: "in a village in Ireland where everyone knew her grandmother" },
+    { n: "Ireland", at: "in an Irish village where everyone knew her grandmother" },
   ] },
-  { id: "inn", label: "At an Inn, Lodge or Resort", spots: [
+  { id: "inn", label: "At an Inn, Lodge or Resort", life: "At an inn, lodge or resort", spots: [
     { n: "the Juniper Inn", at: "at the Juniper Inn, which has exactly one room left" },
-    { n: "Pinecrest Lodge", at: "snowed in at Pinecrest Lodge with a fireplace the size of a car" },
+    { n: "Pinecrest Lodge", at: "at Pinecrest Lodge, which is snowed in until further notice" },
     { n: "the Silver Spruce", at: "at the Silver Spruce, an inn three weeks from foreclosure" },
   ] },
-  { id: "farm", label: "On a Farm, Ranch or Vineyard", spots: [
+  { id: "farm", label: "On a Farm, Ranch or Vineyard", life: "On a farm, ranch or vineyard", spots: [
     { n: "Hollyhock Farm", at: "on Hollyhock Farm, in boots that cost more than the tractor" },
-    { n: "Blitzen Ranch", at: "at Blitzen Ranch, face to face with a horse that hates her" },
-    { n: "Snowberry Vineyard", at: "at Snowberry Vineyard, which one bad harvest could finish off" },
+    { n: "Blitzen Ranch", at: "at Blitzen Ranch, home to a horse that hates her" },
+    { n: "Snowberry Vineyard", at: "at Snowberry Vineyard, one bad harvest from ruin" },
   ] },
-  { id: "landmark", label: "At a Famous Tourist Attraction", spots: [
+  { id: "landmark", label: "At a Famous Tourist Attraction", life: "Next to a famous tourist attraction", spots: [
     { n: "Jollywood", at: "at Jollywood, in what is definitely not a 90-minute commercial" },
     { n: "the Grand Excelsior", at: "at the Grand Excelsior Hotel, lovingly shot from every angle" },
-    { n: "FunWorld", at: "at FunWorld, whose logo is in every single frame" },
+    { n: "FunWorld", at: "at FunWorld, whose logo is in every frame" },
   ] },
-  { id: "other", label: "Somewhere Unexpected", spots: [
-    { n: "Alaska", at: "in rural Alaska, with a moose problem" },
+  { id: "other", label: "Somewhere Unexpected", life: "Somewhere unusual", spots: [
+    { n: "Alaska", at: "in rural Alaska, which has a moose problem" },
     { n: "the North Pole", at: "at the actual North Pole, which has a zoning board" },
     { n: "the Yuletide Express", at: "on a cross-country train that is in no hurry" },
   ] },
@@ -93,9 +93,9 @@ const EVENTS = [
   "the Candy Cane Ball", "the Tree Lighting Ceremony", "the Holiday Bake-Off", "the Snow Sculpture Contest",
   "the Christmas Market", "the Royal Christmas Ball", "the children's Christmas pageant",
 ];
-const LANDMARKS = [
-  "the old covered bridge", "the town square gazebo", "the community center", "the family inn",
-  "the cookie factory", "the ice rink", "the bookstore", "the 100-year-old town tree",
+const INHERITS = [
+  "a failing inn", "her grandmother's bakery", "a Christmas tree farm", "half of a bookstore",
+  "a candy cane factory", "a reindeer", "a lighthouse", "her late uncle's toy shop",
 ];
 
 const HEROINE_NAMES = ["Holly", "Noelle", "Carol", "Ivy", "Kristen", "Emily", "Hope", "Joy", "Claire", "Natalie", "Merry", "Gwen", "Abby", "Jenna", "Lacey", "Sarah", "Belle", "Paige"];
@@ -104,25 +104,50 @@ const RIVALS = ["Chad", "Preston", "Brock", "Spencer", "Trevor", "Thad", "Blake"
 
 const INCITING = [
   "her boss sends her out of town to close a deal",
-  "an estranged aunt leaves her a failing inn",
   "her flight is grounded by a 'freak' snowstorm",
   "her GPS dies on a back road",
-  "she inherits a mysterious snow globe",
   "her sister begs her to come for the holidays",
-  "a viral video makes her the least popular person in town",
-  "she's assigned to write an exposé about the place",
+  "a viral video makes her briefly unemployable",
   "her car slides gently into a snowbank",
 ];
 
-const CLIMAXES = [
-  "she gets the big promotion and turns it down",
-  "she misses her flight on purpose",
-  "her big-city fiancé, {rival}, shows up in a very wrong coat",
-  "the whole town comes together to save {landmark}",
-  "it starts snowing exactly as they almost kiss",
-  "an elderly local with suspiciously twinkly eyes gives her one piece of advice",
-  "she realizes the real story was here all along",
-  "{hero} reveals that he {secret}",
+// Five plot shapes. Every pitch is two or three sentences.
+const PLOTS = [
+  "{her}, {herA}, {goal}. Then {inciting}, and she ends up {at}, face to face with {him}, {himA} who {trait}.",
+  "To get through the holidays, {her}, {herA}, introduces {him}, {himA}, as her fiancé. They are {at}. The fake part lasts about eleven minutes.",
+  "{her}, {herA}, inherits {inherits} {at}. She plans to sell by New Year's. {him}, {himA} who {trait}, has other ideas.",
+  "{her}, {herA}, makes one careless wish and wakes up {at}, married to {him}, {himA}. She has until Christmas Eve to decide whether she minds.",
+  "{him}, {himA}, has a secret: he {secret}. {her}, {herA}, finds out {at}, during {event}, in front of everyone.",
+];
+
+// The schedule every one of these movies keeps.
+const BEATS = [
+  { min: 9, lines: [
+    "She spills cocoa on him.",
+    "They reach for the last gingerbread man at the same time.",
+    "He nearly runs her over with a sleigh.",
+    "Her rental car dies directly outside his place of work.",
+    "She mistakes him for the help. He lets her.",
+  ] },
+  { min: 41, lines: [
+    "Almost-kiss, interrupted by a child.",
+    "Almost-kiss, interrupted by a dog in a sweater.",
+    "A snowball fight turns into staring.",
+    "She gets frosting on her nose. He notices.",
+    "They are put in charge of {event} for no stated reason.",
+  ] },
+  { min: 76, lines: [
+    "A misunderstanding that one sentence could fix. Nobody says the sentence.",
+    "{rival} arrives from the city in a very wrong coat.",
+    "She overhears exactly half of a phone call.",
+    "The promotion comes through. She packs.",
+  ] },
+  { min: 83, lines: [
+    "It starts snowing. They kiss. Credits.",
+    "She runs through {event} to find him. It starts snowing.",
+    "He drives to the airport. She was never at the airport. Kiss.",
+    "An old man with twinkly eyes nods and vanishes. Kiss.",
+  ] },
 ];
 
 const TITLE_TEMPLATES = [
@@ -166,4 +191,65 @@ const FAKE_TEMPLATES = [
   "The Christmas {thing}", "A {adj} Christmas", "Christmas at {place}", "A Christmas {thing}",
   "Christmas in {place}", "{thing} Under the Mistletoe", "A {adj} {thing}", "The {adj} {thing}",
   "My Christmas {thing}", "A {adj} Christmas {thing}", "{adj} {thing} for Christmas", "A {place} Christmas",
+];
+
+// Parts for the made-up plots in the Real or Fake? game (plot mode).
+const FAKE_PLOT_HER = ["A big-city pastry chef", "A workaholic lawyer", "A recently fired morning-show host", "A struggling violinist", "A wedding planner who has sworn off love", "A widowed schoolteacher", "A toy company executive", "An ambitious architect", "A travel blogger", "A small-town veterinarian", "A Broadway understudy", "A magazine editor"];
+const FAKE_PLOT_BIZ = ["inn", "bakery", "tree farm", "bookstore", "toy shop", "candy cane factory", "ski lodge", "ice rink"];
+const FAKE_PLOT_GOES = [
+  "returns to her hometown to save the family {biz}",
+  "is stranded in a snowy village on her way to a job interview",
+  "inherits a failing {biz} from an aunt she never met",
+  "is sent to a small town to shut down its beloved {biz}",
+  "agrees to plan a stranger's Christmas Eve wedding",
+  "wakes up in a life where she never left her hometown",
+  "enters a holiday baking contest to save her {biz}",
+];
+const FAKE_PLOT_HIM = [
+  "and clashes with the handsome carpenter restoring it",
+  "and falls for the single dad next door",
+  "and discovers her high school sweetheart is now the mayor",
+  "and must work with a rival who turns out to be a prince",
+  "and is paired with a firefighter who has given up on Christmas",
+  "with help from a reindeer rancher who has a secret",
+  "and keeps running into a journalist writing about the town",
+];
+
+// "Which Hallmark movie is your life?" Each job maps to a heroine option and a hero option.
+const LIFE_JOBS = [
+  { label: "Business, marketing or finance", her: "exec", him: "suit" },
+  { label: "Law or politics", her: "lawyer", him: "lawyer" },
+  { label: "Writing, journalism or TV", her: "writer", him: "writer" },
+  { label: "Food: chef, baker, restaurant", her: "baker", him: "chef" },
+  { label: "Event or wedding planning", her: "planner", him: "other" },
+  { label: "Design or decorating", her: "designer", him: "other" },
+  { label: "Art or photography", her: "artist", him: "artist" },
+  { label: "Music, acting or dance", her: "performer", him: "artist" },
+  { label: "Teaching", her: "teacher", him: "teacher" },
+  { label: "Medicine: doctor, nurse, vet", her: "medic", him: "medic" },
+  { label: "I own a shop, inn or small business", her: "shop", him: "host" },
+  { label: "Real estate or architecture", her: "realty", him: "suit" },
+  { label: "Military, police, fire or flying", her: "service", him: "hero" },
+  { label: "Assistant, nanny or admin", her: "helper", him: "other" },
+  { label: "Trades: carpentry, building, repairs", her: "other", him: "builder" },
+  { label: "Farming or ranching", her: "other", him: "farmer" },
+  { label: "Sports or coaching", her: "other", him: "athlete" },
+  { label: "Royalty", her: "royal", him: "royal" },
+  { label: "Tech, science or something oddly specific", her: "other", him: "other" },
+  { label: "Honestly, it's unclear what I do", her: "other", him: "dad" },
+];
+
+// Exhibit A: real occupations from real movies. [title, whose job]
+const HALL_OF_FAME = [
+  ["Miss Christmas", "her"], ["She's Making a List", "her"], ["The Christmas Quest", "him"],
+  ["Ghosts of Christmas Always", "her"], ["The Royal Nanny", "her"], ["A Heavenly Christmas", "her"],
+  ["Winter Wonderlanes", "her"], ["Christmas at Cartwright's", "her"], ["Unwrapping Christmas: Olivia's Reunion", "her"],
+  ["The Perfect Christmas Present", "him"], ["Butlers in Love", "her"], ["Mr. & Mrs. Christmas", "him"],
+  ["You, Me & the Christmas Trees", "her"], ["A Holiday Spectacular", "her"], ["The Finnish Line", "her"],
+  ["A Gift to Remember", "him"], ["Holiday Touchdown: A Chiefs Love Story", "him"], ["Christmas in Blue Dog Valley", "her"],
+  ["Merry & Bright", "her"], ["Adopting St. Nick", "him"], ["Under the Christmas Sky", "her"],
+  ["A Christmas Angel Match", "her"], ["Inventing the Christmas Prince", "her"], ["A Carol for Two", "her"],
+  ["Two Turtle Doves", "her"], ["Hats Off to Christmas", "her"], ["The Santa Suit", "him"],
+  ["Single Santa Seeks Mrs. Claus", "him"], ["A Royal Corgi Christmas", "her"], ["Mistletoe and Mimosas", "her"],
+  ["Christmas Cookies", "her"],
 ];
