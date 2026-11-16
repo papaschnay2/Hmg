@@ -217,6 +217,8 @@ footer a { color: var(--red); }
 .bar-n { color: var(--muted); font-variant-numeric: tabular-nums; }
 .bar { grid-column: 1 / -1; height: 8px; border-radius: 4px; background: var(--red); min-width: 4px; }
 .combo { margin: 26px auto 0; max-width: 640px; }
+.stat-wide { font-family: var(--serif); font-style: italic; color: var(--green); margin: 0 0 8px; text-align: left; }
+.stat-wide-bars { text-align: left; margin-bottom: 28px; }
 
 /* ---------- browse ---------- */
 .browse { text-align: left; }

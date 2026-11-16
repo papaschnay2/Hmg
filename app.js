@@ -48,6 +48,11 @@
       if (i !== undefined) tallies[k][i]++;
     });
   });
+  // Which company made it. Every Hallmark channel counts as Hallmark.
+  const brand = (m) => (!m.n || /^Hallmark/.test(m.n) ? "Hallmark" : m.n);
+  const BRANDS = [...new Set(MOVIES.map(brand))].sort((a, b) =>
+    MOVIES.filter((m) => brand(m) === b).length - MOVIES.filter((m) => brand(m) === a).length);
+  const listAnd = (xs) => (xs.length < 2 ? xs.join("") : `${xs.slice(0, -1).join(", ")} and ${xs[xs.length - 1]}`);
   const complete = MOVIES.filter((m) => KEYS.every((k) => m.idx[k] >= 0));
   const realTitles = new Set(MOVIES.map((m) => m.t.toLowerCase()));
   const byTitle = new Map(MOVIES.map((m) => [m.t, m]));
@@ -111,7 +116,7 @@
   function movieCard(m, note) {
     const li = el("li", "movie");
     const h = el("h3");
-    h.append(el("span", "movie-title", m.t), el("span", "movie-year", ` (${m.y})`));
+    h.append(el("span", "movie-title", m.t), el("span", "movie-year", ` (${m.y}, ${brand(m)})`));
     li.append(h);
     if (note) li.append(el("p", "movie-note", note));
     const stars = [m.ha, m.ia].filter(Boolean).join(" & ");
@@ -142,10 +147,17 @@
   }
 
   // "They made it in 2014. And 2017. And 2021."
+  // One company: "Hallmark made it in 2014. And 2017." Several: one sentence each.
   function yearsLine(movies) {
+    const by = {};
+    movies.forEach((m) => (by[brand(m)] = by[brand(m)] || []).push(m.y));
+    const names = Object.keys(by).sort((a, b) => Math.min(...by[a]) - Math.min(...by[b]));
+    if (names.length > 1) {
+      return names.slice(0, 4).map((n) => `${n} made it in ${listAnd([...new Set(by[n])].sort().slice(0, 3).map(String))}.`).join(" ");
+    }
     const years = [...new Set(movies.map((m) => m.y))].sort();
     const shown = years.slice(0, 4);
-    let line = `They made it in ${shown[0]}.` + shown.slice(1).map((y) => ` And ${y}.`).join("");
+    let line = `${names[0]} made it in ${shown[0]}.` + shown.slice(1).map((y) => ` And ${y}.`).join("");
     if (years.length > shown.length) line += ` And ${years.length - shown.length} more times after that.`;
     else if (movies.length > years.length) line += " Some years, twice.";
     return line;
@@ -165,8 +177,8 @@
       shown = shuffle(tiers[3]).slice(0, 4);
       head.textContent = yearsLine(tiers[3].map((x) => x.m));
       sub.textContent = n === 1
-        ? `You called it “${pitch.title}.” They called it “${shown[0].m.t}.” The Institute regrets to inform you that your idea is taken.`
-        : `You called it “${pitch.title}.” Hallmark has made this movie ${n} times, under the following names:`;
+        ? `You called it “${pitch.title}.” ${brand(shown[0].m)} called it “${shown[0].m.t}.” The Institute regrets to inform you that your idea is taken.`
+        : `You called it “${pitch.title}.” It has been made ${n} times, under the following names:`;
       shown.forEach(({ m }) => list.append(movieCard(m)));
       if (n > shown.length) list.append(el("li", "more", `…and ${n - shown.length} more. Pitch it again to meet them.`));
     } else if (tiers[2].length) {
@@ -375,11 +387,11 @@
 
     if (lvl === 3) {
       const m = best.tiers[3][0].m;
-      head.textContent = "Your life is a real Hallmark movie.";
-      sub.textContent = `It aired in ${m.y} under the title “${m.t}.” You were not consulted.`;
+      head.textContent = "Your life is a real Christmas movie.";
+      sub.textContent = `${brand(m)} released it in ${m.y} under the title “${m.t}.” You were not consulted.`;
       showCards(best.tiers[3], 3);
     } else if (lvl === 2 && !partner) {
-      head.textContent = "You are living the first eight minutes of a real Hallmark movie.";
+      head.textContent = "You are living the first eight minutes of a real Christmas movie.";
       sub.textContent = "Everything matches so far. According to our files, he arrives in minute nine.";
       showCards(best.tiers[2], 3);
     } else if (lvl === 2) {
@@ -388,19 +400,19 @@
       const items = best.tiers[2].slice().sort((a, b) => (a.m.idx[missingOf(a)] < 0 ? 0 : 1) - (b.m.idx[missingOf(b)] < 0 ? 0 : 1));
       const missing = missingOf(items[0]);
       if (items[0].m.idx[missing] < 0) {
-        head.textContent = "Your life may already be a Hallmark movie.";
+        head.textContent = "Your life may already be a Christmas movie.";
         sub.textContent = "Two of your three answers match, and we could not confirm the third. The Institute is looking into it.";
       } else {
         head.textContent = missing === "place"
-          ? "You are one move away from a real Hallmark movie."
+          ? "You are one move away from a real Christmas movie."
           : missing === theirs
-            ? "Your partner is one career change away from a real Hallmark movie."
-            : "You are one career change away from a real Hallmark movie.";
+            ? "Your partner is one career change away from a real Christmas movie."
+            : "You are one career change away from a real Christmas movie.";
         sub.textContent = `${plural(items.length, "film matches", "films match")} two of your three answers.`;
       }
       showCards(items, 3);
     } else if (lvl === 1) {
-      head.textContent = "You are two life decisions away from a real Hallmark movie.";
+      head.textContent = "You are two life decisions away from a real Christmas movie.";
       sub.textContent = "The Institute suggests starting with whichever is cheaper.";
       showCards(best.tiers[1], 2);
     } else {
@@ -441,8 +453,8 @@
       b.disabled = false;
     });
     $("game-sub").textContent = plots
-      ? "One of these is the plot of a real Hallmark Christmas movie. We wrote the other one thirty seconds ago."
-      : "One of these is the title of a real Hallmark Christmas movie. We made the other one up thirty seconds ago.";
+      ? "One of these is the plot of a real TV Christmas movie. We wrote the other one thirty seconds ago."
+      : "One of these is the title of a real TV Christmas movie. We made the other one up thirty seconds ago.";
     $("game-msg").innerHTML = "&nbsp;";
     $("game-next").hidden = true;
     $("best").textContent = game.best;
@@ -531,16 +543,16 @@
     line("THE INSTITUTE'S FINDING", `700 24px ${sans}`, GOLD, 4);
     block(f.head, [64, 54, 46, 40], (z) => `800 ${z}px ${serif}`, f.level === 3 ? RED : INK, 3, 1.18);
     y += 44;
-    const names = f.movies.slice(0, 3).map((m) => `“${m.t}” (${m.y})`);
+    const names = f.movies.slice(0, 3).map((m) => `“${m.t}” (${brand(m)}, ${m.y})`);
     if (names.length) {
-      line(f.level === 3 ? "Hallmark called it:" : "The nearest real thing:", `italic 600 30px ${serif}`, MUTED, 0);
+      line(f.level === 3 ? "On file as:" : "The nearest real thing:", `italic 600 30px ${serif}`, MUTED, 0);
       names.forEach((n) => { if (y < H - 215) block(n, [36, 30, 26], (z) => `700 ${z}px ${sans}`, GREEN, 1, 1.5); });
     } else {
       line("The Institute considers it available.", `italic 600 32px ${serif}`, MUTED, 0);
     }
     y = H - 118;
     line("A Very Predictable Christmas", `800 34px ${serif}`, RED, 38);
-    line("an unofficial fan parody, not affiliated with Hallmark", `400 22px ${sans}`, MUTED, 0);
+    line("an unofficial fan parody, not affiliated with any network", `400 22px ${sans}`, MUTED, 0);
     return c.toDataURL("image/png");
   }
   $("poster-btn").addEventListener("click", async () => {
@@ -694,6 +706,17 @@
     if (pronouns.length > 2) {
       facts.push(`One series is titled “Time for ___ to Come Home for Christmas.” Pronouns used so far, per our files: ${pronouns.join(", ")}. Awaiting: It, Y'all, Thou.`);
     }
+    const makers = {};
+    complete.forEach((m) => {
+      const key = KEYS.map((k) => m.idx[k]).join(",");
+      (makers[key] = makers[key] || new Set()).add(brand(m));
+    });
+    const shared = Object.values(makers).filter((set) => set.size > 1).length;
+    const everyone = Object.values(makers).filter((set) => set.size === BRANDS.length).length;
+    if (BRANDS.length > 1 && shared) {
+      facts.push(`${shared} of those combinations have been made by more than one company.` +
+        (everyone ? ` ${everyone} ${everyone === 1 ? "has" : "have"} been made by all ${BRANDS.length}. Nobody is suing anybody.` : " They appear to be fine with it."));
+    }
     const dads = tallies.him[indexOf.him.dad];
     if (dads) facts.push(`In ${dads} films, the only occupation we could confirm for the male lead is “father.”`);
     const noJob = MOVIES.filter((m) => m.idx.her >= 0 && m.idx.him < 0).length;
@@ -704,7 +727,9 @@
   function renderStats() {
     const years = MOVIES.map((m) => m.y);
     const span = `${Math.min(...years)}–${Math.max(...years)}`;
-    $("count").textContent = `Checked against ${MOVIES.length} real Hallmark Christmas movies, ${span}`;
+    $("count").textContent = `Checked against ${MOVIES.length} real Christmas movies from ${listAnd(BRANDS)}, ${span}`;
+    $("fineprint").textContent = `Unofficial fan parody. Not affiliated with or endorsed by ${listAnd(BRANDS).replace(/ and /, " or ")}.`;
+    bars($("stat-brand"), BRANDS.map((b) => [b, MOVIES.filter((m) => brand(m) === b).length]));
     $("stats-sub").textContent =
       `Methodology: we read the synopses of ${MOVIES.length} real movies (${span}). We are fine. Full details are confirmed for ${complete.length} so far.`;
     renderFacts();
