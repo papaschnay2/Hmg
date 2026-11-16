@@ -31,6 +31,8 @@ To host it, turn on GitHub Pages for the repo (Settings → Pages → deploy fro
 
 ## The movie data
 
+- Films come from four companies: Hallmark, Lifetime, Netflix and Great American Family
+  (`data/research/other-networks.json` holds the last three).
 - `data/research/*.json` is the source of truth: one entry per real movie, with the
   lead actors, her job, his job, the location, tropes and a one-line summary in our own
   words. Fields are `null` where no source confirmed them.
