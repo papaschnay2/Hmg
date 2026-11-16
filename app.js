@@ -163,6 +163,19 @@
     return line;
   }
 
+  // Show the first few matches, with a button that reveals the rest.
+  function showWithMore(list, items, first, render) {
+    items.slice(0, first).forEach((x) => list.append(render(x)));
+    const rest = items.slice(first);
+    if (!rest.length) return;
+    const li = el("li", "more");
+    const btn = el("button", "ghost small", `Show all ${items.length}`);
+    btn.type = "button";
+    btn.addEventListener("click", () => li.replaceWith(...rest.map(render)));
+    li.append(`…and ${rest.length} more. `, btn);
+    list.append(li);
+  }
+
   function renderVerdict(state, pitch) {
     const tiers = findMatches(state);
     const rand = mulberry32(state.seed ^ 0x5eed);
@@ -174,20 +187,21 @@
     if (tiers[3].length) {
       level = 3;
       const n = tiers[3].length;
-      shown = shuffle(tiers[3]).slice(0, 4);
+      const ordered = shuffle(tiers[3]);
+      shown = ordered.slice(0, 4);
       head.textContent = yearsLine(tiers[3].map((x) => x.m));
       sub.textContent = n === 1
         ? `You called it “${pitch.title}.” ${brand(shown[0].m)} called it “${shown[0].m.t}.” The Institute regrets to inform you that your idea is taken.`
         : `You called it “${pitch.title}.” It has been made ${n} times, under the following names:`;
-      shown.forEach(({ m }) => list.append(movieCard(m)));
-      if (n > shown.length) list.append(el("li", "more", `…and ${n - shown.length} more. Pitch it again to meet them.`));
+      showWithMore(list, ordered, 4, ({ m }) => movieCard(m));
     } else if (tiers[2].length) {
       level = 2;
       const n = tiers[2].length;
-      shown = shuffle(tiers[2]).slice(0, 3);
+      const ordered = shuffle(tiers[2]);
+      shown = ordered.slice(0, 3);
       head.textContent = "Not yet. But close.";
       sub.textContent = `“${pitch.title}” has not been made. ${plural(n, "existing film is", "existing films are")} one detail away from it.`;
-      shown.forEach(({ m, hits }) => list.append(movieCard(m, diffNote(m, KEYS.find((k) => !hits.includes(k))))));
+      showWithMore(list, ordered, 3, ({ m, hits }) => movieCard(m, diffNote(m, KEYS.find((k) => !hits.includes(k)))));
     } else {
       level = tiers[1].length ? 1 : 0;
       shown = shuffle(tiers[1]).slice(0, 2);
