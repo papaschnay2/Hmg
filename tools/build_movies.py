@@ -34,14 +34,14 @@ HIM_RULES = [
     ("medic", r"doctor|surgeon|veterinar|\bvet\b|nurse|paramedic|pediatric|physician|\bemt\b|cardiolog"),
     ("farmer", r"farmer|rancher|ranch|cowboy|tree farm|vineyard|winemaker|orchard|\bfarm\b"),
     ("builder", r"carpenter|contractor|handyman|woodwork|builder|construction|mechanic|restoration|architect|craftsman|furniture|artisan|landscap|electrician|plumber|woodcarv|caretaker"),
-    ("chef", r"chef|baker|\bcook\b|restaurant|restaurateur|pastry|chocolat|barista|brewer|brew ?master|\bdeli\b|cater|waiter"),
+    ("chef", r"chef|baker|\bcook\b|restaurant|restaurateur|pastry|chocolat|barista|brewer|brew ?master|\bdeli\b|cater|waiter|food.?truck"),
     ("teacher", r"teacher|professor|principal|tutor"),
     ("athlete", r"hockey|football|baseball|athlete|player|coach|skier|ski instructor|quarterback|olympi|skater"),
     ("lawyer", r"lawyer|attorney|judge|mayor|politician|senator|council"),
-    ("artist", r"singer|musician|actor|\bstar\b|artist|photographer|songwriter|composer|dancer|dance instructor|painter|celebrity|filmmaker|guitarist|\bband\b|performer|broadway|reality show"),
+    ("artist", r"singer|musician|actor|\bstar\b|artist|photographer|songwriter|composer|dancer|dance instructor|painter|celebrity|filmmaker|guitarist|\bband\b|performer|broadway|reality show|pop ?star"),
     ("writer", r"writer|journalist|reporter|author|novelist|editor|columnist|blogger|weatherman|anchor|critic|newscaster|producer|\btv host\b|television"),
     ("suit", r"business owner|executive|\bceo\b|businessman|entrepreneur|developer|investor|consultant|boss|millionaire|billionaire|\bheir\b|manager|banker|financ|\btech\b|wealthy|corporate|marketing|advertising|director|founder|business partner|\bsales\b|investment|real estate|realtor|philanthropist|\bcfo\b|accountant|promoter|mogul|head of operations|\bvp\b|vice president|rival for the promotion"),
-    ("host", r"innkeeper|hotelier|shopkeeper|clerk|bartender|(inn|lodge|shop|store|bookstore|bar|caf[eé]|diner|hotel|lot|shelter|lighthouse) owner|owner of|owns (a|the|his)|runs (a|the|his)"),
+    ("host", r"innkeeper|hotelier|shopkeeper|clerk|bartender|proprietor|(inn|lodge|shop|store|bookstore|bar|caf[eé]|diner|hotel|lot|shelter|lighthouse) owner|owner of|owns (a|the|his)|runs (a|the|his)"),
     ("dad", r"single (dad|father)|widow(er|ed father)|father of"),
 ]
 LANDMARK = r"dollywood|graceland|biltmore|opry|disney|plaza hotel|rockefeller|\b(chiefs|bills|bears)\b"
