@@ -215,7 +215,7 @@ const FAKE_PLOT_HIM = [
   "and keeps running into a journalist writing about the town",
 ];
 
-// "Which Hallmark movie is your life?" Each job maps to a heroine option and a hero option.
+// "Which Christmas movie is your life?" Each job maps to a heroine option and a hero option.
 const LIFE_JOBS = [
   { label: "Business, marketing or finance", her: "exec", him: "suit" },
   { label: "Law or politics", her: "lawyer", him: "lawyer" },

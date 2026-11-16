@@ -125,7 +125,10 @@
     const a = el("a", "lookup", "Look it up ↗");
     a.href = `https://www.imdb.com/find/?q=${encodeURIComponent(`${m.t} ${m.y}`)}`;
     a.target = "_blank"; a.rel = "noopener";
-    li.append(a);
+    const fix = el("a", "lookup report", "Report a wrong detail");
+    fix.href = "https://github.com/papaschnay2/Hmg/issues/new?title=" + encodeURIComponent(`Wrong detail: ${m.t} (${m.y})`);
+    fix.target = "_blank"; fix.rel = "noopener";
+    li.append(a, fix);
     return li;
   }
 
@@ -177,7 +180,7 @@
       level = tiers[1].length ? 1 : 0;
       shown = shuffle(tiers[1]).slice(0, 2);
       head.textContent = "No record of this film.";
-      sub.textContent = `The Institute considers “${pitch.title}” available. Hallmark, our inbox is open.` +
+      sub.textContent = `The Institute considers “${pitch.title}” available. The network knows where to find us.` +
         (shown.length ? " The nearest known relatives:" : "");
       shown.forEach(({ m }) => list.append(movieCard(m)));
     }
@@ -263,7 +266,7 @@
     $("tagline").textContent = pitch.tagline;
     $("synopsis").textContent = pitch.synopsis;
     $("cast").textContent = pitch.cast.length === 2
-      ? `Projected cast, based on who has played these parts most often: ${pitch.cast[0][0]} and ${pitch.cast[1][0]}.`
+      ? `Most often cast in these two roles in the real films: ${pitch.cast[0][0]} and ${pitch.cast[1][0]}.`
       : "";
     const beats = $("beats");
     beats.innerHTML = "";
@@ -328,7 +331,7 @@
     setTimeout(() => (btn.textContent = "Copy link to this finding"), 2500);
   });
 
-  // ---------- Which Hallmark movie is your life? ----------
+  // ---------- Which Christmas movie is your life? ----------
   const option = (value, label) => { const o = el("option", null, label); o.value = value; return o; };
   LIFE_JOBS.forEach((j, i) => {
     $("life-job").append(option(i, j.label));
@@ -536,8 +539,8 @@
       line("The Institute considers it available.", `italic 600 32px ${serif}`, MUTED, 0);
     }
     y = H - 118;
-    line("The Unofficial Hallmark Movie Generator", `800 34px ${serif}`, RED, 38);
-    line("an unofficial fan parody", `400 22px ${sans}`, MUTED, 0);
+    line("A Very Predictable Christmas", `800 34px ${serif}`, RED, 38);
+    line("an unofficial fan parody, not affiliated with Hallmark", `400 22px ${sans}`, MUTED, 0);
     return c.toDataURL("image/png");
   }
   $("poster-btn").addEventListener("click", async () => {
@@ -646,7 +649,7 @@
     $("daily-no").textContent = `Daily case file no. ${dayNo} · ${now.toLocaleDateString(undefined, { month: "long", day: "numeric" })}`;
     $("daily-share").addEventListener("click", async () => {
       const btn = $("daily-share");
-      const text = `Hallmark Case File no. ${dayNo}: ${resultLine()}\n${location.href.split("#")[0]}`;
+      const text = `A Very Predictable Christmas, case file no. ${dayNo}: ${resultLine()}\n${location.href.split("#")[0]}`;
       try { await navigator.clipboard.writeText(text); btn.textContent = "Copied. Go and gloat."; }
       catch { btn.textContent = resultLine(); }
       setTimeout(() => (btn.textContent = "Copy my result"), 2500);
@@ -701,7 +704,7 @@
   function renderStats() {
     const years = MOVIES.map((m) => m.y);
     const span = `${Math.min(...years)}–${Math.max(...years)}`;
-    $("count").textContent = `${MOVIES.length} real Hallmark Christmas movies on file, ${span}`;
+    $("count").textContent = `Checked against ${MOVIES.length} real Hallmark Christmas movies, ${span}`;
     $("stats-sub").textContent =
       `Methodology: we read the synopses of ${MOVIES.length} real movies (${span}). We are fine. Full details are confirmed for ${complete.length} so far.`;
     renderFacts();
@@ -724,7 +727,7 @@
       const [h, p, i] = best[0].split(",").map(Number);
       const line = $("stat-combo");
       line.append(
-        el("b", null, "The most Hallmark movie of all: "),
+        el("b", null, "The most predictable movie of all: "),
         `${HER[h].label} + ${PLACE[p].label} + ${HIM[i].label}. They have made it ${best[1].length} times. `
       );
       const btn = el("button", "ghost small", "Show me");

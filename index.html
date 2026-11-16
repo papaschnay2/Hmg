@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The Unofficial Hallmark Movie Generator</title>
-  <meta name="description" content="Propose a cozy Christmas romance, then find out Hallmark already made it. An unofficial fan parody built on real movies.">
+  <title>A Very Predictable Christmas</title>
+  <meta name="description" content="A cozy movie generator. Propose a Christmas romance, then find out it already exists. An unofficial fan parody, not affiliated with Hallmark.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,800;1,600&family=Lato:wght@400;700&display=swap" rel="stylesheet">
@@ -16,9 +16,10 @@
   <header class="masthead">
     <ul class="lights" aria-hidden="true"></ul>
     <p class="eyebrow">The Institute for Yuletide Narrative Studies · an unofficial fan parody</p>
-    <h1>The Hallmark Movie Generator</h1>
-    <p class="sub">Propose a cozy Christmas romance. We will check whether it already exists.</p>
+    <h1>A Very Predictable Christmas</h1>
+    <p class="sub">A cozy movie generator. Propose a Christmas romance and we will check whether it already exists.</p>
     <p class="count" id="count"></p>
+    <p class="fineprint">Unofficial fan parody. Not affiliated with or endorsed by Hallmark.</p>
   </header>
 
   <main>
@@ -54,7 +55,7 @@
         <p id="synopsis" class="synopsis"></p>
         <p id="cast" class="cast"></p>
         <ol id="beats" class="beats" aria-label="Projected schedule"></ol>
-        <button id="pitch" class="spin pitch" type="button">Pitch it to Hallmark</button>
+        <button id="pitch" class="spin pitch" type="button">Pitch it to the network</button>
         <p id="pitch-status" class="pitch-status" aria-live="polite">&nbsp;</p>
       </section>
 
@@ -89,7 +90,7 @@
 
     <section class="panel life" aria-labelledby="life-h">
       <p class="presents">Field study</p>
-      <h2 id="life-h">Which Hallmark Movie Is Your Life?</h2>
+      <h2 id="life-h">Which Christmas Movie Is Your Life?</h2>
       <p class="panel-sub">Three questions. Answer honestly. The Institute does not judge; it only matches.</p>
       <form id="life-form" class="life-form">
         <label for="life-job">I work in…<select id="life-job"></select></label>
@@ -158,7 +159,8 @@
   </main>
 
   <footer>
-    <p>The Institute for Yuletide Narrative Studies is not real. This is an unofficial fan-made parody, not affiliated with or endorsed by Hallmark. Movie facts come from publicly available synopses and may contain mistakes; the proposals are entirely our fault. No screenwriters were consulted.</p>
+    <p>The Institute for Yuletide Narrative Studies is not real. This is an unofficial, non-commercial fan parody. It is not affiliated with, sponsored by or endorsed by Hallmark or anyone who appears in the films. Film titles and names are used only to identify the real movies. Movie facts come from publicly available synopses and may contain mistakes; the proposals are entirely our fault.</p>
+    <p>Spotted a mistake, or have a concern about this page? <a id="contact" href="https://github.com/papaschnay2/Hmg/issues/new?title=Correction%20or%20concern" target="_blank" rel="noopener">Tell us and we will fix it</a>.</p>
   </footer>
 
   <script src="buckets.js"></script>

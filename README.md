@@ -1,17 +1,18 @@
-# The Unofficial Hallmark Movie Generator
+# A Very Predictable Christmas
 
 Spin three reels (her job, the place, his job), get a parody pitch for a cozy
 Christmas romance, then find out whether Hallmark already made it. An unofficial
-fan parody, not affiliated with Hallmark.
+fan parody, not affiliated with or endorsed by Hallmark. The site is non-commercial;
+"Hallmark" appears only to identify the real films it is checked against.
 
 - **Spin** builds a made-up proposal: title, a two-sentence plot, a projected cast
   (whoever has played those parts most often) and the minute-by-minute schedule.
-- **Pitch it to Hallmark** pauses, then reveals the real movies that match: all three
+- **Pitch it to the network** pauses, then reveals the real movies that match: all three
   details ("They made it in 2014. And 2017."), two of three, or no record.
 - About one spin in three is quietly steered onto a real movie so jackpots happen
   (`JACKPOT_RATE` in `app.js`).
 - **Lock** a reel to keep it while you re-spin the others. **Copy link** shares the finding.
-- **Which Hallmark Movie Is Your Life?** matches your job, where you live and your
+- **Which Christmas Movie Is Your Life?** matches your job, where you live and your
   partner's job against the real movies.
 - **Make a poster** turns a finding into an image to save or share.
 - **Name That Movie** is a daily puzzle: one real film, four clues, four guesses, a streak.
