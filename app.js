@@ -4,7 +4,7 @@
   const JACKPOT_RATE = 0.35; // share of spins quietly steered onto a real movie
   // Visit counter: the site code of a goatcounter.com account ("mycode" for mycode.goatcounter.com).
   // While this is empty, nothing is counted and nothing is loaded.
-  const GOATCOUNTER = "";
+  const GOATCOUNTER = "predictablexmas";
 
   // ---------- helpers ----------
   function mulberry32(seed) {
