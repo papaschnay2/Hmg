@@ -318,7 +318,6 @@
     const next = chooseNext();
     await Promise.all(KEYS.filter((k) => !isLocked(k)).map((k, i) => animateReel(k, next[k], 1200 + i * 550)));
     show(next, false);
-    scrollTo($("result"));
     spinBtn.disabled = false;
   });
 
