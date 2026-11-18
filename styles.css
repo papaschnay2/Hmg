@@ -313,3 +313,5 @@ footer { text-align: center; color: var(--muted); font-size: 0.85rem; padding-bl
 }
 
 .more .ghost.small { margin: 0 0 0 6px; font-style: normal; }
+
+footer .visits { font-size: 0.78rem; margin: 6px 0 0; }

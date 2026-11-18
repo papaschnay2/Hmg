@@ -2,6 +2,9 @@
   const REELS = { her: HER, place: PLACE, him: HIM };
   const KEYS = Object.keys(REELS);
   const JACKPOT_RATE = 0.35; // share of spins quietly steered onto a real movie
+  // Visit counter: the site code of a goatcounter.com account ("mycode" for mycode.goatcounter.com).
+  // While this is empty, nothing is counted and nothing is loaded.
+  const GOATCOUNTER = "";
 
   // ---------- helpers ----------
   function mulberry32(seed) {
@@ -834,7 +837,30 @@
     }
   }
 
+  // ---------- visit counter ----------
+  // GoatCounter counts page views without cookies. The total shown in the footer needs
+  // "Allow adding visitor counts on your website" switched on in the GoatCounter settings.
+  function setupCounter() {
+    if (!GOATCOUNTER) return;
+    const base = `https://${GOATCOUNTER}.goatcounter.com`;
+    const s = document.createElement("script");
+    s.async = true;
+    s.src = "https://gc.zgo.at/count.js";
+    s.dataset.goatcounter = `${base}/count`;
+    document.head.append(s);
+    $("visits-note").hidden = false;
+    fetch(`${base}/counter/TOTAL.json`)
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => {
+        if (!d || !d.count) return;
+        $("visits").textContent = `Visits logged by the Institute: ${d.count}.`;
+        $("visits").hidden = false;
+      })
+      .catch(() => {});
+  }
+
   // ---------- go ----------
+  setupCounter();
   renderStats();
   setupDaily();
   showExhibit();

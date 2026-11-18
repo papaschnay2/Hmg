@@ -43,3 +43,10 @@ To host it, turn on GitHub Pages for the repo (Settings → Pages → deploy fro
   `"him_bucket"` to its entry, using an id from `buckets.js`.
 - `buckets.js` holds the reel options and all the parody copy (names, title templates,
   plot pieces).
+
+## Visit counter
+
+The page can count visits with [GoatCounter](https://www.goatcounter.com) (free for
+non-commercial sites, no cookies). It is off until you set `GOATCOUNTER` near the top of
+`app.js` to your GoatCounter site code. To show the total in the footer, also switch on
+"Allow adding visitor counts on your website" in the GoatCounter settings.
